@@ -1,0 +1,983 @@
+{
+ "issue": "https://sentfrommyagent.com/p/software-update/04-claude-duet-asks-before-it-acts/",
+ "newsletter": "Software Update",
+ "number": 4,
+ "date": "2026-10-22",
+ "title": "Claude Duet asks before it acts.",
+ "stamp": "Sent from my agent. Every claim checked.",
+ "record": "https://sentfrommyagent.com/p/software-update/04-claude-duet-asks-before-it-acts/record/",
+ "counts": {
+  "checked": 96,
+  "confirmed": 92,
+  "wrong": 0,
+  "unsupported": 4
+ },
+ "checked_at": "2026-10-24T00:00:00-04:00",
+ "checked_by": "a second agent, independent of the writer",
+ "claims": [
+  {
+   "n": 1,
+   "where": "title",
+   "claim": "It asks before it acts. (Duet waits for approval before consequential actions)",
+   "verdict": "confirmed",
+   "url": "https://claude.com/resources/articles/claude-duet",
+   "source": "Claude Duet",
+   "passage": "it shows you exactly what it's about to do and waits for your approval",
+   "deep": "https://claude.com/resources/articles/claude-duet#:~:text=it%20shows%20you%20exactly%20what%20it%27s%20about%20to"
+  },
+  {
+   "n": 2,
+   "where": "dek",
+   "claim": "Anthropic's Duet works in the background",
+   "verdict": "confirmed",
+   "url": "https://claude.com/resources/articles/claude-duet",
+   "source": "Claude Duet",
+   "passage": "keeps working even when you step away; checks your connected accounts every few hours",
+   "deep": "https://claude.com/resources/articles/claude-duet#:~:text=keeps%20working%20even%20when%20you%20step%20away%3B%20checks"
+  },
+  {
+   "n": 3,
+   "where": "dek",
+   "claim": "Duet waits for approval before it sends, pays, signs or deletes",
+   "verdict": "confirmed",
+   "url": "https://claude.com/resources/articles/claude-duet",
+   "source": "Claude Duet",
+   "passage": "Before it sends a message, makes a payment, signs a document, or deletes anything ... waits for your approval",
+   "deep": "https://claude.com/resources/articles/claude-duet#:~:text=Before%20it%20sends%20a%20message%2C%20makes%20a%20payment%2C"
+  },
+  {
+   "n": 4,
+   "where": "dek",
+   "claim": "Gmail Live arrived on by default",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/gmail-live-is-rolling-out-to-paid-Workspace-users.html",
+   "source": "Google Workspace Updates (Gmail Live)",
+   "passage": "On by default for organizations with Gemini in Workspace access",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/gmail-live-is-rolling-out-to-paid-Workspace-users.html#:~:text=On%20by%20default%20for%20organizations%20with%20Gemini%20in"
+  },
+  {
+   "n": 5,
+   "where": "dek",
+   "claim": "Also: locked chats in ChatGPT",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "October 20, 2026: Locked chats",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=October%2020%2C%202026%3A%20Locked%20chats"
+  },
+  {
+   "n": 6,
+   "where": "summary",
+   "claim": "Claude Duet opens as a research preview",
+   "verdict": "confirmed",
+   "url": "https://claude.com/resources/articles/claude-duet",
+   "source": "Claude Duet",
+   "passage": "research preview ... by waitlist, starting with US Pro and Max subscribers",
+   "deep": ""
+  },
+  {
+   "n": 7,
+   "where": "summary",
+   "claim": "Gmail Live arrives on by default",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/gmail-live-is-rolling-out-to-paid-Workspace-users.html",
+   "source": "Google Workspace Updates (Gmail Live)",
+   "passage": "on by default for organizations with Gemini in Workspace access",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/gmail-live-is-rolling-out-to-paid-Workspace-users.html#:~:text=on%20by%20default%20for%20organizations%20with%20Gemini%20in"
+  },
+  {
+   "n": 8,
+   "where": "summary",
+   "claim": "ChatGPT adds locked chats",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "October 20, 2026: Locked chats",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=October%2020%2C%202026%3A%20Locked%20chats"
+  },
+  {
+   "n": 9,
+   "where": "summary",
+   "claim": "ChatGPT adds Slides",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "October 16, 2026: ChatGPT Slides",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=October%2016%2C%202026%3A%20ChatGPT%20Slides"
+  },
+  {
+   "n": 10,
+   "where": "summary",
+   "claim": "Gmail's AI Inbox reaches more domains Oct. 26",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/gmails-ai-inbox-is-rolling-out-to-paid-Workspace-users.html",
+   "source": "Google Workspace Updates (AI Inbox)",
+   "passage": "Scheduled Release domains: Gradual rollout starts October 26, 2026",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/gmails-ai-inbox-is-rolling-out-to-paid-Workspace-users.html#:~:text=Scheduled%20Release%20domains%3A%20Gradual%20rollout%20starts%20October%2026%2C"
+  },
+  {
+   "n": 11,
+   "where": "art svg text / art alt",
+   "claim": "WAITS FOR YOU (Duet waits for approval)",
+   "verdict": "confirmed",
+   "url": "https://claude.com/resources/articles/claude-duet",
+   "source": "Claude Duet",
+   "passage": "shows you exactly what it's about to do and waits for your approval",
+   "deep": "https://claude.com/resources/articles/claude-duet#:~:text=shows%20you%20exactly%20what%20it%27s%20about%20to%20do"
+  },
+  {
+   "n": 12,
+   "where": "The story",
+   "claim": "Anthropic opened a research preview of Duet on Oct. 21",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/12138966-release-notes",
+   "source": "Claude release notes",
+   "passage": "October 21, 2026: Claude Duet research preview for Pro and Max plans",
+   "deep": "https://support.claude.com/en/articles/12138966-release-notes#:~:text=October%2021%2C%202026%3A%20Claude%20Duet%20research%20preview%20for"
+  },
+  {
+   "n": 13,
+   "where": "The story",
+   "claim": "Duet is an app where Claude watches your connected accounts",
+   "verdict": "confirmed",
+   "url": "https://claude.com/resources/articles/claude-duet",
+   "source": "Claude Duet",
+   "passage": "Claude Duet checks your connected accounts every few hours",
+   "deep": "https://claude.com/resources/articles/claude-duet#:~:text=Claude%20Duet%20checks%20your%20connected%20accounts%20every%20few"
+  },
+  {
+   "n": 14,
+   "where": "The story",
+   "claim": "works on tasks while you're away",
+   "verdict": "confirmed",
+   "url": "https://claude.com/resources/articles/claude-duet",
+   "source": "Claude Duet",
+   "passage": "keeps working even when you step away",
+   "deep": "https://claude.com/resources/articles/claude-duet#:~:text=keeps%20working%20even%20when%20you%20step%20away"
+  },
+  {
+   "n": 15,
+   "where": "The story",
+   "claim": "asks before it sends, pays, signs or deletes",
+   "verdict": "confirmed",
+   "url": "https://claude.com/resources/articles/claude-duet",
+   "source": "Claude Duet",
+   "passage": "Before it sends a message, makes a payment, signs a document, or deletes anything",
+   "deep": "https://claude.com/resources/articles/claude-duet#:~:text=Before%20it%20sends%20a%20message%2C%20makes%20a%20payment%2C"
+  },
+  {
+   "n": 16,
+   "where": "The story",
+   "claim": "Google turned on Gmail Live by default for organizations with Gemini",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/gmail-live-is-rolling-out-to-paid-Workspace-users.html",
+   "source": "Google Workspace Updates (Gmail Live)",
+   "passage": "on by default for organizations with Gemini in Workspace access",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/gmail-live-is-rolling-out-to-paid-Workspace-users.html#:~:text=on%20by%20default%20for%20organizations%20with%20Gemini%20in"
+  },
+  {
+   "n": 17,
+   "where": "The story",
+   "claim": "Gmail Live answers questions about your inbox by voice",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/gmail-live-is-rolling-out-to-paid-Workspace-users.html",
+   "source": "Google Workspace Updates (Gmail Live)",
+   "passage": "voice search ... answer spoken questions from your inbox ... reads the answers aloud",
+   "deep": ""
+  },
+  {
+   "n": 18,
+   "where": "The story",
+   "claim": "OpenAI added a way to hide sensitive chats",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "Selected conversations are hidden from regular chat history, pinned chats, and search",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=Selected%20conversations%20are%20hidden%20from%20regular%20chat%20history%2C"
+  },
+  {
+   "n": 19,
+   "where": "The story",
+   "claim": "Gmail's AI Inbox reaches Scheduled Release domains on Oct. 26",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/gmails-ai-inbox-is-rolling-out-to-paid-Workspace-users.html",
+   "source": "Google Workspace Updates (AI Inbox)",
+   "passage": "Scheduled Release domains: Gradual rollout starts October 26, 2026",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/gmails-ai-inbox-is-rolling-out-to-paid-Workspace-users.html#:~:text=Scheduled%20Release%20domains%3A%20Gradual%20rollout%20starts%20October%2026%2C"
+  },
+  {
+   "n": 20,
+   "where": "The story",
+   "claim": "Enterprise ChatGPT workspaces stop creating custom GPTs on Oct. 26",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq",
+   "source": "OpenAI GPT retirement FAQ",
+   "passage": "Oct 26, 2026 (planned): Creation of new custom GPTs ends (milestone for affected Enterprise workspaces)",
+   "deep": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq#:~:text=Oct%2026%2C%202026%20%28planned%29%3A%20Creation%20of%20new%20custom"
+  },
+  {
+   "n": 21,
+   "where": "The story",
+   "claim": "Anthropic's updated Usage Policy applies from Nov. 12",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+   "source": "Anthropic usage policy",
+   "passage": "effective November 12 (post dated October 8, 2026)",
+   "deep": "https://www.anthropic.com/news/2026-usage-policy-update#:~:text=effective%20November%2012%20%28post%20dated%20October%208%2C%202026%29"
+  },
+  {
+   "n": 22,
+   "where": "The story",
+   "claim": "Dates set by Google, OpenAI and Anthropic",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/gmail-live-is-rolling-out-to-paid-Workspace-users.html",
+   "source": "Google Workspace Updates (Gmail Live)",
+   "passage": "All six dates come from the three vendors' own pages (see items below)",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/gmail-live-is-rolling-out-to-paid-Workspace-users.html#:~:text=All%20six%20dates%20come%20from%20the%20three%20vendors%27"
+  },
+  {
+   "n": 23,
+   "where": "The story, step 1",
+   "claim": "Oct. 15: Gmail Live starts rolling out, on by default",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/gmail-live-is-rolling-out-to-paid-Workspace-users.html",
+   "source": "Google Workspace Updates (Gmail Live)",
+   "passage": "Gradual rollout starting October 15, 2026; on by default",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/gmail-live-is-rolling-out-to-paid-Workspace-users.html#:~:text=Gradual%20rollout%20starting%20October%2015%2C%202026%3B%20on%20by"
+  },
+  {
+   "n": 24,
+   "where": "The story, step 2",
+   "claim": "Oct. 16: ChatGPT Slides",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "October 16, 2026: ChatGPT Slides",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=October%2016%2C%202026%3A%20ChatGPT%20Slides"
+  },
+  {
+   "n": 25,
+   "where": "The story, step 3",
+   "claim": "Oct. 20: Locked chats in ChatGPT",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "October 20, 2026: Locked chats",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=October%2020%2C%202026%3A%20Locked%20chats"
+  },
+  {
+   "n": 26,
+   "where": "The story, step 4",
+   "claim": "Oct. 21: Claude Duet research preview",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/12138966-release-notes",
+   "source": "Claude release notes",
+   "passage": "October 21, 2026: Claude Duet research preview for Pro and Max plans",
+   "deep": "https://support.claude.com/en/articles/12138966-release-notes#:~:text=October%2021%2C%202026%3A%20Claude%20Duet%20research%20preview%20for"
+  },
+  {
+   "n": 27,
+   "where": "The story, step 5",
+   "claim": "Oct. 26: AI Inbox for Scheduled Release",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/gmails-ai-inbox-is-rolling-out-to-paid-Workspace-users.html",
+   "source": "Google Workspace Updates (AI Inbox)",
+   "passage": "Scheduled Release domains: Gradual rollout starts October 26, 2026",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/gmails-ai-inbox-is-rolling-out-to-paid-Workspace-users.html#:~:text=Scheduled%20Release%20domains%3A%20Gradual%20rollout%20starts%20October%2026%2C"
+  },
+  {
+   "n": 28,
+   "where": "The story, step 5",
+   "claim": "Oct. 26: custom GPT creation ends for Enterprise",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq",
+   "source": "OpenAI GPT retirement FAQ",
+   "passage": "Oct 26, 2026 (planned): Creation of new custom GPTs ends",
+   "deep": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq#:~:text=Oct%2026%2C%202026%20%28planned%29%3A%20Creation%20of%20new%20custom"
+  },
+  {
+   "n": 29,
+   "where": "The story, step 6",
+   "claim": "Nov. 12: Anthropic's updated Usage Policy applies",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+   "source": "Anthropic usage policy",
+   "passage": "effective date November 12",
+   "deep": "https://www.anthropic.com/news/2026-usage-policy-update#:~:text=effective%20date%20November%2012"
+  },
+  {
+   "n": 30,
+   "where": "Six changes this week, item 1",
+   "claim": "Duet: a separate app where Claude works as a proactive agent",
+   "verdict": "confirmed",
+   "url": "https://claude.com/resources/articles/claude-duet",
+   "source": "Claude Duet",
+   "passage": "For now, Claude Duet lives in its own app, separate from the main Claude app; release notes: 'a new app where Claude works as a proactive agent'",
+   "deep": "https://claude.com/resources/articles/claude-duet#:~:text=For%20now%2C%20Claude%20Duet%20lives%20in%20its%20own"
+  },
+  {
+   "n": 31,
+   "where": "Six changes this week, item 1",
+   "claim": "Oct. 21",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/12138966-release-notes",
+   "source": "Claude release notes",
+   "passage": "October 21, 2026: Claude Duet research preview",
+   "deep": "https://support.claude.com/en/articles/12138966-release-notes#:~:text=October%2021%2C%202026%3A%20Claude%20Duet%20research%20preview"
+  },
+  {
+   "n": 32,
+   "where": "Six changes this week, item 1",
+   "claim": "Pro and Max, U.S. only; research preview by waitlist",
+   "verdict": "confirmed",
+   "url": "https://claude.com/resources/articles/claude-duet",
+   "source": "Claude Duet",
+   "passage": "research preview ... waitlist, starting with US Pro and Max subscribers",
+   "deep": ""
+  },
+  {
+   "n": 33,
+   "where": "Six changes this week, item 1",
+   "claim": "Wait (research preview by waitlist, not broadly available)",
+   "verdict": "confirmed",
+   "url": "https://claude.com/resources/articles/claude-duet",
+   "source": "Claude Duet",
+   "passage": "research preview opens by waitlist",
+   "deep": "https://claude.com/resources/articles/claude-duet#:~:text=research%20preview%20opens%20by%20waitlist"
+  },
+  {
+   "n": 34,
+   "where": "Six changes this week, item 1",
+   "claim": "brings you what needs attention",
+   "verdict": "confirmed",
+   "url": "https://claude.com/resources/articles/claude-duet",
+   "source": "Claude Duet",
+   "passage": "It comes to you with what needs your attention",
+   "deep": "https://claude.com/resources/articles/claude-duet#:~:text=It%20comes%20to%20you%20with%20what%20needs%20your"
+  },
+  {
+   "n": 35,
+   "where": "Six changes this week, item 1",
+   "claim": "completes tasks you ask for",
+   "verdict": "confirmed",
+   "url": "https://claude.com/resources/articles/claude-duet",
+   "source": "Claude Duet",
+   "passage": "reads, drafts, and prepares work on its own; carries out approved actions",
+   "deep": "https://claude.com/resources/articles/claude-duet#:~:text=reads%2C%20drafts%2C%20and%20prepares%20work%20on%20its%20own%3B"
+  },
+  {
+   "n": 36,
+   "where": "Six changes this week, item 1",
+   "claim": "keeps working when you step away",
+   "verdict": "confirmed",
+   "url": "https://claude.com/resources/articles/claude-duet",
+   "source": "Claude Duet",
+   "passage": "keeps working even when you step away",
+   "deep": "https://claude.com/resources/articles/claude-duet#:~:text=keeps%20working%20even%20when%20you%20step%20away"
+  },
+  {
+   "n": 37,
+   "where": "Six changes this week, item 1",
+   "claim": "on its own virtual machine",
+   "verdict": "confirmed",
+   "url": "https://claude.com/resources/articles/claude-duet",
+   "source": "Claude Duet",
+   "passage": "runs on its own virtual machine with its own browser",
+   "deep": "https://claude.com/resources/articles/claude-duet#:~:text=runs%20on%20its%20own%20virtual%20machine%20with%20its"
+  },
+  {
+   "n": 38,
+   "where": "Six changes this week, item 1",
+   "claim": "checks your connected accounts every few hours",
+   "verdict": "confirmed",
+   "url": "https://claude.com/resources/articles/claude-duet",
+   "source": "Claude Duet",
+   "passage": "Claude Duet checks your connected accounts every few hours",
+   "deep": "https://claude.com/resources/articles/claude-duet#:~:text=Claude%20Duet%20checks%20your%20connected%20accounts%20every%20few"
+  },
+  {
+   "n": 39,
+   "where": "Six changes this week, item 1",
+   "claim": "shows you exactly what it will do and waits for approval before send/pay/sign/delete",
+   "verdict": "confirmed",
+   "url": "https://claude.com/resources/articles/claude-duet",
+   "source": "Claude Duet",
+   "passage": "it shows you exactly what it's about to do and waits for your approval",
+   "deep": "https://claude.com/resources/articles/claude-duet#:~:text=it%20shows%20you%20exactly%20what%20it%27s%20about%20to"
+  },
+  {
+   "n": 40,
+   "where": "Six changes this week, item 1",
+   "claim": "background checks count toward your usage limits",
+   "verdict": "confirmed",
+   "url": "https://claude.com/resources/articles/claude-duet",
+   "source": "Claude Duet",
+   "passage": "shares your plan's usage limits ... Background checks count toward those limits",
+   "deep": "https://claude.com/resources/articles/claude-duet#:~:text=shares%20your%20plan%27s%20usage%20limits"
+  },
+  {
+   "n": 41,
+   "where": "Six changes this week, item 1",
+   "claim": "Anthropic warns it may misread a thread or what's urgent",
+   "verdict": "confirmed",
+   "url": "https://claude.com/resources/articles/claude-duet",
+   "source": "Claude Duet",
+   "passage": "it still might misread a thread or miscalibrate what's urgent",
+   "deep": "https://claude.com/resources/articles/claude-duet#:~:text=it%20still%20might%20misread%20a%20thread%20or%20miscalibrate"
+  },
+  {
+   "n": 42,
+   "where": "Six changes this week, item 2",
+   "claim": "Gmail Live answers questions about your inbox by voice",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/gmail-live-is-rolling-out-to-paid-Workspace-users.html",
+   "source": "Google Workspace Updates (Gmail Live)",
+   "passage": "answer spoken questions from your inbox ... reads the answers aloud",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/gmail-live-is-rolling-out-to-paid-Workspace-users.html#:~:text=answer%20spoken%20questions%20from%20your%20inbox"
+  },
+  {
+   "n": 43,
+   "where": "Six changes this week, item 2",
+   "claim": "Oct. 15",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/gmail-live-is-rolling-out-to-paid-Workspace-users.html",
+   "source": "Google Workspace Updates (Gmail Live)",
+   "passage": "Gradual rollout starting October 15, 2026",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/gmail-live-is-rolling-out-to-paid-Workspace-users.html#:~:text=Gradual%20rollout%20starting%20October%2015%2C%202026"
+  },
+  {
+   "n": 44,
+   "where": "Six changes this week, item 2",
+   "claim": "Paid Workspace with Gemini",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/gmail-live-is-rolling-out-to-paid-Workspace-users.html",
+   "source": "Google Workspace Updates (Gmail Live)",
+   "passage": "Business/Enterprise Starter, Standard, Plus; Frontline Plus; Gemini add-ons (also some consumer Google AI plans, which the issue omits)",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/gmail-live-is-rolling-out-to-paid-Workspace-users.html#:~:text=Business%2FEnterprise%20Starter%2C%20Standard%2C%20Plus%3B%20Frontline%20Plus%3B%20Gemini%20add-ons"
+  },
+  {
+   "n": 45,
+   "where": "Six changes this week, item 2",
+   "claim": "U.S., English",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/gmail-live-is-rolling-out-to-paid-Workspace-users.html",
+   "source": "Google Workspace Updates (Gmail Live)",
+   "passage": "only for users in the US with English (US) as their language",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/gmail-live-is-rolling-out-to-paid-Workspace-users.html#:~:text=only%20for%20users%20in%20the%20US%20with%20English"
+  },
+  {
+   "n": 46,
+   "where": "Six changes this week, item 2",
+   "claim": "iOS and Android",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/gmail-live-is-rolling-out-to-paid-Workspace-users.html",
+   "source": "Google Workspace Updates (Gmail Live)",
+   "passage": "on mobile (Android and iOS)",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/gmail-live-is-rolling-out-to-paid-Workspace-users.html#:~:text=on%20mobile%20%28Android%20and%20iOS%29"
+  },
+  {
+   "n": 47,
+   "where": "Six changes this week, item 2",
+   "claim": "Tap Live in the Gmail search bar",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/gmail-live-is-rolling-out-to-paid-Workspace-users.html",
+   "source": "Google Workspace Updates (Gmail Live)",
+   "passage": "Tap the Live entry point in the Gmail search bar",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/gmail-live-is-rolling-out-to-paid-Workspace-users.html#:~:text=Tap%20the%20Live%20entry%20point%20in%20the%20Gmail"
+  },
+  {
+   "n": 48,
+   "where": "Six changes this week, item 2",
+   "claim": "each answer comes with a card linking to the emails it used",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/gmail-live-is-rolling-out-to-paid-Workspace-users.html",
+   "source": "Google Workspace Updates (Gmail Live)",
+   "passage": "An email source card appears prominently at each conversational turn",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/gmail-live-is-rolling-out-to-paid-Workspace-users.html#:~:text=An%20email%20source%20card%20appears%20prominently%20at%20each"
+  },
+  {
+   "n": 49,
+   "where": "Six changes this week, item 2",
+   "claim": "on by default for organizations with Gemini in Workspace",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/gmail-live-is-rolling-out-to-paid-Workspace-users.html",
+   "source": "Google Workspace Updates (Gmail Live)",
+   "passage": "on by default for organizations with Gemini in Workspace access",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/gmail-live-is-rolling-out-to-paid-Workspace-users.html#:~:text=on%20by%20default%20for%20organizations%20with%20Gemini%20in"
+  },
+  {
+   "n": 50,
+   "where": "Six changes this week, item 2",
+   "claim": "rolls out over up to 15 days from Oct. 15",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/gmail-live-is-rolling-out-to-paid-Workspace-users.html",
+   "source": "Google Workspace Updates (Gmail Live)",
+   "passage": "starting October 15, 2026 ... 'up to 15 days for feature visibility'",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/gmail-live-is-rolling-out-to-paid-Workspace-users.html#:~:text=starting%20October%2015%2C%202026"
+  },
+  {
+   "n": 51,
+   "where": "Six changes this week, item 2",
+   "claim": "respects existing smart features and personalization admin settings",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/gmail-live-is-rolling-out-to-paid-Workspace-users.html",
+   "source": "Google Workspace Updates (Gmail Live)",
+   "passage": "respects existing smart features and personalization settings in the admin console",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/gmail-live-is-rolling-out-to-paid-Workspace-users.html#:~:text=respects%20existing%20smart%20features%20and%20personalization%20settings%20in"
+  },
+  {
+   "n": 52,
+   "where": "Six changes this week, item 2",
+   "claim": "Check settings (on-by-default; data/admin)",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/gmail-live-is-rolling-out-to-paid-Workspace-users.html",
+   "source": "Google Workspace Updates (Gmail Live)",
+   "passage": "on by default; admin smart-features settings apply",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/gmail-live-is-rolling-out-to-paid-Workspace-users.html#:~:text=on%20by%20default%3B%20admin%20smart-features%20settings%20apply"
+  },
+  {
+   "n": 53,
+   "where": "Six changes this week, item 3",
+   "claim": "Locked chats hide selected conversations behind a PIN",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "open them with your 4-digit account PIN or supported device authentication",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=open%20them%20with%20your%204-digit%20account%20PIN%20or"
+  },
+  {
+   "n": 54,
+   "where": "Six changes this week, item 3",
+   "claim": "Oct. 20",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "October 20, 2026: Locked chats",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=October%2020%2C%202026%3A%20Locked%20chats"
+  },
+  {
+   "n": 55,
+   "where": "Six changes this week, item 3",
+   "claim": "Free, Go, Plus and Pro; rolling out gradually",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "Rolling out gradually to Free, Go, Plus, and Pro",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=Rolling%20out%20gradually%20to%20Free%2C%20Go%2C%20Plus%2C%20and"
+  },
+  {
+   "n": 56,
+   "where": "Six changes this week, item 3",
+   "claim": "Open more options menu (•••) and select Lock chat",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "open its more options menu (•••) and select 'Lock chat'",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=open%20its%20more%20options%20menu%20%28%E2%80%A2%E2%80%A2%E2%80%A2%29%20and%20select"
+  },
+  {
+   "n": 57,
+   "where": "Six changes this week, item 3",
+   "claim": "disappears from chat history, pinned chats and search",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "hidden from regular chat history, pinned chats, and search",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=hidden%20from%20regular%20chat%20history%2C%20pinned%20chats%2C%20and"
+  },
+  {
+   "n": 58,
+   "where": "Six changes this week, item 3",
+   "claim": "opens with your 4-digit account PIN or device authentication",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "4-digit account PIN or supported device authentication",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=4-digit%20account%20PIN%20or%20supported%20device%20authentication"
+  },
+  {
+   "n": 59,
+   "where": "Six changes this week, item 3",
+   "claim": "retention and model-improvement settings stay unchanged",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "Your retention and model-improvement settings stay unchanged",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=Your%20retention%20and%20model-improvement%20settings%20stay%20unchanged"
+  },
+  {
+   "n": 60,
+   "where": "Six changes this week, item 3",
+   "claim": "a locked chat is hidden, not deleted",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "hidden ... but stay in your account",
+   "deep": ""
+  },
+  {
+   "n": 61,
+   "where": "Six changes this week, item 3",
+   "claim": "To remove a chat for good, delete it.",
+   "verdict": "unsupported",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 62,
+   "where": "Six changes this week, item 4",
+   "claim": "AI Inbox pulls to-dos and topic summaries from your email",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/gmails-ai-inbox-is-rolling-out-to-paid-Workspace-users.html",
+   "source": "Google Workspace Updates (AI Inbox)",
+   "passage": "Suggested to-dos ... Topics to catch up on",
+   "deep": ""
+  },
+  {
+   "n": 63,
+   "where": "Six changes this week, item 4",
+   "claim": "Scheduled Release from Oct. 26",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/gmails-ai-inbox-is-rolling-out-to-paid-Workspace-users.html",
+   "source": "Google Workspace Updates (AI Inbox)",
+   "passage": "Scheduled Release domains: Gradual rollout starts October 26, 2026",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/gmails-ai-inbox-is-rolling-out-to-paid-Workspace-users.html#:~:text=Scheduled%20Release%20domains%3A%20Gradual%20rollout%20starts%20October%2026%2C"
+  },
+  {
+   "n": 64,
+   "where": "Six changes this week, item 4",
+   "claim": "Paid Workspace; U.S., English",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/gmails-ai-inbox-is-rolling-out-to-paid-Workspace-users.html",
+   "source": "Google Workspace Updates (AI Inbox)",
+   "passage": "expanding to paid Google Workspace users ... only to users in the US whose language is set to English (US)",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/gmails-ai-inbox-is-rolling-out-to-paid-Workspace-users.html#:~:text=expanding%20to%20paid%20Google%20Workspace%20users"
+  },
+  {
+   "n": 65,
+   "where": "Six changes this week, item 4",
+   "claim": "Starter and Education later",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/gmails-ai-inbox-is-rolling-out-to-paid-Workspace-users.html",
+   "source": "Google Workspace Updates (AI Inbox)",
+   "passage": "will roll out to Starter and Education editions 'in the coming months' (note: the post's own availability list already includes Starter editions and AI Pro for Education, so the post is internally inconsistent)",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/gmails-ai-inbox-is-rolling-out-to-paid-Workspace-users.html#:~:text=will%20roll%20out%20to%20Starter%20and%20Education%20editions"
+  },
+  {
+   "n": 66,
+   "where": "Six changes this week, item 4",
+   "claim": "suggests to-dos and deadlines from your threads",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/gmails-ai-inbox-is-rolling-out-to-paid-Workspace-users.html",
+   "source": "Google Workspace Updates (AI Inbox)",
+   "passage": "Pulls action items, deliverables, and deadlines out of email conversations",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/gmails-ai-inbox-is-rolling-out-to-paid-Workspace-users.html#:~:text=Pulls%20action%20items%2C%20deliverables%2C%20and%20deadlines%20out%20of"
+  },
+  {
+   "n": 67,
+   "where": "Six changes this week, item 4",
+   "claim": "summarizes long discussions by topic",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/gmails-ai-inbox-is-rolling-out-to-paid-Workspace-users.html",
+   "source": "Google Workspace Updates (AI Inbox)",
+   "passage": "Summarizes important topics across multi-message and fast-moving threads",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/gmails-ai-inbox-is-rolling-out-to-paid-Workspace-users.html#:~:text=Summarizes%20important%20topics%20across%20multi-message%20and%20fast-moving%20threads"
+  },
+  {
+   "n": 68,
+   "where": "Six changes this week, item 4",
+   "claim": "Rapid Release domains started getting it on Oct. 12",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/gmails-ai-inbox-is-rolling-out-to-paid-Workspace-users.html",
+   "source": "Google Workspace Updates (AI Inbox)",
+   "passage": "Rapid Release domains: Gradual rollout started October 12, 2026",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/gmails-ai-inbox-is-rolling-out-to-paid-Workspace-users.html#:~:text=Rapid%20Release%20domains%3A%20Gradual%20rollout%20started%20October%2012%2C"
+  },
+  {
+   "n": 69,
+   "where": "Six changes this week, item 4",
+   "claim": "Scheduled Release starts Oct. 26, each over up to 15 days",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/gmails-ai-inbox-is-rolling-out-to-paid-Workspace-users.html",
+   "source": "Google Workspace Updates (AI Inbox)",
+   "passage": "up to 15 days for feature visibility (both tracks)",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/gmails-ai-inbox-is-rolling-out-to-paid-Workspace-users.html#:~:text=up%20to%2015%20days%20for%20feature%20visibility%20%28both"
+  },
+  {
+   "n": 70,
+   "where": "Six changes this week, item 4",
+   "claim": "no admin control for it",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/gmails-ai-inbox-is-rolling-out-to-paid-Workspace-users.html",
+   "source": "Google Workspace Updates (AI Inbox)",
+   "passage": "There is no admin control for this feature",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/gmails-ai-inbox-is-rolling-out-to-paid-Workspace-users.html#:~:text=There%20is%20no%20admin%20control%20for%20this%20feature"
+  },
+  {
+   "n": 71,
+   "where": "Six changes this week, item 4",
+   "claim": "Open it from the Gmail menu",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/gmails-ai-inbox-is-rolling-out-to-paid-Workspace-users.html",
+   "source": "Google Workspace Updates (AI Inbox)",
+   "passage": "open AI Inbox from the Gmail desktop client or from the mobile app menu",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/gmails-ai-inbox-is-rolling-out-to-paid-Workspace-users.html#:~:text=open%20AI%20Inbox%20from%20the%20Gmail%20desktop%20client"
+  },
+  {
+   "n": 72,
+   "where": "Six changes this week, item 4",
+   "claim": "Wait (Scheduled Release not yet started on Oct. 22)",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/gmails-ai-inbox-is-rolling-out-to-paid-Workspace-users.html",
+   "source": "Google Workspace Updates (AI Inbox)",
+   "passage": "Scheduled Release rollout starts October 26",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/gmails-ai-inbox-is-rolling-out-to-paid-Workspace-users.html#:~:text=Scheduled%20Release%20rollout%20starts%20October%2026"
+  },
+  {
+   "n": 73,
+   "where": "Six changes this week, item 5",
+   "claim": "ChatGPT Slides builds decks your team can edit together; Oct. 16",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "October 16, 2026: ChatGPT Slides ... Invite teammates to edit the same deck in real time",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=October%2016%2C%202026%3A%20ChatGPT%20Slides"
+  },
+  {
+   "n": 74,
+   "where": "Six changes this week, item 5",
+   "claim": "Pro, Business and Enterprise with Space access; rolling out",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "Rolling out to eligible Pro, Business, and Enterprise users with Space access",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=Rolling%20out%20to%20eligible%20Pro%2C%20Business%2C%20and%20Enterprise"
+  },
+  {
+   "n": 75,
+   "where": "Six changes this week, item 5",
+   "claim": "Ask ChatGPT in Work to create a presentation in Space",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "ask ChatGPT in Work to create a presentation in Space",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=ask%20ChatGPT%20in%20Work%20to%20create%20a%20presentation"
+  },
+  {
+   "n": 76,
+   "where": "Six changes this week, item 5",
+   "claim": "from a conversation, files, an outline or an example deck",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "from a conversation, files, an outline, or an example deck",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=from%20a%20conversation%2C%20files%2C%20an%20outline%2C%20or%20an"
+  },
+  {
+   "n": 77,
+   "where": "Six changes this week, item 5",
+   "claim": "edit text, images, shapes and charts",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "Edit text, images, shapes, and charts directly",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=Edit%20text%2C%20images%2C%20shapes%2C%20and%20charts%20directly"
+  },
+  {
+   "n": 78,
+   "where": "Six changes this week, item 5",
+   "claim": "invite teammates to edit in real time",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "Invite teammates to edit the same deck in real time",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=Invite%20teammates%20to%20edit%20the%20same%20deck%20in"
+  },
+  {
+   "n": 79,
+   "where": "Six changes this week, item 5",
+   "claim": "export to PowerPoint, PDF or Google Slides on the web",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "On the web, export to PowerPoint, PDF, or Google Slides",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=On%20the%20web%2C%20export%20to%20PowerPoint%2C%20PDF%2C%20or"
+  },
+  {
+   "n": 80,
+   "where": "Six changes this week, item 5",
+   "claim": "rolling out to eligible users",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "Rolling out to eligible ... users",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=Rolling%20out%20to%20eligible"
+  },
+  {
+   "n": 81,
+   "where": "Six changes this week, item 6",
+   "claim": "Enterprise admins can choose which roles use each connector",
+   "verdict": "confirmed",
+   "url": "https://www.perplexity.ai/changelog/ultrafast-computer-models-decisions-api-and-connector-controls",
+   "source": "Perplexity changelog",
+   "passage": "Admins on sales-assisted Enterprise plans can now choose which roles can use each connector",
+   "deep": "https://www.perplexity.ai/changelog/ultrafast-computer-models-decisions-api-and-connector-controls#:~:text=Admins%20on%20sales-assisted%20Enterprise%20plans%20can%20now%20choose"
+  },
+  {
+   "n": 82,
+   "where": "Six changes this week, item 6",
+   "claim": "Oct. 19",
+   "verdict": "confirmed",
+   "url": "https://www.perplexity.ai/changelog/ultrafast-computer-models-decisions-api-and-connector-controls",
+   "source": "Perplexity changelog",
+   "passage": "10/19/26",
+   "deep": ""
+  },
+  {
+   "n": 83,
+   "where": "Six changes this week, item 6",
+   "claim": "Sales-assisted Enterprise plans",
+   "verdict": "confirmed",
+   "url": "https://www.perplexity.ai/changelog/ultrafast-computer-models-decisions-api-and-connector-controls",
+   "source": "Perplexity changelog",
+   "passage": "Admins on sales-assisted Enterprise plans",
+   "deep": "https://www.perplexity.ai/changelog/ultrafast-computer-models-decisions-api-and-connector-controls#:~:text=Admins%20on%20sales-assisted%20Enterprise%20plans"
+  },
+  {
+   "n": 84,
+   "where": "Six changes this week",
+   "claim": "Six changes",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "updates block contains six items",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=updates%20block%20contains%20six%20items"
+  },
+  {
+   "n": 85,
+   "where": "Six changes this week",
+   "claim": "Shows you exactly what it will do; waits for your approval",
+   "verdict": "confirmed",
+   "url": "https://claude.com/resources/articles/claude-duet",
+   "source": "Claude Duet",
+   "passage": "it shows you exactly what it's about to do and waits for your approval",
+   "deep": "https://claude.com/resources/articles/claude-duet#:~:text=it%20shows%20you%20exactly%20what%20it%27s%20about%20to"
+  },
+  {
+   "n": 86,
+   "where": "Six changes this week, step 1",
+   "claim": "Duet drafts the message, payment, signature or deletion",
+   "verdict": "unsupported",
+   "url": "https://claude.com/resources/articles/claude-duet",
+   "source": "Claude Duet",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 87,
+   "where": "Six changes this week, step 4",
+   "claim": "Then carries it out",
+   "verdict": "confirmed",
+   "url": "https://claude.com/resources/articles/claude-duet",
+   "source": "Claude Duet",
+   "passage": "acts after your approval",
+   "deep": "https://claude.com/resources/articles/claude-duet#:~:text=acts%20after%20your%20approval"
+  },
+  {
+   "n": 88,
+   "where": "Six changes this week",
+   "claim": "Reading and drafting happen on their own",
+   "verdict": "confirmed",
+   "url": "https://claude.com/resources/articles/claude-duet",
+   "source": "Claude Duet",
+   "passage": "Claude Duet reads, drafts, and prepares work on its own",
+   "deep": "https://claude.com/resources/articles/claude-duet#:~:text=Claude%20Duet%20reads%2C%20drafts%2C%20and%20prepares%20work%20on"
+  },
+  {
+   "n": 89,
+   "where": "Six changes this week",
+   "claim": "Locked is not deleted / HIDDEN, NOT DELETED",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "hidden from regular chat history ... but stay in your account",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=hidden%20from%20regular%20chat%20history"
+  },
+  {
+   "n": 90,
+   "where": "Six changes this week",
+   "claim": "leaves history, pins and search; retention and model-improvement settings still apply",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "hidden from regular chat history, pinned chats, and search ... retention and model-improvement settings stay unchanged",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=hidden%20from%20regular%20chat%20history%2C%20pinned%20chats%2C%20and"
+  },
+  {
+   "n": 91,
+   "where": "The checklist, item 1",
+   "claim": "Gmail Live on by default and respects smart features and personalization admin settings",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/gmail-live-is-rolling-out-to-paid-Workspace-users.html",
+   "source": "Google Workspace Updates (Gmail Live)",
+   "passage": "on by default ... respects existing smart features and personalization settings in the admin console",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/gmail-live-is-rolling-out-to-paid-Workspace-users.html#:~:text=on%20by%20default"
+  },
+  {
+   "n": 92,
+   "where": "The checklist, item 2",
+   "claim": "delete the ones you don't need to keep (implies deletion is the way to remove)",
+   "verdict": "unsupported",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 93,
+   "where": "The checklist, item 3",
+   "claim": "Enterprise ChatGPT: publish custom GPT drafts you plan to migrate before Oct. 26",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq",
+   "source": "OpenAI GPT retirement FAQ",
+   "passage": "Publish any drafts you need to migrate before this cutoff",
+   "deep": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq#:~:text=Publish%20any%20drafts%20you%20need%20to%20migrate%20before"
+  },
+  {
+   "n": 94,
+   "where": "The checklist, item 4",
+   "claim": "Duet: you can disconnect apps it doesn't need",
+   "verdict": "confirmed",
+   "url": "https://claude.com/resources/articles/claude-duet",
+   "source": "Claude Duet",
+   "passage": "You're also able to disconnect any app Claude Duet has access to",
+   "deep": "https://claude.com/resources/articles/claude-duet#:~:text=You%27re%20also%20able%20to%20disconnect%20any%20app%20Claude"
+  },
+  {
+   "n": 95,
+   "where": "The checklist, item 5",
+   "claim": "Nov. 12 for Anthropic's updated Usage Policy",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+   "source": "Anthropic usage policy",
+   "passage": "effective November 12",
+   "deep": "https://www.anthropic.com/news/2026-usage-policy-update#:~:text=effective%20November%2012"
+  },
+  {
+   "n": 96,
+   "where": "The checklist, item 5",
+   "claim": "the policy update matters if Claude helps with decisions about people at work",
+   "verdict": "unsupported",
+   "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+   "source": "Anthropic usage policy",
+   "passage": "",
+   "deep": ""
+  }
+ ],
+ "notes": [
+  "All 8 cited pages loaded and were checked fresh. No compliance issues (no securities/market content; Duet page's mention of trading securities being off-limits is not used). No quotes in the issue; no first-person statements. All other dated items fall within Oct. 14-22 or are vendor-announced deadlines within 60 days (Oct. 26, Nov. 12); the Usage Policy post is dated Oct. 8 but only its Nov. 12 effective date is used, as a deadline.",
+  "AI Inbox post is internally inconsistent: its availability list includes Starter editions and AI Pro for Education, yet it says Starter and Education get it 'in the coming months'. The issue follows the latter sentence; consider matching the wording exactly."
+ ]
+}

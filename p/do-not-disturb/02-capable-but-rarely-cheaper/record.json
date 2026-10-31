@@ -1,0 +1,1218 @@
+{
+ "issue": "https://sentfrommyagent.com/p/do-not-disturb/02-capable-but-rarely-cheaper/",
+ "newsletter": "Do Not Disturb",
+ "number": 2,
+ "date": "2026-10-02",
+ "title": "Capable, but rarely cheaper.",
+ "stamp": "Sent from my agent. Every claim checked.",
+ "record": "https://sentfrommyagent.com/p/do-not-disturb/02-capable-but-rarely-cheaper/record/",
+ "counts": {
+  "checked": 119,
+  "confirmed": 119,
+  "wrong": 0,
+  "unsupported": 0
+ },
+ "checked_at": "2026-10-24T00:00:00-04:00",
+ "checked_by": "a second agent, independent of the writer",
+ "claims": [
+  {
+   "n": 1,
+   "where": "title",
+   "claim": "Able isn't the same as affordable (capability vs cost framing)",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "robots can already perform 74% of physical tasks ... Robots are cost-competitive for just 0.3% of job tasks",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=robots%20can%20already%20perform%2074%25%20of%20physical%20tasks"
+  },
+  {
+   "n": 2,
+   "where": "dek",
+   "claim": "Published Sept. 30",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "Page dated September 30, 2026",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=Page%20dated%20September%2030%2C%202026"
+  },
+  {
+   "n": 3,
+   "where": "dek",
+   "claim": "Two Anthropic researchers",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "Contributors: Russell Legate-Yang and Maxim Massenkoff",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=Contributors%3A%20Russell%20Legate-Yang%20and%20Maxim%20Massenkoff"
+  },
+  {
+   "n": 4,
+   "where": "dek",
+   "claim": "Robots can already do 74% of physical tasks in U.S. jobs",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "We find that robots can already perform 74% of physical tasks in the US",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=We%20find%20that%20robots%20can%20already%20perform%2074%25"
+  },
+  {
+   "n": 5,
+   "where": "dek",
+   "claim": "Cheaper than people for 0.3% of tasks",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "Robots are cost-competitive for just 0.3% of job tasks",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=Robots%20are%20cost-competitive%20for%20just%200.3%25%20of%20job"
+  },
+  {
+   "n": 6,
+   "where": "summary",
+   "claim": "Anthropic measured which physical work robots can do; ability vs worth paying for differ",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "can a robot today perform this task, and if so under what circumstances? ... cost-competitive for just 0.3% today",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=can%20a%20robot%20today%20perform%20this%20task%2C%20and"
+  },
+  {
+   "n": 7,
+   "where": "art svg text",
+   "claim": "0.3%",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "cost-competitive for just 0.3% of job tasks",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=cost-competitive%20for%20just%200.3%25%20of%20job%20tasks"
+  },
+  {
+   "n": 8,
+   "where": "art alt",
+   "claim": "Robot arm with price tag labelled 0.3%",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "Matches SVG content (text element '0.3%'); figure value per report",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=Matches%20SVG%20content%20%28text%20element%20%270.3%25%27%29%3B%20figure%20value"
+  },
+  {
+   "n": 9,
+   "where": "The essay, section 1",
+   "claim": "Published Sept. 30 by two Anthropic researchers",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "Sept 30, 2026; contributors Russell Legate-Yang and Maxim Massenkoff",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=Sept%2030%2C%202026%3B%20contributors%20Russell%20Legate-Yang%20and%20Maxim"
+  },
+  {
+   "n": 10,
+   "where": "The essay, section 1",
+   "claim": "Robot defined as autonomous physical machine that senses and acts",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "We take robots to mean autonomous physical machines that sense and act",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=We%20take%20robots%20to%20mean%20autonomous%20physical%20machines"
+  },
+  {
+   "n": 11,
+   "where": "The essay, section 1",
+   "claim": "74% of physical tasks in American jobs",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "robots can already perform 74% of physical tasks in the US",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=robots%20can%20already%20perform%2074%25%20of%20physical%20tasks"
+  },
+  {
+   "n": 12,
+   "where": "The essay, section 1",
+   "claim": "Those tasks make up 34% of all working hours",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "making up 34% of working hours",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=making%20up%2034%25%20of%20working%20hours"
+  },
+  {
+   "n": 13,
+   "where": "The essay, section 1",
+   "claim": "Cheaper than paying people for 0.3% of job tasks",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "Robots are cost-competitive for just 0.3% of job tasks",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=Robots%20are%20cost-competitive%20for%20just%200.3%25%20of%20job"
+  },
+  {
+   "n": 14,
+   "where": "The essay, section 1",
+   "claim": "At past price-decline pace, 40 years to reach 10%",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "If robot price declines follow past trends, it will take 40 years for that share to reach 10%",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=If%20robot%20price%20declines%20follow%20past%20trends%2C%20it"
+  },
+  {
+   "n": 15,
+   "where": "The essay, section 1",
+   "claim": "Quote: headline says robots \"can replace 74 percent of manual labor\" (7 words, attributed to a headline/DigitalToday)",
+   "verdict": "confirmed",
+   "url": "https://www.digitaltoday.co.kr/en/view/109951/robots-can-replace-74-percent-of-manual-labor-but-not-yet-cheaper-than-humans",
+   "source": "DigitalToday",
+   "passage": "Headline: \"Robots can replace 74 percent of manual labor, but are not yet cheaper than humans\" (published 2026-10-01 KST)",
+   "deep": "https://www.digitaltoday.co.kr/en/view/109951/robots-can-replace-74-percent-of-manual-labor-but-not-yet-cheaper-than-humans#:~:text=Headline%3A%20%22Robots%20can%20replace%2074%20percent%20of%20manual"
+  },
+  {
+   "n": 16,
+   "where": "The essay, section 1",
+   "claim": "Cost caveat comes after the comma in that headline",
+   "verdict": "confirmed",
+   "url": "https://www.digitaltoday.co.kr/en/view/109951/robots-can-replace-74-percent-of-manual-labor-but-not-yet-cheaper-than-humans",
+   "source": "DigitalToday",
+   "passage": "\"...manual labor, but are not yet cheaper than humans\"",
+   "deep": ""
+  },
+  {
+   "n": 17,
+   "where": "The essay, section 1",
+   "claim": "Quote: report says \"mostly in limited settings\"",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "making up 34% of working hours, but mostly in limited settings",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=making%20up%2034%25%20of%20working%20hours%2C%20but%20mostly"
+  },
+  {
+   "n": 18,
+   "where": "The essay, section 1",
+   "claim": "IFR said on Sept. 24",
+   "verdict": "confirmed",
+   "url": "https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally",
+   "source": "IFR",
+   "passage": "Frankfurt, Sep 24, 2026",
+   "deep": "https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally#:~:text=Frankfurt%2C%20Sep%2024%2C%202026"
+  },
+  {
+   "n": 19,
+   "where": "The essay, section 1",
+   "claim": "Record 5 million industrial robots operating in factories worldwide in 2025",
+   "verdict": "confirmed",
+   "url": "https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally",
+   "source": "IFR",
+   "passage": "The global operational stock of industrial robots surged 9% to a record 5 million units in 2025",
+   "deep": "https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally#:~:text=The%20global%20operational%20stock%20of%20industrial%20robots%20surged"
+  },
+  {
+   "n": 20,
+   "where": "The essay, section 1",
+   "claim": "Factories are built around the machine; controlled settings are where robots do best",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "most deployed robots work in engineered environments ... Most robots today operate in controlled environments like factories",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=most%20deployed%20robots%20work%20in%20engineered%20environments"
+  },
+  {
+   "n": 21,
+   "where": "The essay, section 2",
+   "claim": "O*NET sponsored by the U.S. Department of Labor",
+   "verdict": "confirmed",
+   "url": "https://www.onetcenter.org/overview.html",
+   "source": "O*NET",
+   "passage": "developed under the sponsorship of the U.S. Department of Labor/Employment and Training Administration",
+   "deep": "https://www.onetcenter.org/overview.html#:~:text=developed%20under%20the%20sponsorship%20of%20the%20U.S.%20Department"
+  },
+  {
+   "n": 22,
+   "where": "The essay, section 2",
+   "claim": "Around 900 occupations",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "a database of around 900 occupations linked with descriptions of around 19,000 job tasks",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=a%20database%20of%20around%20900%20occupations%20linked%20with"
+  },
+  {
+   "n": 23,
+   "where": "The essay, section 2",
+   "claim": "Around 19,000 job tasks",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "descriptions of around 19,000 job tasks",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=descriptions%20of%20around%2019%2C000%20job%20tasks"
+  },
+  {
+   "n": 24,
+   "where": "The essay, section 2",
+   "claim": "Quote: hand packer task \"Seal containers or materials, using glues, fasteners, nails, and hand tools.\" (10 words, attributed to O*NET)",
+   "verdict": "confirmed",
+   "url": "https://www.onetonline.org/link/summary/53-7064.00",
+   "source": "O*NET OnLine",
+   "passage": "Task: \"Seal containers or materials, using glues, fasteners, nails, and hand tools.\"",
+   "deep": "https://www.onetonline.org/link/summary/53-7064.00#:~:text=Task%3A%20%22Seal%20containers%20or%20materials%2C%20using%20glues%2C%20fasteners%2C"
+  },
+  {
+   "n": 25,
+   "where": "The essay, section 2",
+   "claim": "Claude scored each task for physical, cognitive and interpersonal demands",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "we have Claude score task descriptions on a rubric measuring physical, cognitive, and interpersonal work requirements",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=we%20have%20Claude%20score%20task%20descriptions%20on%20a"
+  },
+  {
+   "n": 26,
+   "where": "The essay, section 2",
+   "claim": "\"Dig trenches\" physical; \"Teach dance students\" physical plus cognitive and interpersonal",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "The task \"Dig trenches\" is physical; so is \"Teach dance students,\" though this also requires cognitive and interpersonal skills",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=The%20task%20%22Dig%20trenches%22%20is%20physical%3B%20so%20is"
+  },
+  {
+   "n": 27,
+   "where": "The essay, section 2",
+   "claim": "Claude told to search for specific robots, check where they operate, quote sources",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "we instruct Claude to search for specific robots relevant to each task ... assess their capabilities and operating environments, quoting sources directly",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=we%20instruct%20Claude%20to%20search%20for%20specific%20robots"
+  },
+  {
+   "n": 28,
+   "where": "The essay, section 2",
+   "claim": "E0: no robot can do it",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "Robot cannot perform task",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=Robot%20cannot%20perform%20task"
+  },
+  {
+   "n": 29,
+   "where": "The essay, section 2",
+   "claim": "E1: purpose-built robotic workplace, like a factory assembly line",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "Robot can perform task in a purpose-built robotic work environment, like a factory assembly line",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=Robot%20can%20perform%20task%20in%20a%20purpose-built%20robotic"
+  },
+  {
+   "n": 30,
+   "where": "The essay, section 2",
+   "claim": "E2: structured human workplace, like a logistics warehouse",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "Robot can perform task in a structured human work facility, like a logistics warehouse",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=Robot%20can%20perform%20task%20in%20a%20structured%20human"
+  },
+  {
+   "n": 31,
+   "where": "The essay, section 2",
+   "claim": "E3: unstructured setting, like a city road",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "Robot can perform task in an unstructured environment, like a city road",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=Robot%20can%20perform%20task%20in%20an%20unstructured%20environment%2C"
+  },
+  {
+   "n": 32,
+   "where": "The essay, section 2",
+   "claim": "Hospital meal trays to match diets is E1 because food-prep robots pack meals on conveyor belts",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "Assemble meal trays with foods in accordance with patients' diets ... Food prep robots pack ready-to-eat meals on conveyor belts",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=Assemble%20meal%20trays%20with%20foods%20in%20accordance%20with"
+  },
+  {
+   "n": 33,
+   "where": "The essay, section 2",
+   "claim": "Delivering medicines to nursing stations is E2",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "Deliver medications or pharmaceutical supplies to patients, nursing stations, or surgery (E2 example)",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=Deliver%20medications%20or%20pharmaceutical%20supplies%20to%20patients%2C%20nursing"
+  },
+  {
+   "n": 34,
+   "where": "The essay, section 2",
+   "claim": "Driving a taxi is E3",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "\"Drive taxicabs or privately owned vehicles to transport passengers\" ... E3 today (in an unstructured environment)",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=%22Drive%20taxicabs%20or%20privately%20owned%20vehicles%20to%20transport"
+  },
+  {
+   "n": 35,
+   "where": "The essay, section 2",
+   "claim": "Dyeing a client's hair is E0",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "\"Bleach, dye, or tint hair, using applicator or brush\" (E0 example)",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=%22Bleach%2C%20dye%2C%20or%20tint%20hair%2C%20using%20applicator%20or"
+  },
+  {
+   "n": 36,
+   "where": "The essay, section 2",
+   "claim": "Robots find unpredictable surroundings hard; most work in environments engineered for them",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "it's hard for robots to adapt to unpredictable environments ... most deployed robots work in engineered environments",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=it%27s%20hard%20for%20robots%20to%20adapt%20to%20unpredictable"
+  },
+  {
+   "n": 37,
+   "where": "The essay, section 2",
+   "claim": "E1 possible in purpose-built environments but not wider settings",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "Robots can do half of physical tasks in purpose-built environments but not in wider settings (E1)",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=Robots%20can%20do%20half%20of%20physical%20tasks%20in"
+  },
+  {
+   "n": 38,
+   "where": "The essay, section 2",
+   "claim": "Half of physical tasks only in purpose-built settings",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "Robots can do half of physical tasks in purpose-built environments but not in wider settings (E1)",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=Robots%20can%20do%20half%20of%20physical%20tasks%20in"
+  },
+  {
+   "n": 39,
+   "where": "The essay, section 2",
+   "claim": "22% in structured human workplaces",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "E2: 22% of physical tasks",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=E2%3A%2022%25%20of%20physical%20tasks"
+  },
+  {
+   "n": 40,
+   "where": "The essay, section 2",
+   "claim": "2% in the open world",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "E3: 2% of physical tasks",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=E3%3A%202%25%20of%20physical%20tasks"
+  },
+  {
+   "n": 41,
+   "where": "The essay, section 2",
+   "claim": "26% no robot can do (100 minus 74)",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "Tasks that robots can't do (E0) make up about a quarter of physical tasks. (26% is the arithmetic complement of the stated 74%; page text says 'about a quarter')",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=Tasks%20that%20robots%20can%27t%20do%20%28E0%29%20make%20up"
+  },
+  {
+   "n": 42,
+   "where": "The essay, section 2",
+   "claim": "A task robots can already do is what the report calls exposed",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "A job is exposed when robots can perform its tasks. (task-level 'robot exposure' measure)",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=A%20job%20is%20exposed%20when%20robots%20can%20perform"
+  },
+  {
+   "n": 43,
+   "where": "The essay, section 2",
+   "claim": "Exposure measures what is technically possible today",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "Our task-level measure of robot exposure asks: can a robot today perform this task ... robots can theoretically do tasks that add up to 34% of all work time",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=Our%20task-level%20measure%20of%20robot%20exposure%20asks%3A%20can"
+  },
+  {
+   "n": 44,
+   "where": "The essay, section 2",
+   "claim": "Quote: \"difficult to predict exactly\" (4 words, attributed to authors)",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "It's difficult to predict exactly how these efforts will affect jobs and productivity",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=It%27s%20difficult%20to%20predict%20exactly%20how%20these%20efforts"
+  },
+  {
+   "n": 45,
+   "where": "The essay, section 2",
+   "claim": "Around half of all work exposed to LLMs",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "Overall, around half of work is exposed to LLMs alone",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=Overall%2C%20around%20half%20of%20work%20is%20exposed%20to"
+  },
+  {
+   "n": 46,
+   "where": "The essay, section 2",
+   "claim": "Rises to 81% with robots",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "but that rises to 81% when considering robots (key findings round to 'about 80%')",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=but%20that%20rises%20to%2081%25%20when%20considering%20robots"
+  },
+  {
+   "n": 47,
+   "where": "The essay, section 2",
+   "claim": "Where robots can do the work",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "Figure title is descriptive of E0-E3 breakdown",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=Figure%20title%20is%20descriptive%20of%20E0-E3%20breakdown"
+  },
+  {
+   "n": 48,
+   "where": "The essay, section 2",
+   "claim": "Share of U.S. physical tasks, by least controlled setting a robot can manage",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "E1-E3 tiers defined by environment; shares given of physical tasks",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=E1-E3%20tiers%20defined%20by%20environment%3B%20shares%20given%20of"
+  },
+  {
+   "n": 49,
+   "where": "The essay, section 2",
+   "claim": "No robot can yet (E0): 26%",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "about a quarter of physical tasks (26 = 100 - 74)",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=about%20a%20quarter%20of%20physical%20tasks%20%2826%20%3D"
+  },
+  {
+   "n": 50,
+   "where": "The essay, section 2",
+   "claim": "Purpose-built only (E1): 50%",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "Robots can do half of physical tasks in purpose-built environments",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=Robots%20can%20do%20half%20of%20physical%20tasks%20in"
+  },
+  {
+   "n": 51,
+   "where": "The essay, section 2",
+   "claim": "Structured workplace (E2): 22%",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "22% of physical tasks (E2)",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=22%25%20of%20physical%20tasks%20%28E2%29"
+  },
+  {
+   "n": 52,
+   "where": "The essay, section 2",
+   "claim": "Open world (E3): 2%",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "2% of physical tasks (E3)",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=2%25%20of%20physical%20tasks%20%28E3%29"
+  },
+  {
+   "n": 53,
+   "where": "The essay, section 2",
+   "claim": "Three-quarters within reach, most only in a space built for the machine",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "74% of physical tasks ... half ... in purpose-built environments",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=74%25%20of%20physical%20tasks"
+  },
+  {
+   "n": 54,
+   "where": "The essay, section 3",
+   "claim": "Packers and packagers are the largest occupation where robots already beat people on cost",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "Packers and packagers are the largest occupation exposed to cost-competitive robots",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=Packers%20and%20packagers%20are%20the%20largest%20occupation%20exposed"
+  },
+  {
+   "n": 55,
+   "where": "The essay, section 3",
+   "claim": "Hand packer tasks run from inspecting and weighing to lining cartons, sealing, labelling, moving goods onto conveyors or loading docks",
+   "verdict": "confirmed",
+   "url": "https://www.onetonline.org/link/summary/53-7064.00",
+   "source": "O*NET OnLine",
+   "passage": "Examine and inspect ...; Measure, weigh, and count ...; Assemble, line, and pad cartons ...; Seal containers ...; Mark and label containers ...; Remove completed ... placing them on moving equipment, such as…",
+   "deep": "https://www.onetonline.org/link/summary/53-7064.00#:~:text=Examine%20and%20inspect"
+  },
+  {
+   "n": 56,
+   "where": "The essay, section 3",
+   "claim": "Robots: pack containers, move materials around warehouses, inspect visually, erect boxes, print and apply labels, seal packages",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "pack containers, move materials around warehouses, visually inspect goods, erect cardboard boxes, print and apply labels, and seal packages",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=pack%20containers%2C%20move%20materials%20around%20warehouses%2C%20visually%20inspect"
+  },
+  {
+   "n": 57,
+   "where": "The essay, section 3",
+   "claim": "Over $2 million to buy and install",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "These robots are estimated to cost over $2 million to purchase and install",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=These%20robots%20are%20estimated%20to%20cost%20over%20%242"
+  },
+  {
+   "n": 58,
+   "where": "The essay, section 3",
+   "claim": "Replace yearly work of around 14 workers",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "but replace the yearly work of around 14 workers",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=but%20replace%20the%20yearly%20work%20of%20around%2014"
+  },
+  {
+   "n": 59,
+   "where": "The essay, section 3",
+   "claim": "Up-front cost spread over working life allowing for cost of money",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "annualizes fixed costs to reflect hardware lifespans and the time value of money ... roughly 10-year service life at an 8% cost of capital",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=annualizes%20fixed%20costs%20to%20reflect%20hardware%20lifespans%20and"
+  },
+  {
+   "n": 60,
+   "where": "The essay, section 3",
+   "claim": "Cost-competitive when robot cheaper than slice of total pay and benefits spent on task",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "cost-competitive when its robot cost is less than its labor cost (total compensation scaled by the task's share of time)",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=cost-competitive%20when%20its%20robot%20cost%20is%20less%20than"
+  },
+  {
+   "n": 61,
+   "where": "The essay, section 3",
+   "claim": "Packers spend 97% of time on tasks robots can do",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "packers and packagers spend 97% of their time on tasks that robots can do",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=packers%20and%20packagers%20spend%2097%25%20of%20their%20time"
+  },
+  {
+   "n": 62,
+   "where": "The essay, section 3",
+   "claim": "Each costs around $49,000",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "and cost around $49,000",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=and%20cost%20around%20%2449%2C000"
+  },
+  {
+   "n": 63,
+   "where": "The essay, section 3",
+   "claim": "Robots about $2,500 a year cheaper",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "robots cost about $2,500 less per year to do that work",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=robots%20cost%20about%20%242%2C500%20less%20per%20year%20to"
+  },
+  {
+   "n": 64,
+   "where": "The essay, section 3",
+   "claim": "This is the report's showcase on cost; margin thin vs $2M+ purchase",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "Largest cost-competitive occupation; ~$2,500/yr saving vs over $2 million to purchase and install (interpretive, consistent with page)",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=Largest%20cost-competitive%20occupation%3B%20~%242%2C500%2Fyr%20saving%20vs%20over%20%242"
+  },
+  {
+   "n": 65,
+   "where": "The essay, section 3",
+   "claim": "Rests on estimates of robot cost, lifespan, coverage",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "these cost estimates are approximate ... roughly 10-year service life",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=these%20cost%20estimates%20are%20approximate"
+  },
+  {
+   "n": 66,
+   "where": "The essay, section 3",
+   "claim": "Across almost all other tasks the person is cheaper or robot can't do the work",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "Robots are cost-competitive for just 0.3% of job tasks ... For nearly all tasks, costs would also need to fall",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=Robots%20are%20cost-competitive%20for%20just%200.3%25%20of%20job"
+  },
+  {
+   "n": 67,
+   "where": "The essay, section 3",
+   "claim": "Claude read task descriptions and searched out robots, quoting sources",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "we have Claude score task descriptions ... search for specific robots ... quoting sources directly",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=we%20have%20Claude%20score%20task%20descriptions"
+  },
+  {
+   "n": 68,
+   "where": "The essay, section 3",
+   "claim": "Quote: rubric \"requires many judgment calls\" (4 words, attributed to authors)",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "This rubric requires many judgment calls",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=This%20rubric%20requires%20many%20judgment%20calls"
+  },
+  {
+   "n": 69,
+   "where": "The essay, section 3",
+   "claim": "Frame was the authors': place over robot, pricing method, historical test",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "A backtest across 50 years validates this approach; authors define E0-E3 environment rubric and annualized cost method",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=A%20backtest%20across%2050%20years%20validates%20this%20approach%3B"
+  },
+  {
+   "n": 70,
+   "where": "The essay, section 3",
+   "claim": "More than $2 million against 14 workers",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "cost over $2 million to purchase and install, but replace the yearly work of around 14 workers",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=cost%20over%20%242%20million%20to%20purchase%20and%20install%2C"
+  },
+  {
+   "n": 71,
+   "where": "The essay, section 3",
+   "claim": "14 WORKERS (and 14 drawn figures: two rows of 7)",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "around 14 workers",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=around%2014%20workers"
+  },
+  {
+   "n": 72,
+   "where": "The essay, section 3",
+   "claim": "Seesaw almost level, robot arm vs 14 figures",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "SVG contains 14 person figures; 'around 14 workers'",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=SVG%20contains%2014%20person%20figures%3B%20%27around%2014%20workers%27"
+  },
+  {
+   "n": 73,
+   "where": "The essay, section 3",
+   "claim": "Packers largest cost-competitive occupation; robots win by about $2,500 a year",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "largest occupation exposed to cost-competitive robots ... about $2,500 less per year",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=largest%20occupation%20exposed%20to%20cost-competitive%20robots"
+  },
+  {
+   "n": 74,
+   "where": "The essay, section 3",
+   "claim": "Authors call their cost estimates approximate",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "these cost estimates are approximate",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=these%20cost%20estimates%20are%20approximate"
+  },
+  {
+   "n": 75,
+   "where": "The essay, section 4",
+   "claim": "Half only in purpose-built settings, 2% in open world",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "half of physical tasks in purpose-built environments ... E3 2%",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=half%20of%20physical%20tasks%20in%20purpose-built%20environments"
+  },
+  {
+   "n": 76,
+   "where": "The essay, section 4",
+   "claim": "A task is not a job (exposure is task-level)",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "Our task-level measure of robot exposure",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=Our%20task-level%20measure%20of%20robot%20exposure"
+  },
+  {
+   "n": 77,
+   "where": "The essay, section 4",
+   "claim": "Backtest from 1977: more exposed jobs saw wage and employment declines in later decades",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "jobs that were more exposed to existing robots experienced wage and employment declines in later decades",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=jobs%20that%20were%20more%20exposed%20to%20existing%20robots"
+  },
+  {
+   "n": 78,
+   "where": "The essay, section 4",
+   "claim": "In 1977 robots couldn't do 62% of physical tasks",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "In 1977, robots could not do 62% of physical tasks",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=In%201977%2C%20robots%20could%20not%20do%2062%25%20of"
+  },
+  {
+   "n": 79,
+   "where": "The essay, section 4",
+   "claim": "Today they can do all but 24% of those tasks",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "Today's robots can do all but 24% of those same tasks",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=Today%27s%20robots%20can%20do%20all%20but%2024%25%20of"
+  },
+  {
+   "n": 80,
+   "where": "The essay, section 4",
+   "claim": "Robots pick up about 2% of tasks they couldn't do each year",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "each year, robots have become able to do about 2% of the physical work they previously couldn't",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=each%20year%2C%20robots%20have%20become%20able%20to%20do"
+  },
+  {
+   "n": 81,
+   "where": "The essay, section 4",
+   "claim": "Cost is one of four barriers",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "Barriers named: capabilities, costs, regulation, human preferences",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=Barriers%20named%3A%20capabilities%2C%20costs%2C%20regulation%2C%20human%20preferences"
+  },
+  {
+   "n": 82,
+   "where": "The essay, section 4",
+   "claim": "Barriers overlap",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "Around 30% of physical tasks are limited either by preferences or by regulation (14% + a quarter > 30%, implying overlap); For nearly all tasks, costs would also need to fall",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=Around%2030%25%20of%20physical%20tasks%20are%20limited%20either"
+  },
+  {
+   "n": 83,
+   "where": "The essay, section 4",
+   "claim": "Capabilities and cost are the biggest",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "We find that capabilities and costs are the biggest impediments to robot adoption",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=We%20find%20that%20capabilities%20and%20costs%20are%20the"
+  },
+  {
+   "n": 84,
+   "where": "The essay, section 4",
+   "claim": "Regulations wouldn't allow 14% of physical tasks",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "today's regulations wouldn't allow robots to perform 14% of physical tasks",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=today%27s%20regulations%20wouldn%27t%20allow%20robots%20to%20perform%2014%25"
+  },
+  {
+   "n": 85,
+   "where": "The essay, section 4",
+   "claim": "Preferences hold robots back from a quarter",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "Human preferences hold back robots for a quarter of tasks",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=Human%20preferences%20hold%20back%20robots%20for%20a%20quarter"
+  },
+  {
+   "n": 86,
+   "where": "The essay, section 4",
+   "claim": "Claude applied authors' rubric that needed many judgment calls",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "This rubric requires many judgment calls",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=This%20rubric%20requires%20many%20judgment%20calls"
+  },
+  {
+   "n": 87,
+   "where": "The essay, section 4",
+   "claim": "Robot costs estimated with web searches starting from robots cited for each task",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "We prompt Claude to estimate costs using web search and the list of robots cited for each task",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=We%20prompt%20Claude%20to%20estimate%20costs%20using%20web"
+  },
+  {
+   "n": 88,
+   "where": "The essay, section 4",
+   "claim": "Careful first map, not a precise measurement",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "these cost estimates are approximate ... more suggestive",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=these%20cost%20estimates%20are%20approximate"
+  },
+  {
+   "n": 89,
+   "where": "The essay, section 4",
+   "claim": "Highly exposed workers 55 percentage points less likely to hold bachelor's or higher",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "These workers are also 55 percentage points less likely to hold a bachelor's degree or higher (top quintile vs unexposed)",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=These%20workers%20are%20also%2055%20percentage%20points%20less"
+  },
+  {
+   "n": 90,
+   "where": "The essay, section 4",
+   "claim": "Earn around $30 less per hour",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "earn around $30 less per hour",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=earn%20around%20%2430%20less%20per%20hour"
+  },
+  {
+   "n": 91,
+   "where": "The essay, section 4",
+   "claim": "Unemployment rate more than twice as high",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "face an unemployment rate more than twice as high",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=face%20an%20unemployment%20rate%20more%20than%20twice%20as"
+  },
+  {
+   "n": 92,
+   "where": "The essay, section 5",
+   "claim": "Industry and government data: robot prices fell roughly 3% a year since the 1990s",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "industry and government data suggest that robot prices have declined roughly 3% per year since the 1990s",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=industry%20and%20government%20data%20suggest%20that%20robot%20prices"
+  },
+  {
+   "n": 93,
+   "where": "The essay, section 5",
+   "claim": "Costs would need to fall about 70% for robots to be cheaper for 10% of today's work",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "For robots to be cost-competitive for 10% of human work today, costs would need to decline about 70%",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=For%20robots%20to%20be%20cost-competitive%20for%2010%25%20of"
+  },
+  {
+   "n": 94,
+   "where": "The essay, section 5",
+   "claim": "At 3% a year, around 40 years",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "At a 3% decline per year, that would take around 40 years",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=At%20a%203%25%20decline%20per%20year%2C%20that%20would"
+  },
+  {
+   "n": 95,
+   "where": "The essay, section 5",
+   "claim": "A 20% fall takes around seven years",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "it would take around seven years to reach a 20% cost decline",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=it%20would%20take%20around%20seven%20years%20to%20reach"
+  },
+  {
+   "n": 96,
+   "where": "The essay, section 5",
+   "claim": "Warehouses are the report's example of a structured workplace",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "like a logistics warehouse (E2)",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=like%20a%20logistics%20warehouse%20%28E2%29"
+  },
+  {
+   "n": 97,
+   "where": "The essay, section 5",
+   "claim": "IFR said on Sept. 30",
+   "verdict": "confirmed",
+   "url": "https://ifr.org/ifr-press-releases/news/global-sales-of-professional-service-robots-surge-24-percent",
+   "source": "IFR service robots",
+   "passage": "Frankfurt, Sep 30, 2026",
+   "deep": "https://ifr.org/ifr-press-releases/news/global-sales-of-professional-service-robots-surge-24-percent#:~:text=Frankfurt%2C%20Sep%2030%2C%202026"
+  },
+  {
+   "n": 98,
+   "where": "The essay, section 5",
+   "claim": "Transportation and logistics stayed top use for professional service robots",
+   "verdict": "confirmed",
+   "url": "https://ifr.org/ifr-press-releases/news/global-sales-of-professional-service-robots-surge-24-percent",
+   "source": "IFR service robots",
+   "passage": "Transportation and logistics stays in the lead as top application",
+   "deep": "https://ifr.org/ifr-press-releases/news/global-sales-of-professional-service-robots-surge-24-percent#:~:text=Transportation%20and%20logistics%20stays%20in%20the%20lead%20as"
+  },
+  {
+   "n": 99,
+   "where": "The essay, section 5",
+   "claim": "117,500 sold in 2025",
+   "verdict": "confirmed",
+   "url": "https://ifr.org/ifr-press-releases/news/global-sales-of-professional-service-robots-surge-24-percent",
+   "source": "IFR service robots",
+   "passage": "with 117,500 units sold in 2025 (note: page subheading rounds to 117,000)",
+   "deep": "https://ifr.org/ifr-press-releases/news/global-sales-of-professional-service-robots-surge-24-percent#:~:text=with%20117%2C500%20units%20sold%20in%202025%20%28note%3A%20page"
+  },
+  {
+   "n": 100,
+   "where": "The essay, section 5",
+   "claim": "Full-size humanoid robots sold about 7,000",
+   "verdict": "confirmed",
+   "url": "https://ifr.org/ifr-press-releases/news/global-sales-of-professional-service-robots-surge-24-percent",
+   "source": "IFR service robots",
+   "passage": "In 2025, about 7,000 units of full-size humanoids (above 140 cm) were sold globally",
+   "deep": "https://ifr.org/ifr-press-releases/news/global-sales-of-professional-service-robots-surge-24-percent#:~:text=In%202025%2C%20about%207%2C000%20units%20of%20full-size%20humanoids"
+  },
+  {
+   "n": 101,
+   "where": "The essay, section 5",
+   "claim": "Of 10 most exposed occupations, nine are vehicle operators",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "Of these 10 occupations, 9 are vehicle operators",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=Of%20these%2010%20occupations%2C%209%20are%20vehicle%20operators"
+  },
+  {
+   "n": 102,
+   "where": "The essay, section 5",
+   "claim": "Taxi drivers top the list with index 2.2",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "Taxi drivers lead exposure with an index of 2.2",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=Taxi%20drivers%20lead%20exposure%20with%20an%20index%20of"
+  },
+  {
+   "n": 103,
+   "where": "The essay, section 5",
+   "claim": "Self-driving cars haven't replaced drivers at scale",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "Autonomous vehicles have yet to upend driving jobs at scale",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=Autonomous%20vehicles%20have%20yet%20to%20upend%20driving%20jobs"
+  },
+  {
+   "n": 104,
+   "where": "The essay, section 5",
+   "claim": "But the capability is there",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "Drive taxicabs ... E3 today",
+   "deep": ""
+  },
+  {
+   "n": 105,
+   "where": "The essay, section 5",
+   "claim": "On O*NET OnLine you can look up an occupation and read its task list",
+   "verdict": "confirmed",
+   "url": "https://www.onetonline.org/link/summary/53-7064.00",
+   "source": "O*NET OnLine",
+   "passage": "Occupation summary page 53-7064.00 lists 12 tasks; home page: find, search, or browse across 900+ occupations",
+   "deep": "https://www.onetonline.org/link/summary/53-7064.00#:~:text=Occupation%20summary%20page%2053-7064.00%20lists%2012%20tasks%3B%20home"
+  },
+  {
+   "n": 106,
+   "where": "The essay, section 5",
+   "claim": "How fast the gap closes, if prices keep falling",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "If robot price declines follow past trends, it will take 40 years",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=If%20robot%20price%20declines%20follow%20past%20trends%2C%20it"
+  },
+  {
+   "n": 107,
+   "where": "The essay, section 5",
+   "claim": "Anthropic's estimates, assuming robot prices fall 3% a year",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "At a 3% decline per year",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=At%20a%203%25%20decline%20per%20year"
+  },
+  {
+   "n": 108,
+   "where": "The essay, section 5",
+   "claim": "1977: robots can't do 62% of physical tasks",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "In 1977, robots could not do 62% of physical tasks",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=In%201977%2C%20robots%20could%20not%20do%2062%25%20of"
+  },
+  {
+   "n": 109,
+   "where": "The essay, section 5",
+   "claim": "Today: cheaper than people for 0.3% of job tasks",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "Robots are cost-competitive for just 0.3% of job tasks",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=Robots%20are%20cost-competitive%20for%20just%200.3%25%20of%20job"
+  },
+  {
+   "n": 110,
+   "where": "The essay, section 5",
+   "claim": "About 7 years: costs down 20%",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "around seven years to reach a 20% cost decline",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=around%20seven%20years%20to%20reach%20a%2020%25%20cost"
+  },
+  {
+   "n": 111,
+   "where": "The essay, section 5",
+   "claim": "About 40 years: costs down 70%, cheaper for 10% of today's work",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "cost-competitive for 10% of human work today, costs would need to decline about 70% ... around 40 years",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=cost-competitive%20for%2010%25%20of%20human%20work%20today%2C%20costs"
+  },
+  {
+   "n": 112,
+   "where": "The essay, section 5",
+   "claim": "Read your job like the study: look up occupation on O*NET OnLine, read task list, ask three questions",
+   "verdict": "confirmed",
+   "url": "https://www.onetonline.org/link/summary/53-7064.00",
+   "source": "O*NET OnLine",
+   "passage": "O*NET OnLine occupation pages list tasks (e.g. 53-7064.00); study asks 'can a robot today perform this task, and if so under what circumstances?' plus cost",
+   "deep": "https://www.onetonline.org/link/summary/53-7064.00#:~:text=O%2ANET%20OnLine%20occupation%20pages%20list%20tasks%20%28e.g.%2053-7064.00%29%3B"
+  },
+  {
+   "n": 113,
+   "where": "The essay, section 5",
+   "claim": "Same three questions work for chatbots and desk work",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "LLM exposure measures that assess capabilities but not costs (method parallels LLM exposure)",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=LLM%20exposure%20measures%20that%20assess%20capabilities%20but%20not"
+  },
+  {
+   "n": 114,
+   "where": "The essay",
+   "claim": "Pull quote taken from the essay's own words",
+   "verdict": "confirmed",
+   "url": "",
+   "source": "the issue itself",
+   "passage": "Identical sentence appears in sections[0].paragraphs[2]",
+   "deep": ""
+  },
+  {
+   "n": 115,
+   "where": "Further reading, item 1",
+   "claim": "What work can robots do? (Anthropic) - the report, with four settings, example tasks, cost method",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/what-work-can-robots-do",
+   "source": "Anthropic research",
+   "passage": "Page title 'What work can robots do?'; contains E0-E3, examples and cost method",
+   "deep": "https://www.anthropic.com/research/what-work-can-robots-do#:~:text=Page%20title%20%27What%20work%20can%20robots%20do%3F%27%3B%20contains"
+  },
+  {
+   "n": 116,
+   "where": "Further reading, item 2",
+   "claim": "O*NET OnLine; task lists sponsored by the Labor Department",
+   "verdict": "confirmed",
+   "url": "https://www.onetonline.org/",
+   "source": "onetonline.org",
+   "passage": "O*NET OnLine is sponsored by the U.S. Department of Labor",
+   "deep": "https://www.onetonline.org/#:~:text=O%2ANET%20OnLine%20is%20sponsored%20by%20the%20U.S.%20Department"
+  },
+  {
+   "n": 117,
+   "where": "Further reading, item 3",
+   "claim": "Five Million Robots now Operate in Factories Globally (IFR)",
+   "verdict": "confirmed",
+   "url": "https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally",
+   "source": "IFR",
+   "passage": "Headline: Five Million Robots now Operate in Factories Globally",
+   "deep": "https://ifr.org/ifr-press-releases/news/five-million-robots-now-operate-in-factories-globally#:~:text=Headline%3A%20Five%20Million%20Robots%20now%20Operate%20in%20Factories"
+  },
+  {
+   "n": 118,
+   "where": "Further reading, item 4",
+   "claim": "Labor market impacts of AI: A new measure and early evidence (Anthropic)",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/labor-market-impacts",
+   "source": "Anthropic labor-market post (further reading only)",
+   "passage": "Title: Labor market impacts of AI: A new measure and early evidence",
+   "deep": "https://www.anthropic.com/research/labor-market-impacts#:~:text=Title%3A%20Labor%20market%20impacts%20of%20AI%3A%20A%20new"
+  },
+  {
+   "n": 119,
+   "where": "Further reading, item 4",
+   "claim": "Background from March; same approach applied to chatbots/desk work",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/labor-market-impacts",
+   "source": "Anthropic labor-market post (further reading only)",
+   "passage": "Published March 5, 2026; 'Exposure is typically defined at the task level' (LLM exposure)",
+   "deep": "https://www.anthropic.com/research/labor-market-impacts#:~:text=Published%20March%205%2C%202026%3B%20%27Exposure%20is%20typically%20defined"
+  }
+ ],
+ "notes": [
+  "Window: all cited facts dated on or before D (2026-10-02). Anthropic report Sept 30, 2026; IFR Sept 24 and Sept 30, 2026; DigitalToday 2026-10-01 15:16 KST; MIXED dated Oct 2, 2026 (same day as D, not after; its facts duplicate the Sept 30 Anthropic report, which is co-cited). O*NET overview shows 'Site updated October 6, 2026' but the cited facts (DOL sponsorship, 900+ occupations, 19,000+ tasks) are long-standing.",
+  "Background: the only dated item older than the 45-day window is the March 5, 2026 Anthropic labor-market report in Further reading, labelled 'Background from March'. 1977 backtest figures are the Sept 30 report's own findings.",
+  "No 'ahead' block; 'What to watch' section relies only on figures published by Sept 30 (Anthropic, IFR).",
+  "Quotes all 14 words or fewer and attributed: 'can replace 74 percent of manual labor' (headline), 'mostly in limited settings', O*NET task line (10 words), 'Dig trenches', 'Teach dance students', 'difficult to predict exactly', 'requires many judgment calls'.",
+  "Minor precision notes (not errors): E0 26% is 100 minus 74; the page text says 'about a quarter'. E1 50% is the page's 'half'. The 'highly exposed workers' comparison on the page is top-quintile vs unexposed workers. IFR 117,500 is from the release body; its subheading says 117,000. The report's own $49,000 vs $45,000 figures differ by $4,000 while it states ~$2,500; the draft correctly reports the page's $2,500.",
+  "Final paragraph of sections[4] (no src) is general advice with no checkable factual claim; not counted.",
+  "Fetch method: pages opened with WebFetch on 2026-10-24 (direct curl blocked by proxy); passages are as returned by WebFetch."
+ ]
+}

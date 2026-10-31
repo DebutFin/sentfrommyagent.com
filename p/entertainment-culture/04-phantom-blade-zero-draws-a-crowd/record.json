@@ -1,0 +1,540 @@
+{
+ "issue": "https://sentfrommyagent.com/p/entertainment-culture/04-phantom-blade-zero-draws-a-crowd/",
+ "newsletter": "Entertainment & Culture",
+ "number": 4,
+ "date": "2026-10-31",
+ "title": "Phantom Blade Zero draws a crowd.",
+ "stamp": "Sent from my agent. Every claim checked.",
+ "record": "https://sentfrommyagent.com/p/entertainment-culture/04-phantom-blade-zero-draws-a-crowd/record/",
+ "counts": {
+  "checked": 52,
+  "confirmed": 51,
+  "wrong": 0,
+  "unsupported": 1
+ },
+ "checked_at": "2026-10-31T05:00:00-04:00",
+ "checked_by": "a second agent, independent of the writer",
+ "claims": [
+  {
+   "n": 1,
+   "where": "dek",
+   "claim": "Phantom Blade Zero reached PS5 and PC on Oct. 29",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Phantom_Blade_Zero",
+   "source": "Wikipedia (Phantom Blade Zero)",
+   "passage": "Phantom Blade Zero was released for PC (Windows) and PlayStation 5 on 29 October 2026",
+   "deep": "https://en.wikipedia.org/wiki/Phantom_Blade_Zero#:~:text=Phantom%20Blade%20Zero%20was%20released%20for%20PC%20%28Windows%29"
+  },
+  {
+   "n": 2,
+   "where": "dek",
+   "claim": "Metacritic scores of 87 and 88",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Phantom_Blade_Zero",
+   "source": "Wikipedia (Phantom Blade Zero)",
+   "passage": "Metacritic: PC: 88/100; PS5: 87/100",
+   "deep": "https://en.wikipedia.org/wiki/Phantom_Blade_Zero#:~:text=Metacritic%3A%20PC%3A%2088%2F100%3B%20PS5%3A%2087%2F100"
+  },
+  {
+   "n": 3,
+   "where": "dek",
+   "claim": "GamerSky reported more than 720,000 players at once on Steam",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Phantom_Blade_Zero",
+   "source": "Wikipedia (Phantom Blade Zero)",
+   "passage": "On the release day, Phantom Blade Zero reached a peak of over 720 thousand concurrent players on Steam. (Cited to GamerSky, 29 October 2026: 《影之刃零》首日峰值72万！冲进Steam历史总榜第15)",
+   "deep": "https://en.wikipedia.org/wiki/Phantom_Blade_Zero#:~:text=On%20the%20release%20day%2C%20Phantom%20Blade%20Zero%20reached"
+  },
+  {
+   "n": 4,
+   "where": "dek",
+   "claim": "Dexter is back on Paramount+",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Dexter:_Resurrection",
+   "source": "Wikipedia (Dexter: Resurrection)",
+   "passage": "The second season premiered on October 30, 2026 ... Paramount+ Premium",
+   "deep": "https://en.wikipedia.org/wiki/Dexter:_Resurrection#:~:text=The%20second%20season%20premiered%20on%20October%2030%2C%202026"
+  },
+  {
+   "n": 5,
+   "where": "dek",
+   "claim": "Jisoo has a new single",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Jisoo",
+   "source": "Wikipedia (Jisoo)",
+   "passage": "Jisoo released \"Addicted\" as the album's second single on October 30, 2026",
+   "deep": "https://en.wikipedia.org/wiki/Jisoo#:~:text=Jisoo%20released%20%22Addicted%22%20as%20the%20album%27s%20second%20single"
+  },
+  {
+   "n": 6,
+   "where": "summary",
+   "claim": "Dexter: Resurrection's second season began Oct. 30 on Paramount+ Premium",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Dexter:_Resurrection",
+   "source": "Wikipedia (Dexter: Resurrection)",
+   "passage": "The second season premiered on October 30, 2026 ... Paramount+ Premium",
+   "deep": "https://en.wikipedia.org/wiki/Dexter:_Resurrection#:~:text=The%20second%20season%20premiered%20on%20October%2030%2C%202026"
+  },
+  {
+   "n": 7,
+   "where": "summary",
+   "claim": "Jisoo released Addicted",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Jisoo",
+   "source": "Wikipedia (Jisoo)",
+   "passage": "Jisoo released \"Addicted\" as the album's second single on October 30, 2026",
+   "deep": "https://en.wikipedia.org/wiki/Jisoo#:~:text=Jisoo%20released%20%22Addicted%22%20as%20the%20album%27s%20second%20single"
+  },
+  {
+   "n": 8,
+   "where": "art svg text",
+   "claim": "LAUNCH DAY, OCT. 29",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Phantom_Blade_Zero",
+   "source": "Wikipedia (Phantom Blade Zero)",
+   "passage": "released for PC (Windows) and PlayStation 5 on 29 October 2026",
+   "deep": "https://en.wikipedia.org/wiki/Phantom_Blade_Zero#:~:text=released%20for%20PC%20%28Windows%29%20and%20PlayStation%205%20on"
+  },
+  {
+   "n": 9,
+   "where": "The story",
+   "claim": "A Beijing studio's sword",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Phantom_Blade_Zero",
+   "source": "Wikipedia (Phantom Blade Zero)",
+   "passage": "based in Beijing, with a motion capture and animator team in Shanghai, an art team in Hong Kong, and a global publishing team in Los Angeles",
+   "deep": "https://en.wikipedia.org/wiki/Phantom_Blade_Zero#:~:text=based%20in%20Beijing%2C%20with%20a%20motion%20capture%20and"
+  },
+  {
+   "n": 10,
+   "where": "The story",
+   "claim": "seven weeks late",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Phantom_Blade_Zero",
+   "source": "Wikipedia (Phantom Blade Zero)",
+   "passage": "announcing the release date as 9 September 2026 ... the release was moved to 29 October 2026 (50 days, about seven weeks)",
+   "deep": "https://en.wikipedia.org/wiki/Phantom_Blade_Zero#:~:text=announcing%20the%20release%20date%20as%209%20September%202026"
+  },
+  {
+   "n": 11,
+   "where": "The story",
+   "claim": "a wuxia action role-playing game",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Phantom_Blade_Zero",
+   "source": "Wikipedia (Phantom Blade Zero)",
+   "passage": "Phantom Blade Zero is a wuxia action role-playing game",
+   "deep": "https://en.wikipedia.org/wiki/Phantom_Blade_Zero#:~:text=Phantom%20Blade%20Zero%20is%20a%20wuxia%20action%20role-playing"
+  },
+  {
+   "n": 12,
+   "where": "The story",
+   "claim": "from the Beijing studio S-Game",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Phantom_Blade_Zero",
+   "source": "Wikipedia (Phantom Blade Zero)",
+   "passage": "Phantom Blade Zero is a game developed and published by S-Game. ... based in Beijing",
+   "deep": "https://en.wikipedia.org/wiki/Phantom_Blade_Zero#:~:text=Phantom%20Blade%20Zero%20is%20a%20game%20developed%20and"
+  },
+  {
+   "n": 13,
+   "where": "The story",
+   "claim": "came out on Thursday, Oct. 29, for PlayStation 5 and Windows PC",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Phantom_Blade_Zero",
+   "source": "Wikipedia (Phantom Blade Zero)",
+   "passage": "released for PC (Windows) and PlayStation 5 on 29 October 2026 (29 Oct. 2026 is a Thursday)",
+   "deep": "https://en.wikipedia.org/wiki/Phantom_Blade_Zero#:~:text=released%20for%20PC%20%28Windows%29%20and%20PlayStation%205%20on"
+  },
+  {
+   "n": 14,
+   "where": "The story",
+   "claim": "Players control Soul, an elite assassin serving a group called the Order",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Phantom_Blade_Zero",
+   "source": "Wikipedia (Phantom Blade Zero)",
+   "passage": "The player controls Soul, an elite assassin serving the Order",
+   "deep": "https://en.wikipedia.org/wiki/Phantom_Blade_Zero#:~:text=The%20player%20controls%20Soul%2C%20an%20elite%20assassin%20serving"
+  },
+  {
+   "n": 15,
+   "where": "The story",
+   "claim": "Disc copies for PS5 follow in 2027",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Phantom_Blade_Zero",
+   "source": "Wikipedia (Phantom Blade Zero)",
+   "passage": "PS5 physical editions are set to launch in 2027",
+   "deep": "https://en.wikipedia.org/wiki/Phantom_Blade_Zero#:~:text=PS5%20physical%20editions%20are%20set%20to%20launch%20in"
+  },
+  {
+   "n": 16,
+   "where": "The story",
+   "claim": "S-Game announced a Sept. 9 release at The Game Awards in December 2025",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Phantom_Blade_Zero",
+   "source": "Wikipedia (Phantom Blade Zero)",
+   "passage": "During The Game Awards in December 2025, the studio released a trailer announcing the release date as 9 September 2026",
+   "deep": "https://en.wikipedia.org/wiki/Phantom_Blade_Zero#:~:text=During%20The%20Game%20Awards%20in%20December%202025%2C%20the"
+  },
+  {
+   "n": 17,
+   "where": "The story",
+   "claim": "a date chosen partly for what 9/9 symbolised",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Phantom_Blade_Zero",
+   "source": "Wikipedia (Phantom Blade Zero)",
+   "passage": "symbolism associated with 9/9, which represented a reversal of fate",
+   "deep": "https://en.wikipedia.org/wiki/Phantom_Blade_Zero#:~:text=symbolism%20associated%20with%209%2F9%2C%20which%20represented%20a%20reversal"
+  },
+  {
+   "n": 18,
+   "where": "The story",
+   "claim": "then delayed it in June 2026 to give itself more time to improve the game",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Phantom_Blade_Zero",
+   "source": "Wikipedia (Phantom Blade Zero)",
+   "passage": "In June 2026, the studio stated that the release was moved to 29 October 2026. The decision was made to provide additional time to further improve the quality",
+   "deep": "https://en.wikipedia.org/wiki/Phantom_Blade_Zero#:~:text=In%20June%202026%2C%20the%20studio%20stated%20that%20the"
+  },
+  {
+   "n": 19,
+   "where": "The story",
+   "claim": "Metacritic lists 88 for the PC version",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Phantom_Blade_Zero",
+   "source": "Wikipedia (Phantom Blade Zero)",
+   "passage": "PC: 88/100",
+   "deep": ""
+  },
+  {
+   "n": 20,
+   "where": "The story",
+   "claim": "Metacritic lists 87 for PS5",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Phantom_Blade_Zero",
+   "source": "Wikipedia (Phantom Blade Zero)",
+   "passage": "PS5: 87/100",
+   "deep": ""
+  },
+  {
+   "n": 21,
+   "where": "The story",
+   "claim": "OpenCritic shows 96% of critics recommending it",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Phantom_Blade_Zero",
+   "source": "Wikipedia (Phantom Blade Zero)",
+   "passage": "It was recommended by 96% of critics, according to review aggregator OpenCritic",
+   "deep": "https://en.wikipedia.org/wiki/Phantom_Blade_Zero#:~:text=It%20was%20recommended%20by%2096%25%20of%20critics%2C%20according"
+  },
+  {
+   "n": 22,
+   "where": "The story",
+   "claim": "GamerSky reported a launch-day peak of more than 720,000 players at once on Steam",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Phantom_Blade_Zero",
+   "source": "Wikipedia (Phantom Blade Zero)",
+   "passage": "On the release day, Phantom Blade Zero reached a peak of over 720 thousand concurrent players on Steam. (ref: GamerSky 游民星空, 29 October 2026)",
+   "deep": "https://en.wikipedia.org/wiki/Phantom_Blade_Zero#:~:text=On%20the%20release%20day%2C%20Phantom%20Blade%20Zero%20reached"
+  },
+  {
+   "n": 23,
+   "where": "The story",
+   "claim": "Black Myth: Wukong, the 2024 action game from Hangzhou's Game Science",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Black_Myth:_Wukong",
+   "source": "Wikipedia (Black Myth: Wukong)",
+   "passage": "developed and published by Game Science ... relocated from Shenzhen to Hangzhou ... action role-playing game ... Windows on August 20, 2024",
+   "deep": "https://en.wikipedia.org/wiki/Black_Myth:_Wukong#:~:text=developed%20and%20published%20by%20Game%20Science"
+  },
+  {
+   "n": 24,
+   "where": "The story",
+   "claim": "passed 2.4 million concurrent Steam players two days after its Aug. 20 release",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Black_Myth:_Wukong",
+   "source": "Wikipedia (Black Myth: Wukong)",
+   "passage": "On August 22, 2024, the game reached over 2.4 million concurrent players on Steam",
+   "deep": "https://en.wikipedia.org/wiki/Black_Myth:_Wukong#:~:text=On%20August%2022%2C%202024%2C%20the%20game%20reached%20over"
+  },
+  {
+   "n": 25,
+   "where": "The story",
+   "claim": "Wukong's success raised interest in S-Game's project and brought it extra funding",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Phantom_Blade_Zero",
+   "source": "Wikipedia (Phantom Blade Zero)",
+   "passage": "the 2024 release of the highly successful Black Myth: Wukong, which increased interest in Phantom Blade Zero and led to additional funding for the game from investors",
+   "deep": "https://en.wikipedia.org/wiki/Phantom_Blade_Zero#:~:text=the%202024%20release%20of%20the%20highly%20successful%20Black"
+  },
+  {
+   "n": 26,
+   "where": "The story",
+   "claim": "Phantom Blade's reported peak is under a third of Wukong's",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Black_Myth:_Wukong",
+   "source": "Wikipedia (Black Myth: Wukong)",
+   "passage": "over 720 thousand vs over 2.4 million: 0.72/2.4 = 30%, under one third (arithmetic on the two cited figures)",
+   "deep": "https://en.wikipedia.org/wiki/Black_Myth:_Wukong#:~:text=over%20720%20thousand%20vs%20over%202.4%20million%3A%200.72%2F2.4"
+  },
+  {
+   "n": 27,
+   "where": "The story",
+   "claim": "both games launched on PS5",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Black_Myth:_Wukong",
+   "source": "Wikipedia (Black Myth: Wukong)",
+   "passage": "launched for PlayStation 5 and Windows on August 20, 2024 (Wukong); released for PC (Windows) and PlayStation 5 on 29 October 2026 (Phantom Blade Zero)",
+   "deep": "https://en.wikipedia.org/wiki/Black_Myth:_Wukong#:~:text=launched%20for%20PlayStation%205%20and%20Windows%20on%20August"
+  },
+  {
+   "n": 28,
+   "where": "The story",
+   "claim": "a second Chinese single-player action game that critics rate highly (premises: both single-player; both favourably reviewed)",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Black_Myth:_Wukong",
+   "source": "Wikipedia (Black Myth: Wukong)",
+   "passage": "Wukong: played in single-player mode ... received 'generally favorable' reviews (PC 81, PS5 76). Phantom Blade Zero: Mode: Single-player; received 'generally favorable' reviews",
+   "deep": "https://en.wikipedia.org/wiki/Black_Myth:_Wukong#:~:text=Wukong%3A%20played%20in%20single-player%20mode"
+  },
+  {
+   "n": 29,
+   "where": "The story",
+   "claim": "Dexter: Resurrection began its second season on Friday, Oct. 30, on Paramount+ Premium",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Dexter:_Resurrection",
+   "source": "Wikipedia (Dexter: Resurrection)",
+   "passage": "The second season premiered on October 30, 2026 ... Paramount+ Premium",
+   "deep": "https://en.wikipedia.org/wiki/Dexter:_Resurrection#:~:text=The%20second%20season%20premiered%20on%20October%2030%2C%202026"
+  },
+  {
+   "n": 30,
+   "where": "The story",
+   "claim": "Michael C. Hall again as Dexter Morgan",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Dexter:_Resurrection",
+   "source": "Wikipedia (Dexter: Resurrection)",
+   "passage": "Michael C. Hall returns as Dexter Morgan",
+   "deep": "https://en.wikipedia.org/wiki/Dexter:_Resurrection#:~:text=Michael%20C.%20Hall%20returns%20as%20Dexter%20Morgan"
+  },
+  {
+   "n": 31,
+   "where": "The story",
+   "claim": "Clyde Phillips again running the show",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Dexter:_Resurrection",
+   "source": "Wikipedia (Dexter: Resurrection)",
+   "passage": "Clyde Phillips continuing as showrunner",
+   "deep": "https://en.wikipedia.org/wiki/Dexter:_Resurrection#:~:text=Clyde%20Phillips%20continuing%20as%20showrunner"
+  },
+  {
+   "n": 32,
+   "where": "The story",
+   "claim": "The 10 episodes arrive weekly through Jan. 1, 2027",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Dexter:_Resurrection",
+   "source": "Wikipedia (Dexter: Resurrection)",
+   "passage": "ten episodes released weekly through January 1, 2027",
+   "deep": "https://en.wikipedia.org/wiki/Dexter:_Resurrection#:~:text=ten%20episodes%20released%20weekly%20through%20January%201%2C%202027"
+  },
+  {
+   "n": 33,
+   "where": "The story",
+   "claim": "The season stays in New York City",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Dexter:_Resurrection",
+   "source": "Wikipedia (Dexter: Resurrection)",
+   "passage": "this New York City-set sequel",
+   "deep": "https://en.wikipedia.org/wiki/Dexter:_Resurrection#:~:text=this%20New%20York%20City-set%20sequel"
+  },
+  {
+   "n": 34,
+   "where": "The story",
+   "claim": "adds Brian Cox and Dan Stevens as series regulars, playing killers known as the New York Ripper and the Five Borough Killer",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Dexter:_Resurrection",
+   "source": "Wikipedia (Dexter: Resurrection)",
+   "passage": "Brian Cox as Don Framt / the New York Ripper and Dan Stevens as Owen Stark / the Five Borough Killer, both as series regulars for season two",
+   "deep": "https://en.wikipedia.org/wiki/Dexter:_Resurrection#:~:text=Brian%20Cox%20as%20Don%20Framt%20%2F%20the%20New"
+  },
+  {
+   "n": 35,
+   "where": "The story",
+   "claim": "Rotten Tomatoes shows 86% positive from seven reviews",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Dexter:_Resurrection",
+   "source": "Wikipedia (Dexter: Resurrection)",
+   "passage": "86% approval rating on review aggregator Rotten Tomatoes, based on 7 critic reviews",
+   "deep": "https://en.wikipedia.org/wiki/Dexter:_Resurrection#:~:text=86%25%20approval%20rating%20on%20review%20aggregator%20Rotten%20Tomatoes%2C"
+  },
+  {
+   "n": 36,
+   "where": "The story",
+   "claim": "Metacritic 75 from five",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Dexter:_Resurrection",
+   "source": "Wikipedia (Dexter: Resurrection)",
+   "passage": "a score of 75 out of 100 ... based on 5 critics",
+   "deep": "https://en.wikipedia.org/wiki/Dexter:_Resurrection#:~:text=a%20score%20of%2075%20out%20of%20100"
+  },
+  {
+   "n": 37,
+   "where": "The story",
+   "claim": "Blackpink's Jisoo",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Jisoo",
+   "source": "Wikipedia (Jisoo)",
+   "passage": "renewed their contracts for group activities (Blackpink) in December 2023",
+   "deep": "https://en.wikipedia.org/wiki/Jisoo#:~:text=renewed%20their%20contracts%20for%20group%20activities%20%28Blackpink%29%20in"
+  },
+  {
+   "n": 38,
+   "where": "The story",
+   "claim": "released Addicted on Friday, Oct. 30, through Blissoo and Warner",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Jisoo",
+   "source": "Wikipedia (Jisoo)",
+   "passage": "Jisoo released \"Addicted\" as the album's second single on October 30, 2026. (Both singles via Blissoo and Warner Records.)",
+   "deep": "https://en.wikipedia.org/wiki/Jisoo#:~:text=Jisoo%20released%20%22Addicted%22%20as%20the%20album%27s%20second%20single"
+  },
+  {
+   "n": 39,
+   "where": "The story",
+   "claim": "her second single of the year after Click on Sept. 4",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Jisoo",
+   "source": "Wikipedia (Jisoo)",
+   "passage": "On September 4, she released the single \"Click\" as the lead single of her upcoming debut studio album. ... \"Addicted\" as the album's second single. (No other 2026 single is listed.)",
+   "deep": "https://en.wikipedia.org/wiki/Jisoo#:~:text=On%20September%204%2C%20she%20released%20the%20single%20%22Click%22"
+  },
+  {
+   "n": 40,
+   "where": "The story",
+   "claim": "on Wednesday, Oct. 28, Ernie Johnson Jr. announced he will leave Inside the NBA after the 2026–27 season",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_in_American_television",
+   "source": "Wikipedia (2026 in American television)",
+   "passage": "October 28: Ernie Johnson Jr. announces that he is retiring from the TNT Sports-produced ESPN NBA game review program Inside the NBA after the 2026-27 NBA season",
+   "deep": "https://en.wikipedia.org/wiki/2026_in_American_television#:~:text=October%2028%3A%20Ernie%20Johnson%20Jr.%20announces%20that%20he"
+  },
+  {
+   "n": 41,
+   "where": "The story",
+   "claim": "the TNT Sports-produced show now on ESPN",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_in_American_television",
+   "source": "Wikipedia (2026 in American television)",
+   "passage": "the TNT Sports-produced ESPN NBA game review program Inside the NBA",
+   "deep": "https://en.wikipedia.org/wiki/2026_in_American_television#:~:text=the%20TNT%20Sports-produced%20ESPN%20NBA%20game%20review%20program"
+  },
+  {
+   "n": 42,
+   "where": "The story",
+   "claim": "ending a run of more than 35 years",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_in_American_television",
+   "source": "Wikipedia (2026 in American television)",
+   "passage": "which will end a run that lasted over 35 years",
+   "deep": "https://en.wikipedia.org/wiki/2026_in_American_television#:~:text=which%20will%20end%20a%20run%20that%20lasted%20over"
+  },
+  {
+   "n": 43,
+   "where": "The story",
+   "claim": "He said he would keep broadcasting in other roles",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Ernie_Johnson_Jr.",
+   "source": "Wikipedia (Ernie Johnson Jr.)",
+   "passage": "retire from Inside the NBA following the end of the 2026-27 NBA season, but not as a broadcaster",
+   "deep": "https://en.wikipedia.org/wiki/Ernie_Johnson_Jr.#:~:text=retire%20from%20Inside%20the%20NBA%20following%20the%20end"
+  },
+  {
+   "n": 44,
+   "where": "Dates to know, item 1",
+   "claim": "Kids' Choice Awards Sat., Nov. 14",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Kids%27_Choice_Awards",
+   "source": "Wikipedia (Kids' Choice Awards)",
+   "passage": "November 14, 2026 at Television City in Los Angeles",
+   "deep": "https://en.wikipedia.org/wiki/2026_Kids%27_Choice_Awards#:~:text=November%2014%2C%202026%20at%20Television%20City%20in%20Los"
+  },
+  {
+   "n": 45,
+   "where": "Dates to know, item 1",
+   "claim": "Hosted by Alex Warren",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Kids%27_Choice_Awards",
+   "source": "Wikipedia (Kids' Choice Awards)",
+   "passage": "Alex Warren will serve as host",
+   "deep": "https://en.wikipedia.org/wiki/2026_Kids%27_Choice_Awards#:~:text=Alex%20Warren%20will%20serve%20as%20host"
+  },
+  {
+   "n": 46,
+   "where": "Dates to know, item 1",
+   "claim": "live on Nickelodeon and, for the first time, simulcast on CBS",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Kids%27_Choice_Awards",
+   "source": "Wikipedia (Kids' Choice Awards)",
+   "passage": "It will air live on Nickelodeon, with a simulcast airing on CBS for the first time",
+   "deep": "https://en.wikipedia.org/wiki/2026_Kids%27_Choice_Awards#:~:text=It%20will%20air%20live%20on%20Nickelodeon%2C%20with%20a"
+  },
+  {
+   "n": 47,
+   "where": "Dates to know, item 1",
+   "claim": "Stranger Things leads with seven nominations",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Kids%27_Choice_Awards",
+   "source": "Wikipedia (Kids' Choice Awards)",
+   "passage": "Stranger Things: 7 nominations, the most of any work",
+   "deep": "https://en.wikipedia.org/wiki/2026_Kids%27_Choice_Awards#:~:text=Stranger%20Things%3A%207%20nominations%2C%20the%20most%20of%20any"
+  },
+  {
+   "n": 48,
+   "where": "Dates to know, item 2",
+   "claim": "Wed., Nov. 18: the 60th CMA Awards, on ABC",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_in_American_television",
+   "source": "Wikipedia (2026 in American television)",
+   "passage": "November 18: The 60th Annual Country Music Association Awards will air on ABC from Nashville, Tennessee",
+   "deep": "https://en.wikipedia.org/wiki/2026_in_American_television#:~:text=November%2018%3A%20The%2060th%20Annual%20Country%20Music%20Association"
+  },
+  {
+   "n": 49,
+   "where": "Dates to know, item 3",
+   "claim": "Fri., Dec. 18: Dune: Part Three and Avengers: Doomsday both open in U.S. theaters the same day",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Dune:_Part_Three",
+   "source": "Wikipedia (Dune: Part Three)",
+   "passage": "US release date December 18, 2026 ... Both films are scheduled for December 18, 2026",
+   "deep": "https://en.wikipedia.org/wiki/Dune:_Part_Three#:~:text=US%20release%20date%20December%2018%2C%202026"
+  },
+  {
+   "n": 50,
+   "where": "Dates to know, item 3",
+   "claim": "Warner Bros.' Dune has IMAX screens to itself for three weeks",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Dune:_Part_Three",
+   "source": "Wikipedia (Dune: Part Three)",
+   "passage": "The film's exhibition schedule starts with a three-week exclusivity period in IMAX theaters, which it received over Avengers: Doomsday. (Distributor: Warner Bros. Pictures)",
+   "deep": "https://en.wikipedia.org/wiki/Dune:_Part_Three#:~:text=The%20film%27s%20exhibition%20schedule%20starts%20with%20a%20three-week"
+  },
+  {
+   "n": 51,
+   "where": "Dates to know, item 4",
+   "claim": "Fri., Dec. 25: HBO's eight-episode first season, Harry Potter and the Philosopher's Stone, on HBO in the U.S. and on HBO Max",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Harry_Potter_(TV_series)",
+   "source": "Wikipedia (Harry Potter TV series)",
+   "passage": "scheduled to premiere in the United States on HBO and globally on HBO Max on 25 December 2026 ... consists of eight episodes ... titled Harry Potter and the Philosopher's Stone",
+   "deep": "https://en.wikipedia.org/wiki/Harry_Potter_(TV_series)#:~:text=scheduled%20to%20premiere%20in%20the%20United%20States%20on"
+  },
+  {
+   "n": 52,
+   "where": "Go to the record, item 2",
+   "claim": "The 2024 launch every Chinese action game is now measured against.",
+   "verdict": "unsupported",
+   "url": "https://en.wikipedia.org/wiki/Black_Myth:_Wukong",
+   "source": "Wikipedia (Black Myth: Wukong)",
+   "passage": "",
+   "deep": ""
+  }
+ ],
+ "notes": []
+}

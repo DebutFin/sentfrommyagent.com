@@ -1,0 +1,1053 @@
+{
+ "issue": "https://sentfrommyagent.com/p/do-not-disturb/05-the-neuron-that-saw-a-v/",
+ "newsletter": "Do Not Disturb",
+ "number": 5,
+ "date": "2026-10-23",
+ "title": "The neuron that saw a V.",
+ "stamp": "Sent from my agent. Every claim checked.",
+ "record": "https://sentfrommyagent.com/p/do-not-disturb/05-the-neuron-that-saw-a-v/record/",
+ "counts": {
+  "checked": 103,
+  "confirmed": 94,
+  "wrong": 1,
+  "unsupported": 8
+ },
+ "checked_at": "2026-10-24T17:40:00-04:00",
+ "checked_by": "a second agent, independent of the writer",
+ "claims": [
+  {
+   "n": 1,
+   "where": "title",
+   "claim": "The neuron that saw a V",
+   "verdict": "confirmed",
+   "url": "https://already-clean.goodfire.com/",
+   "source": "Goodfire",
+   "passage": "it's not a cat and car neuron, it's a V-shape neuron",
+   "deep": "https://already-clean.goodfire.com/#:~:text=it%27s%20not%20a%20cat%20and%20car%20neuron%2C%20it%27s"
+  },
+  {
+   "n": 2,
+   "where": "dek",
+   "claim": "A researcher who helped convince the field that AI models are a tangled knot",
+   "verdict": "confirmed",
+   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+   "source": "MIT Technology Review",
+   "passage": "a vast, tangled knot ... The phenomenon became known as superposition (2020 work by Cammarata and colleagues)",
+   "deep": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/#:~:text=a%20vast%2C%20tangled%20knot"
+  },
+  {
+   "n": 3,
+   "where": "dek",
+   "claim": "now says much of the knot came from how researchers looked",
+   "verdict": "confirmed",
+   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+   "source": "MIT Technology Review",
+   "passage": "headline \"We were looking at it wrong\"; early experiments \"fostered a kind of confirmation bias\"",
+   "deep": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/#:~:text=headline%20%22We%20were%20looking%20at%20it%20wrong%22%3B%20early"
+  },
+  {
+   "n": 4,
+   "where": "summary",
+   "claim": "Goodfire's Oct. 15 essay",
+   "verdict": "confirmed",
+   "url": "https://www.theneuron.ai/news/could-ai-models-be-easier-to-understand-than-scientists-thought/",
+   "source": "The Neuron",
+   "passage": "published by Goodfire on October 15, 2026",
+   "deep": "https://www.theneuron.ai/news/could-ai-models-be-easier-to-understand-than-scientists-thought/#:~:text=published%20by%20Goodfire%20on%20October%2015%2C%202026"
+  },
+  {
+   "n": 5,
+   "where": "summary",
+   "claim": "its critics say something is still missing",
+   "verdict": "confirmed",
+   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+   "source": "MIT Technology Review",
+   "passage": "Hilton: \"For a full understanding, we need to go beyond neurons\"; Nanda: not \"a significant update\"",
+   "deep": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/#:~:text=Hilton%3A%20%22For%20a%20full%20understanding%2C%20we%20need%20to"
+  },
+  {
+   "n": 6,
+   "where": "art svg text / art alt",
+   "claim": "label 4E:55 (neuron 4e:55)",
+   "verdict": "confirmed",
+   "url": "https://distill.pub/2020/circuits/zoom-in/",
+   "source": "Distill",
+   "passage": "4e:55 is a polysemantic neuron which responds to cat faces, fronts of cars, and cat legs",
+   "deep": "https://distill.pub/2020/circuits/zoom-in/#:~:text=4e%3A55%20is%20a%20polysemantic%20neuron%20which%20responds%20to"
+  },
+  {
+   "n": 7,
+   "where": "The essay, section 1",
+   "claim": "Goodfire published the essay on Oct. 15",
+   "verdict": "confirmed",
+   "url": "https://www.theneuron.ai/news/could-ai-models-be-easier-to-understand-than-scientists-thought/",
+   "source": "The Neuron",
+   "passage": "published by Goodfire on October 15, 2026",
+   "deep": "https://www.theneuron.ai/news/could-ai-models-be-easier-to-understand-than-scientists-thought/#:~:text=published%20by%20Goodfire%20on%20October%2015%2C%202026"
+  },
+  {
+   "n": 8,
+   "where": "The essay, section 1",
+   "claim": "Goodfire is an AI interpretability startup",
+   "verdict": "unsupported",
+   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+   "source": "MIT Technology Review",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 9,
+   "where": "The essay, section 1",
+   "claim": "essay by its researcher Nick Cammarata",
+   "verdict": "confirmed",
+   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+   "source": "MIT Technology Review",
+   "passage": "a researcher at the AI startup Goodfire",
+   "deep": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/#:~:text=a%20researcher%20at%20the%20AI%20startup%20Goodfire"
+  },
+  {
+   "n": 10,
+   "where": "The essay, section 1",
+   "claim": "titled \"Neural Networks Are Already Clean\"",
+   "verdict": "confirmed",
+   "url": "https://already-clean.goodfire.com/",
+   "source": "Goodfire",
+   "passage": "Neural Networks Are Already Clean",
+   "deep": "https://already-clean.goodfire.com/#:~:text=Neural%20Networks%20Are%20Already%20Clean"
+  },
+  {
+   "n": 11,
+   "where": "The essay, section 1",
+   "claim": "argument: insides may be far easier to read than assumed",
+   "verdict": "confirmed",
+   "url": "https://www.theneuron.ai/news/could-ai-models-be-easier-to-understand-than-scientists-thought/",
+   "source": "The Neuron",
+   "passage": "Could AI models be easier to understand than scientists thought?",
+   "deep": "https://www.theneuron.ai/news/could-ai-models-be-easier-to-understand-than-scientists-thought/#:~:text=Could%20AI%20models%20be%20easier%20to%20understand%20than"
+  },
+  {
+   "n": 12,
+   "where": "The essay, section 1",
+   "claim": "The essay spread fast",
+   "verdict": "confirmed",
+   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+   "source": "MIT Technology Review",
+   "passage": "whose 26,000-word viral blog post has AI safety folks celebrating",
+   "deep": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/#:~:text=whose%2026%2C000-word%20viral%20blog%20post%20has%20AI%20safety"
+  },
+  {
+   "n": 13,
+   "where": "The essay, section 1",
+   "claim": "MIT Technology Review covered it on Oct. 19",
+   "verdict": "confirmed",
+   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+   "source": "MIT Technology Review",
+   "passage": "byline October 19, 2026",
+   "deep": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/#:~:text=byline%20October%2019%2C%202026"
+  },
+  {
+   "n": 14,
+   "where": "The essay, section 1",
+   "claim": "calling it a 26,000-word blog post",
+   "verdict": "confirmed",
+   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+   "source": "MIT Technology Review",
+   "passage": "26,000-word blog post",
+   "deep": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/#:~:text=26%2C000-word%20blog%20post"
+  },
+  {
+   "n": 15,
+   "where": "The essay, section 1",
+   "claim": "TR notes that the claim is still unverified",
+   "verdict": "unsupported",
+   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+   "source": "MIT Technology Review",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 16,
+   "where": "The essay, section 1",
+   "claim": "One researcher called it the most important AI paper of the year",
+   "verdict": "confirmed",
+   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+   "source": "MIT Technology Review",
+   "passage": "called it \"the most important AI paper of the year\" (unnamed, via LinkedIn)",
+   "deep": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/#:~:text=called%20it%20%22the%20most%20important%20AI%20paper%20of"
+  },
+  {
+   "n": 17,
+   "where": "The essay, section 1",
+   "claim": "Stanford's Chris Potts called it little more than a hunch",
+   "verdict": "confirmed",
+   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+   "source": "MIT Technology Review",
+   "passage": "What Cammarata has shared is little more than a hunch, says Chris Potts at Stanford University (reporter's paraphrase, correctly unquoted)",
+   "deep": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/#:~:text=What%20Cammarata%20has%20shared%20is%20little%20more%20than"
+  },
+  {
+   "n": 18,
+   "where": "The essay, section 1",
+   "claim": "In 2020 he co-wrote an influential paper (Zoom In)",
+   "verdict": "confirmed",
+   "url": "https://distill.pub/2020/circuits/zoom-in/",
+   "source": "Distill",
+   "passage": "Published March 10, 2020; authors include Nick Cammarata, Chris Olah",
+   "deep": "https://distill.pub/2020/circuits/zoom-in/#:~:text=Published%20March%2010%2C%202020%3B%20authors%20include%20Nick%20Cammarata%2C"
+  },
+  {
+   "n": 19,
+   "where": "The essay, section 1",
+   "claim": "That work led to the idea that a model's parts are tangled",
+   "verdict": "confirmed",
+   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+   "source": "MIT Technology Review",
+   "passage": "Back in 2020, Cammarata and a few colleagues ... The phenomenon became known as superposition",
+   "deep": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/#:~:text=Back%20in%202020%2C%20Cammarata%20and%20a%20few%20colleagues"
+  },
+  {
+   "n": 20,
+   "where": "The essay, section 1",
+   "claim": "Now he argues much of the tangle came from how researchers looked",
+   "verdict": "confirmed",
+   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+   "source": "MIT Technology Review",
+   "passage": "\"We were looking at it wrong\"; experiments \"fostered a kind of confirmation bias\"",
+   "deep": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/#:~:text=%22We%20were%20looking%20at%20it%20wrong%22%3B%20experiments%20%22fostered"
+  },
+  {
+   "n": 21,
+   "where": "The essay, section 1",
+   "claim": "The best evidence for the knot was a neuron misread (highlighted)",
+   "verdict": "unsupported",
+   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+   "source": "MIT Technology Review",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 22,
+   "where": "The essay, section 1",
+   "claim": "March 2020: Zoom In describes neurons that respond to unrelated things",
+   "verdict": "confirmed",
+   "url": "https://distill.pub/2020/circuits/zoom-in/",
+   "source": "Distill",
+   "passage": "Published March 10, 2020; polysemantic: responds to multiple unrelated latent variables",
+   "deep": "https://distill.pub/2020/circuits/zoom-in/#:~:text=Published%20March%2010%2C%202020%3B%20polysemantic%3A%20responds%20to%20multiple"
+  },
+  {
+   "n": 23,
+   "where": "The essay, section 1",
+   "claim": "May 2024: Anthropic pulls 34 million features out of Claude 3 Sonnet",
+   "verdict": "confirmed",
+   "url": "https://transformer-circuits.pub/2024/scaling-monosemanticity/",
+   "source": "Anthropic interpretability",
+   "passage": "Published May 21, 2024; 33,554,432 (~34M) features",
+   "deep": "https://transformer-circuits.pub/2024/scaling-monosemanticity/#:~:text=Published%20May%2021%2C%202024%3B%2033%2C554%2C432%20%28~34M%29%20features"
+  },
+  {
+   "n": 24,
+   "where": "The essay, section 1",
+   "claim": "Oct. 15, 2026: Goodfire publishes the essay",
+   "verdict": "confirmed",
+   "url": "https://www.theneuron.ai/news/could-ai-models-be-easier-to-understand-than-scientists-thought/",
+   "source": "The Neuron",
+   "passage": "published by Goodfire on October 15, 2026",
+   "deep": "https://www.theneuron.ai/news/could-ai-models-be-easier-to-understand-than-scientists-thought/#:~:text=published%20by%20Goodfire%20on%20October%2015%2C%202026"
+  },
+  {
+   "n": 25,
+   "where": "The essay, section 1",
+   "claim": "Oct. 19, 2026: MIT Technology Review coverage",
+   "verdict": "confirmed",
+   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+   "source": "MIT Technology Review",
+   "passage": "October 19, 2026",
+   "deep": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/#:~:text=October%2019%2C%202026"
+  },
+  {
+   "n": 26,
+   "where": "The essay, section 1",
+   "claim": "TR: the claim is still unverified",
+   "verdict": "unsupported",
+   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+   "source": "MIT Technology Review",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 27,
+   "where": "The essay, section 2",
+   "claim": "neurons take numbers from the layer before, weigh them, produce a number",
+   "verdict": "confirmed",
+   "url": "https://distill.pub/2020/circuits/zoom-in/",
+   "source": "Distill",
+   "passage": "All neurons in our network are formed from linear combinations of neurons in the previous layer, followed by ReLU",
+   "deep": "https://distill.pub/2020/circuits/zoom-in/#:~:text=All%20neurons%20in%20our%20network%20are%20formed%20from"
+  },
+  {
+   "n": 28,
+   "where": "The essay, section 2",
+   "claim": "Training sets the weights; nobody writes them by hand",
+   "verdict": "confirmed",
+   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+   "source": "MIT Technology Review",
+   "passage": "grown like a garden, not built like a bridge",
+   "deep": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/#:~:text=grown%20like%20a%20garden%2C%20not%20built%20like%20a"
+  },
+  {
+   "n": 29,
+   "where": "The essay, section 2",
+   "claim": "TR describes these systems as grown like a garden, not built like a bridge",
+   "verdict": "confirmed",
+   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+   "source": "MIT Technology Review",
+   "passage": "grown like a garden, not built like a bridge",
+   "deep": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/#:~:text=grown%20like%20a%20garden%2C%20not%20built%20like%20a"
+  },
+  {
+   "n": 30,
+   "where": "The essay, section 2",
+   "claim": "Mechanistic interpretability is the branch Cammarata works in",
+   "verdict": "confirmed",
+   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+   "source": "MIT Technology Review",
+   "passage": "known as mechanistic interpretability ... tools that can probe individual neurons",
+   "deep": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/#:~:text=known%20as%20mechanistic%20interpretability"
+  },
+  {
+   "n": 31,
+   "where": "The essay, section 2",
+   "claim": "Mechanistic interpretability tries to explain a model's behavior from its parts (definition)",
+   "verdict": "unsupported",
+   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+   "source": "MIT Technology Review",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 32,
+   "where": "The essay, section 2",
+   "claim": "2020 bet: features are the fundamental unit of neural networks",
+   "verdict": "confirmed",
+   "url": "https://distill.pub/2020/circuits/zoom-in/",
+   "source": "Distill",
+   "passage": "Features are the fundamental unit of neural networks",
+   "deep": "https://distill.pub/2020/circuits/zoom-in/#:~:text=Features%20are%20the%20fundamental%20unit%20of%20neural%20networks"
+  },
+  {
+   "n": 33,
+   "where": "The essay, section 2",
+   "claim": "2020 bet: features connected by weights, forming circuits",
+   "verdict": "confirmed",
+   "url": "https://distill.pub/2020/circuits/zoom-in/",
+   "source": "Distill",
+   "passage": "Features are connected by weights, forming circuits",
+   "deep": "https://distill.pub/2020/circuits/zoom-in/#:~:text=Features%20are%20connected%20by%20weights%2C%20forming%20circuits"
+  },
+  {
+   "n": 34,
+   "where": "The essay, section 2",
+   "claim": "2020 bet: similar features and circuits across different models",
+   "verdict": "confirmed",
+   "url": "https://distill.pub/2020/circuits/zoom-in/",
+   "source": "Distill",
+   "passage": "Analogous features and circuits form across models and tasks",
+   "deep": "https://distill.pub/2020/circuits/zoom-in/#:~:text=Analogous%20features%20and%20circuits%20form%20across%20models%20and"
+  },
+  {
+   "n": 35,
+   "where": "The essay, section 2",
+   "claim": "2024: Anthropic clamped one feature high in Claude 3 Sonnet",
+   "verdict": "confirmed",
+   "url": "https://transformer-circuits.pub/2024/scaling-monosemanticity/",
+   "source": "Anthropic interpretability",
+   "passage": "Clamping the Golden Gate Bridge feature to 10x its maximum activation",
+   "deep": "https://transformer-circuits.pub/2024/scaling-monosemanticity/#:~:text=Clamping%20the%20Golden%20Gate%20Bridge%20feature%20to%2010x"
+  },
+  {
+   "n": 36,
+   "where": "The essay, section 2",
+   "claim": "the model started to identify itself as the Golden Gate Bridge",
+   "verdict": "confirmed",
+   "url": "https://transformer-circuits.pub/2024/scaling-monosemanticity/",
+   "source": "Anthropic interpretability",
+   "passage": "self-identify as the Golden Gate Bridge!",
+   "deep": "https://transformer-circuits.pub/2024/scaling-monosemanticity/#:~:text=self-identify%20as%20the%20Golden%20Gate%20Bridge%21"
+  },
+  {
+   "n": 37,
+   "where": "The essay, section 3",
+   "claim": "2020 paper called them polysemantic: respond to multiple unrelated inputs",
+   "verdict": "confirmed",
+   "url": "https://distill.pub/2020/circuits/zoom-in/",
+   "source": "Distill",
+   "passage": "A feature that responds to multiple unrelated latent variables, such as the cat/car neuron",
+   "deep": "https://distill.pub/2020/circuits/zoom-in/#:~:text=A%20feature%20that%20responds%20to%20multiple%20unrelated%20latent"
+  },
+  {
+   "n": 38,
+   "where": "The essay, section 3",
+   "claim": "example: neuron 4e:55 in InceptionV1",
+   "verdict": "confirmed",
+   "url": "https://distill.pub/2020/circuits/zoom-in/",
+   "source": "Distill",
+   "passage": "4e:55 is a polysemantic neuron",
+   "deep": "https://distill.pub/2020/circuits/zoom-in/#:~:text=4e%3A55%20is%20a%20polysemantic%20neuron"
+  },
+  {
+   "n": 39,
+   "where": "The essay, section 3",
+   "claim": "'best-known' example",
+   "verdict": "unsupported",
+   "url": "https://distill.pub/2020/circuits/zoom-in/",
+   "source": "Distill",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 40,
+   "where": "The essay, section 3",
+   "claim": "InceptionV1 is a small image-recognition model Google built in 2014",
+   "verdict": "confirmed",
+   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+   "source": "MIT Technology Review",
+   "passage": "Built by Google in 2014, Inception v1 is a far simpler model ... a small image-recognition model",
+   "deep": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/#:~:text=Built%20by%20Google%20in%202014%2C%20Inception%20v1%20is"
+  },
+  {
+   "n": 41,
+   "where": "The essay, section 3",
+   "claim": "responded to cat faces, fronts of cars and cat legs",
+   "verdict": "confirmed",
+   "url": "https://distill.pub/2020/circuits/zoom-in/",
+   "source": "Distill",
+   "passage": "responds to cat faces, fronts of cars, and cat legs",
+   "deep": "https://distill.pub/2020/circuits/zoom-in/#:~:text=responds%20to%20cat%20faces%2C%20fronts%20of%20cars%2C%20and"
+  },
+  {
+   "n": 42,
+   "where": "The essay, section 3",
+   "claim": "The explanation that took hold was superposition",
+   "verdict": "confirmed",
+   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+   "source": "MIT Technology Review",
+   "passage": "The phenomenon became known as superposition",
+   "deep": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/#:~:text=The%20phenomenon%20became%20known%20as%20superposition"
+  },
+  {
+   "n": 43,
+   "where": "The essay, section 3",
+   "claim": "more to represent than neurons, so it packs several features into the same neurons",
+   "verdict": "confirmed",
+   "url": "https://distill.pub/2020/circuits/zoom-in/",
+   "source": "Distill",
+   "passage": "a circuit spreads a feature across many neurons, presumably to pack more features into the limited number",
+   "deep": "https://distill.pub/2020/circuits/zoom-in/#:~:text=a%20circuit%20spreads%20a%20feature%20across%20many%20neurons%2C"
+  },
+  {
+   "n": 44,
+   "where": "The essay, section 3",
+   "claim": "real features spread across many neurons",
+   "verdict": "confirmed",
+   "url": "https://transformer-circuits.pub/2024/scaling-monosemanticity/",
+   "source": "Anthropic interpretability",
+   "passage": "represent more features than there are dimensions",
+   "deep": "https://transformer-circuits.pub/2024/scaling-monosemanticity/#:~:text=represent%20more%20features%20than%20there%20are%20dimensions"
+  },
+  {
+   "n": 45,
+   "where": "The essay, section 3",
+   "claim": "sparse autoencoder: separate network trained to break internal activity into features",
+   "verdict": "confirmed",
+   "url": "https://transformer-circuits.pub/2024/scaling-monosemanticity/",
+   "source": "Anthropic interpretability",
+   "passage": "training a sparse autoencoder (SAE) on the model activations",
+   "deep": "https://transformer-circuits.pub/2024/scaling-monosemanticity/#:~:text=training%20a%20sparse%20autoencoder%20%28SAE%29%20on%20the%20model"
+  },
+  {
+   "n": 46,
+   "where": "The essay, section 3",
+   "claim": "the SAE is the best-known untangling tool",
+   "verdict": "unsupported",
+   "url": "https://transformer-circuits.pub/2024/scaling-monosemanticity/",
+   "source": "Anthropic interpretability",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 47,
+   "where": "The essay, section 3",
+   "claim": "Anthropic 2024 trained one on Claude 3 Sonnet, largest ~34 million features",
+   "verdict": "confirmed",
+   "url": "https://transformer-circuits.pub/2024/scaling-monosemanticity/",
+   "source": "Anthropic interpretability",
+   "passage": "33,554,432 (~34M) features",
+   "deep": "https://transformer-circuits.pub/2024/scaling-monosemanticity/#:~:text=33%2C554%2C432%20%28~34M%29%20features"
+  },
+  {
+   "n": 48,
+   "where": "The essay, section 3",
+   "claim": "worked well enough to find the Golden Gate Bridge",
+   "verdict": "confirmed",
+   "url": "https://transformer-circuits.pub/2024/scaling-monosemanticity/",
+   "source": "Anthropic interpretability",
+   "passage": "Golden Gate Bridge feature",
+   "deep": "https://transformer-circuits.pub/2024/scaling-monosemanticity/#:~:text=Golden%20Gate%20Bridge%20feature"
+  },
+  {
+   "n": 49,
+   "where": "The essay, section 3",
+   "claim": "working assumption: decompose first, then read",
+   "verdict": "confirmed",
+   "url": "https://already-clean.goodfire.com/",
+   "source": "Goodfire",
+   "passage": "Decomposition-first ... training a second model – a decomposition such as a sparse autoencoder – to approximate the network",
+   "deep": ""
+  },
+  {
+   "n": 50,
+   "where": "The essay, section 3",
+   "claim": "Cammarata reads neuron 4e:55 as a V detector",
+   "verdict": "confirmed",
+   "url": "https://already-clean.goodfire.com/",
+   "source": "Goodfire",
+   "passage": "it's a V-shape neuron",
+   "deep": "https://already-clean.goodfire.com/#:~:text=it%27s%20a%20V-shape%20neuron"
+  },
+  {
+   "n": 51,
+   "where": "The essay, section 3",
+   "claim": "Its negative side is an O: round where the V is pointed",
+   "verdict": "confirmed",
+   "url": "https://already-clean.goodfire.com/",
+   "source": "Goodfire",
+   "passage": "I looked at its negative pole: an O, round where the V is pointed",
+   "deep": "https://already-clean.goodfire.com/#:~:text=I%20looked%20at%20its%20negative%20pole%3A%20an%20O%2C"
+  },
+  {
+   "n": 52,
+   "where": "The essay, section 3",
+   "claim": "drawing: V on one side, O on the other, labelled ON / OFF",
+   "verdict": "confirmed",
+   "url": "https://already-clean.goodfire.com/",
+   "source": "Goodfire",
+   "passage": "negative pole: an O",
+   "deep": "https://already-clean.goodfire.com/#:~:text=negative%20pole%3A%20an%20O"
+  },
+  {
+   "n": 53,
+   "where": "The essay, section 4",
+   "claim": "went back to 4e:55 with newer tools and AI agents",
+   "verdict": "confirmed",
+   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+   "source": "MIT Technology Review",
+   "passage": "has built new tools and deploys teams of AI agents to help him make sense of what he sees",
+   "deep": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/#:~:text=has%20built%20new%20tools%20and%20deploys%20teams%20of"
+  },
+  {
+   "n": 54,
+   "where": "The essay, section 4",
+   "claim": "agents proposed explanations and tested them",
+   "verdict": "confirmed",
+   "url": "https://already-clean.goodfire.com/",
+   "source": "Goodfire",
+   "passage": "Agents can map out neurons and circuits ... test explanations thoroughly",
+   "deep": "https://already-clean.goodfire.com/#:~:text=Agents%20can%20map%20out%20neurons%20and%20circuits"
+  },
+  {
+   "n": 55,
+   "where": "The essay, section 4",
+   "claim": "verdict: not a cat and car neuron, a V-shape neuron",
+   "verdict": "confirmed",
+   "url": "https://already-clean.goodfire.com/",
+   "source": "Goodfire",
+   "passage": "it's not a cat and car neuron, it's a V-shape neuron",
+   "deep": "https://already-clean.goodfire.com/#:~:text=it%27s%20not%20a%20cat%20and%20car%20neuron%2C%20it%27s"
+  },
+  {
+   "n": 56,
+   "where": "The essay, section 4",
+   "claim": "cats' faces and the front of a car seen from the side have that shape",
+   "verdict": "confirmed",
+   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+   "source": "MIT Technology Review",
+   "passage": "the face of a cat; the front of a car seen from the side",
+   "deep": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/#:~:text=the%20face%20of%20a%20cat%3B%20the%20front%20of"
+  },
+  {
+   "n": 57,
+   "where": "The essay, section 4",
+   "claim": "also fired on a pool table corner",
+   "verdict": "confirmed",
+   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+   "source": "MIT Technology Review",
+   "passage": "the corner of a pool table",
+   "deep": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/#:~:text=the%20corner%20of%20a%20pool%20table"
+  },
+  {
+   "n": 58,
+   "where": "The essay, section 4",
+   "claim": "the nose of a high-speed train",
+   "verdict": "confirmed",
+   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+   "source": "MIT Technology Review",
+   "passage": "the pointed nose of a Japanese high-speed train",
+   "deep": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/#:~:text=the%20pointed%20nose%20of%20a%20Japanese%20high-speed%20train"
+  },
+  {
+   "n": 59,
+   "where": "The essay, section 4",
+   "claim": "a fireboat's water jet",
+   "verdict": "confirmed",
+   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+   "source": "MIT Technology Review",
+   "passage": "a fire boat shooting water into the air from its deck",
+   "deep": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/#:~:text=a%20fire%20boat%20shooting%20water%20into%20the%20air"
+  },
+  {
+   "n": 60,
+   "where": "The essay, section 4",
+   "claim": "For the V neuron, the negative pole is an O",
+   "verdict": "confirmed",
+   "url": "https://already-clean.goodfire.com/",
+   "source": "Goodfire",
+   "passage": "its negative pole: an O, round where the V is pointed",
+   "deep": "https://already-clean.goodfire.com/#:~:text=its%20negative%20pole%3A%20an%20O%2C%20round%20where%20the"
+  },
+  {
+   "n": 61,
+   "where": "The essay, section 4",
+   "claim": "negative side matters almost as much as positive",
+   "verdict": "confirmed",
+   "url": "https://already-clean.goodfire.com/",
+   "source": "Goodfire",
+   "passage": "The negative side of neurons matters almost as much as positives for understanding them",
+   "deep": "https://already-clean.goodfire.com/#:~:text=The%20negative%20side%20of%20neurons%20matters%20almost%20as"
+  },
+  {
+   "n": 62,
+   "where": "The essay, section 4",
+   "claim": "numbers are for the last layer of InceptionV1",
+   "verdict": "confirmed",
+   "url": "https://already-clean.goodfire.com/",
+   "source": "Goodfire",
+   "passage": "neurons in that last layer are easily interpretable",
+   "deep": "https://already-clean.goodfire.com/#:~:text=neurons%20in%20that%20last%20layer%20are%20easily%20interpretable"
+  },
+  {
+   "n": 63,
+   "where": "The essay, section 4",
+   "claim": "~5% with tools of the time",
+   "verdict": "confirmed",
+   "url": "https://already-clean.goodfire.com/",
+   "source": "Goodfire",
+   "passage": "I put it around 5% with tools of that era",
+   "deep": "https://already-clean.goodfire.com/#:~:text=I%20put%20it%20around%205%25%20with%20tools%20of"
+  },
+  {
+   "n": 64,
+   "where": "The essay, section 4",
+   "claim": "~50% with better tools on the same network",
+   "verdict": "confirmed",
+   "url": "https://already-clean.goodfire.com/",
+   "source": "Goodfire",
+   "passage": "it's more like 50% on the same network",
+   "deep": "https://already-clean.goodfire.com/#:~:text=it%27s%20more%20like%2050%25%20on%20the%20same%20network"
+  },
+  {
+   "n": 65,
+   "where": "The essay, section 4",
+   "claim": "~70% retrained with modern methods",
+   "verdict": "confirmed",
+   "url": "https://already-clean.goodfire.com/",
+   "source": "Goodfire",
+   "passage": "more reasonable modern regularization ... it's more like 70%",
+   "deep": "https://already-clean.goodfire.com/#:~:text=more%20reasonable%20modern%20regularization"
+  },
+  {
+   "n": 66,
+   "where": "The essay, section 4",
+   "claim": "ConvNeXt of the same size ~99%",
+   "verdict": "confirmed",
+   "url": "https://already-clean.goodfire.com/",
+   "source": "Goodfire",
+   "passage": "the ConvNeXt of the same size ... it's about 99%",
+   "deep": "https://already-clean.goodfire.com/#:~:text=the%20ConvNeXt%20of%20the%20same%20size"
+  },
+  {
+   "n": 67,
+   "where": "The essay, section 4",
+   "claim": "share of last-layer neurons easy to interpret, Cammarata's estimates",
+   "verdict": "confirmed",
+   "url": "https://already-clean.goodfire.com/",
+   "source": "Goodfire",
+   "passage": "easily interpretable ... I put it around 5%",
+   "deep": ""
+  },
+  {
+   "n": 68,
+   "where": "The essay, section 4",
+   "claim": "InceptionV1 and a modern model of the same size",
+   "verdict": "confirmed",
+   "url": "https://already-clean.goodfire.com/",
+   "source": "Goodfire",
+   "passage": "7.06M (the same size as InceptionV1)",
+   "deep": "https://already-clean.goodfire.com/#:~:text=7.06M%20%28the%20same%20size%20as%20InceptionV1%29"
+  },
+  {
+   "n": 69,
+   "where": "The essay, section 4",
+   "claim": "Original tools 5%",
+   "verdict": "confirmed",
+   "url": "https://already-clean.goodfire.com/",
+   "source": "Goodfire",
+   "passage": "around 5% with tools of that era",
+   "deep": "https://already-clean.goodfire.com/#:~:text=around%205%25%20with%20tools%20of%20that%20era"
+  },
+  {
+   "n": 70,
+   "where": "The essay, section 4",
+   "claim": "Better tools 50%",
+   "verdict": "confirmed",
+   "url": "https://already-clean.goodfire.com/",
+   "source": "Goodfire",
+   "passage": "more like 50% on the same network",
+   "deep": "https://already-clean.goodfire.com/#:~:text=more%20like%2050%25%20on%20the%20same%20network"
+  },
+  {
+   "n": 71,
+   "where": "The essay, section 4",
+   "claim": "Retrained 70%",
+   "verdict": "confirmed",
+   "url": "https://already-clean.goodfire.com/",
+   "source": "Goodfire",
+   "passage": "more like 70%",
+   "deep": "https://already-clean.goodfire.com/#:~:text=more%20like%2070%25"
+  },
+  {
+   "n": 72,
+   "where": "The essay, section 4",
+   "claim": "ConvNeXt 99%",
+   "verdict": "confirmed",
+   "url": "https://already-clean.goodfire.com/",
+   "source": "Goodfire",
+   "passage": "about 99%",
+   "deep": ""
+  },
+  {
+   "n": 73,
+   "where": "The essay, section 4",
+   "claim": "gain came without changing the model's size or data",
+   "verdict": "confirmed",
+   "url": "https://already-clean.goodfire.com/",
+   "source": "Goodfire",
+   "passage": "no change to model size or training data",
+   "deep": "https://already-clean.goodfire.com/#:~:text=no%20change%20to%20model%20size%20or%20training%20data"
+  },
+  {
+   "n": 74,
+   "where": "The essay, section 4",
+   "claim": "language-model evidence is thinner",
+   "verdict": "confirmed",
+   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+   "source": "MIT Technology Review",
+   "passage": "started looking at modern LLMs but plan to publish those results later",
+   "deep": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/#:~:text=started%20looking%20at%20modern%20LLMs%20but%20plan%20to"
+  },
+  {
+   "n": 75,
+   "where": "The essay, section 4",
+   "claim": "preliminary audits of Qwen3-32B",
+   "verdict": "confirmed",
+   "url": "https://already-clean.goodfire.com/",
+   "source": "Goodfire",
+   "passage": "In preliminary audits of Qwen3-32B",
+   "deep": "https://already-clean.goodfire.com/#:~:text=In%20preliminary%20audits%20of%20Qwen3-32B"
+  },
+  {
+   "n": 76,
+   "where": "The essay, section 4",
+   "claim": "Qwen3-32B is an open model",
+   "verdict": "unsupported",
+   "url": "https://already-clean.goodfire.com/",
+   "source": "Goodfire",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 77,
+   "where": "The essay, section 4",
+   "claim": "~90% of neuron poles have one main job",
+   "verdict": "confirmed",
+   "url": "https://already-clean.goodfire.com/",
+   "source": "Goodfire",
+   "passage": "roughly 90% of neuron poles have one main job",
+   "deep": "https://already-clean.goodfire.com/#:~:text=roughly%2090%25%20of%20neuron%20poles%20have%20one%20main"
+  },
+  {
+   "n": 78,
+   "where": "The essay, section 4",
+   "claim": "~2% to 4% not yet understood",
+   "verdict": "confirmed",
+   "url": "https://already-clean.goodfire.com/",
+   "source": "Goodfire",
+   "passage": "only ~2-4% are not yet understood",
+   "deep": "https://already-clean.goodfire.com/#:~:text=only%20~2-4%25%20are%20not%20yet%20understood"
+  },
+  {
+   "n": 79,
+   "where": "The essay, section 4",
+   "claim": "neuron labelled a polysemantic comma tracked Colorado; commas held a running summary",
+   "verdict": "confirmed",
+   "url": "https://already-clean.goodfire.com/",
+   "source": "Goodfire",
+   "passage": "The commas were where it stored a running summary of the Colorado context so far",
+   "deep": "https://already-clean.goodfire.com/#:~:text=The%20commas%20were%20where%20it%20stored%20a%20running"
+  },
+  {
+   "n": 80,
+   "where": "The essay, section 4",
+   "claim": "Steering it made the model want to go hiking",
+   "verdict": "confirmed",
+   "url": "https://already-clean.goodfire.com/",
+   "source": "Goodfire",
+   "passage": "Steering it made the model want to go hiking",
+   "deep": "https://already-clean.goodfire.com/#:~:text=Steering%20it%20made%20the%20model%20want%20to%20go"
+  },
+  {
+   "n": 81,
+   "where": "The essay, section 4",
+   "claim": "companion paper with LM experiments still to come",
+   "verdict": "confirmed",
+   "url": "https://www.theneuron.ai/news/could-ai-models-be-easier-to-understand-than-scientists-thought/",
+   "source": "The Neuron",
+   "passage": "the accompanying technical paper on its language-model experiments is still forthcoming",
+   "deep": "https://www.theneuron.ai/news/could-ai-models-be-easier-to-understand-than-scientists-thought/#:~:text=the%20accompanying%20technical%20paper%20on%20its%20language-model%20experiments"
+  },
+  {
+   "n": 82,
+   "where": "The essay, section 5",
+   "claim": "Goodfire calls it an informal research essay and working hypothesis",
+   "verdict": "confirmed",
+   "url": "https://already-clean.goodfire.com/",
+   "source": "Goodfire",
+   "passage": "An informal research essay and working hypothesis about neural networks",
+   "deep": "https://already-clean.goodfire.com/#:~:text=An%20informal%20research%20essay%20and%20working%20hypothesis%20about"
+  },
+  {
+   "n": 83,
+   "where": "The essay, section 5",
+   "claim": "Cammarata told TR it's \"not everything solved\" (3 words, attributed)",
+   "verdict": "confirmed",
+   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+   "source": "MIT Technology Review",
+   "passage": "\"It's not infinitely good news; it's not everything solved,\" he says",
+   "deep": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/#:~:text=%22It%27s%20not%20infinitely%20good%20news%3B%20it%27s%20not%20everything"
+  },
+  {
+   "n": 84,
+   "where": "The essay, section 5",
+   "claim": "several numbers come from preliminary audits",
+   "verdict": "confirmed",
+   "url": "https://already-clean.goodfire.com/",
+   "source": "Goodfire",
+   "passage": "In preliminary audits of Qwen3-32B",
+   "deep": "https://already-clean.goodfire.com/#:~:text=In%20preliminary%20audits%20of%20Qwen3-32B"
+  },
+  {
+   "n": 85,
+   "where": "The essay, section 5",
+   "claim": "percentages depend on judgment calls such as what counts as one job",
+   "verdict": "confirmed",
+   "url": "https://already-clean.goodfire.com/",
+   "source": "Goodfire",
+   "passage": "the precise number depends on where you set thresholds for what counts as 'one thing'",
+   "deep": "https://already-clean.goodfire.com/#:~:text=the%20precise%20number%20depends%20on%20where%20you%20set"
+  },
+  {
+   "n": 86,
+   "where": "The essay, section 5",
+   "claim": "critics' main point: a neuron isn't a mechanism",
+   "verdict": "confirmed",
+   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+   "source": "MIT Technology Review",
+   "passage": "we need to go beyond neurons, and explain how they connect together to form circuits",
+   "deep": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/#:~:text=we%20need%20to%20go%20beyond%20neurons%2C%20and%20explain"
+  },
+  {
+   "n": 87,
+   "where": "The essay, section 5",
+   "claim": "Jacob Hilton of the Alignment Research Center told Technology Review full understanding means explaining how neurons combine into circuits",
+   "verdict": "wrong",
+   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+   "source": "MIT Technology Review",
+   "passage": "In a series of posts on X, Hilton notes ... \"For a full understanding, we need to go beyond neurons, and explain how they connect together to form circuits,\" he wrote",
+   "deep": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/#:~:text=In%20a%20series%20of%20posts%20on%20X%2C%20Hilton"
+  },
+  {
+   "n": 88,
+   "where": "The essay, section 5",
+   "claim": "Hilton: the claim gives the public an unrealistic picture of the state of the field",
+   "verdict": "confirmed",
+   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+   "source": "MIT Technology Review",
+   "passage": "an unrealistic picture of the state of the field",
+   "deep": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/#:~:text=an%20unrealistic%20picture%20of%20the%20state%20of%20the"
+  },
+  {
+   "n": 89,
+   "where": "The essay, section 5",
+   "claim": "Potts said nothing about the post makes the problems any easier",
+   "verdict": "confirmed",
+   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+   "source": "MIT Technology Review",
+   "passage": "As far as I can tell, nothing about this blog post makes the problems any easier",
+   "deep": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/#:~:text=As%20far%20as%20I%20can%20tell%2C%20nothing%20about"
+  },
+  {
+   "n": 90,
+   "where": "The essay, section 5",
+   "claim": "Neel Nanda of Google DeepMind: interesting but not a significant update",
+   "verdict": "confirmed",
+   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+   "source": "MIT Technology Review",
+   "passage": "This is interesting work, but I don't think it's a significant update to the big picture of interpretability",
+   "deep": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/#:~:text=This%20is%20interesting%20work%2C%20but%20I%20don%27t%20think"
+  },
+  {
+   "n": 91,
+   "where": "The essay, section 5",
+   "claim": "most strong evidence is from image models, far simpler than today's chatbots",
+   "verdict": "confirmed",
+   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+   "source": "MIT Technology Review",
+   "passage": "Inception v1 is a far simpler model than anything at the cutting edge today",
+   "deep": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/#:~:text=Inception%20v1%20is%20a%20far%20simpler%20model%20than"
+  },
+  {
+   "n": 92,
+   "where": "The essay, section 5",
+   "claim": "LM results preliminary, full paper unpublished",
+   "verdict": "confirmed",
+   "url": "https://www.theneuron.ai/news/could-ai-models-be-easier-to-understand-than-scientists-thought/",
+   "source": "The Neuron",
+   "passage": "the accompanying technical paper on its language-model experiments is still forthcoming",
+   "deep": "https://www.theneuron.ai/news/could-ai-models-be-easier-to-understand-than-scientists-thought/#:~:text=the%20accompanying%20technical%20paper%20on%20its%20language-model%20experiments"
+  },
+  {
+   "n": 93,
+   "where": "The essay, section 5",
+   "claim": "The Neuron: findings not yet shown to reliably prevent harmful behavior in deployed frontier models",
+   "verdict": "confirmed",
+   "url": "https://www.theneuron.ai/news/could-ai-models-be-easier-to-understand-than-scientists-thought/",
+   "source": "The Neuron",
+   "passage": "Goodfire's neuron findings have not yet demonstrated reliable prevention of harmful behavior in deployed frontier models",
+   "deep": "https://www.theneuron.ai/news/could-ai-models-be-easier-to-understand-than-scientists-thought/#:~:text=Goodfire%27s%20neuron%20findings%20have%20not%20yet%20demonstrated%20reliable"
+  },
+  {
+   "n": 94,
+   "where": "The essay, section 5",
+   "claim": "superposition and his alternative predict nearly opposite things about what a neuron mixes",
+   "verdict": "confirmed",
+   "url": "https://already-clean.goodfire.com/",
+   "source": "Goodfire",
+   "passage": "recursive generalization and superposition predict nearly opposite things",
+   "deep": "https://already-clean.goodfire.com/#:~:text=recursive%20generalization%20and%20superposition%20predict%20nearly%20opposite%20things"
+  },
+  {
+   "n": 95,
+   "where": "The essay, section 5",
+   "claim": "no one has found a superposition circuit in a real network since his original, which he calls an error",
+   "verdict": "confirmed",
+   "url": "https://already-clean.goodfire.com/",
+   "source": "Goodfire",
+   "passage": "no one has found a superposition circuit in a real network since my original one, which was an error",
+   "deep": "https://already-clean.goodfire.com/#:~:text=no%20one%20has%20found%20a%20superposition%20circuit%20in"
+  },
+  {
+   "n": 96,
+   "where": "The essay, section 6",
+   "claim": "watch for the companion paper (announced before Oct. 23)",
+   "verdict": "confirmed",
+   "url": "https://already-clean.goodfire.com/",
+   "source": "Goodfire",
+   "passage": "A technical companion paper will offer a more detailed account of language model neuron experiments",
+   "deep": "https://already-clean.goodfire.com/#:~:text=A%20technical%20companion%20paper%20will%20offer%20a%20more"
+  },
+  {
+   "n": 97,
+   "where": "The essay, section 6",
+   "claim": "The Neuron notes harmful-behavior use not yet shown",
+   "verdict": "confirmed",
+   "url": "https://www.theneuron.ai/news/could-ai-models-be-easier-to-understand-than-scientists-thought/",
+   "source": "The Neuron",
+   "passage": "have not yet demonstrated reliable prevention of harmful behavior in deployed frontier models",
+   "deep": "https://www.theneuron.ai/news/could-ai-models-be-easier-to-understand-than-scientists-thought/#:~:text=have%20not%20yet%20demonstrated%20reliable%20prevention%20of%20harmful"
+  },
+  {
+   "n": 98,
+   "where": "The essay, section 6",
+   "claim": "Hilton put the share understood at less than 0.01% of a top model's inner workings",
+   "verdict": "confirmed",
+   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+   "source": "MIT Technology Review",
+   "passage": "less than 0.01% of the inner workings of top-tier LLMs",
+   "deep": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/#:~:text=less%20than%200.01%25%20of%20the%20inner%20workings%20of"
+  },
+  {
+   "n": 99,
+   "where": "The essay",
+   "claim": "pull quote taken from the essay's own words",
+   "verdict": "confirmed",
+   "url": "",
+   "source": "the issue itself",
+   "passage": "Matches blocks[0].sections[5].paragraphs[2] verbatim",
+   "deep": ""
+  },
+  {
+   "n": 100,
+   "where": "The essay, section 6",
+   "claim": "questions critics put to the essay (part explained, model kind, published, checked)",
+   "verdict": "confirmed",
+   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+   "source": "MIT Technology Review",
+   "passage": "go beyond neurons ... circuits (Hilton); Inception v1 far simpler (TR); 'not a substitute for rigorous evaluation' (Potts); LLM details still to be published",
+   "deep": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/#:~:text=go%20beyond%20neurons"
+  },
+  {
+   "n": 101,
+   "where": "Further reading, item 1",
+   "claim": "essay contains the V neuron, the pole idea and the numbers",
+   "verdict": "confirmed",
+   "url": "https://already-clean.goodfire.com/",
+   "source": "Goodfire",
+   "passage": "V-shape neuron ... negative pole ... around 5% ... 99%",
+   "deep": ""
+  },
+  {
+   "n": 102,
+   "where": "Further reading, item 3",
+   "claim": "Zoom In introduced the cat-and-car neuron (2020)",
+   "verdict": "confirmed",
+   "url": "https://distill.pub/2020/circuits/zoom-in/",
+   "source": "Distill",
+   "passage": "Published March 10, 2020 ... the cat/car neuron",
+   "deep": "https://distill.pub/2020/circuits/zoom-in/#:~:text=Published%20March%2010%2C%202020"
+  },
+  {
+   "n": 103,
+   "where": "Further reading, item 4",
+   "claim": "Scaling Monosemanticity (2024) is the decompose-first approach the essay pushes back on",
+   "verdict": "confirmed",
+   "url": "https://already-clean.goodfire.com/",
+   "source": "Goodfire",
+   "passage": "decomposition such as a sparse autoencoder ... (author argues neurons are a legitimate starting point)",
+   "deep": "https://already-clean.goodfire.com/#:~:text=decomposition%20such%20as%20a%20sparse%20autoencoder"
+  }
+ ],
+ "notes": [
+  "No source is dated after 2026-10-23: TR Oct 19, The Neuron Oct 21, Goodfire essay Oct 15 (per The Neuron; the essay page shows no date), Distill Mar 2020, Anthropic May 2024. Nothing in the issue requires post-D knowledge. 'What to watch' item (companion paper) was announced in the essay before D.",
+  "Distill 'Zoom In' was itself published under OpenAI affiliation; fine as written."
+ ]
+}

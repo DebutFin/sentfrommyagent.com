@@ -1,0 +1,1082 @@
+{
+ "issue": "https://sentfrommyagent.com/p/software-update/01-dots-arrive-in-chatgpt/",
+ "newsletter": "Software Update",
+ "number": 1,
+ "date": "2026-10-01",
+ "title": "Dots arrive in ChatGPT.",
+ "stamp": "Sent from my agent. Every claim checked.",
+ "record": "https://sentfrommyagent.com/p/software-update/01-dots-arrive-in-chatgpt/record/",
+ "counts": {
+  "checked": 106,
+  "confirmed": 100,
+  "wrong": 0,
+  "unsupported": 6
+ },
+ "checked_at": "2026-10-24T00:00:00-04:00",
+ "checked_by": "a second agent, independent of the writer",
+ "claims": [
+  {
+   "n": 1,
+   "where": "title",
+   "claim": "Set the rules first. (editorial framing of dot custom rules)",
+   "verdict": "confirmed",
+   "url": "https://learn.chatgpt.com/docs/dots/controls",
+   "source": "OpenAI dot controls",
+   "passage": "Settings > Personalization, then select Custom rules under Permissions",
+   "deep": "https://learn.chatgpt.com/docs/dots/controls#:~:text=Settings%20%3E%20Personalization%2C%20then%20select%20Custom%20rules%20under"
+  },
+  {
+   "n": 2,
+   "where": "dek",
+   "claim": "ChatGPT's new dots keep working between chats",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "Sept 29: 'always-on agents in ChatGPT that can take on ongoing work' between conversations",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=Sept%2029%3A%20%27always-on%20agents%20in%20ChatGPT%20that%20can"
+  },
+  {
+   "n": 3,
+   "where": "dek",
+   "claim": "its Mac note-taker listens without a bot in the call",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/20001546-the-meetings-plugin-in-chatgpt",
+   "source": "OpenAI Meetings help",
+   "passage": "Meetings works 'without a bot joining the call'; beta in the ChatGPT desktop app on macOS",
+   "deep": "https://help.openai.com/en/articles/20001546-the-meetings-plugin-in-chatgpt#:~:text=Meetings%20works%20%27without%20a%20bot%20joining%20the%20call%27%3B"
+  },
+  {
+   "n": 4,
+   "where": "dek",
+   "claim": "Both need ground rules before day one (both have controls/consent steps)",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/20001546-the-meetings-plugin-in-chatgpt",
+   "source": "OpenAI Meetings help",
+   "passage": "'get everyone's consent before you start' (Meetings); dots Custom Rules let you allow, require approval or block actions (Introducing dots)",
+   "deep": "https://help.openai.com/en/articles/20001546-the-meetings-plugin-in-chatgpt#:~:text=%27get%20everyone%27s%20consent%20before%20you%20start%27%20%28Meetings%29%3B%20dots"
+  },
+  {
+   "n": 5,
+   "where": "dek",
+   "claim": "GPT-5.5 leaves ChatGPT on Oct. 14",
+   "verdict": "unsupported",
+   "url": "https://learn.chatgpt.com/docs/models",
+   "source": "OpenAI models",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 6,
+   "where": "dek",
+   "claim": "Google set dates for moving Gems to skills",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/09/skills-gemini-app-workspace.html",
+   "source": "Google Workspace Updates",
+   "passage": "Nov 17, 2026: Gems move to the Settings panel; March 1, 2027 (business and enterprise only): remaining Gems auto-migrated to draft skills",
+   "deep": "https://workspaceupdates.googleblog.com/2026/09/skills-gemini-app-workspace.html#:~:text=Nov%2017%2C%202026%3A%20Gems%20move%20to%20the%20Settings"
+  },
+  {
+   "n": 7,
+   "where": "summary",
+   "claim": "ChatGPT added always-on dots and a Mac meeting note-taker",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "Sept 29, 2026 entries: Dots ('always-on agents in ChatGPT') and Meetings plugin (beta on macOS)",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=Sept%2029%2C%202026%20entries%3A%20Dots%20%28%27always-on%20agents%20in"
+  },
+  {
+   "n": 8,
+   "where": "summary",
+   "claim": "GPT-5.5 leaves ChatGPT Oct. 14",
+   "verdict": "unsupported",
+   "url": "https://learn.chatgpt.com/docs/models",
+   "source": "OpenAI models",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 9,
+   "where": "summary",
+   "claim": "Gemini skills will replace Gems",
+   "verdict": "confirmed",
+   "url": "https://gemini.google/release-notes/",
+   "source": "Gemini release notes",
+   "passage": "'Skills will soon replace Gems as the tool for tailoring instructions for specific tasks.'",
+   "deep": "https://gemini.google/release-notes/#:~:text=%27Skills%20will%20soon%20replace%20Gems%20as%20the%20tool"
+  },
+  {
+   "n": 10,
+   "where": "summary",
+   "claim": "custom GPTs are moving to plugins",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "Sept 11, 2026: 'We're planning to retire custom GPTs across ChatGPT plans and provide a migration path to plugins.'",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=Sept%2011%2C%202026%3A%20%27We%27re%20planning%20to%20retire%20custom"
+  },
+  {
+   "n": 11,
+   "where": "art svg text 'ASK FIRST'",
+   "claim": "Dot rule option 'ask first'",
+   "verdict": "confirmed",
+   "url": "https://learn.chatgpt.com/docs/dots/controls",
+   "source": "OpenAI dot controls",
+   "passage": "Options: Take action without asking / Take action when you say so / Ask before taking action / Hand off to you",
+   "deep": "https://learn.chatgpt.com/docs/dots/controls#:~:text=Options%3A%20Take%20action%20without%20asking%20%2F%20Take%20action"
+  },
+  {
+   "n": 12,
+   "where": "art alt",
+   "claim": "Settings panel with three switches; middle one, labelled Ask first, on in green",
+   "verdict": "confirmed",
+   "url": "https://learn.chatgpt.com/docs/dots/controls",
+   "source": "OpenAI dot controls",
+   "passage": "SVG matches alt: three toggles, middle toggle filled #9EF08E beside 'ASK FIRST' text; concept matches 'Ask before taking action'",
+   "deep": "https://learn.chatgpt.com/docs/dots/controls#:~:text=SVG%20matches%20alt%3A%20three%20toggles%2C%20middle%20toggle%20filled"
+  },
+  {
+   "n": 13,
+   "where": "The story",
+   "claim": "OpenAI's launches dated Sept. 29",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "Release notes heading 'September 29, 2026' with Dots and Meetings plugin entries; Introducing dots dated September 29, 2026",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=Release%20notes%20heading%20%27September%2029%2C%202026%27%20with%20Dots"
+  },
+  {
+   "n": 14,
+   "where": "The story",
+   "claim": "ChatGPT agents that keep working between conversations",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "'always-on agents in ChatGPT that can take on ongoing work' between conversations",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=%27always-on%20agents%20in%20ChatGPT%20that%20can%20take%20on"
+  },
+  {
+   "n": 15,
+   "where": "The story",
+   "claim": "a Mac note-taker that listens without joining the call",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/20001546-the-meetings-plugin-in-chatgpt",
+   "source": "OpenAI Meetings help",
+   "passage": "'without a bot joining the call'; macOS desktop app",
+   "deep": "https://help.openai.com/en/articles/20001546-the-meetings-plugin-in-chatgpt#:~:text=%27without%20a%20bot%20joining%20the%20call%27%3B%20macOS%20desktop"
+  },
+  {
+   "n": 16,
+   "where": "The story",
+   "claim": "Both come with controls worth setting before the first run",
+   "verdict": "confirmed",
+   "url": "https://learn.chatgpt.com/docs/dots/controls",
+   "source": "OpenAI dot controls",
+   "passage": "Custom rules under Settings > Personalization > Permissions; Meetings: consent before you start",
+   "deep": "https://learn.chatgpt.com/docs/dots/controls#:~:text=Custom%20rules%20under%20Settings%20%3E%20Personalization%20%3E%20Permissions%3B"
+  },
+  {
+   "n": 17,
+   "where": "The story",
+   "claim": "GPT-5.5 leaves ChatGPT on Oct. 14",
+   "verdict": "unsupported",
+   "url": "https://learn.chatgpt.com/docs/models",
+   "source": "OpenAI models",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 18,
+   "where": "The story",
+   "claim": "Google set dates for moving Gems to skills",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/09/skills-gemini-app-workspace.html",
+   "source": "Google Workspace Updates",
+   "passage": "Nov 17, 2026 and March 1, 2027 Gems milestones",
+   "deep": "https://workspaceupdates.googleblog.com/2026/09/skills-gemini-app-workspace.html#:~:text=Nov%2017%2C%202026%20and%20March%201%2C%202027%20Gems"
+  },
+  {
+   "n": 19,
+   "where": "The story",
+   "claim": "custom GPTs are set to retire in favor of plugins",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq",
+   "source": "OpenAI GPT retirement FAQ",
+   "passage": "'Custom GPTs are scheduled to retire on Dec 11, 2026.' Creators select 'Migrate to plugin'",
+   "deep": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq#:~:text=%27Custom%20GPTs%20are%20scheduled%20to%20retire%20on%20Dec"
+  },
+  {
+   "n": 20,
+   "where": "The story",
+   "claim": "Your assistant got a night shift (dots work around the clock)",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/introducing-dots/",
+   "source": "OpenAI",
+   "passage": "dots can 'work towards your goals 24/7'",
+   "deep": "https://openai.com/index/introducing-dots/#:~:text=dots%20can%20%27work%20towards%20your%20goals%2024%2F7%27"
+  },
+  {
+   "n": 21,
+   "where": "The story",
+   "claim": "Dates set by OpenAI and Google",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq",
+   "source": "OpenAI GPT retirement FAQ",
+   "passage": "Dates come from OpenAI (models page, GPT FAQ) and Google Workspace Updates",
+   "deep": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq#:~:text=Dates%20come%20from%20OpenAI%20%28models%20page%2C%20GPT%20FAQ%29"
+  },
+  {
+   "n": 22,
+   "where": "The story, step 1",
+   "claim": "Oct. 5: Skills start reaching Workspace accounts",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/09/skills-gemini-app-workspace.html",
+   "source": "Google Workspace Updates",
+   "passage": "Original post: Workspace Rapid Release domains start October 5, 2026 (note: Oct 13 update says Workspace launch now delayed; that is after D)",
+   "deep": "https://workspaceupdates.googleblog.com/2026/09/skills-gemini-app-workspace.html#:~:text=Original%20post%3A%20Workspace%20Rapid%20Release%20domains%20start%20October"
+  },
+  {
+   "n": 23,
+   "where": "The story, step 2",
+   "claim": "Oct. 14: GPT-5.5 retires from ChatGPT, ChatGPT Work and Codex",
+   "verdict": "unsupported",
+   "url": "https://learn.chatgpt.com/docs/models",
+   "source": "OpenAI models",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 24,
+   "where": "The story, step 3",
+   "claim": "Oct. 26: Enterprise workspaces set to stop creating custom GPTs",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq",
+   "source": "OpenAI GPT retirement FAQ",
+   "passage": "Enterprise section: 'Oct 26, 2026 (planned): Creation of new custom GPTs ends.'",
+   "deep": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq#:~:text=Enterprise%20section%3A%20%27Oct%2026%2C%202026%20%28planned%29%3A%20Creation%20of"
+  },
+  {
+   "n": 25,
+   "where": "The story, step 4",
+   "claim": "Nov. 17: Gems move into the Settings panel",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/09/skills-gemini-app-workspace.html",
+   "source": "Google Workspace Updates",
+   "passage": "November 17, 2026: Gems move to the Settings panel of the Gemini app",
+   "deep": "https://workspaceupdates.googleblog.com/2026/09/skills-gemini-app-workspace.html#:~:text=November%2017%2C%202026%3A%20Gems%20move%20to%20the%20Settings"
+  },
+  {
+   "n": 26,
+   "where": "The story, step 5",
+   "claim": "Dec. 11: Custom GPTs set to retire",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq",
+   "source": "OpenAI GPT retirement FAQ",
+   "passage": "'Custom GPTs are scheduled to retire on Dec 11, 2026.'",
+   "deep": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq#:~:text=%27Custom%20GPTs%20are%20scheduled%20to%20retire%20on%20Dec"
+  },
+  {
+   "n": 27,
+   "where": "The story",
+   "claim": "Business and enterprise Gems stop no sooner than March 1, 2027",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/09/skills-gemini-app-workspace.html",
+   "source": "Google Workspace Updates",
+   "passage": "March 1, 2027 '(business and enterprise only)': Gems can't be created, edited, or used, no sooner than this date",
+   "deep": "https://workspaceupdates.googleblog.com/2026/09/skills-gemini-app-workspace.html#:~:text=March%201%2C%202027%20%27%28business%20and%20enterprise%20only%29%27%3A%20Gems"
+  },
+  {
+   "n": 28,
+   "where": "Six changes this week, item 1",
+   "claim": "Sept. 29",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "September 29, 2026 Dots entry",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=September%2029%2C%202026%20Dots%20entry"
+  },
+  {
+   "n": 29,
+   "where": "Six changes this week, item 1",
+   "claim": "Pro and Business Premium; Enterprise beta, off by default",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "'eligible Pro and Business Premium users aged 18 and older in supported markets'; Enterprise access is a beta and is off by default",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=%27eligible%20Pro%20and%20Business%20Premium%20users%20aged%2018"
+  },
+  {
+   "n": 30,
+   "where": "Six changes this week, item 1",
+   "claim": "A dot runs on its own cloud computer",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/introducing-dots/",
+   "source": "OpenAI",
+   "passage": "'their own cloud computer, their own browser, and the apps you've connected'",
+   "deep": "https://openai.com/index/introducing-dots/#:~:text=%27their%20own%20cloud%20computer%2C%20their%20own%20browser%2C%20and"
+  },
+  {
+   "n": 31,
+   "where": "Six changes this week, item 1",
+   "claim": "uses the apps you connect",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/introducing-dots/",
+   "source": "OpenAI",
+   "passage": "'the apps you've connected'",
+   "deep": "https://openai.com/index/introducing-dots/#:~:text=%27the%20apps%20you%27ve%20connected%27"
+  },
+  {
+   "n": 32,
+   "where": "Six changes this week, item 1",
+   "claim": "keeps making progress between conversations",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "'take on ongoing work' between conversations",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=%27take%20on%20ongoing%20work%27%20between%20conversations"
+  },
+  {
+   "n": 33,
+   "where": "Six changes this week, item 1",
+   "claim": "rolling out gradually to users 18 and older",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "rolling out gradually to 'eligible Pro and Business Premium users aged 18 and older'",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=rolling%20out%20gradually%20to%20%27eligible%20Pro%20and%20Business"
+  },
+  {
+   "n": 34,
+   "where": "Six changes this week, item 1",
+   "claim": "Pro excludes the EEA, Switzerland and the UK at launch",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "Pro access excludes the European Economic Area, Switzerland, and the UK at launch",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=Pro%20access%20excludes%20the%20European%20Economic%20Area%2C%20Switzerland%2C"
+  },
+  {
+   "n": 35,
+   "where": "Six changes this week, item 1",
+   "claim": "Your first dot comes with the plan",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/introducing-dots/",
+   "source": "OpenAI",
+   "passage": "'Your first dot is included in your Pro or Business Premium plan at no extra cost.'",
+   "deep": "https://openai.com/index/introducing-dots/#:~:text=%27Your%20first%20dot%20is%20included%20in%20your%20Pro"
+  },
+  {
+   "n": 36,
+   "where": "Six changes this week, item 1",
+   "claim": "for a month its usage won't count against your plan's allowance",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "For one month, dots usage won't count toward plan allowances for eligible Pro, Business, and Enterprise users (note: Introducing dots says conversations with your dot don't count toward limits, without a time limit)",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=For%20one%20month%2C%20dots%20usage%20won%27t%20count%20toward"
+  },
+  {
+   "n": 37,
+   "where": "Six changes this week, item 1",
+   "claim": "Settings > Personalization > Custom rules",
+   "verdict": "confirmed",
+   "url": "https://learn.chatgpt.com/docs/dots/controls",
+   "source": "OpenAI dot controls",
+   "passage": "Open Settings > Personalization, then select Custom rules under Permissions",
+   "deep": "https://learn.chatgpt.com/docs/dots/controls#:~:text=Open%20Settings%20%3E%20Personalization%2C%20then%20select%20Custom%20rules"
+  },
+  {
+   "n": 38,
+   "where": "Six changes this week, item 1",
+   "claim": "decide whether it acts, asks first or hands off to you",
+   "verdict": "confirmed",
+   "url": "https://learn.chatgpt.com/docs/dots/controls",
+   "source": "OpenAI dot controls",
+   "passage": "Take action without asking / Ask before taking action / Hand off to you",
+   "deep": "https://learn.chatgpt.com/docs/dots/controls#:~:text=Take%20action%20without%20asking%20%2F%20Ask%20before%20taking"
+  },
+  {
+   "n": 39,
+   "where": "Six changes this week, item 1",
+   "claim": "Check settings (connectors/permissions involved)",
+   "verdict": "confirmed",
+   "url": "https://learn.chatgpt.com/docs/dots/controls",
+   "source": "OpenAI dot controls",
+   "passage": "Custom rules under Permissions; spec requires Check settings when connectors are touched",
+   "deep": "https://learn.chatgpt.com/docs/dots/controls#:~:text=Custom%20rules%20under%20Permissions%3B%20spec%20requires%20Check%20settings"
+  },
+  {
+   "n": 40,
+   "where": "Six changes this week, item 2",
+   "claim": "Meetings plugin takes notes on your Mac, no bot in the call",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/20001546-the-meetings-plugin-in-chatgpt",
+   "source": "OpenAI Meetings help",
+   "passage": "'without a bot joining the call'; macOS desktop app",
+   "deep": "https://help.openai.com/en/articles/20001546-the-meetings-plugin-in-chatgpt#:~:text=%27without%20a%20bot%20joining%20the%20call%27%3B%20macOS%20desktop"
+  },
+  {
+   "n": 41,
+   "where": "Six changes this week, item 2",
+   "claim": "Sept. 29",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "September 29, 2026 Meetings plugin entry",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=September%2029%2C%202026%20Meetings%20plugin%20entry"
+  },
+  {
+   "n": 42,
+   "where": "Six changes this week, item 2",
+   "claim": "Pro and Business, macOS desktop app (beta)",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/20001546-the-meetings-plugin-in-chatgpt",
+   "source": "OpenAI Meetings help",
+   "passage": "'available in beta in the ChatGPT desktop app on macOS for all Pro plans and all Business plans'",
+   "deep": "https://help.openai.com/en/articles/20001546-the-meetings-plugin-in-chatgpt#:~:text=%27available%20in%20beta%20in%20the%20ChatGPT%20desktop%20app"
+  },
+  {
+   "n": 43,
+   "where": "Six changes this week, item 2",
+   "claim": "turns what's said into a summary with action items in ChatGPT Space",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/20001546-the-meetings-plugin-in-chatgpt",
+   "source": "OpenAI Meetings help",
+   "passage": "'saves personalized summaries with action items in ChatGPT Space'",
+   "deep": "https://help.openai.com/en/articles/20001546-the-meetings-plugin-in-chatgpt#:~:text=%27saves%20personalized%20summaries%20with%20action%20items%20in%20ChatGPT"
+  },
+  {
+   "n": 44,
+   "where": "Six changes this week, item 2",
+   "claim": "deletes the audio from your Mac and OpenAI's servers",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/20001546-the-meetings-plugin-in-chatgpt",
+   "source": "OpenAI Meetings help",
+   "passage": "'the audio is deleted from your Mac and OpenAI's servers and can't be replayed'",
+   "deep": "https://help.openai.com/en/articles/20001546-the-meetings-plugin-in-chatgpt#:~:text=%27the%20audio%20is%20deleted%20from%20your%20Mac%20and"
+  },
+  {
+   "n": 45,
+   "where": "Six changes this week, item 2",
+   "claim": "OpenAI says to tell everyone and get their consent first",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/20001546-the-meetings-plugin-in-chatgpt",
+   "source": "OpenAI Meetings help",
+   "passage": "'Tell everyone in the meeting that you'll be taking notes ... and get everyone's consent before you start.'",
+   "deep": "https://help.openai.com/en/articles/20001546-the-meetings-plugin-in-chatgpt#:~:text=%27Tell%20everyone%20in%20the%20meeting%20that%20you%27ll%20be"
+  },
+  {
+   "n": 46,
+   "where": "Six changes this week, item 2",
+   "claim": "the app's consent reminder is for you and notifies no one else",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/20001546-the-meetings-plugin-in-chatgpt",
+   "source": "OpenAI Meetings help",
+   "passage": "'The consent reminder in your app is visible to you. It does not notify other participants'",
+   "deep": "https://help.openai.com/en/articles/20001546-the-meetings-plugin-in-chatgpt#:~:text=%27The%20consent%20reminder%20in%20your%20app%20is%20visible"
+  },
+  {
+   "n": 47,
+   "where": "Six changes this week, item 2",
+   "claim": "You install it from Plugins in the sidebar",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/20001546-the-meetings-plugin-in-chatgpt",
+   "source": "OpenAI Meetings help",
+   "passage": "Go to the Plugins section in the sidebar, find Meetings, and install it",
+   "deep": "https://help.openai.com/en/articles/20001546-the-meetings-plugin-in-chatgpt#:~:text=Go%20to%20the%20Plugins%20section%20in%20the%20sidebar%2C"
+  },
+  {
+   "n": 48,
+   "where": "Six changes this week, item 2",
+   "claim": "Business workspaces have it on unless an admin disables it",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/20001546-the-meetings-plugin-in-chatgpt",
+   "source": "OpenAI Meetings help",
+   "passage": "'If you're on a Business plan, ChatGPT Space and the Meetings plugin are enabled for your workspace. If either is disabled, contact your workspace administrator.' (page doesn't use the word 'default')",
+   "deep": "https://help.openai.com/en/articles/20001546-the-meetings-plugin-in-chatgpt#:~:text=%27If%20you%27re%20on%20a%20Business%20plan%2C%20ChatGPT%20Space"
+  },
+  {
+   "n": 49,
+   "where": "Six changes this week, item 3",
+   "claim": "GPT-5.5 retires from ChatGPT, ChatGPT Work and Codex",
+   "verdict": "unsupported",
+   "url": "https://learn.chatgpt.com/docs/models",
+   "source": "OpenAI models",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 50,
+   "where": "Six changes this week, item 3",
+   "claim": "Oct. 14",
+   "verdict": "confirmed",
+   "url": "https://learn.chatgpt.com/docs/models",
+   "source": "OpenAI models",
+   "passage": "'Effective October 14, 2026, at noon PDT (19:00 UTC), GPT-5.5 retires from Codex'",
+   "deep": "https://learn.chatgpt.com/docs/models#:~:text=%27Effective%20October%2014%2C%202026%2C%20at%20noon%20PDT%20%2819%3A00"
+  },
+  {
+   "n": 51,
+   "where": "Six changes this week, item 3",
+   "claim": "All plans",
+   "verdict": "unsupported",
+   "url": "https://learn.chatgpt.com/docs/models",
+   "source": "OpenAI models",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 52,
+   "where": "Six changes this week, item 3",
+   "claim": "Codex: Plus, Pro, Business, Enterprise, Edu pointed to GPT-6.1 Sol once available",
+   "verdict": "confirmed",
+   "url": "https://learn.chatgpt.com/docs/models",
+   "source": "OpenAI models",
+   "passage": "'On Plus, Pro, Business, Enterprise, and Edu plans, choose GPT-6.1 Sol (gpt-6.1-sol) when available.'",
+   "deep": "https://learn.chatgpt.com/docs/models#:~:text=%27On%20Plus%2C%20Pro%2C%20Business%2C%20Enterprise%2C%20and%20Edu%20plans%2C"
+  },
+  {
+   "n": 53,
+   "where": "Six changes this week, item 3",
+   "claim": "Free and Go pointed to GPT-6 Luna in the desktop app",
+   "verdict": "confirmed",
+   "url": "https://learn.chatgpt.com/docs/models",
+   "source": "OpenAI models",
+   "passage": "'On Free and Go plans, choose GPT-6 Luna (gpt-6-luna) in the desktop app when available.'",
+   "deep": "https://learn.chatgpt.com/docs/models#:~:text=%27On%20Free%20and%20Go%20plans%2C%20choose%20GPT-6%20Luna"
+  },
+  {
+   "n": 54,
+   "where": "Six changes this week, item 3",
+   "claim": "Swap GPT-5.5 out of workspace defaults, saved model settings, custom agents, scheduled tasks and scripts",
+   "verdict": "confirmed",
+   "url": "https://learn.chatgpt.com/docs/models",
+   "source": "OpenAI models",
+   "passage": "'Replace gpt-5.5 in workspace defaults, saved model settings, managed configurations, custom agents, ... scheduled tasks, and scripts that select a model.'",
+   "deep": "https://learn.chatgpt.com/docs/models#:~:text=%27Replace%20gpt-5.5%20in%20workspace%20defaults%2C%20saved%20model%20settings%2C"
+  },
+  {
+   "n": 55,
+   "where": "Six changes this week, item 3",
+   "claim": "The OpenAI API keeps GPT-5.5",
+   "verdict": "confirmed",
+   "url": "https://learn.chatgpt.com/docs/models",
+   "source": "OpenAI models",
+   "passage": "'GPT-5.5 remains available through the OpenAI API and in Codex sessions authenticated with an API key.'",
+   "deep": "https://learn.chatgpt.com/docs/models#:~:text=%27GPT-5.5%20remains%20available%20through%20the%20OpenAI%20API%20and"
+  },
+  {
+   "n": 56,
+   "where": "Six changes this week, item 3",
+   "claim": "GPT-6.1 Sol began rolling out in ChatGPT Work and Codex on Sept. 29, starting with Pro",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "Sept 29, 2026: 'We're rolling it out in ChatGPT Work and Codex, starting with Pro users.'",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=Sept%2029%2C%202026%3A%20%27We%27re%20rolling%20it%20out%20in"
+  },
+  {
+   "n": 57,
+   "where": "Six changes this week, item 4",
+   "claim": "Skills arrive, and will replace Gems",
+   "verdict": "confirmed",
+   "url": "https://gemini.google/release-notes/",
+   "source": "Gemini release notes",
+   "passage": "'Skills will soon replace Gems as the tool for tailoring instructions for specific tasks.'",
+   "deep": "https://gemini.google/release-notes/#:~:text=%27Skills%20will%20soon%20replace%20Gems%20as%20the%20tool"
+  },
+  {
+   "n": 58,
+   "where": "Six changes this week, item 4",
+   "claim": "Sept. 30",
+   "verdict": "confirmed",
+   "url": "https://gemini.google/release-notes/",
+   "source": "Gemini release notes",
+   "passage": "Entry dated 2026.09.30; Workspace Updates post dated September 30, 2026",
+   "deep": "https://gemini.google/release-notes/#:~:text=Entry%20dated%202026.09.30%3B%20Workspace%20Updates%20post%20dated%20September"
+  },
+  {
+   "n": 59,
+   "where": "Six changes this week, item 4",
+   "claim": "Gemini app, 18+",
+   "verdict": "confirmed",
+   "url": "https://gemini.google/release-notes/",
+   "source": "Gemini release notes",
+   "passage": "footnote: 'currently available to 18+ and coming to more users soon' (note: Workspace Updates post says Gemini app skills are for all ages and start Oct 13; the Gemini release notes, the app's own notes, support 18+…",
+   "deep": "https://gemini.google/release-notes/#:~:text=footnote%3A%20%27currently%20available%20to%2018%2B%20and%20coming%20to"
+  },
+  {
+   "n": 60,
+   "where": "Six changes this week, item 4",
+   "claim": "Workspace Business and Enterprise from Oct. 5",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/09/skills-gemini-app-workspace.html",
+   "source": "Google Workspace Updates",
+   "passage": "Editions: Business Starter/Standard/Plus, Enterprise Starter/Standard/Plus; Rapid Release starts October 5, 2026",
+   "deep": "https://workspaceupdates.googleblog.com/2026/09/skills-gemini-app-workspace.html#:~:text=Editions%3A%20Business%20Starter%2FStandard%2FPlus%2C%20Enterprise%20Starter%2FStandard%2FPlus%3B%20Rapid%20Release%20starts"
+  },
+  {
+   "n": 61,
+   "where": "Six changes this week, item 4",
+   "claim": "Skills are saved instructions you can build from a chat",
+   "verdict": "confirmed",
+   "url": "https://gemini.google/release-notes/",
+   "source": "Gemini release notes",
+   "passage": "'a reusable set of instructions'; Gemini 'can now help you build custom skills from your chats'",
+   "deep": "https://gemini.google/release-notes/#:~:text=%27a%20reusable%20set%20of%20instructions%27%3B%20Gemini%20%27can%20now"
+  },
+  {
+   "n": 62,
+   "where": "Six changes this week, item 4",
+   "claim": "stack several at once for bigger tasks",
+   "verdict": "confirmed",
+   "url": "https://gemini.google/release-notes/",
+   "source": "Gemini release notes",
+   "passage": "'you can stack multiple skills together at the same time'",
+   "deep": "https://gemini.google/release-notes/#:~:text=%27you%20can%20stack%20multiple%20skills%20together%20at%20the"
+  },
+  {
+   "n": 63,
+   "where": "Six changes this week, item 4",
+   "claim": "The Gemini app is rolling them out now to users 18 and older",
+   "verdict": "confirmed",
+   "url": "https://gemini.google/release-notes/",
+   "source": "Gemini release notes",
+   "passage": "Skills rolling out to Gemini chat globally; 'currently available to 18+'",
+   "deep": "https://gemini.google/release-notes/#:~:text=Skills%20rolling%20out%20to%20Gemini%20chat%20globally%3B%20%27currently"
+  },
+  {
+   "n": 64,
+   "where": "Six changes this week, item 4",
+   "claim": "Workspace accounts get them between Oct. 5 and mid-November, depending on release track",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/09/skills-gemini-app-workspace.html",
+   "source": "Google Workspace Updates",
+   "passage": "Rapid Release: Oct 5 to Oct 12; Scheduled Release: Oct 19 to mid-November 2026",
+   "deep": "https://workspaceupdates.googleblog.com/2026/09/skills-gemini-app-workspace.html#:~:text=Rapid%20Release%3A%20Oct%205%20to%20Oct%2012%3B%20Scheduled"
+  },
+  {
+   "n": 65,
+   "where": "Six changes this week, item 4",
+   "claim": "Gems keep working but move into the Settings panel on Nov. 17",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/09/skills-gemini-app-workspace.html",
+   "source": "Google Workspace Updates",
+   "passage": "Nov 17, 2026: Gems move to the Settings panel; users can keep creating, editing and using them",
+   "deep": "https://workspaceupdates.googleblog.com/2026/09/skills-gemini-app-workspace.html#:~:text=Nov%2017%2C%202026%3A%20Gems%20move%20to%20the%20Settings"
+  },
+  {
+   "n": 66,
+   "where": "Six changes this week, item 4",
+   "claim": "Business/enterprise Gems stop no sooner than March 1, 2027, when leftovers become draft skills",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/09/skills-gemini-app-workspace.html",
+   "source": "Google Workspace Updates",
+   "passage": "March 1, 2027 (business and enterprise only); 'Any remaining Gems in the Gemini app are auto-migrated to draft skills'",
+   "deep": "https://workspaceupdates.googleblog.com/2026/09/skills-gemini-app-workspace.html#:~:text=March%201%2C%202027%20%28business%20and%20enterprise%20only%29%3B%20%27Any"
+  },
+  {
+   "n": 67,
+   "where": "Six changes this week, item 4",
+   "claim": "Wait (gradual rollout)",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/09/skills-gemini-app-workspace.html",
+   "source": "Google Workspace Updates",
+   "passage": "Rollout spans Oct 5 to mid-November by release track",
+   "deep": "https://workspaceupdates.googleblog.com/2026/09/skills-gemini-app-workspace.html#:~:text=Rollout%20spans%20Oct%205%20to%20mid-November%20by%20release"
+  },
+  {
+   "n": 68,
+   "where": "Six changes this week, item 5",
+   "claim": "Custom GPTs will retire, with a move to plugins",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq",
+   "source": "OpenAI GPT retirement FAQ",
+   "passage": "'Custom GPTs are scheduled to retire on Dec 11, 2026'; select 'Migrate to plugin'",
+   "deep": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq#:~:text=%27Custom%20GPTs%20are%20scheduled%20to%20retire%20on%20Dec"
+  },
+  {
+   "n": 69,
+   "where": "Six changes this week, item 5",
+   "claim": "Oct. 26 (Enterprise)",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq",
+   "source": "OpenAI GPT retirement FAQ",
+   "passage": "Enterprise section: 'Oct 26, 2026 (planned): Creation of new custom GPTs ends.'",
+   "deep": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq#:~:text=Enterprise%20section%3A%20%27Oct%2026%2C%202026%20%28planned%29%3A%20Creation%20of"
+  },
+  {
+   "n": 70,
+   "where": "Six changes this week, item 5",
+   "claim": "All plans; Enterprise dates differ",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq",
+   "source": "OpenAI GPT retirement FAQ",
+   "passage": "'The transition affects all ChatGPT plans.' 'For affected Enterprise workspaces with an approved deferral, the retirement date is Feb 11, 2027.'",
+   "deep": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq#:~:text=%27The%20transition%20affects%20all%20ChatGPT%20plans.%27%20%27For%20affected"
+  },
+  {
+   "n": 71,
+   "where": "Six changes this week, item 5",
+   "claim": "OpenAI plans to retire custom GPTs on Dec. 11",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq",
+   "source": "OpenAI GPT retirement FAQ",
+   "passage": "'Custom GPTs are scheduled to retire on Dec 11, 2026.'",
+   "deep": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq#:~:text=%27Custom%20GPTs%20are%20scheduled%20to%20retire%20on%20Dec"
+  },
+  {
+   "n": 72,
+   "where": "Six changes this week, item 5",
+   "claim": "Enterprise workspaces set to stop creating new ones on Oct. 26",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq",
+   "source": "OpenAI GPT retirement FAQ",
+   "passage": "'For affected Enterprise workspaces ... Oct 26, 2026 (planned): Creation of new custom GPTs ends.'",
+   "deep": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq#:~:text=%27For%20affected%20Enterprise%20workspaces"
+  },
+  {
+   "n": 73,
+   "where": "Six changes this week, item 5",
+   "claim": "look for Migrate to plugin in My GPTs",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq",
+   "source": "OpenAI GPT retirement FAQ",
+   "passage": "creators go to My GPTs and select 'Migrate to plugin'",
+   "deep": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq#:~:text=creators%20go%20to%20My%20GPTs%20and%20select%20%27Migrate"
+  },
+  {
+   "n": 74,
+   "where": "Six changes this week, item 5",
+   "claim": "Its instructions become a skill",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq",
+   "source": "OpenAI GPT retirement FAQ",
+   "passage": "The GPT's instructions become a skill in the new plugin",
+   "deep": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq#:~:text=The%20GPT%27s%20instructions%20become%20a%20skill%20in%20the"
+  },
+  {
+   "n": 75,
+   "where": "Six changes this week, item 5",
+   "claim": "its files and connected apps come along",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq",
+   "source": "OpenAI GPT retirement FAQ",
+   "passage": "Knowledge files are copied into reference files, and connected apps are added as apps",
+   "deep": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq#:~:text=Knowledge%20files%20are%20copied%20into%20reference%20files%2C%20and"
+  },
+  {
+   "n": 76,
+   "where": "Six changes this week, item 5",
+   "claim": "Custom actions don't transfer",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq",
+   "source": "OpenAI GPT retirement FAQ",
+   "passage": "'GPT custom actions do not transfer through the migration workflow.'",
+   "deep": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq#:~:text=%27GPT%20custom%20actions%20do%20not%20transfer%20through%20the"
+  },
+  {
+   "n": 77,
+   "where": "Six changes this week, item 5",
+   "claim": "you can keep using the original GPT until it retires",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq",
+   "source": "OpenAI GPT retirement FAQ",
+   "passage": "You can keep using it until retirement (read-only after migration)",
+   "deep": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq#:~:text=You%20can%20keep%20using%20it%20until%20retirement%20%28read-only"
+  },
+  {
+   "n": 78,
+   "where": "Six changes this week, item 5",
+   "claim": "old conversations stay accessible after that",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq",
+   "source": "OpenAI GPT retirement FAQ",
+   "passage": "'Your existing conversations with custom GPTs will remain accessible after retirement.'",
+   "deep": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq#:~:text=%27Your%20existing%20conversations%20with%20custom%20GPTs%20will%20remain"
+  },
+  {
+   "n": 79,
+   "where": "Six changes this week, item 6",
+   "claim": "Sonnet 5.5 arrives, set to Medium effort in the apps",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/claude-sonnet-5-5",
+   "source": "Anthropic",
+   "passage": "Default effort: Medium in Claude Code and Anthropic's apps",
+   "deep": "https://www.anthropic.com/claude-sonnet-5-5#:~:text=Default%20effort%3A%20Medium%20in%20Claude%20Code%20and%20Anthropic%27s"
+  },
+  {
+   "n": 80,
+   "where": "Six changes this week, item 6",
+   "claim": "Sept. 28",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/claude-sonnet-5-5",
+   "source": "Anthropic",
+   "passage": "Release date September 28, 2026",
+   "deep": "https://www.anthropic.com/claude-sonnet-5-5#:~:text=Release%20date%20September%2028%2C%202026"
+  },
+  {
+   "n": 81,
+   "where": "Six changes this week, item 6",
+   "claim": "Claude apps and API",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/claude-sonnet-5-5",
+   "source": "Anthropic",
+   "passage": "Model ID claude-sonnet-5-5 on the Claude Platform; Medium default 'in Anthropic's apps'; Willison: now the free-tier model on claude.ai",
+   "deep": "https://www.anthropic.com/claude-sonnet-5-5#:~:text=Model%20ID%20claude-sonnet-5-5%20on%20the%20Claude%20Platform%3B%20Medium"
+  },
+  {
+   "n": 82,
+   "where": "Six changes this week, item 6",
+   "claim": "30%+ faster than Sonnet 5",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/claude-sonnet-5-5",
+   "source": "Anthropic",
+   "passage": "'generates outputs 30%+ faster than Sonnet 5'",
+   "deep": "https://www.anthropic.com/claude-sonnet-5-5#:~:text=%27generates%20outputs%2030%25%2B%20faster%20than%20Sonnet%205%27"
+  },
+  {
+   "n": 83,
+   "where": "Six changes this week, item 6",
+   "claim": "strongest at well-scoped everyday work, including documents, slides and spreadsheets",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/claude-sonnet-5-5",
+   "source": "Anthropic",
+   "passage": "everyday tasks with a clear scope ... producing refined docs, decks, and sheets",
+   "deep": "https://www.anthropic.com/claude-sonnet-5-5#:~:text=everyday%20tasks%20with%20a%20clear%20scope"
+  },
+  {
+   "n": 84,
+   "where": "Six changes this week, item 6",
+   "claim": "Simon Willison reports it's now the free-tier model on claude.ai",
+   "verdict": "confirmed",
+   "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
+   "source": "Simon Willison",
+   "passage": "'it's now the model used for the free tier on claude.ai'",
+   "deep": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/#:~:text=%27it%27s%20now%20the%20model%20used%20for%20the%20free"
+  },
+  {
+   "n": 85,
+   "where": "Six changes this week, item 6",
+   "claim": "In the apps it defaults to Medium effort",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/claude-sonnet-5-5",
+   "source": "Anthropic",
+   "passage": "Default effort: Medium in Claude Code and Anthropic's apps",
+   "deep": "https://www.anthropic.com/claude-sonnet-5-5#:~:text=Default%20effort%3A%20Medium%20in%20Claude%20Code%20and%20Anthropic%27s"
+  },
+  {
+   "n": 86,
+   "where": "Six changes this week, item 6",
+   "claim": "thinking can't be switched off (apps)",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/8664678-change-the-model-effort-and-thinking-settings",
+   "source": "Claude Help Center",
+   "passage": "Sonnet 5.5 listed among models where thinking 'cannot be turned off' in the Claude apps",
+   "deep": "https://support.claude.com/en/articles/8664678-change-the-model-effort-and-thinking-settings#:~:text=Sonnet%205.5%20listed%20among%20models%20where%20thinking%20%27cannot"
+  },
+  {
+   "n": 87,
+   "where": "Six changes this week, item 6",
+   "claim": "click the model name next to the send button, choose Effort and go up a level",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/8664678-change-the-model-effort-and-thinking-settings",
+   "source": "Claude Help Center",
+   "passage": "Click the model name next to the send button, select 'Effort,' and choose a level",
+   "deep": "https://support.claude.com/en/articles/8664678-change-the-model-effort-and-thinking-settings#:~:text=Click%20the%20model%20name%20next%20to%20the%20send"
+  },
+  {
+   "n": 88,
+   "where": "Six changes this week, item 7",
+   "claim": "Sept. 23",
+   "verdict": "confirmed",
+   "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes",
+   "source": "Microsoft 365 Copilot release notes",
+   "passage": "'## September 23, 2026 — Updates released between August 26, 2026, and September 22, 2026.'",
+   "deep": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes#:~:text=%27%23%23%20September%2023%2C%202026%20%E2%80%94%20Updates%20released%20between"
+  },
+  {
+   "n": 89,
+   "where": "Six changes this week, item 7",
+   "claim": "Microsoft 365 Copilot; rolls out gradually within each company",
+   "verdict": "confirmed",
+   "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes",
+   "source": "Microsoft 365 Copilot release notes",
+   "passage": "Features 'gradually roll out to a subset of users within a tenant before expanding across the organization' (page intro, general)",
+   "deep": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes#:~:text=Features%20%27gradually%20roll%20out%20to%20a%20subset%20of"
+  },
+  {
+   "n": 90,
+   "where": "Six changes this week, item 7",
+   "claim": "deleting, moving, copying and categorizing mail",
+   "verdict": "confirmed",
+   "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes",
+   "source": "Microsoft 365 Copilot release notes",
+   "passage": "'users can now delete, move, copy, and categorize emails using natural language'",
+   "deep": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes#:~:text=%27users%20can%20now%20delete%2C%20move%2C%20copy%2C%20and%20categorize"
+  },
+  {
+   "n": 91,
+   "where": "Six changes this week, item 7",
+   "claim": "plus creating folders and inbox rules",
+   "verdict": "confirmed",
+   "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes",
+   "source": "Microsoft 365 Copilot release notes",
+   "passage": "'It also supports creating, managing rules, and creating folders.'",
+   "deep": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes#:~:text=%27It%20also%20supports%20creating%2C%20managing%20rules%2C%20and%20creating"
+  },
+  {
+   "n": 92,
+   "where": "Six changes this week, item 7",
+   "claim": "in every version of Outlook",
+   "verdict": "confirmed",
+   "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes",
+   "source": "Microsoft 365 Copilot release notes",
+   "passage": "'Classic and New Outlook for Windows, Outlook on the web, Outlook for Mac, and Outlook mobile' (page doesn't say 'every version'; lists all current clients)",
+   "deep": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes#:~:text=%27Classic%20and%20New%20Outlook%20for%20Windows%2C%20Outlook%20on"
+  },
+  {
+   "n": 93,
+   "where": "Six changes this week, item 7",
+   "claim": "asks for confirmation before acting on more than five emails or changing inbox rules",
+   "verdict": "confirmed",
+   "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes",
+   "source": "Microsoft 365 Copilot release notes",
+   "passage": "'Copilot requests confirmation before acting on more than five emails or making changes to inbox rules.'",
+   "deep": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes#:~:text=%27Copilot%20requests%20confirmation%20before%20acting%20on%20more%20than"
+  },
+  {
+   "n": 94,
+   "where": "Six changes this week, item 7",
+   "claim": "Microsoft rolls features out to some people in a company first",
+   "verdict": "confirmed",
+   "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes",
+   "source": "Microsoft 365 Copilot release notes",
+   "passage": "'gradually roll out to a subset of users within a tenant'",
+   "deep": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes#:~:text=%27gradually%20roll%20out%20to%20a%20subset%20of%20users"
+  },
+  {
+   "n": 95,
+   "where": "Six changes this week",
+   "claim": "Nothing joins the call; consent reminder notifies no one else; tell people first",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/20001546-the-meetings-plugin-in-chatgpt",
+   "source": "OpenAI Meetings help",
+   "passage": "'without a bot joining the call'; 'It does not notify other participants'",
+   "deep": "https://help.openai.com/en/articles/20001546-the-meetings-plugin-in-chatgpt#:~:text=%27without%20a%20bot%20joining%20the%20call%27%3B%20%27It%20does"
+  },
+  {
+   "n": 96,
+   "where": "Six changes this week",
+   "claim": "Laptop video call, four people, no bot; notepad outside the screen",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/20001546-the-meetings-plugin-in-chatgpt",
+   "source": "OpenAI Meetings help",
+   "passage": "SVG matches alt (four participant tiles, green notepad outside screen); 'without a bot joining the call'",
+   "deep": "https://help.openai.com/en/articles/20001546-the-meetings-plugin-in-chatgpt#:~:text=SVG%20matches%20alt%20%28four%20participant%20tiles%2C%20green%20notepad"
+  },
+  {
+   "n": 97,
+   "where": "Six changes this week, step 1",
+   "claim": "In My GPTs, choose Migrate to plugin",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq",
+   "source": "OpenAI GPT retirement FAQ",
+   "passage": "creators go to My GPTs and select 'Migrate to plugin'",
+   "deep": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq#:~:text=creators%20go%20to%20My%20GPTs%20and%20select%20%27Migrate"
+  },
+  {
+   "n": 98,
+   "where": "Six changes this week, step 2",
+   "claim": "Its instructions become a skill",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq",
+   "source": "OpenAI GPT retirement FAQ",
+   "passage": "instructions become a skill in the new plugin",
+   "deep": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq#:~:text=instructions%20become%20a%20skill%20in%20the%20new%20plugin"
+  },
+  {
+   "n": 99,
+   "where": "Six changes this week, step 3",
+   "claim": "Its files and connected apps come along",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq",
+   "source": "OpenAI GPT retirement FAQ",
+   "passage": "Knowledge files copied into reference files; connected apps added as apps",
+   "deep": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq#:~:text=Knowledge%20files%20copied%20into%20reference%20files%3B%20connected%20apps"
+  },
+  {
+   "n": 100,
+   "where": "Six changes this week, step 4",
+   "claim": "Custom actions stay behind",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq",
+   "source": "OpenAI GPT retirement FAQ",
+   "passage": "'GPT custom actions do not transfer through the migration workflow.'",
+   "deep": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq#:~:text=%27GPT%20custom%20actions%20do%20not%20transfer%20through%20the"
+  },
+  {
+   "n": 101,
+   "where": "Six changes this week",
+   "claim": "Keep using original until retirement; old conversations stay accessible",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq",
+   "source": "OpenAI GPT retirement FAQ",
+   "passage": "'Your existing conversations with custom GPTs will remain accessible after retirement.'",
+   "deep": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq#:~:text=%27Your%20existing%20conversations%20with%20custom%20GPTs%20will%20remain"
+  },
+  {
+   "n": 102,
+   "where": "The checklist, item 1",
+   "claim": "In Codex, check workspace defaults, saved model settings, custom agents, scheduled tasks and scripts; switch before Oct. 14",
+   "verdict": "confirmed",
+   "url": "https://learn.chatgpt.com/docs/models",
+   "source": "OpenAI models",
+   "passage": "'Replace gpt-5.5 in workspace defaults, saved model settings, managed configurations, custom agents, ... scheduled tasks, and scripts'",
+   "deep": "https://learn.chatgpt.com/docs/models#:~:text=%27Replace%20gpt-5.5%20in%20workspace%20defaults%2C%20saved%20model%20settings%2C"
+  },
+  {
+   "n": 103,
+   "where": "The checklist, item 2",
+   "claim": "Settings > Personalization > Custom rules, under Permissions",
+   "verdict": "confirmed",
+   "url": "https://learn.chatgpt.com/docs/dots/controls",
+   "source": "OpenAI dot controls",
+   "passage": "Open Settings > Personalization, then select Custom rules under Permissions",
+   "deep": "https://learn.chatgpt.com/docs/dots/controls#:~:text=Open%20Settings%20%3E%20Personalization%2C%20then%20select%20Custom%20rules"
+  },
+  {
+   "n": 104,
+   "where": "The checklist, item 3",
+   "claim": "Tell everyone; the app's consent reminder notifies no one else",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/20001546-the-meetings-plugin-in-chatgpt",
+   "source": "OpenAI Meetings help",
+   "passage": "'It does not notify other participants or obtain their consent for you.'",
+   "deep": "https://help.openai.com/en/articles/20001546-the-meetings-plugin-in-chatgpt#:~:text=%27It%20does%20not%20notify%20other%20participants%20or%20obtain"
+  },
+  {
+   "n": 105,
+   "where": "The checklist, item 4",
+   "claim": "Custom actions won't survive the move to plugins",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq",
+   "source": "OpenAI GPT retirement FAQ",
+   "passage": "'GPT custom actions do not transfer through the migration workflow.'",
+   "deep": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq#:~:text=%27GPT%20custom%20actions%20do%20not%20transfer%20through%20the"
+  },
+  {
+   "n": 106,
+   "where": "The checklist, item 5",
+   "claim": "ChatGPT on the web: Settings > Security and login > Security history",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "Sept 25, 2026: view it in ChatGPT on the web via Settings > Security and login, then Security history (checklist item has no src; supported by the cited OpenAI release notes)",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=Sept%2025%2C%202026%3A%20view%20it%20in%20ChatGPT%20on"
+  }
+ ],
+ "notes": [
+  "No quotes in the draft; no compliance (securities/markets) content; no first-person statements."
+ ]
+}

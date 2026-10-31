@@ -1,0 +1,750 @@
+{
+ "issue": "https://sentfrommyagent.com/p/sports/03-chicago-pays-two-firsts-for-simmons/",
+ "newsletter": "Sports",
+ "number": 3,
+ "date": "2026-10-30",
+ "title": "Chicago pays two firsts for Simmons.",
+ "stamp": "Sent from my agent. Every claim checked.",
+ "record": "https://sentfrommyagent.com/p/sports/03-chicago-pays-two-firsts-for-simmons/record/",
+ "counts": {
+  "checked": 73,
+  "confirmed": 72,
+  "wrong": 0,
+  "unsupported": 1
+ },
+ "checked_at": "2026-10-31T07:00:00-04:00",
+ "checked_by": "a second agent, independent of the writer",
+ "claims": [
+  {
+   "n": 1,
+   "where": "title",
+   "claim": "Chicago pays two firsts for Simmons.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NFL_season",
+   "source": "Wikipedia (2026 NFL season)",
+   "passage": "October 29: Tennessee traded DT Jeffery Simmons and a 2028 fifth-round selection to Chicago in exchange for a 2027 first-round selection and 2028 first and fourth-round selections",
+   "deep": "https://en.wikipedia.org/wiki/2026_NFL_season#:~:text=October%2029%3A%20Tennessee%20traded%20DT%20Jeffery%20Simmons%20and"
+  },
+  {
+   "n": 2,
+   "where": "dek",
+   "claim": "Tennessee sent Jeffery Simmons to the Bears on Thursday for two first-round picks and a fourth.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Jeffery_Simmons",
+   "source": "Wikipedia (Jeffery Simmons)",
+   "passage": "Simmons and a 2028 fifth-round draft pick were traded to the Chicago Bears on October 29 in exchange for the Bears' 2027 and 2028 first-round selections and a 2027 fourth rounder",
+   "deep": "https://en.wikipedia.org/wiki/Jeffery_Simmons#:~:text=Simmons%20and%20a%202028%20fifth-round%20draft%20pick%20were"
+  },
+  {
+   "n": 3,
+   "where": "dek",
+   "claim": "The Brewers won their first World Series.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_World_Series",
+   "source": "Wikipedia (2026 World Series)",
+   "passage": "The Milwaukee Brewers defeated the Tampa Bay Rays 4-1, winning their first championship in franchise history (page content)",
+   "deep": "https://en.wikipedia.org/wiki/2026_World_Series#:~:text=The%20Milwaukee%20Brewers%20defeated%20the%20Tampa%20Bay%20Rays"
+  },
+  {
+   "n": 4,
+   "where": "dek",
+   "claim": "Houston and Memphis are the NBA's last unbeaten teams.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_NBA_season",
+   "source": "Wikipedia (2026–27 NBA season)",
+   "passage": "Standings: Houston Rockets 5–0; Memphis Grizzlies 5–0; every other team has at least one loss",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_NBA_season#:~:text=Standings%3A%20Houston%20Rockets%205%E2%80%930%3B%20Memphis%20Grizzlies%205%E2%80%930%3B%20every"
+  },
+  {
+   "n": 5,
+   "where": "dek",
+   "claim": "Green Bay held off Carolina.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Green_Bay_Packers_season",
+   "source": "Wikipedia (Packers season)",
+   "passage": "held on for a 27–19 victory",
+   "deep": "https://en.wikipedia.org/wiki/2026_Green_Bay_Packers_season#:~:text=held%20on%20for%20a%2027%E2%80%9319%20victory"
+  },
+  {
+   "n": 6,
+   "where": "summary",
+   "claim": "The Brewers won the World Series in five.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_World_Series",
+   "source": "Wikipedia (2026 World Series)",
+   "passage": "Brewers defeated the Rays 4–1; Game 5 October 28, 2026, Brewers 4, Rays 1",
+   "deep": "https://en.wikipedia.org/wiki/2026_World_Series#:~:text=Brewers%20defeated%20the%20Rays%204%E2%80%931%3B%20Game%205%20October"
+  },
+  {
+   "n": 7,
+   "where": "summary",
+   "claim": "Houston and Memphis are 5–0.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_NBA_season",
+   "source": "Wikipedia (2026–27 NBA season)",
+   "passage": "Houston Rockets 5–0; Memphis Grizzlies 5–0",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_NBA_season#:~:text=Houston%20Rockets%205%E2%80%930%3B%20Memphis%20Grizzlies%205%E2%80%930"
+  },
+  {
+   "n": 8,
+   "where": "summary",
+   "claim": "The Packers beat Carolina 27–19.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Green_Bay_Packers_season",
+   "source": "Wikipedia (Packers season)",
+   "passage": "October 29 | 7:15 p.m. | Carolina Panthers | W 27–19 | 5–3 | Lambeau Field | Prime Video",
+   "deep": ""
+  },
+  {
+   "n": 9,
+   "where": "art svg (card R1 2027)",
+   "claim": "Draft card R1 2027 to Tennessee.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NFL_season",
+   "source": "Wikipedia (2026 NFL season)",
+   "passage": "in exchange for a 2027 first-round selection",
+   "deep": "https://en.wikipedia.org/wiki/2026_NFL_season#:~:text=in%20exchange%20for%20a%202027%20first-round%20selection"
+  },
+  {
+   "n": 10,
+   "where": "art svg (card R1 2028)",
+   "claim": "Draft card R1 2028 to Tennessee.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NFL_season",
+   "source": "Wikipedia (2026 NFL season)",
+   "passage": "2028 first and fourth-round selections",
+   "deep": "https://en.wikipedia.org/wiki/2026_NFL_season#:~:text=2028%20first%20and%20fourth-round%20selections"
+  },
+  {
+   "n": 11,
+   "where": "art svg (card R4)",
+   "claim": "A fourth-round card, with no year shown.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Jeffery_Simmons",
+   "source": "Wikipedia (Jeffery Simmons)",
+   "passage": "a 2027 fourth rounder (the 2026 NFL season page says 2028; the card shows no year, which is consistent with both)",
+   "deep": "https://en.wikipedia.org/wiki/Jeffery_Simmons#:~:text=a%202027%20fourth%20rounder%20%28the%202026%20NFL%20season"
+  },
+  {
+   "n": 12,
+   "where": "art svg / art alt labels",
+   "claim": "SIMMONS, TO CHICAGO; PICKS, TO TENNESSEE.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NFL_season",
+   "source": "Wikipedia (2026 NFL season)",
+   "passage": "Tennessee traded DT Jeffery Simmons ... to Chicago in exchange for ... selections",
+   "deep": "https://en.wikipedia.org/wiki/2026_NFL_season#:~:text=Tennessee%20traded%20DT%20Jeffery%20Simmons"
+  },
+  {
+   "n": 13,
+   "where": "art svg (jersey DT)",
+   "claim": "Simmons is a defensive tackle (DT).",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NFL_season",
+   "source": "Wikipedia (2026 NFL season)",
+   "passage": "Tennessee traded DT Jeffery Simmons",
+   "deep": "https://en.wikipedia.org/wiki/2026_NFL_season#:~:text=Tennessee%20traded%20DT%20Jeffery%20Simmons"
+  },
+  {
+   "n": 14,
+   "where": "The story",
+   "claim": "Tennessee traded defensive tackle Jeffery Simmons and a 2028 fifth-round pick to Chicago.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NFL_season",
+   "source": "Wikipedia (2026 NFL season)",
+   "passage": "Tennessee traded DT Jeffery Simmons and a 2028 fifth-round selection to Chicago",
+   "deep": "https://en.wikipedia.org/wiki/2026_NFL_season#:~:text=Tennessee%20traded%20DT%20Jeffery%20Simmons%20and%20a%202028"
+  },
+  {
+   "n": 15,
+   "where": "The story",
+   "claim": "The trade was on Thursday, Oct. 29.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NFL_season",
+   "source": "Wikipedia (2026 NFL season)",
+   "passage": "October 29: Tennessee traded DT Jeffery Simmons (Oct. 29, 2026 is a Thursday)",
+   "deep": "https://en.wikipedia.org/wiki/2026_NFL_season#:~:text=October%2029%3A%20Tennessee%20traded%20DT%20Jeffery%20Simmons%20%28Oct."
+  },
+  {
+   "n": 16,
+   "where": "The story",
+   "claim": "In return: the Bears' 2027 and 2028 first-round picks and a fourth-round pick.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Jeffery_Simmons",
+   "source": "Wikipedia (Jeffery Simmons)",
+   "passage": "in exchange for the Bears' 2027 and 2028 first-round selections and a 2027 fourth rounder",
+   "deep": "https://en.wikipedia.org/wiki/Jeffery_Simmons#:~:text=in%20exchange%20for%20the%20Bears%27%202027%20and%202028"
+  },
+  {
+   "n": 17,
+   "where": "The story",
+   "claim": "Wikipedia's records agree on the terms but give different years for the fourth-rounder.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NFL_season",
+   "source": "Wikipedia (2026 NFL season)",
+   "passage": "2028 first and fourth-round selections (season page) vs. 'a 2027 fourth rounder' (https://en.wikipedia.org/wiki/Jeffery_Simmons)",
+   "deep": "https://en.wikipedia.org/wiki/2026_NFL_season#:~:text=2028%20first%20and%20fourth-round%20selections%20%28season%20page%29%20vs."
+  },
+  {
+   "n": 18,
+   "where": "The story",
+   "claim": "Simmons was a first-team All-Pro in 2025.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Jeffery_Simmons",
+   "source": "Wikipedia (Jeffery Simmons)",
+   "passage": "He was named to his fourth Pro Bowl and was also named first-team All-Pro",
+   "deep": "https://en.wikipedia.org/wiki/Jeffery_Simmons#:~:text=He%20was%20named%20to%20his%20fourth%20Pro%20Bowl"
+  },
+  {
+   "n": 19,
+   "where": "The story",
+   "claim": "Simmons had been listed as a Titans captain.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Tennessee_Titans_season",
+   "source": "Wikipedia (Titans season)",
+   "passage": "Team captains: Jeffery Simmons, DT (alongside Cam Ward, QB, and Morgan Cox, LS)",
+   "deep": "https://en.wikipedia.org/wiki/2026_Tennessee_Titans_season#:~:text=Team%20captains%3A%20Jeffery%20Simmons%2C%20DT%20%28alongside%20Cam%20Ward%2C"
+  },
+  {
+   "n": 20,
+   "where": "The story",
+   "claim": "The Titans are 1–6.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Tennessee_Titans_season",
+   "source": "Wikipedia (Titans season)",
+   "passage": "record through Week 7 is 1–6, fourth in the AFC South",
+   "deep": "https://en.wikipedia.org/wiki/2026_Tennessee_Titans_season#:~:text=record%20through%20Week%207%20is%201%E2%80%936%2C%20fourth%20in"
+  },
+  {
+   "n": 21,
+   "where": "The story",
+   "claim": "The Titans' head coach is Robert Saleh.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Tennessee_Titans_season",
+   "source": "Wikipedia (Titans season)",
+   "passage": "Head coach: Robert Saleh",
+   "deep": "https://en.wikipedia.org/wiki/2026_Tennessee_Titans_season#:~:text=Head%20coach%3A%20Robert%20Saleh"
+  },
+  {
+   "n": 22,
+   "where": "The story",
+   "claim": "27–24 home loss to Cleveland on Sunday, Oct. 25.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Tennessee_Titans_season",
+   "source": "Wikipedia (Titans season)",
+   "passage": "Week 7 vs. Cleveland Browns, October 25: L 24–27 (home)",
+   "deep": "https://en.wikipedia.org/wiki/2026_Tennessee_Titans_season#:~:text=Week%207%20vs.%20Cleveland%20Browns%2C%20October%2025%3A%20L"
+  },
+  {
+   "n": 23,
+   "where": "The story",
+   "claim": "The Bears are 5–2.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Chicago_Bears_season",
+   "source": "Wikipedia (Bears season)",
+   "passage": "NFC North: Chicago Bears 5 W, 2 L",
+   "deep": "https://en.wikipedia.org/wiki/2026_Chicago_Bears_season#:~:text=NFC%20North%3A%20Chicago%20Bears%205%20W%2C%202%20L"
+  },
+  {
+   "n": 24,
+   "where": "The story",
+   "claim": "Chicago is second in the NFC North behind 6–0 Minnesota.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Chicago_Bears_season",
+   "source": "Wikipedia (Bears season)",
+   "passage": "NFC North: Minnesota Vikings 6–0, Chicago Bears 5–2, Detroit Lions 4–2, Green Bay Packers 5–3",
+   "deep": "https://en.wikipedia.org/wiki/2026_Chicago_Bears_season#:~:text=NFC%20North%3A%20Minnesota%20Vikings%206%E2%80%930%2C%20Chicago%20Bears%205%E2%80%932%2C"
+  },
+  {
+   "n": 25,
+   "where": "The story",
+   "claim": "Chicago plays Monday, Nov. 2, at Seattle at 8:15 p.m. ET on ESPN.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Chicago_Bears_season",
+   "source": "Wikipedia (Bears season)",
+   "passage": "Monday, November 2 at Seattle Seahawks, 7:15 p.m. CST on ESPN (= 8:15 p.m. EST; Seahawks page: 5:15 p.m. PST, ESPN, Lumen Field)",
+   "deep": "https://en.wikipedia.org/wiki/2026_Chicago_Bears_season#:~:text=Monday%2C%20November%202%20at%20Seattle%20Seahawks%2C%207%3A15%20p.m."
+  },
+  {
+   "n": 26,
+   "where": "The story",
+   "claim": "Seattle added guard Quenton Nelson from Indianapolis on Tuesday, Oct. 27.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NFL_season",
+   "source": "Wikipedia (2026 NFL season)",
+   "passage": "October 27: Indianapolis traded G Quenton Nelson to Seattle in exchange for a 2027 third-round selection and a 2028 fifth-round selection",
+   "deep": "https://en.wikipedia.org/wiki/2026_NFL_season#:~:text=October%2027%3A%20Indianapolis%20traded%20G%20Quenton%20Nelson%20to"
+  },
+  {
+   "n": 27,
+   "where": "The story",
+   "claim": "Chicago is three games over .500.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Chicago_Bears_season",
+   "source": "Wikipedia (Bears season)",
+   "passage": "Chicago Bears 5–2 (5 − 2 = 3 games over .500)",
+   "deep": "https://en.wikipedia.org/wiki/2026_Chicago_Bears_season#:~:text=Chicago%20Bears%205%E2%80%932%20%285%20%E2%88%92%202%20%3D%203"
+  },
+  {
+   "n": 28,
+   "where": "The story",
+   "claim": "Chicago gave up its next two first-round picks.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Jeffery_Simmons",
+   "source": "Wikipedia (Jeffery Simmons)",
+   "passage": "the Bears' 2027 and 2028 first-round selections",
+   "deep": "https://en.wikipedia.org/wiki/Jeffery_Simmons#:~:text=the%20Bears%27%202027%20and%202028%20first-round%20selections"
+  },
+  {
+   "n": 29,
+   "where": "The story",
+   "claim": "Tennessee, 1–6, took two first-rounders and a fourth for its captain.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Tennessee_Titans_season",
+   "source": "Wikipedia (Titans season)",
+   "passage": "1–6; Team captains: Jeffery Simmons, DT; trade terms per the 2026 NFL season page",
+   "deep": "https://en.wikipedia.org/wiki/2026_Tennessee_Titans_season#:~:text=1%E2%80%936%3B%20Team%20captains%3A%20Jeffery%20Simmons%2C%20DT%3B%20trade%20terms"
+  },
+  {
+   "n": 30,
+   "where": "The story",
+   "claim": "Brewers beat Tampa Bay 4–1 in Game 5 on Wednesday, Oct. 28, at Tropicana Field.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_World_Series",
+   "source": "Wikipedia (2026 World Series)",
+   "passage": "Game 5: October 28, 2026; Tropicana Field, St. Petersburg, Florida; Brewers 4, Rays 1",
+   "deep": "https://en.wikipedia.org/wiki/2026_World_Series#:~:text=Game%205%3A%20October%2028%2C%202026%3B%20Tropicana%20Field%2C%20St."
+  },
+  {
+   "n": 31,
+   "where": "The story",
+   "claim": "Won the Series four games to one, the franchise's first championship.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_World_Series",
+   "source": "Wikipedia (2026 World Series)",
+   "passage": "defeated the Tampa Bay Rays 4-1, winning their first championship in franchise history",
+   "deep": "https://en.wikipedia.org/wiki/2026_World_Series#:~:text=defeated%20the%20Tampa%20Bay%20Rays%204-1%2C%20winning%20their"
+  },
+  {
+   "n": 32,
+   "where": "The story",
+   "claim": "Cooper Pratt's single scored the first run in the second inning.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_World_Series",
+   "source": "Wikipedia (2026 World Series)",
+   "passage": "2nd inning: Cooper Pratt drove in a run with a single",
+   "deep": "https://en.wikipedia.org/wiki/2026_World_Series#:~:text=2nd%20inning%3A%20Cooper%20Pratt%20drove%20in%20a%20run"
+  },
+  {
+   "n": 33,
+   "where": "The story",
+   "claim": "David Hamilton's single added one in the fifth.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_World_Series",
+   "source": "Wikipedia (2026 World Series)",
+   "passage": "5th inning: David Hamilton RBI single",
+   "deep": "https://en.wikipedia.org/wiki/2026_World_Series#:~:text=5th%20inning%3A%20David%20Hamilton%20RBI%20single"
+  },
+  {
+   "n": 34,
+   "where": "The story",
+   "claim": "William Contreras doubled in a run in the sixth and scored on Pratt's sacrifice fly.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_World_Series",
+   "source": "Wikipedia (2026 World Series)",
+   "passage": "6th inning: William Contreras hit an RBI double, then scored on a Pratt sacrifice fly",
+   "deep": "https://en.wikipedia.org/wiki/2026_World_Series#:~:text=6th%20inning%3A%20William%20Contreras%20hit%20an%20RBI%20double%2C"
+  },
+  {
+   "n": 35,
+   "where": "The story",
+   "claim": "The Rays scored once, in the ninth.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_World_Series",
+   "source": "Wikipedia (2026 World Series)",
+   "passage": "9th inning: Tampa Bay scored their sole run",
+   "deep": "https://en.wikipedia.org/wiki/2026_World_Series#:~:text=9th%20inning%3A%20Tampa%20Bay%20scored%20their%20sole%20run"
+  },
+  {
+   "n": 36,
+   "where": "The story",
+   "claim": "Contreras was Series MVP, hitting .381 with four RBIs.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_World_Series",
+   "source": "Wikipedia (2026 World Series)",
+   "passage": "Series MVP: William Contreras batted .381 with 4 RBIs",
+   "deep": "https://en.wikipedia.org/wiki/2026_World_Series#:~:text=Series%20MVP%3A%20William%20Contreras%20batted%20.381%20with%204"
+  },
+  {
+   "n": 37,
+   "where": "The story",
+   "claim": "Packers beat Carolina 27–19 at Lambeau Field on Thursday, Oct. 29.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Green_Bay_Packers_season",
+   "source": "Wikipedia (Packers season)",
+   "passage": "Packers 27–19 ... at Lambeau Field, Green Bay, Wisconsin, October 29",
+   "deep": ""
+  },
+  {
+   "n": 38,
+   "where": "The story",
+   "claim": "It was the first game of Week 8.",
+   "verdict": "unsupported",
+   "url": "https://en.wikipedia.org/wiki/2026_Green_Bay_Packers_season",
+   "source": "Wikipedia (Packers season)",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 39,
+   "where": "The story",
+   "claim": "They led 27–10 in the third quarter.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Green_Bay_Packers_season",
+   "source": "Wikipedia (Packers season)",
+   "passage": "a 27–10 lead in the third quarter",
+   "deep": "https://en.wikipedia.org/wiki/2026_Green_Bay_Packers_season#:~:text=a%2027%E2%80%9310%20lead%20in%20the%20third%20quarter"
+  },
+  {
+   "n": 40,
+   "where": "The story",
+   "claim": "Three turnovers, including a fumble on the opening kickoff.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Green_Bay_Packers_season",
+   "source": "Wikipedia (Packers season)",
+   "passage": "three turnovers (including a fumble on the opening kickoff)",
+   "deep": "https://en.wikipedia.org/wiki/2026_Green_Bay_Packers_season#:~:text=three%20turnovers%20%28including%20a%20fumble%20on%20the%20opening"
+  },
+  {
+   "n": 41,
+   "where": "The story",
+   "claim": "Carolina scored the last nine points.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Green_Bay_Packers_season",
+   "source": "Wikipedia (Packers season)",
+   "passage": "Line score Panthers 3-7-3-6, Packers 6-14-7-0, after 'a 27–10 lead in the third quarter': Carolina's last 3 + 6 = 9, giving 27–19",
+   "deep": "https://en.wikipedia.org/wiki/2026_Green_Bay_Packers_season#:~:text=Line%20score%20Panthers%203-7-3-6%2C%20Packers%206-14-7-0%2C%20after%20%27a"
+  },
+  {
+   "n": 42,
+   "where": "The story",
+   "claim": "Green Bay is 5–3.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Green_Bay_Packers_season",
+   "source": "Wikipedia (Packers season)",
+   "passage": "W 27–19 | 5–3",
+   "deep": ""
+  },
+  {
+   "n": 43,
+   "where": "The story",
+   "claim": "Several Brewers players were at the game a day after their title.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Green_Bay_Packers_season",
+   "source": "Wikipedia (Packers season)",
+   "passage": "A group of Milwaukee Brewers players were in attendance after winning the 2026 World Series the previous night",
+   "deep": "https://en.wikipedia.org/wiki/2026_Green_Bay_Packers_season#:~:text=A%20group%20of%20Milwaukee%20Brewers%20players%20were%20in"
+  },
+  {
+   "n": 44,
+   "where": "The story",
+   "claim": "Memphis ended Portland's unbeaten start on Thursday, Oct. 29, winning 124–103 at Portland.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Portland_Trail_Blazers_season",
+   "source": "Wikipedia (Trail Blazers season)",
+   "passage": "October 29: L 103–124 vs Memphis, Record: 3-1 (previously 3-0); Grizzlies page: W 124–103 at Moda Center",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Portland_Trail_Blazers_season#:~:text=October%2029%3A%20L%20103%E2%80%93124%20vs%20Memphis%2C%20Record%3A%203-1"
+  },
+  {
+   "n": 45,
+   "where": "The story",
+   "claim": "18 points each from Cameron Boozer and Isaiah Stewart.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Memphis_Grizzlies_season",
+   "source": "Wikipedia (Grizzlies season)",
+   "passage": "High points: Boozer, Stewart (18)",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Memphis_Grizzlies_season#:~:text=High%20points%3A%20Boozer%2C%20Stewart%20%2818%29"
+  },
+  {
+   "n": 46,
+   "where": "The story",
+   "claim": "A night earlier, Houston won 132–100 at Milwaukee.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Houston_Rockets_season",
+   "source": "Wikipedia (Rockets season)",
+   "passage": "October 28: @ Milwaukee, Fiserv Forum, W 132–100, record 5–0",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Houston_Rockets_season#:~:text=October%2028%3A%20%40%20Milwaukee%2C%20Fiserv%20Forum%2C%20W%20132%E2%80%93100%2C"
+  },
+  {
+   "n": 47,
+   "where": "The story",
+   "claim": "Fred VanVleet scored 24.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Houston_Rockets_season",
+   "source": "Wikipedia (Rockets season)",
+   "passage": "High points: Fred VanVleet (24)",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Houston_Rockets_season#:~:text=High%20points%3A%20Fred%20VanVleet%20%2824%29"
+  },
+  {
+   "n": 48,
+   "where": "The story",
+   "claim": "Oklahoma City lost for the first time, 120–96 at Dallas.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Oklahoma_City_Thunder_season",
+   "source": "Wikipedia (Thunder season)",
+   "passage": "October 28: @ Dallas, American Airlines Center, L 96–120 — the Thunder's first loss, record 4–1",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Oklahoma_City_Thunder_season#:~:text=October%2028%3A%20%40%20Dallas%2C%20American%20Airlines%20Center%2C%20L"
+  },
+  {
+   "n": 49,
+   "where": "The story",
+   "claim": "Houston and Memphis are the only unbeaten teams, both 5–0, in Wikipedia's standings.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_NBA_season",
+   "source": "Wikipedia (2026–27 NBA season)",
+   "passage": "Houston Rockets 5–0; Memphis Grizzlies 5–0 (no other team without a loss)",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_NBA_season#:~:text=Houston%20Rockets%205%E2%80%930%3B%20Memphis%20Grizzlies%205%E2%80%930%20%28no%20other"
+  },
+  {
+   "n": 50,
+   "where": "The story",
+   "claim": "Sacramento is 0–5.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_NBA_season",
+   "source": "Wikipedia (2026–27 NBA season)",
+   "passage": "Sacramento Kings 0–5",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_NBA_season#:~:text=Sacramento%20Kings%200%E2%80%935"
+  },
+  {
+   "n": 51,
+   "where": "The story",
+   "claim": "Brooklyn is 0–4.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_NBA_season",
+   "source": "Wikipedia (2026–27 NBA season)",
+   "passage": "Brooklyn Nets 0–4",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_NBA_season#:~:text=Brooklyn%20Nets%200%E2%80%934"
+  },
+  {
+   "n": 52,
+   "where": "The story",
+   "claim": "The Rockets play at Dallas on Friday, Oct. 30.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Houston_Rockets_season",
+   "source": "Wikipedia (Rockets season)",
+   "passage": "October 30: @ Dallas (American Airlines Center), NBA Cup game, no score shown",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Houston_Rockets_season#:~:text=October%2030%3A%20%40%20Dallas%20%28American%20Airlines%20Center%29%2C%20NBA"
+  },
+  {
+   "n": 53,
+   "where": "The story",
+   "claim": "The Rockets then host the Thunder on Saturday, Oct. 31.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Houston_Rockets_season",
+   "source": "Wikipedia (Rockets season)",
+   "passage": "October 31: vs Oklahoma City (Toyota Center)",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Houston_Rockets_season#:~:text=October%2031%3A%20vs%20Oklahoma%20City%20%28Toyota%20Center%29"
+  },
+  {
+   "n": 54,
+   "where": "The story",
+   "claim": "Memphis hosts winless Sacramento on Saturday, Oct. 31.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Memphis_Grizzlies_season",
+   "source": "Wikipedia (Grizzlies season)",
+   "passage": "October 31 vs Sacramento, FedExForum (not yet played)",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Memphis_Grizzlies_season#:~:text=October%2031%20vs%20Sacramento%2C%20FedExForum%20%28not%20yet%20played%29"
+  },
+  {
+   "n": 55,
+   "where": "The story",
+   "claim": "Troy beat James Madison 24–21 in overtime at Bridgeforth Stadium, Harrisonburg, Va., on Thursday, Oct. 29.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_James_Madison_Dukes_football_team",
+   "source": "Wikipedia (James Madison season)",
+   "passage": "October 29 | Troy | Bridgeforth Stadium • Harrisonburg, Virginia | L 21–24 OT",
+   "deep": ""
+  },
+  {
+   "n": 56,
+   "where": "The story",
+   "claim": "The same night, North Texas beat Florida Atlantic 48–41 in Denton, Texas.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_North_Texas_Mean_Green_football_team",
+   "source": "Wikipedia (North Texas season)",
+   "passage": "October 29 | Florida Atlantic | DATCU Stadium • Denton, Texas | W 48–41",
+   "deep": ""
+  },
+  {
+   "n": 57,
+   "where": "The story",
+   "claim": "The most recent AP poll is dated Oct. 25.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings",
+   "source": "Wikipedia (FBS rankings)",
+   "passage": "AP Poll Week 8, October 25 (latest column)",
+   "deep": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings#:~:text=AP%20Poll%20Week%208%2C%20October%2025%20%28latest%20column%29"
+  },
+  {
+   "n": 58,
+   "where": "The story",
+   "claim": "Unbeaten Miami is first at 7–0.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings",
+   "source": "Wikipedia (FBS rankings)",
+   "passage": "1. Miami (FL) (7–0)",
+   "deep": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings#:~:text=1.%20Miami%20%28FL%29%20%287%E2%80%930%29"
+  },
+  {
+   "n": 59,
+   "where": "The story",
+   "claim": "Then Ohio State and Georgia, both 6–1.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings",
+   "source": "Wikipedia (FBS rankings)",
+   "passage": "2. Ohio State (6–1); 3. Georgia (6–1)",
+   "deep": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings#:~:text=2.%20Ohio%20State%20%286%E2%80%931%29%3B%203.%20Georgia%20%286%E2%80%931%29"
+  },
+  {
+   "n": 60,
+   "where": "The story",
+   "claim": "Miami plays at North Carolina at 7:30 p.m. ET on ABC on Saturday, Oct. 31.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Miami_Hurricanes_football_team",
+   "source": "Wikipedia (Miami season)",
+   "passage": "at North Carolina | Kenan Stadium, Chapel Hill, NC | 7:30 p.m. | ABC — 'All times are in Eastern time'",
+   "deep": "https://en.wikipedia.org/wiki/2026_Miami_Hurricanes_football_team#:~:text=at%20North%20Carolina"
+  },
+  {
+   "n": 61,
+   "where": "The story",
+   "claim": "Ohio State plays at USC on NBC.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Ohio_State_Buckeyes_football_team",
+   "source": "Wikipedia (Ohio State season)",
+   "passage": "October 31: at USC, Los Angeles Memorial Coliseum, 7:30 p.m., NBC",
+   "deep": "https://en.wikipedia.org/wiki/2026_Ohio_State_Buckeyes_football_team#:~:text=October%2031%3A%20at%20USC%2C%20Los%20Angeles%20Memorial%20Coliseum%2C"
+  },
+  {
+   "n": 62,
+   "where": "The story",
+   "claim": "Georgia meets No. 17 Florida in Atlanta at 3:30 p.m. ET on ABC.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Georgia_Bulldogs_football_team",
+   "source": "Wikipedia (Georgia season)",
+   "passage": "October 31 | 3:30 p.m. | vs. No. 17 Florida | No. 3 | Mercedes-Benz Stadium, Atlanta, GA | ABC — 'All times are in Eastern time'",
+   "deep": ""
+  },
+  {
+   "n": 63,
+   "where": "The story",
+   "claim": "Each of the top three is on the road or at a neutral site Saturday.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Georgia_Bulldogs_football_team",
+   "source": "Wikipedia (Georgia season)",
+   "passage": "Georgia vs. Florida at Mercedes-Benz Stadium, Atlanta (neutral); Miami 'at North Carolina'; Ohio State 'at USC'",
+   "deep": "https://en.wikipedia.org/wiki/2026_Georgia_Bulldogs_football_team#:~:text=Georgia%20vs.%20Florida%20at%20Mercedes-Benz%20Stadium%2C%20Atlanta%20%28neutral%29%3B"
+  },
+  {
+   "n": 64,
+   "where": "The story",
+   "claim": "The first CFP rankings are listed for Tuesday, Nov. 3.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings",
+   "source": "Wikipedia (FBS rankings)",
+   "passage": "CFP rankings: Week 10 Nov 3 (first column)",
+   "deep": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings#:~:text=CFP%20rankings%3A%20Week%2010%20Nov%203%20%28first%20column%29"
+  },
+  {
+   "n": 65,
+   "where": "Games that can change the picture, item 1",
+   "claim": "Fri., Oct. 30: Rockets at Mavericks; tip time not listed in the cited record.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Houston_Rockets_season",
+   "source": "Wikipedia (Rockets season)",
+   "passage": "October 30: @ Dallas — no game time shown",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Houston_Rockets_season#:~:text=October%2030%3A%20%40%20Dallas%20%E2%80%94%20no%20game%20time"
+  },
+  {
+   "n": 66,
+   "where": "Games that can change the picture, item 2",
+   "claim": "Sat., Oct. 31: Thunder at Rockets; Kings at Grizzlies; both unbeaten teams at home; tip times not listed.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Memphis_Grizzlies_season",
+   "source": "Wikipedia (Grizzlies season)",
+   "passage": "October 31 vs Sacramento, FedExForum (dashes only); Rockets page: October 31 vs Oklahoma City (Toyota Center), no time",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Memphis_Grizzlies_season#:~:text=October%2031%20vs%20Sacramento%2C%20FedExForum%20%28dashes%20only%29%3B%20Rockets"
+  },
+  {
+   "n": 67,
+   "where": "Games that can change the picture, item 3",
+   "claim": "Sat., Oct. 31: Georgia vs. Florida in Atlanta at 3:30 p.m. ET; Miami at North Carolina in Chapel Hill at 7:30 p.m. ET; both on ABC.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Miami_Hurricanes_football_team",
+   "source": "Wikipedia (Miami season)",
+   "passage": "Kenan Stadium, Chapel Hill, NC | 7:30 p.m. | ABC; Georgia page: 3:30 p.m., Mercedes-Benz Stadium, Atlanta, ABC; both 'All times are in Eastern time'",
+   "deep": "https://en.wikipedia.org/wiki/2026_Miami_Hurricanes_football_team#:~:text=Kenan%20Stadium%2C%20Chapel%20Hill%2C%20NC"
+  },
+  {
+   "n": 68,
+   "where": "Games that can change the picture, item 4",
+   "claim": "Mon., Nov. 2, 8:15 p.m. ET: Bears at Seahawks.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Seattle_Seahawks_season",
+   "source": "Wikipedia (Seahawks season)",
+   "passage": "Week 8: November 2, 5:15 p.m. (PST), Chicago Bears, Lumen Field, ESPN",
+   "deep": "https://en.wikipedia.org/wiki/2026_Seattle_Seahawks_season#:~:text=Week%208%3A%20November%202%2C%205%3A15%20p.m.%20%28PST%29%2C%20Chicago"
+  },
+  {
+   "n": 69,
+   "where": "Games that can change the picture, item 4",
+   "claim": "Both teams' first game since this week's trades for Simmons and Nelson.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Seattle_Seahawks_season",
+   "source": "Wikipedia (Seahawks season)",
+   "passage": "Week 7: October 25 ... Week 8: November 2 (no game between); Bears page: next game Week 8 at Seattle, November 2",
+   "deep": "https://en.wikipedia.org/wiki/2026_Seattle_Seahawks_season#:~:text=Week%207%3A%20October%2025"
+  },
+  {
+   "n": 70,
+   "where": "Games that can change the picture, item 5",
+   "claim": "Tue., Nov. 3: first CFP rankings of the season, as listed.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings",
+   "source": "Wikipedia (FBS rankings)",
+   "passage": "CFP: Week 10 Nov 3",
+   "deep": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings#:~:text=CFP%3A%20Week%2010%20Nov%203"
+  },
+  {
+   "n": 71,
+   "where": "Go to the record, item 1",
+   "claim": "The 2026 NFL season page lists the Simmons and Nelson trades with their draft-pick terms.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NFL_season",
+   "source": "Wikipedia (2026 NFL season)",
+   "passage": "October 27: Indianapolis traded G Quenton Nelson to Seattle ...; October 29: Tennessee traded DT Jeffery Simmons",
+   "deep": "https://en.wikipedia.org/wiki/2026_NFL_season#:~:text=October%2027%3A%20Indianapolis%20traded%20G%20Quenton%20Nelson%20to"
+  },
+  {
+   "n": 72,
+   "where": "Go to the record, item 2",
+   "claim": "The 2026 World Series page has all five games, the Game 5 scoring and the MVP.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_World_Series",
+   "source": "Wikipedia (2026 World Series)",
+   "passage": "Game 5 scoring summary by inning; Series MVP: William Contreras",
+   "deep": "https://en.wikipedia.org/wiki/2026_World_Series#:~:text=Game%205%20scoring%20summary%20by%20inning%3B%20Series%20MVP%3A"
+  },
+  {
+   "n": 73,
+   "where": "Go to the record, item 3",
+   "claim": "The 2026–27 NBA season page has standings for both conferences.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_NBA_season",
+   "source": "Wikipedia (2026–27 NBA season)",
+   "passage": "Eastern Conference and Western Conference standings tables",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_NBA_season#:~:text=Eastern%20Conference%20and%20Western%20Conference%20standings%20tables"
+  }
+ ],
+ "notes": []
+}

@@ -1,0 +1,870 @@
+{
+ "issue": "https://sentfrommyagent.com/p/software-update/02-chatgpt-moved-to-gpt-6/",
+ "newsletter": "Software Update",
+ "number": 2,
+ "date": "2026-10-08",
+ "title": "ChatGPT moved to GPT-6.",
+ "stamp": "Sent from my agent. Every claim checked.",
+ "record": "https://sentfrommyagent.com/p/software-update/02-chatgpt-moved-to-gpt-6/record/",
+ "counts": {
+  "checked": 85,
+  "confirmed": 83,
+  "wrong": 0,
+  "unsupported": 2
+ },
+ "checked_at": "2026-10-24T12:00:00-04:00",
+ "checked_by": "a second agent, independent of the writer",
+ "claims": [
+  {
+   "n": 1,
+   "where": "title",
+   "claim": "The engine changed. (ChatGPT's Chat model changed to GPT-6)",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/gpt-6-for-everyone/",
+   "source": "OpenAI GPT-6",
+   "passage": "This update applies to the Chat experience in ChatGPT",
+   "deep": "https://openai.com/index/gpt-6-for-everyone/#:~:text=This%20update%20applies%20to%20the%20Chat%20experience%20in"
+  },
+  {
+   "n": 2,
+   "where": "dek",
+   "claim": "ChatGPT's Chat tab moved to GPT-6",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "The rollout starts globally today for Plus, Pro, Business, and Enterprise in the Chat tab. (Oct. 7, 2026)",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=The%20rollout%20starts%20globally%20today%20for%20Plus%2C%20Pro%2C"
+  },
+  {
+   "n": 3,
+   "where": "dek",
+   "claim": "answers can now arrive as diagrams and working tools",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/gpt-6-for-everyone/",
+   "source": "OpenAI GPT-6",
+   "passage": "side-by-side comparisons, interactive diagrams, and user-requested tools like calculators, bill splitters, and games",
+   "deep": "https://openai.com/index/gpt-6-for-everyone/#:~:text=side-by-side%20comparisons%2C%20interactive%20diagrams%2C%20and%20user-requested%20tools%20like"
+  },
+  {
+   "n": 4,
+   "where": "dek",
+   "claim": "monthly API credits for Claude Max and Team",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/12138966-release-notes",
+   "source": "Claude release notes",
+   "passage": "Max and Team plans now include monthly API credits for running your own apps and agents on the Claude Platform",
+   "deep": "https://support.claude.com/en/articles/12138966-release-notes#:~:text=Max%20and%20Team%20plans%20now%20include%20monthly%20API"
+  },
+  {
+   "n": 5,
+   "where": "dek",
+   "claim": "a cheaper Haiku",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/claude-haiku-5-5",
+   "source": "Anthropic Haiku 5.5",
+   "passage": "Haiku 5.5 is available at a much lower price than Haiku 4.5",
+   "deep": "https://www.anthropic.com/claude-haiku-5-5#:~:text=Haiku%205.5%20is%20available%20at%20a%20much%20lower"
+  },
+  {
+   "n": 6,
+   "where": "dek",
+   "claim": "audio uploads in ChatGPT",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "Oct. 6, 2026: Audio uploads in ChatGPT",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=Oct.%206%2C%202026%3A%20Audio%20uploads%20in%20ChatGPT"
+  },
+  {
+   "n": 7,
+   "where": "summary",
+   "claim": "ChatGPT moved to GPT-6 with interactive answers",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "Oct. 7, 2026: GPT-6 and Intelligent UI in ChatGPT",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=Oct.%207%2C%202026%3A%20GPT-6%20and%20Intelligent%20UI%20in"
+  },
+  {
+   "n": 8,
+   "where": "summary",
+   "claim": "Claude Max and Team got API credits",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/12138966-release-notes",
+   "source": "Claude release notes",
+   "passage": "Max and Team plans now include monthly API credits",
+   "deep": "https://support.claude.com/en/articles/12138966-release-notes#:~:text=Max%20and%20Team%20plans%20now%20include%20monthly%20API"
+  },
+  {
+   "n": 9,
+   "where": "summary",
+   "claim": "Haiku 5.5 cut API prices",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/claude-haiku-5-5",
+   "source": "Anthropic Haiku 5.5",
+   "passage": "$0.10 input / $0.50 output per million (up to 100K) vs Haiku 4.5 $1.00 / $5.00. Note: it is a new model at a lower price, not a cut to an existing model's price; wording is loose but supported",
+   "deep": "https://www.anthropic.com/claude-haiku-5-5#:~:text=%240.10%20input%20%2F%20%240.50%20output%20per%20million%20%28up"
+  },
+  {
+   "n": 10,
+   "where": "summary",
+   "claim": "Anthropic's new Usage Policy starts Nov. 12",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+   "source": "Anthropic usage policy",
+   "passage": "The updated policy takes effect on November 12",
+   "deep": "https://www.anthropic.com/news/2026-usage-policy-update#:~:text=The%20updated%20policy%20takes%20effect%20on%20November%2012"
+  },
+  {
+   "n": 11,
+   "where": "art svg/alt",
+   "claim": "Label OCT. 7 (date of GPT-6 launch)",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/gpt-6-for-everyone/",
+   "source": "OpenAI GPT-6",
+   "passage": "Publication date: October 7, 2026",
+   "deep": "https://openai.com/index/gpt-6-for-everyone/#:~:text=Publication%20date%3A%20October%207%2C%202026"
+  },
+  {
+   "n": 12,
+   "where": "The story",
+   "claim": "On Oct. 7, OpenAI moved ChatGPT's Chat tab to GPT-6",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "The rollout starts globally today for Plus, Pro, Business, and Enterprise in the Chat tab. (Oct. 7)",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=The%20rollout%20starts%20globally%20today%20for%20Plus%2C%20Pro%2C"
+  },
+  {
+   "n": 13,
+   "where": "The story",
+   "claim": "answers can include diagrams, comparisons and calculators you use in the chat",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "Responses can mix text, visuals, and interactive elements such as comparisons, diagrams, calculators",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=Responses%20can%20mix%20text%2C%20visuals%2C%20and%20interactive%20elements"
+  },
+  {
+   "n": 14,
+   "where": "The story",
+   "claim": "The same day (Oct. 7) Anthropic shipped Haiku 5.5, a cheaper small model",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/12138966-release-notes",
+   "source": "Claude release notes",
+   "passage": "Oct. 7, 2026: We just launched Claude Haiku 5.5, the cheapest, fastest, and most capable small model we've released",
+   "deep": "https://support.claude.com/en/articles/12138966-release-notes#:~:text=Oct.%207%2C%202026%3A%20We%20just%20launched%20Claude%20Haiku"
+  },
+  {
+   "n": 15,
+   "where": "The story",
+   "claim": "and (Oct. 7) gave Max and Team plans monthly credits for its developer platform",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/12138966-release-notes",
+   "source": "Claude release notes",
+   "passage": "Oct. 7, 2026: Max and Team plans now include monthly API credits ... on the Claude Platform. They roll out over a few days",
+   "deep": "https://support.claude.com/en/articles/12138966-release-notes#:~:text=Oct.%207%2C%202026%3A%20Max%20and%20Team%20plans%20now"
+  },
+  {
+   "n": 16,
+   "where": "The story",
+   "claim": "GPT-5.5 leaves ChatGPT on Oct. 14",
+   "verdict": "confirmed",
+   "url": "https://gizmochina.com/2026/09/16/openai-retiring-gpt-5-5-on-october-14-you-may-need-to-update-your-workflow",
+   "source": "Gizmochina",
+   "passage": "GPT-5.5 will be retired from ChatGPT, ChatGPT Work, and Codex on October 14, 2026, across all plans. (Note: independent reporting only; OpenAI release notes do not list this.)",
+   "deep": "https://gizmochina.com/2026/09/16/openai-retiring-gpt-5-5-on-october-14-you-may-need-to-update-your-workflow#:~:text=GPT-5.5%20will%20be%20retired%20from%20ChatGPT%2C%20ChatGPT%20Work%2C"
+  },
+  {
+   "n": 17,
+   "where": "The story",
+   "claim": "as covered last week",
+   "verdict": "confirmed",
+   "url": "https://gizmochina.com/2026/09/16/openai-retiring-gpt-5-5-on-october-14-you-may-need-to-update-your-workflow",
+   "source": "Gizmochina",
+   "passage": "Source dated Sept. 16, 2026; text labels it as previously covered. Deadline within 60 days, permitted by edition spec",
+   "deep": "https://gizmochina.com/2026/09/16/openai-retiring-gpt-5-5-on-october-14-you-may-need-to-update-your-workflow#:~:text=Source%20dated%20Sept.%2016%2C%202026%3B%20text%20labels%20it"
+  },
+  {
+   "n": 18,
+   "where": "The story",
+   "claim": "Anthropic's updated Usage Policy applies from Nov. 12",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+   "source": "Anthropic usage policy",
+   "passage": "Published Oct 8, 2026 ... The updated policy takes effect on November 12",
+   "deep": "https://www.anthropic.com/news/2026-usage-policy-update#:~:text=Published%20Oct%208%2C%202026"
+  },
+  {
+   "n": 19,
+   "where": "The story",
+   "claim": "Dates set by OpenAI and Anthropic",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "All five dates trace to OpenAI or Anthropic announcements (Oct. 14 via Gizmochina reporting OpenAI's retirement)",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=All%20five%20dates%20trace%20to%20OpenAI%20or%20Anthropic"
+  },
+  {
+   "n": 20,
+   "where": "The story, step 1",
+   "claim": "Oct. 6: Audio uploads arrive in ChatGPT",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "October 6, 2026: Audio uploads in ChatGPT",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=October%206%2C%202026%3A%20Audio%20uploads%20in%20ChatGPT"
+  },
+  {
+   "n": 21,
+   "where": "The story, step 2",
+   "claim": "Oct. 7: GPT-6 reaches paid ChatGPT plans",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/gpt-6-for-everyone/",
+   "source": "OpenAI GPT-6",
+   "passage": "GPT-6 Sol for Plus, Pro, Business, and Enterprise tiers (Oct. 7, 2026)",
+   "deep": "https://openai.com/index/gpt-6-for-everyone/#:~:text=GPT-6%20Sol%20for%20Plus%2C%20Pro%2C%20Business%2C%20and%20Enterprise"
+  },
+  {
+   "n": 22,
+   "where": "The story, step 3",
+   "claim": "Oct. 8: GPT-6 starts reaching Free and Go",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/gpt-6-for-everyone/",
+   "source": "OpenAI GPT-6",
+   "passage": "Starting tomorrow, the rollout expands to Free and Go tiers. (published Oct. 7)",
+   "deep": "https://openai.com/index/gpt-6-for-everyone/#:~:text=Starting%20tomorrow%2C%20the%20rollout%20expands%20to%20Free%20and"
+  },
+  {
+   "n": 23,
+   "where": "The story, step 4",
+   "claim": "Oct. 14: GPT-5.5 leaves ChatGPT",
+   "verdict": "confirmed",
+   "url": "https://gizmochina.com/2026/09/16/openai-retiring-gpt-5-5-on-october-14-you-may-need-to-update-your-workflow",
+   "source": "Gizmochina",
+   "passage": "retired from ChatGPT, ChatGPT Work, and Codex on October 14, 2026",
+   "deep": "https://gizmochina.com/2026/09/16/openai-retiring-gpt-5-5-on-october-14-you-may-need-to-update-your-workflow#:~:text=retired%20from%20ChatGPT%2C%20ChatGPT%20Work%2C%20and%20Codex%20on"
+  },
+  {
+   "n": 24,
+   "where": "The story, step 5",
+   "claim": "Nov. 12: Anthropic's updated Usage Policy applies",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+   "source": "Anthropic usage policy",
+   "passage": "takes effect on November 12",
+   "deep": "https://www.anthropic.com/news/2026-usage-policy-update#:~:text=takes%20effect%20on%20November%2012"
+  },
+  {
+   "n": 25,
+   "where": "The story",
+   "claim": "Enterprise workspaces are set to stop creating custom GPTs on Oct. 26",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq",
+   "source": "OpenAI GPT retirement FAQ",
+   "passage": "Oct 26, 2026 (planned): Creation of new custom GPTs ends. (Applies to 'affected' Enterprise workspaces; dates 'subject to change'. Consider 'affected Enterprise workspaces'.)",
+   "deep": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq#:~:text=Oct%2026%2C%202026%20%28planned%29%3A%20Creation%20of%20new%20custom"
+  },
+  {
+   "n": 26,
+   "where": "Six changes this week, item 1",
+   "claim": "GPT-6 now answers in the Chat tab, with interactive layouts",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "GPT-6 and Intelligent UI ... in the Chat tab",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=GPT-6%20and%20Intelligent%20UI"
+  },
+  {
+   "n": 27,
+   "where": "Six changes this week, item 1",
+   "claim": "Oct. 7",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/gpt-6-for-everyone/",
+   "source": "OpenAI GPT-6",
+   "passage": "October 7, 2026",
+   "deep": "https://openai.com/index/gpt-6-for-everyone/#:~:text=October%207%2C%202026"
+  },
+  {
+   "n": 28,
+   "where": "Six changes this week, item 1",
+   "claim": "Plus, Pro, Business and Enterprise; Free and Go from Oct. 8",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "for Plus, Pro, Business, and Enterprise in the Chat tab, and for Free and Go the following day",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=for%20Plus%2C%20Pro%2C%20Business%2C%20and%20Enterprise%20in%20the"
+  },
+  {
+   "n": 29,
+   "where": "Six changes this week, item 1",
+   "claim": "Plus, Pro, Business and Enterprise get GPT-6 Sol",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/gpt-6-for-everyone/",
+   "source": "OpenAI GPT-6",
+   "passage": "GPT-6 Sol for Plus, Pro, Business, and Enterprise tiers",
+   "deep": "https://openai.com/index/gpt-6-for-everyone/#:~:text=GPT-6%20Sol%20for%20Plus%2C%20Pro%2C%20Business%2C%20and%20Enterprise"
+  },
+  {
+   "n": 30,
+   "where": "Six changes this week, item 1",
+   "claim": "Free and Go get GPT-6 Luna",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/gpt-6-for-everyone/",
+   "source": "OpenAI GPT-6",
+   "passage": "GPT-6 Luna for Free and Go tiers",
+   "deep": "https://openai.com/index/gpt-6-for-everyone/#:~:text=GPT-6%20Luna%20for%20Free%20and%20Go%20tiers"
+  },
+  {
+   "n": 31,
+   "where": "Six changes this week, item 1",
+   "claim": "Answers can mix text with diagrams, side-by-side comparisons and working tools such as calculators",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/gpt-6-for-everyone/",
+   "source": "OpenAI GPT-6",
+   "passage": "side-by-side comparisons, interactive diagrams, and user-requested tools like calculators",
+   "deep": "https://openai.com/index/gpt-6-for-everyone/#:~:text=side-by-side%20comparisons%2C%20interactive%20diagrams%2C%20and%20user-requested%20tools%20like"
+  },
+  {
+   "n": 32,
+   "where": "Six changes this week, item 1",
+   "claim": "can start before ChatGPT has finished thinking",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "can also begin answering while it continues to think or use tools",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=can%20also%20begin%20answering%20while%20it%20continues%20to"
+  },
+  {
+   "n": 33,
+   "where": "Six changes this week, item 1",
+   "claim": "Enterprise access depends on admin settings",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/gpt-6-for-everyone/",
+   "source": "OpenAI GPT-6",
+   "passage": "Enterprise availability depends on workplace admin settings",
+   "deep": "https://openai.com/index/gpt-6-for-everyone/#:~:text=Enterprise%20availability%20depends%20on%20workplace%20admin%20settings"
+  },
+  {
+   "n": 34,
+   "where": "Six changes this week, item 1",
+   "claim": "The Pro reasoning option stays on GPT-6 Astra without the new layouts",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "The Pro reasoning option continues to use GPT-6 Astra and doesn't support Intelligent UI",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=The%20Pro%20reasoning%20option%20continues%20to%20use%20GPT-6"
+  },
+  {
+   "n": 35,
+   "where": "Six changes this week, item 1",
+   "claim": "Work and Codex models don't change",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/gpt-6-for-everyone/",
+   "source": "OpenAI GPT-6",
+   "passage": "The models powering Work and Codex are not changing as part of this release",
+   "deep": "https://openai.com/index/gpt-6-for-everyone/#:~:text=The%20models%20powering%20Work%20and%20Codex%20are%20not"
+  },
+  {
+   "n": 36,
+   "where": "Six changes this week, item 2",
+   "claim": "Max and Team plans now include monthly API credits",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/12138966-release-notes",
+   "source": "Claude release notes",
+   "passage": "Max and Team plans now include monthly API credits",
+   "deep": "https://support.claude.com/en/articles/12138966-release-notes#:~:text=Max%20and%20Team%20plans%20now%20include%20monthly%20API"
+  },
+  {
+   "n": 37,
+   "where": "Six changes this week, item 2",
+   "claim": "Oct. 7",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/12138966-release-notes",
+   "source": "Claude release notes",
+   "passage": "Entry dated October 7, 2026",
+   "deep": "https://support.claude.com/en/articles/12138966-release-notes#:~:text=Entry%20dated%20October%207%2C%202026"
+  },
+  {
+   "n": 38,
+   "where": "Six changes this week, item 2",
+   "claim": "Max and Team; rolling out over a few days",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/12138966-release-notes",
+   "source": "Claude release notes",
+   "passage": "They roll out over a few days",
+   "deep": "https://support.claude.com/en/articles/12138966-release-notes#:~:text=They%20roll%20out%20over%20a%20few%20days"
+  },
+  {
+   "n": 39,
+   "where": "Six changes this week, item 2",
+   "claim": "Max 5x gets $100 a month",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/claude-haiku-5-5",
+   "source": "Anthropic Haiku 5.5",
+   "passage": "Max 5x: $100 per month",
+   "deep": "https://www.anthropic.com/claude-haiku-5-5#:~:text=Max%205x%3A%20%24100%20per%20month"
+  },
+  {
+   "n": 40,
+   "where": "Six changes this week, item 2",
+   "claim": "Max 20x gets $200",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/claude-haiku-5-5",
+   "source": "Anthropic Haiku 5.5",
+   "passage": "Max 20x: $200 per month",
+   "deep": "https://www.anthropic.com/claude-haiku-5-5#:~:text=Max%2020x%3A%20%24200%20per%20month"
+  },
+  {
+   "n": 41,
+   "where": "Six changes this week, item 2",
+   "claim": "Team gets up to $500 pooled across its users",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/claude-haiku-5-5",
+   "source": "Anthropic Haiku 5.5",
+   "passage": "Team subscribers will receive up to $500, pooled across their users",
+   "deep": "https://www.anthropic.com/claude-haiku-5-5#:~:text=Team%20subscribers%20will%20receive%20up%20to%20%24500%2C%20pooled"
+  },
+  {
+   "n": 42,
+   "where": "Six changes this week, item 2",
+   "claim": "for running your own apps and agents on the Claude Platform",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/12138966-release-notes",
+   "source": "Claude release notes",
+   "passage": "for running your own apps and agents on the Claude Platform",
+   "deep": "https://support.claude.com/en/articles/12138966-release-notes#:~:text=for%20running%20your%20own%20apps%20and%20agents%20on"
+  },
+  {
+   "n": 43,
+   "where": "Six changes this week, item 2",
+   "claim": "Anthropic says they work on any of its models",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/claude-haiku-5-5",
+   "source": "Anthropic Haiku 5.5",
+   "passage": "can be used on any of our models",
+   "deep": "https://www.anthropic.com/claude-haiku-5-5#:~:text=can%20be%20used%20on%20any%20of%20our%20models"
+  },
+  {
+   "n": 44,
+   "where": "Six changes this week, item 2",
+   "claim": "link a Claude Console organization in Settings > Billing (Max) or Organization settings > Billing (Team)",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/12138966-release-notes",
+   "source": "Claude release notes",
+   "passage": "link a Claude Console organization ... Max: Settings > Billing; Team: Organization settings > Billing",
+   "deep": "https://support.claude.com/en/articles/12138966-release-notes#:~:text=link%20a%20Claude%20Console%20organization"
+  },
+  {
+   "n": 45,
+   "where": "Six changes this week, item 3",
+   "claim": "Haiku 5.5: a much cheaper small model for the API",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/claude-haiku-5-5",
+   "source": "Anthropic Haiku 5.5",
+   "passage": "available at a much lower price than Haiku 4.5",
+   "deep": "https://www.anthropic.com/claude-haiku-5-5#:~:text=available%20at%20a%20much%20lower%20price%20than%20Haiku"
+  },
+  {
+   "n": 46,
+   "where": "Six changes this week, item 3",
+   "claim": "Oct. 7",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/claude-haiku-5-5",
+   "source": "Anthropic Haiku 5.5",
+   "passage": "October 7, 2026",
+   "deep": "https://www.anthropic.com/claude-haiku-5-5#:~:text=October%207%2C%202026"
+  },
+  {
+   "n": 47,
+   "where": "Six changes this week, item 3",
+   "claim": "Claude Platform, AWS, Google Cloud and Microsoft Azure",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/claude-haiku-5-5",
+   "source": "Anthropic Haiku 5.5",
+   "passage": "Available now on the Claude Platform, Amazon Web Services, Google Cloud, and Microsoft Azure",
+   "deep": "https://www.anthropic.com/claude-haiku-5-5#:~:text=Available%20now%20on%20the%20Claude%20Platform%2C%20Amazon%20Web"
+  },
+  {
+   "n": 48,
+   "where": "Six changes this week, item 3",
+   "claim": "For prompts up to 100,000 tokens, $0.10 per million input tokens",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/claude-haiku-5-5",
+   "source": "Anthropic Haiku 5.5",
+   "passage": "Input: $0.10 (prompts up to 100K tokens)",
+   "deep": "https://www.anthropic.com/claude-haiku-5-5#:~:text=Input%3A%20%240.10%20%28prompts%20up%20to%20100K%20tokens%29"
+  },
+  {
+   "n": 49,
+   "where": "Six changes this week, item 3",
+   "claim": "$0.50 per million output tokens",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/claude-haiku-5-5",
+   "source": "Anthropic Haiku 5.5",
+   "passage": "Output: $0.50 (up to 100K)",
+   "deep": "https://www.anthropic.com/claude-haiku-5-5#:~:text=Output%3A%20%240.50%20%28up%20to%20100K%29"
+  },
+  {
+   "n": 50,
+   "where": "Six changes this week, item 3",
+   "claim": "against $1.00 and $5.00 for Haiku 4.5",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/claude-haiku-5-5",
+   "source": "Anthropic Haiku 5.5",
+   "passage": "Haiku 4.5: $1.00 input, $5.00 output",
+   "deep": "https://www.anthropic.com/claude-haiku-5-5#:~:text=Haiku%204.5%3A%20%241.00%20input%2C%20%245.00%20output"
+  },
+  {
+   "n": 51,
+   "where": "Six changes this week, item 3",
+   "claim": "costs around 75% less to run on average",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/claude-haiku-5-5",
+   "source": "Anthropic Haiku 5.5",
+   "passage": "On average, it now costs around 75% less to run",
+   "deep": "https://www.anthropic.com/claude-haiku-5-5#:~:text=On%20average%2C%20it%20now%20costs%20around%2075%25%20less"
+  },
+  {
+   "n": 52,
+   "where": "Six changes this week, item 3",
+   "claim": "first Haiku with an adjustable effort setting",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/claude-haiku-5-5",
+   "source": "Anthropic Haiku 5.5",
+   "passage": "our first Haiku-class model to come with an adjustable effort setting",
+   "deep": "https://www.anthropic.com/claude-haiku-5-5#:~:text=our%20first%20Haiku-class%20model%20to%20come%20with%20an"
+  },
+  {
+   "n": 53,
+   "where": "Six changes this week, item 3",
+   "claim": "Sonnet 5.5 and Opus 5.5 remain better for complex agentic coding",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/claude-haiku-5-5",
+   "source": "Anthropic Haiku 5.5",
+   "passage": "Sonnet 5.5 and Opus 5.5 remain better choices for complex agentic coding",
+   "deep": "https://www.anthropic.com/claude-haiku-5-5#:~:text=Sonnet%205.5%20and%20Opus%205.5%20remain%20better%20choices"
+  },
+  {
+   "n": 54,
+   "where": "Six changes this week, item 4",
+   "claim": "Upload audio for transcripts, summaries and questions",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "Upload audio to get transcripts, summaries, or answers about the contents",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=Upload%20audio%20to%20get%20transcripts%2C%20summaries%2C%20or%20answers"
+  },
+  {
+   "n": 55,
+   "where": "Six changes this week, item 4",
+   "claim": "Oct. 6",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "October 6, 2026: Audio uploads in ChatGPT",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=October%206%2C%202026%3A%20Audio%20uploads%20in%20ChatGPT"
+  },
+  {
+   "n": 56,
+   "where": "Six changes this week, item 4",
+   "claim": "Paid plans and workspaces",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "Available with paid ChatGPT subscriptions and workspaces",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=Available%20with%20paid%20ChatGPT%20subscriptions%20and%20workspaces"
+  },
+  {
+   "n": 57,
+   "where": "Six changes this week, item 4",
+   "claim": "ask for a transcript, a summary or a follow-up email draft",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "structured notes or a follow-up email draft",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=structured%20notes%20or%20a%20follow-up%20email%20draft"
+  },
+  {
+   "n": 58,
+   "where": "Six changes this week, item 4",
+   "claim": "availability varies by workspace settings, region, app version and model",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "Availability varies by workspace settings, region, client version, and model. ('app version' paraphrases 'client version'.)",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=Availability%20varies%20by%20workspace%20settings%2C%20region%2C%20client%20version%2C"
+  },
+  {
+   "n": 59,
+   "where": "Six changes this week, item 4",
+   "claim": "transcripts may contain errors and vary by language",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "Transcripts may contain errors, and performance may vary across languages",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=Transcripts%20may%20contain%20errors%2C%20and%20performance%20may%20vary"
+  },
+  {
+   "n": 60,
+   "where": "Six changes this week, item 5",
+   "claim": "Copilot Chat can redo an answer, or hand it to another model",
+   "verdict": "confirmed",
+   "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes",
+   "source": "Microsoft 365 Copilot release notes",
+   "passage": "Regenerate action ... options like Try Again or Switch Model",
+   "deep": ""
+  },
+  {
+   "n": 61,
+   "where": "Six changes this week, item 5",
+   "claim": "Oct. 6 notes",
+   "verdict": "confirmed",
+   "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes",
+   "source": "Microsoft 365 Copilot release notes",
+   "passage": "October 06, 2026: Updates released between September 22, 2026, and October 06, 2026. (Features may have shipped as early as Sept. 22; 'notes' label is accurate.)",
+   "deep": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes#:~:text=October%2006%2C%202026%3A%20Updates%20released%20between%20September%2022%2C"
+  },
+  {
+   "n": 62,
+   "where": "Six changes this week, item 5",
+   "claim": "Microsoft 365 Copilot Chat on the web",
+   "verdict": "confirmed",
+   "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes",
+   "source": "Microsoft 365 Copilot release notes",
+   "passage": "Regenerate response for alternative answers [Web]",
+   "deep": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes#:~:text=Regenerate%20response%20for%20alternative%20answers%20%5BWeb%5D"
+  },
+  {
+   "n": 63,
+   "where": "Six changes this week, item 5",
+   "claim": "open More options, choose Try Again or Switch Model, without retyping",
+   "verdict": "confirmed",
+   "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes",
+   "source": "Microsoft 365 Copilot release notes",
+   "passage": "At the end of Copilot's response, open the 'More options' menu. Select 'Try Again' ... Choose 'Switch Model'",
+   "deep": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes#:~:text=At%20the%20end%20of%20Copilot%27s%20response%2C%20open%20the"
+  },
+  {
+   "n": 64,
+   "where": "Six changes this week, item 5",
+   "claim": "chat inside Copilot Search on Windows and the web",
+   "verdict": "confirmed",
+   "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes",
+   "source": "Microsoft 365 Copilot release notes",
+   "passage": "Seamless Search and Chat Integration [Windows, Web]",
+   "deep": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes#:~:text=Seamless%20Search%20and%20Chat%20Integration%20%5BWindows%2C%20Web%5D"
+  },
+  {
+   "n": 65,
+   "where": "Six changes this week, item 5",
+   "claim": "custom skills in Copilot in PowerPoint for Windows",
+   "verdict": "confirmed",
+   "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes",
+   "source": "Microsoft 365 Copilot release notes",
+   "passage": "Create custom skills in Copilot in PowerPoint [Windows]",
+   "deep": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes#:~:text=Create%20custom%20skills%20in%20Copilot%20in%20PowerPoint%20%5BWindows%5D"
+  },
+  {
+   "n": 66,
+   "where": "Six changes this week, item 5",
+   "claim": "Admins can now edit Copilot connector rules under Settings > Search & intelligence > Data sources",
+   "verdict": "confirmed",
+   "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes",
+   "source": "Microsoft 365 Copilot release notes",
+   "passage": "Admins can update them in the Microsoft 365 admin center under Settings > Search & intelligence > Data sources (query string and user identity mapping rules)",
+   "deep": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes#:~:text=Admins%20can%20update%20them%20in%20the%20Microsoft%20365"
+  },
+  {
+   "n": 67,
+   "where": "Six changes this week, item 5",
+   "claim": "Microsoft rolls features out to some people in a company first",
+   "verdict": "confirmed",
+   "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes",
+   "source": "Microsoft 365 Copilot release notes",
+   "passage": "gradually rolling out to a subset of users within a tenant before expanding across the organization",
+   "deep": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes#:~:text=gradually%20rolling%20out%20to%20a%20subset%20of%20users"
+  },
+  {
+   "n": 68,
+   "where": "Six changes this week, item 6",
+   "claim": "Updated Usage Policy takes effect Nov. 12",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+   "source": "Anthropic usage policy",
+   "passage": "The updated policy takes effect on November 12",
+   "deep": "https://www.anthropic.com/news/2026-usage-policy-update#:~:text=The%20updated%20policy%20takes%20effect%20on%20November%2012"
+  },
+  {
+   "n": 69,
+   "where": "Six changes this week, item 6",
+   "claim": "Everyone who uses Claude",
+   "verdict": "unsupported",
+   "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+   "source": "Anthropic usage policy",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 70,
+   "where": "Six changes this week, item 6",
+   "claim": "most of the changes clarify existing rules",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+   "source": "Anthropic usage policy",
+   "passage": "Most of the updates in the latest version are intended to clarify existing rules",
+   "deep": "https://www.anthropic.com/news/2026-usage-policy-update#:~:text=Most%20of%20the%20updates%20in%20the%20latest%20version"
+  },
+  {
+   "n": 71,
+   "where": "Six changes this week, item 6",
+   "claim": "health, legal rights, finances, livelihood or access to essential services ... still requires a qualified human in the loop",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+   "source": "Anthropic usage policy",
+   "passage": "qualified human must review ... These requirements haven't changed with the updated version of our Usage Policy",
+   "deep": "https://www.anthropic.com/news/2026-usage-policy-update#:~:text=qualified%20human%20must%20review"
+  },
+  {
+   "n": 72,
+   "where": "Six changes this week, item 6",
+   "claim": "the person affected must be told AI was used",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+   "source": "Anthropic usage policy",
+   "passage": "the individual affected to be told that AI was used",
+   "deep": "https://www.anthropic.com/news/2026-usage-policy-update#:~:text=the%20individual%20affected%20to%20be%20told%20that%20AI"
+  },
+  {
+   "n": 73,
+   "where": "Six changes this week, item 6",
+   "claim": "spells out rules against networks of fake accounts and fabricated news sites",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+   "source": "Anthropic usage policy",
+   "passage": "networks of fake accounts and fabricated news sites ... Do Not Engage in Deceptive Campaigns or Artificial Activity",
+   "deep": "https://www.anthropic.com/news/2026-usage-policy-update#:~:text=networks%20of%20fake%20accounts%20and%20fabricated%20news%20sites"
+  },
+  {
+   "n": 74,
+   "where": "Six changes this week",
+   "claim": "GPT-6 can answer with a working calculator",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "interactive elements such as comparisons, diagrams, calculators",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=interactive%20elements%20such%20as%20comparisons%2C%20diagrams%2C%20calculators"
+  },
+  {
+   "n": 75,
+   "where": "Six changes this week",
+   "claim": "CHECK THE INPUTS label; calculator drawing",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "Editorial label; consistent with calculator support. No factual claim beyond that",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=Editorial%20label%3B%20consistent%20with%20calculator%20support.%20No%20factual"
+  },
+  {
+   "n": 76,
+   "where": "Six changes this week",
+   "claim": "Claude's new monthly API credits, dollars a month, by plan",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/claude-haiku-5-5",
+   "source": "Anthropic Haiku 5.5",
+   "passage": "monthly API credit to all Max and Team subscribers",
+   "deep": "https://www.anthropic.com/claude-haiku-5-5#:~:text=monthly%20API%20credit%20to%20all%20Max%20and%20Team"
+  },
+  {
+   "n": 77,
+   "where": "Six changes this week",
+   "claim": "Max 5x 100, Max 20x 200, Team (pooled, up to) 500",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/claude-haiku-5-5",
+   "source": "Anthropic Haiku 5.5",
+   "passage": "Max 5x $100; Max 20x $200; Team up to $500, pooled across their users",
+   "deep": "https://www.anthropic.com/claude-haiku-5-5#:~:text=Max%205x%20%24100%3B%20Max%2020x%20%24200%3B%20Team%20up"
+  },
+  {
+   "n": 78,
+   "where": "Six changes this week",
+   "claim": "For your own apps and agents on the Claude Platform",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/claude-haiku-5-5",
+   "source": "Anthropic Haiku 5.5",
+   "passage": "for use on the Claude Platform ... building tools, apps, and agents that call our API",
+   "deep": "https://www.anthropic.com/claude-haiku-5-5#:~:text=for%20use%20on%20the%20Claude%20Platform"
+  },
+  {
+   "n": 79,
+   "where": "Six changes this week",
+   "claim": "Claim them in billing settings",
+   "verdict": "unsupported",
+   "url": "https://www.anthropic.com/claude-haiku-5-5",
+   "source": "Anthropic Haiku 5.5",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 80,
+   "where": "The checklist, item 1",
+   "claim": "Swap out GPT-5.5 by Oct. 14; check saved model settings, custom agents, scheduled tasks and scripts in Codex",
+   "verdict": "confirmed",
+   "url": "https://gizmochina.com/2026/09/16/openai-retiring-gpt-5-5-on-october-14-you-may-need-to-update-your-workflow",
+   "source": "Gizmochina",
+   "passage": "saved model settings, managed configurations, custom agents, scheduled tasks ... any scripts that specifically call for GPT-5.5 (Gizmochina says scripts generally, not specifically 'in Codex'; retirement covers…",
+   "deep": "https://gizmochina.com/2026/09/16/openai-retiring-gpt-5-5-on-october-14-you-may-need-to-update-your-workflow#:~:text=saved%20model%20settings%2C%20managed%20configurations%2C%20custom%20agents%2C%20scheduled"
+  },
+  {
+   "n": 81,
+   "where": "The checklist, item 2",
+   "claim": "GPT-6 can produce calculator or comparison answers",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "comparisons, diagrams, calculators",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=comparisons%2C%20diagrams%2C%20calculators"
+  },
+  {
+   "n": 82,
+   "where": "The checklist, item 3",
+   "claim": "Claim Claude credits on Max or as Team owner: Settings > Billing or Organization settings > Billing",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/12138966-release-notes",
+   "source": "Claude release notes",
+   "passage": "Max: Settings > Billing; Team: Organization settings > Billing. ('Team owner' not stated on page, but the org-settings path implies an admin.)",
+   "deep": "https://support.claude.com/en/articles/12138966-release-notes#:~:text=Max%3A%20Settings%20%3E%20Billing%3B%20Team%3A%20Organization%20settings%20%3E"
+  },
+  {
+   "n": 83,
+   "where": "The checklist, item 4",
+   "claim": "Nov. 12; Anthropic's high-risk use section",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+   "source": "Anthropic usage policy",
+   "passage": "our High-risk Use Case Requirements section ... takes effect on November 12",
+   "deep": "https://www.anthropic.com/news/2026-usage-policy-update#:~:text=our%20High-risk%20Use%20Case%20Requirements%20section"
+  },
+  {
+   "n": 84,
+   "where": "Six changes this week",
+   "claim": "What changed · Oct. 1 – 8",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "All six items dated Oct. 6-8 (Copilot notes dated Oct. 6, covering Sept. 22-Oct. 6)",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=All%20six%20items%20dated%20Oct.%206-8%20%28Copilot%20notes"
+  },
+  {
+   "n": 85,
+   "where": "Six changes this week",
+   "claim": "Six changes",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "Six items in the block",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=Six%20items%20in%20the%20block"
+  }
+ ],
+ "notes": []
+}

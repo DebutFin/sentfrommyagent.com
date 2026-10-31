@@ -1,0 +1,1065 @@
+{
+ "issue": "https://sentfrommyagent.com/p/do-not-disturb/01-rewarded-for-guessing/",
+ "newsletter": "Do Not Disturb",
+ "number": 1,
+ "date": "2026-09-25",
+ "title": "Rewarded for guessing.",
+ "stamp": "Sent from my agent. Every claim checked.",
+ "record": "https://sentfrommyagent.com/p/do-not-disturb/01-rewarded-for-guessing/record/",
+ "counts": {
+  "checked": 104,
+  "confirmed": 99,
+  "wrong": 0,
+  "unsupported": 5
+ },
+ "checked_at": "2026-10-24T00:00:00-04:00",
+ "checked_by": "a second agent, independent of the writer",
+ "claims": [
+  {
+   "n": 1,
+   "where": "title",
+   "claim": "Rewarded for guessing.",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/why-language-models-hallucinate/",
+   "source": "OpenAI research",
+   "passage": "Saying \"I don't know\" guarantees zero points ... guessing when uncertain improves test performance",
+   "deep": "https://openai.com/index/why-language-models-hallucinate/#:~:text=Saying%20%22I%20don%27t%20know%22%20guarantees%20zero%20points"
+  },
+  {
+   "n": 2,
+   "where": "dek",
+   "claim": "A federal appeals court wants a person to check every AI-drafted citation",
+   "verdict": "confirmed",
+   "url": "https://www.lawcommentary.com/articles/tenth-circuit-ai-court-filings-human-review-rule",
+   "source": "Law Commentary",
+   "passage": "certify that a human reviewed filings prepared with generative AI ... independently verify the authorities cited",
+   "deep": "https://www.lawcommentary.com/articles/tenth-circuit-ai-court-filings-human-review-rule#:~:text=certify%20that%20a%20human%20reviewed%20filings%20prepared%20with"
+  },
+  {
+   "n": 3,
+   "where": "dek",
+   "claim": "Days later, two AI labs said their new models make fewer things up",
+   "verdict": "confirmed",
+   "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+   "source": "TechCrunch",
+   "passage": "GPT-6 Sol makes about half as many mistakes as its predecessor ... Anthropic released a new version of Opus 5.5 just 90 minutes before",
+   "deep": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/#:~:text=GPT-6%20Sol%20makes%20about%20half%20as%20many%20mistakes"
+  },
+  {
+   "n": 4,
+   "where": "dek",
+   "claim": "chatbots are scored like students who never lose a point for guessing",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/why-language-models-hallucinate/",
+   "source": "OpenAI research",
+   "passage": "If you do not know the answer but take a wild guess, you might get lucky and be right ... leaving it blank guarantees a zero",
+   "deep": "https://openai.com/index/why-language-models-hallucinate/#:~:text=If%20you%20do%20not%20know%20the%20answer%20but"
+  },
+  {
+   "n": 5,
+   "where": "summary",
+   "claim": "Training and scoring rewards guessing; false things stated with confidence",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/why-language-models-hallucinate/",
+   "source": "OpenAI research",
+   "passage": "We understand the statistical mechanisms through which hallucinations arise and are rewarded in evaluations",
+   "deep": "https://openai.com/index/why-language-models-hallucinate/#:~:text=We%20understand%20the%20statistical%20mechanisms%20through%20which%20hallucinations"
+  },
+  {
+   "n": 6,
+   "where": "art svg text",
+   "claim": "1 IN 365",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/why-language-models-hallucinate/",
+   "source": "OpenAI research",
+   "passage": "If it guesses \"September 10,\" it has a 1-in-365 chance of being right",
+   "deep": "https://openai.com/index/why-language-models-hallucinate/#:~:text=If%20it%20guesses%20%22September%2010%2C%22%20it%20has%20a"
+  },
+  {
+   "n": 7,
+   "where": "art alt",
+   "claim": "Answer sheet labelled 1 in 365",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/why-language-models-hallucinate/",
+   "source": "OpenAI research",
+   "passage": "1-in-365 chance of being right",
+   "deep": "https://openai.com/index/why-language-models-hallucinate/#:~:text=1-in-365%20chance%20of%20being%20right"
+  },
+  {
+   "n": 8,
+   "where": "The essay, section 1",
+   "claim": "On Sept. 18 the Tenth Circuit proposed the rule",
+   "verdict": "confirmed",
+   "url": "https://www.lawcommentary.com/articles/tenth-circuit-ai-court-filings-human-review-rule",
+   "source": "Law Commentary",
+   "passage": "proposed a new rule September 18",
+   "deep": "https://www.lawcommentary.com/articles/tenth-circuit-ai-court-filings-human-review-rule#:~:text=proposed%20a%20new%20rule%20September%2018"
+  },
+  {
+   "n": 9,
+   "where": "The essay, section 1",
+   "claim": "Tenth Circuit hears federal appeals from Colorado, Kansas, New Mexico, Oklahoma, Utah and Wyoming",
+   "verdict": "confirmed",
+   "url": "https://www.lawcommentary.com/articles/tenth-circuit-ai-court-filings-human-review-rule",
+   "source": "Law Commentary",
+   "passage": "hears federal appeals from Colorado, Kansas, New Mexico, Oklahoma, Utah and Wyoming",
+   "deep": "https://www.lawcommentary.com/articles/tenth-circuit-ai-court-filings-human-review-rule#:~:text=hears%20federal%20appeals%20from%20Colorado%2C%20Kansas%2C%20New%20Mexico%2C"
+  },
+  {
+   "n": 10,
+   "where": "The essay, section 1",
+   "claim": "Lawyers and self-represented people would have to certify human review before filing",
+   "verdict": "confirmed",
+   "url": "https://www.jdjournal.com/2026/09/18/10th-circuit-ai-filing-rule-lawyers/",
+   "source": "JD Journal",
+   "passage": "Lawyers and self-represented parties would need to confirm human review",
+   "deep": "https://www.jdjournal.com/2026/09/18/10th-circuit-ai-filing-rule-lawyers/#:~:text=Lawyers%20and%20self-represented%20parties%20would%20need%20to%20confirm"
+  },
+  {
+   "n": 11,
+   "where": "The essay, section 1",
+   "claim": "Quote: \"independently verified the existence of all cited authorities\" (rule text, 7 words)",
+   "verdict": "confirmed",
+   "url": "https://litigationai.substack.com/p/certified",
+   "source": "Lawyer.exe",
+   "passage": "a reviewer who has \"independently verified the existence of all cited authorities.\"",
+   "deep": "https://litigationai.substack.com/p/certified#:~:text=a%20reviewer%20who%20has%20%22independently%20verified%20the%20existence"
+  },
+  {
+   "n": 12,
+   "where": "The essay, section 1",
+   "claim": "and checked every quotation and citation",
+   "verdict": "confirmed",
+   "url": "https://www.lawcommentary.com/articles/tenth-circuit-ai-court-filings-human-review-rule",
+   "source": "Law Commentary",
+   "passage": "check quotations and citations",
+   "deep": "https://www.lawcommentary.com/articles/tenth-circuit-ai-court-filings-human-review-rule#:~:text=check%20quotations%20and%20citations"
+  },
+  {
+   "n": 13,
+   "where": "The essay, section 1",
+   "claim": "Judges could strike a filing, treat an issue as waived or, in some cases, dismiss the appeal",
+   "verdict": "confirmed",
+   "url": "https://www.lawcommentary.com/articles/tenth-circuit-ai-court-filings-human-review-rule",
+   "source": "Law Commentary",
+   "passage": "strike a filing, treat an affected issue as waived ... in some circumstances, dismiss or affirm an appeal",
+   "deep": "https://www.lawcommentary.com/articles/tenth-circuit-ai-court-filings-human-review-rule#:~:text=strike%20a%20filing%2C%20treat%20an%20affected%20issue%20as"
+  },
+  {
+   "n": 14,
+   "where": "The essay, section 1",
+   "claim": "Comments are due Oct. 18",
+   "verdict": "confirmed",
+   "url": "https://www.jdjournal.com/2026/09/18/10th-circuit-ai-filing-rule-lawyers/",
+   "source": "JD Journal",
+   "passage": "Public comments are due by October 18, 2026",
+   "deep": "https://www.jdjournal.com/2026/09/18/10th-circuit-ai-filing-rule-lawyers/#:~:text=Public%20comments%20are%20due%20by%20October%2018%2C%202026"
+  },
+  {
+   "n": 15,
+   "where": "The essay, section 1",
+   "claim": "If approved, the rule takes effect Jan. 1, 2027",
+   "verdict": "confirmed",
+   "url": "https://www.jdjournal.com/2026/09/18/10th-circuit-ai-filing-rule-lawyers/",
+   "source": "JD Journal",
+   "passage": "If approved, the rule would start on January 1, 2027",
+   "deep": "https://www.jdjournal.com/2026/09/18/10th-circuit-ai-filing-rule-lawyers/#:~:text=If%20approved%2C%20the%20rule%20would%20start%20on%20January"
+  },
+  {
+   "n": 16,
+   "where": "The essay, section 1",
+   "claim": "In February the court sanctioned a lawyer whose brief cited seven cases that don't exist",
+   "verdict": "confirmed",
+   "url": "https://www.lawcommentary.com/articles/tenth-circuit-ai-court-filings-human-review-rule",
+   "source": "Law Commentary",
+   "passage": "sanctioned Maryland attorney Kusmin L. Amarsingh after finding seven nonexistent cases",
+   "deep": "https://www.lawcommentary.com/articles/tenth-circuit-ai-court-filings-human-review-rule#:~:text=sanctioned%20Maryland%20attorney%20Kusmin%20L.%20Amarsingh%20after%20finding"
+  },
+  {
+   "n": 17,
+   "where": "The essay, section 1",
+   "claim": "she said she had used ChatGPT to research and draft it",
+   "verdict": "confirmed",
+   "url": "https://www.lawcommentary.com/articles/tenth-circuit-ai-court-filings-human-review-rule",
+   "source": "Law Commentary",
+   "passage": "acknowledged using ChatGPT while researching and drafting the appeal",
+   "deep": "https://www.lawcommentary.com/articles/tenth-circuit-ai-court-filings-human-review-rule#:~:text=acknowledged%20using%20ChatGPT%20while%20researching%20and%20drafting%20the"
+  },
+  {
+   "n": 18,
+   "where": "The essay, section 1",
+   "claim": "In June, filings from a self-represented litigant who used AI contained quotations and propositions missing from cited cases",
+   "verdict": "confirmed",
+   "url": "https://www.lawcommentary.com/articles/tenth-circuit-ai-court-filings-human-review-rule",
+   "source": "Law Commentary",
+   "passage": "quotations and legal propositions missing from the cited cases",
+   "deep": "https://www.lawcommentary.com/articles/tenth-circuit-ai-court-filings-human-review-rule#:~:text=quotations%20and%20legal%20propositions%20missing%20from%20the%20cited"
+  },
+  {
+   "n": 19,
+   "where": "The essay, section 1",
+   "claim": "Sept. 22, four days after the proposal, OpenAI released a new model",
+   "verdict": "confirmed",
+   "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+   "source": "TechCrunch",
+   "passage": "September 22, 2026 ... now available in ChatGPT Work and Codex",
+   "deep": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/#:~:text=September%2022%2C%202026"
+  },
+  {
+   "n": 20,
+   "where": "The essay, section 1",
+   "claim": "Sept. 22 Anthropic released a new model (Claude Opus 5.5)",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/claude-opus-5-5",
+   "source": "Anthropic",
+   "passage": "Release date: September 22, 2026",
+   "deep": "https://www.anthropic.com/claude-opus-5-5#:~:text=Release%20date%3A%20September%2022%2C%202026"
+  },
+  {
+   "n": 21,
+   "where": "The essay, section 1",
+   "claim": "Both pointed to fewer made-up facts",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+   "source": "OpenAI",
+   "passage": "makes about half as many mistakes as its predecessor",
+   "deep": "https://openai.com/index/introducing-gpt-6-sol-and-luna/#:~:text=makes%20about%20half%20as%20many%20mistakes%20as%20its"
+  },
+  {
+   "n": 22,
+   "where": "The essay, section 1",
+   "claim": "OpenAI said GPT-6 Sol makes about half as many mistakes as its predecessor",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+   "source": "OpenAI",
+   "passage": "makes about half as many mistakes as its predecessor",
+   "deep": "https://openai.com/index/introducing-gpt-6-sol-and-luna/#:~:text=makes%20about%20half%20as%20many%20mistakes%20as%20its"
+  },
+  {
+   "n": 23,
+   "where": "The essay, section 1",
+   "claim": "measured on real conversations in which users had flagged an error",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+   "source": "OpenAI",
+   "passage": "based on de-identified real-world conversations where users flagged mistakes by our models",
+   "deep": "https://openai.com/index/introducing-gpt-6-sol-and-luna/#:~:text=based%20on%20de-identified%20real-world%20conversations%20where%20users%20flagged"
+  },
+  {
+   "n": 24,
+   "where": "The essay, section 1",
+   "claim": "Internal test where any invented figure or quote meant failure",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/claude-opus-5-5",
+   "source": "Anthropic",
+   "passage": "where any invented figure or quote would have failed",
+   "deep": "https://www.anthropic.com/claude-opus-5-5#:~:text=where%20any%20invented%20figure%20or%20quote%20would%20have"
+  },
+  {
+   "n": 25,
+   "where": "The essay, section 1",
+   "claim": "16 of 18 reports by Claude Opus 5.5 passed",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/claude-opus-5-5",
+   "source": "Anthropic",
+   "passage": "16 out of 18 of Opus 5.5's reports cleared our quality bar",
+   "deep": "https://www.anthropic.com/claude-opus-5-5#:~:text=16%20out%20of%2018%20of%20Opus%205.5%27s%20reports"
+  },
+  {
+   "n": 26,
+   "where": "The essay, section 1",
+   "claim": "two other Anthropic models passed none",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/claude-opus-5-5",
+   "source": "Anthropic",
+   "passage": "Neither Fable 5.1 nor Opus 5 cleared that bar in any attempt",
+   "deep": "https://www.anthropic.com/claude-opus-5-5#:~:text=Neither%20Fable%205.1%20nor%20Opus%205%20cleared%20that"
+  },
+  {
+   "n": 27,
+   "where": "The essay, section 1",
+   "claim": "Researchers call a plausible, confident, false answer a hallucination",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/why-language-models-hallucinate/",
+   "source": "OpenAI research",
+   "passage": "Hallucinations are plausible but false statements generated by language models",
+   "deep": "https://openai.com/index/why-language-models-hallucinate/#:~:text=Hallucinations%20are%20plausible%20but%20false%20statements%20generated%20by"
+  },
+  {
+   "n": 28,
+   "where": "The essay, section 1",
+   "claim": "It isn't a mysterious glitch; build and grading make guessing natural",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/why-language-models-hallucinate/",
+   "source": "OpenAI research",
+   "passage": "We understand the statistical mechanisms through which hallucinations arise and are rewarded in evaluations",
+   "deep": "https://openai.com/index/why-language-models-hallucinate/#:~:text=We%20understand%20the%20statistical%20mechanisms%20through%20which%20hallucinations"
+  },
+  {
+   "n": 29,
+   "where": "The essay, section 1",
+   "claim": "From fake citations to a proposed rule",
+   "verdict": "confirmed",
+   "url": "https://www.lawcommentary.com/articles/tenth-circuit-ai-court-filings-human-review-rule",
+   "source": "Law Commentary",
+   "passage": "sanctioned ... seven nonexistent cases ... proposed a new rule September 18",
+   "deep": ""
+  },
+  {
+   "n": 30,
+   "where": "The essay, section 1",
+   "claim": "Feb.: lawyer sanctioned for brief citing seven nonexistent cases",
+   "verdict": "confirmed",
+   "url": "https://www.lawcommentary.com/articles/tenth-circuit-ai-court-filings-human-review-rule",
+   "source": "Law Commentary",
+   "passage": "sanctioned Maryland attorney ... seven nonexistent cases",
+   "deep": "https://www.lawcommentary.com/articles/tenth-circuit-ai-court-filings-human-review-rule#:~:text=sanctioned%20Maryland%20attorney"
+  },
+  {
+   "n": 31,
+   "where": "The essay, section 1",
+   "claim": "Sept. 18: court proposes human review of AI-drafted filings",
+   "verdict": "confirmed",
+   "url": "https://www.lawcommentary.com/articles/tenth-circuit-ai-court-filings-human-review-rule",
+   "source": "Law Commentary",
+   "passage": "proposed a new rule September 18",
+   "deep": "https://www.lawcommentary.com/articles/tenth-circuit-ai-court-filings-human-review-rule#:~:text=proposed%20a%20new%20rule%20September%2018"
+  },
+  {
+   "n": 32,
+   "where": "The essay, section 1",
+   "claim": "Sept. 22: OpenAI and Anthropic release models, both pointing to fewer made-up facts",
+   "verdict": "confirmed",
+   "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+   "source": "TechCrunch",
+   "passage": "Anthropic released a new version of Opus 5.5 just 90 minutes before OpenAI's release",
+   "deep": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/#:~:text=Anthropic%20released%20a%20new%20version%20of%20Opus%205.5"
+  },
+  {
+   "n": 33,
+   "where": "The essay, section 1",
+   "claim": "Oct. 18: comments due",
+   "verdict": "confirmed",
+   "url": "https://www.lawcommentary.com/articles/tenth-circuit-ai-court-filings-human-review-rule",
+   "source": "Law Commentary",
+   "passage": "Public comments are due October 18",
+   "deep": "https://www.lawcommentary.com/articles/tenth-circuit-ai-court-filings-human-review-rule#:~:text=Public%20comments%20are%20due%20October%2018"
+  },
+  {
+   "n": 34,
+   "where": "The essay, section 1",
+   "claim": "Jan. 1, 2027: rule takes effect if approved",
+   "verdict": "confirmed",
+   "url": "https://www.lawcommentary.com/articles/tenth-circuit-ai-court-filings-human-review-rule",
+   "source": "Law Commentary",
+   "passage": "scheduled to take effect January 1, 2027",
+   "deep": "https://www.lawcommentary.com/articles/tenth-circuit-ai-court-filings-human-review-rule#:~:text=scheduled%20to%20take%20effect%20January%201%2C%202027"
+  },
+  {
+   "n": 35,
+   "where": "The essay, section 2",
+   "claim": "An LLM is trained to predict the next word; pretraining on enormous text",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/why-language-models-hallucinate/",
+   "source": "OpenAI research",
+   "passage": "Pretraining means predicting the next word in large amounts of text",
+   "deep": "https://openai.com/index/why-language-models-hallucinate/#:~:text=Pretraining%20means%20predicting%20the%20next%20word%20in%20large"
+  },
+  {
+   "n": 36,
+   "where": "The essay, section 2",
+   "claim": "None of that text comes labelled true or false",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/why-language-models-hallucinate/",
+   "source": "OpenAI research",
+   "passage": "there are no \"true/false\" labels attached to each statement",
+   "deep": "https://openai.com/index/why-language-models-hallucinate/#:~:text=there%20are%20no%20%22true%2Ffalse%22%20labels%20attached%20to%20each"
+  },
+  {
+   "n": 37,
+   "where": "The essay, section 2",
+   "claim": "Spelling and matching parentheses follow consistent rules, mistakes fade as models grow",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/why-language-models-hallucinate/",
+   "source": "OpenAI research",
+   "passage": "Spelling and parentheses follow consistent patterns, so errors there disappear with scale",
+   "deep": "https://openai.com/index/why-language-models-hallucinate/#:~:text=Spelling%20and%20parentheses%20follow%20consistent%20patterns%2C%20so%20errors"
+  },
+  {
+   "n": 38,
+   "where": "The essay, section 2",
+   "claim": "OpenAI researchers' term 'arbitrary low-frequency facts' (birthday, dissertation title)",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/why-language-models-hallucinate/",
+   "source": "OpenAI research",
+   "passage": "arbitrary low-frequency facts, like a pet's birthday, cannot be predicted from patterns alone",
+   "deep": "https://openai.com/index/why-language-models-hallucinate/#:~:text=arbitrary%20low-frequency%20facts%2C%20like%20a%20pet%27s%20birthday%2C%20cannot"
+  },
+  {
+   "n": 39,
+   "where": "The essay, section 2",
+   "claim": "Asked for an author's birthday, a widely used chatbot gave three different dates, all wrong",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/why-language-models-hallucinate/",
+   "source": "OpenAI research",
+   "passage": "gave three different dates, likewise all wrong",
+   "deep": "https://openai.com/index/why-language-models-hallucinate/#:~:text=gave%20three%20different%20dates%2C%20likewise%20all%20wrong"
+  },
+  {
+   "n": 40,
+   "where": "The essay, section 2",
+   "claim": "Paper published in peer-reviewed form in Nature in April",
+   "verdict": "confirmed",
+   "url": "https://www.nature.com/articles/s41586-026-10549-w",
+   "source": "Nature",
+   "passage": "published 22 April 2026 ... Nature volume 653, pages 1047-1051",
+   "deep": "https://www.nature.com/articles/s41586-026-10549-w#:~:text=published%2022%20April%202026"
+  },
+  {
+   "n": 41,
+   "where": "The essay, section 2",
+   "claim": "If 20% of birthday facts appear once, a pretrained model should get at least 20% wrong",
+   "verdict": "confirmed",
+   "url": "https://www.nature.com/articles/s41586-026-10549-w",
+   "source": "Nature",
+   "passage": "pretrained models should hallucinate on at least 20% of birthday facts",
+   "deep": "https://www.nature.com/articles/s41586-026-10549-w#:~:text=pretrained%20models%20should%20hallucinate%20on%20at%20least%2020%25"
+  },
+  {
+   "n": 42,
+   "where": "The essay, section 2",
+   "claim": "If a model can't tell true statements from plausible false ones, it will produce false ones",
+   "verdict": "confirmed",
+   "url": "https://arxiv.org/abs/2509.04664",
+   "source": "arXiv paper",
+   "passage": "incorrect statements cannot be distinguished from facts",
+   "deep": "https://arxiv.org/abs/2509.04664#:~:text=incorrect%20statements%20cannot%20be%20distinguished%20from%20facts"
+  },
+  {
+   "n": 43,
+   "where": "The essay, section 2",
+   "claim": "Same question can get different answers; known facts agree, guesses scatter",
+   "verdict": "confirmed",
+   "url": "https://www.nature.com/articles/s41586-024-07421-0",
+   "source": "Oxford study",
+   "passage": "sampling several possible answers to each question and clustering them ... higher semantic entropy indicates higher uncertainty",
+   "deep": "https://www.nature.com/articles/s41586-024-07421-0#:~:text=sampling%20several%20possible%20answers%20to%20each%20question%20and"
+  },
+  {
+   "n": 44,
+   "where": "The essay, section 2",
+   "claim": "In 2024 Oxford researchers described made-up answers that shift with irrelevant details, such as the random draw",
+   "verdict": "confirmed",
+   "url": "https://www.nature.com/articles/s41586-024-07421-0",
+   "source": "Oxford study",
+   "passage": "the answer is sensitive to irrelevant details such as random seed (published 19 June 2024; authors at OATML, University of Oxford)",
+   "deep": "https://www.nature.com/articles/s41586-024-07421-0#:~:text=the%20answer%20is%20sensitive%20to%20irrelevant%20details%20such"
+  },
+  {
+   "n": 45,
+   "where": "The essay, section 2",
+   "claim": "Legal citations are close to a worst case: format is a pattern seen endlessly, case existence a one-off fact; the model learned what a citation looks like far better than which exist",
+   "verdict": "unsupported",
+   "url": "",
+   "source": "the issue itself",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 46,
+   "where": "The essay, section 2",
+   "claim": "In 2025 Anthropic interpretability researchers reported on one of its Claude models",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/tracing-thoughts-language-model",
+   "source": "Anthropic research",
+   "passage": "March 27, 2025 ... examined Claude 3.5 Haiku",
+   "deep": "https://www.anthropic.com/research/tracing-thoughts-language-model#:~:text=March%2027%2C%202025"
+  },
+  {
+   "n": 47,
+   "where": "The essay, section 2",
+   "claim": "Declining to answer is the default",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/tracing-thoughts-language-model",
+   "source": "Anthropic research",
+   "passage": "refusal to answer is the default behavior",
+   "deep": "https://www.anthropic.com/research/tracing-thoughts-language-model#:~:text=refusal%20to%20answer%20is%20the%20default%20behavior"
+  },
+  {
+   "n": 48,
+   "where": "The essay, section 2",
+   "claim": "A feature that fires on familiar names switches that default off",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/tracing-thoughts-language-model",
+   "source": "Anthropic research",
+   "passage": "A \"known entities\" feature inhibits that default",
+   "deep": "https://www.anthropic.com/research/tracing-thoughts-language-model#:~:text=A%20%22known%20entities%22%20feature%20inhibits%20that%20default"
+  },
+  {
+   "n": 49,
+   "where": "The essay, section 2",
+   "claim": "Ask about Michael Jordan and it answers; unknown name and it declines",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/tracing-thoughts-language-model",
+   "source": "Anthropic research",
+   "passage": "asked about basketball player Michael Jordan ... answers; unknown name, Michael Batkin, declines",
+   "deep": "https://www.anthropic.com/research/tracing-thoughts-language-model#:~:text=asked%20about%20basketball%20player%20Michael%20Jordan"
+  },
+  {
+   "n": 50,
+   "where": "The essay, section 2",
+   "claim": "Some hallucinations happen when recognition misfires",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/tracing-thoughts-language-model",
+   "source": "Anthropic research",
+   "passage": "such misfires can occur when Claude recognizes a name but doesn't know anything else about that person",
+   "deep": "https://www.anthropic.com/research/tracing-thoughts-language-model#:~:text=such%20misfires%20can%20occur%20when%20Claude%20recognizes%20a"
+  },
+  {
+   "n": 51,
+   "where": "The essay, section 2",
+   "claim": "LOOKS RIGHT; rubber stamp over citation template",
+   "verdict": "confirmed",
+   "url": "",
+   "source": "the issue itself",
+   "passage": "Illustrative only; no factual assertion",
+   "deep": ""
+  },
+  {
+   "n": 52,
+   "where": "The essay, section 2",
+   "claim": "A model has seen the shape of a citation endlessly; whether a case exists is a one-off fact",
+   "verdict": "unsupported",
+   "url": "",
+   "source": "the issue itself",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 53,
+   "where": "The essay, section 3",
+   "claim": "Models compared on benchmarks whose scores feed leaderboards",
+   "verdict": "confirmed",
+   "url": "https://arxiv.org/abs/2509.04664",
+   "source": "arXiv paper",
+   "passage": "benchmarks that are misaligned but dominate leaderboards",
+   "deep": "https://arxiv.org/abs/2509.04664#:~:text=benchmarks%20that%20are%20misaligned%20but%20dominate%20leaderboards"
+  },
+  {
+   "n": 54,
+   "where": "The essay, section 3",
+   "claim": "Researchers argue models end up optimized to be good test-takers",
+   "verdict": "confirmed",
+   "url": "https://arxiv.org/abs/2509.04664",
+   "source": "arXiv paper",
+   "passage": "language models are optimized to be good test-takers",
+   "deep": "https://arxiv.org/abs/2509.04664#:~:text=language%20models%20are%20optimized%20to%20be%20good%20test-takers"
+  },
+  {
+   "n": 55,
+   "where": "The essay, section 3",
+   "claim": "Nature paper examined 10 influential benchmarks",
+   "verdict": "confirmed",
+   "url": "https://www.nature.com/articles/s41586-026-10549-w",
+   "source": "Nature",
+   "passage": "the ten evaluations selected here",
+   "deep": "https://www.nature.com/articles/s41586-026-10549-w#:~:text=the%20ten%20evaluations%20selected%20here"
+  },
+  {
+   "n": 56,
+   "where": "The essay, section 3",
+   "claim": "vast majority grade binary: point for right, nothing for wrong or IDK",
+   "verdict": "confirmed",
+   "url": "https://www.nature.com/articles/s41586-026-10549-w",
+   "source": "Nature",
+   "passage": "the vast majority of popular evaluations use binary grading",
+   "deep": "https://www.nature.com/articles/s41586-026-10549-w#:~:text=the%20vast%20majority%20of%20popular%20evaluations%20use%20binary"
+  },
+  {
+   "n": 57,
+   "where": "The essay, section 3",
+   "claim": "Only one, WildBench, gives even minimal credit for uncertainty",
+   "verdict": "confirmed",
+   "url": "https://www.nature.com/articles/s41586-026-10549-w",
+   "source": "Nature",
+   "passage": "offers minimal credit given for indicating uncertainty",
+   "deep": "https://www.nature.com/articles/s41586-026-10549-w#:~:text=offers%20minimal%20credit%20given%20for%20indicating%20uncertainty"
+  },
+  {
+   "n": 58,
+   "where": "The essay, section 3",
+   "claim": "Model answering 'September 10' has a 1-in-365 chance of a point",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/why-language-models-hallucinate/",
+   "source": "OpenAI research",
+   "passage": "If it guesses \"September 10,\" it has a 1-in-365 chance of being right",
+   "deep": "https://openai.com/index/why-language-models-hallucinate/#:~:text=If%20it%20guesses%20%22September%2010%2C%22%20it%20has%20a"
+  },
+  {
+   "n": 59,
+   "where": "The essay, section 3",
+   "claim": "Saying 'I don't know' guarantees zero",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/why-language-models-hallucinate/",
+   "source": "OpenAI research",
+   "passage": "Saying \"I don't know\" guarantees zero points",
+   "deep": "https://openai.com/index/why-language-models-hallucinate/#:~:text=Saying%20%22I%20don%27t%20know%22%20guarantees%20zero%20points"
+  },
+  {
+   "n": 60,
+   "where": "The essay, section 3",
+   "claim": "Over thousands of questions the guesser looks better on the scoreboard",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/why-language-models-hallucinate/",
+   "source": "OpenAI research",
+   "passage": "guessing when uncertain improves test performance",
+   "deep": "https://openai.com/index/why-language-models-hallucinate/#:~:text=guessing%20when%20uncertain%20improves%20test%20performance"
+  },
+  {
+   "n": 61,
+   "where": "The essay, section 3",
+   "claim": "Comparison OpenAI published last year",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/why-language-models-hallucinate/",
+   "source": "OpenAI research",
+   "passage": "Publication date: September 5, 2025 (table from the GPT-5 System Card)",
+   "deep": "https://openai.com/index/why-language-models-hallucinate/#:~:text=Publication%20date%3A%20September%205%2C%202025%20%28table%20from%20the"
+  },
+  {
+   "n": 62,
+   "where": "The essay, section 3",
+   "claim": "SimpleQA test of short factual questions",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/why-language-models-hallucinate/",
+   "source": "OpenAI research",
+   "passage": "SimpleQA table (from the GPT-5 System Card)",
+   "deep": "https://openai.com/index/why-language-models-hallucinate/#:~:text=SimpleQA%20table%20%28from%20the%20GPT-5%20System%20Card%29"
+  },
+  {
+   "n": 63,
+   "where": "The essay, section 3",
+   "claim": "gpt-5-thinking-mini: 22 right, 26 wrong, 52 abstained",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/why-language-models-hallucinate/",
+   "source": "OpenAI research",
+   "passage": "Abstention 52% | Accuracy 22% | Error 26%",
+   "deep": ""
+  },
+  {
+   "n": 64,
+   "where": "The essay, section 3",
+   "claim": "o4-mini: 24 right, 75 wrong, declined once",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/why-language-models-hallucinate/",
+   "source": "OpenAI research",
+   "passage": "Abstention 1% | Accuracy 24% | Error 75%",
+   "deep": ""
+  },
+  {
+   "n": 65,
+   "where": "The essay, section 3",
+   "claim": "By accuracy the older model wins, 24 to 22",
+   "verdict": "confirmed",
+   "url": "https://www.nature.com/articles/s41586-026-10549-w",
+   "source": "Nature",
+   "passage": "accuracy slightly favours OpenAI's o4-mini, which answers almost all questions",
+   "deep": "https://www.nature.com/articles/s41586-026-10549-w#:~:text=accuracy%20slightly%20favours%20OpenAI%27s%20o4-mini%2C%20which%20answers%20almost"
+  },
+  {
+   "n": 66,
+   "where": "The essay, section 3",
+   "claim": "With a one-point penalty: 22-26 = -4; 24-75 = -51",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/why-language-models-hallucinate/",
+   "source": "OpenAI research",
+   "passage": "22/26 and 24/75 per table; arithmetic checked",
+   "deep": "https://openai.com/index/why-language-models-hallucinate/#:~:text=22%2F26%20and%2024%2F75%20per%20table%3B%20arithmetic%20checked"
+  },
+  {
+   "n": 67,
+   "where": "The essay, section 3",
+   "claim": "Leaderboard-tuned model learns to guess when unsure",
+   "verdict": "confirmed",
+   "url": "https://arxiv.org/abs/2509.04664",
+   "source": "arXiv paper",
+   "passage": "guessing when uncertain improves test performance",
+   "deep": "https://arxiv.org/abs/2509.04664#:~:text=guessing%20when%20uncertain%20improves%20test%20performance"
+  },
+  {
+   "n": 68,
+   "where": "The essay, section 3",
+   "claim": "2023 GPT-4 technical report: pretrained model well calibrated",
+   "verdict": "confirmed",
+   "url": "https://arxiv.org/html/2303.08774v4",
+   "source": "GPT-4 report",
+   "passage": "the pre-trained model is highly calibrated ... its predicted confidence in an answer generally matches the probability of being correct",
+   "deep": "https://arxiv.org/html/2303.08774v4#:~:text=the%20pre-trained%20model%20is%20highly%20calibrated"
+  },
+  {
+   "n": 69,
+   "where": "The essay, section 3",
+   "claim": "Quote: post-training \"hurts calibration significantly\"",
+   "verdict": "confirmed",
+   "url": "https://arxiv.org/html/2303.08774v4",
+   "source": "GPT-4 report",
+   "passage": "The post-training hurts calibration significantly",
+   "deep": "https://arxiv.org/html/2303.08774v4#:~:text=The%20post-training%20hurts%20calibration%20significantly"
+  },
+  {
+   "n": 70,
+   "where": "The essay, section 3",
+   "claim": "The prose reads just as sure whether a fact is common or invented",
+   "verdict": "unsupported",
+   "url": "https://arxiv.org/html/2303.08774v4",
+   "source": "GPT-4 report",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 71,
+   "where": "The essay, section 3",
+   "claim": "Same test, two models; SimpleQA per 100 questions",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/why-language-models-hallucinate/",
+   "source": "OpenAI research",
+   "passage": "SimpleQA table, percentages summing to 100%",
+   "deep": "https://openai.com/index/why-language-models-hallucinate/#:~:text=SimpleQA%20table%2C%20percentages%20summing%20to%20100%25"
+  },
+  {
+   "n": 72,
+   "where": "The essay, section 3",
+   "claim": "Right: 22 / 24",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/why-language-models-hallucinate/",
+   "source": "OpenAI research",
+   "passage": "Accuracy rate 22% | 24%",
+   "deep": "https://openai.com/index/why-language-models-hallucinate/#:~:text=Accuracy%20rate%2022%25"
+  },
+  {
+   "n": 73,
+   "where": "The essay, section 3",
+   "claim": "Wrong: 26 / 75",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/why-language-models-hallucinate/",
+   "source": "OpenAI research",
+   "passage": "Error rate 26% | 75%",
+   "deep": "https://openai.com/index/why-language-models-hallucinate/#:~:text=Error%20rate%2026%25"
+  },
+  {
+   "n": 74,
+   "where": "The essay, section 3",
+   "claim": "Said it didn't know: 52 / 1",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/why-language-models-hallucinate/",
+   "source": "OpenAI research",
+   "passage": "Abstention rate 52% | 1%",
+   "deep": "https://openai.com/index/why-language-models-hallucinate/#:~:text=Abstention%20rate%2052%25"
+  },
+  {
+   "n": 75,
+   "where": "The essay, section 3",
+   "claim": "o4-mini wins 24 to 22 on right answers; loses -51 to -4 with penalty",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/why-language-models-hallucinate/",
+   "source": "OpenAI research",
+   "passage": "table values; arithmetic checked",
+   "deep": "https://openai.com/index/why-language-models-hallucinate/#:~:text=table%20values%3B%20arithmetic%20checked"
+  },
+  {
+   "n": 76,
+   "where": "The essay, section 4",
+   "claim": "'It's lying' myth: model making a plausible guess isn't hiding anything; it doesn't have the fact",
+   "verdict": "unsupported",
+   "url": "",
+   "source": "the issue itself",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 77,
+   "where": "The essay, section 4",
+   "claim": "RAG means the model looks things up in documents before answering",
+   "verdict": "confirmed",
+   "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+   "source": "Stanford study",
+   "passage": "RAG comprises two primary steps ... retrieval ... generation",
+   "deep": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf#:~:text=RAG%20comprises%20two%20primary%20steps"
+  },
+  {
+   "n": 78,
+   "where": "The essay, section 4",
+   "claim": "Study published last year by Stanford researchers",
+   "verdict": "confirmed",
+   "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+   "source": "Stanford study",
+   "passage": "Journal of Empirical Legal Studies, 2025 ... accepted 14 March 2025; most authors at Stanford",
+   "deep": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf#:~:text=Journal%20of%20Empirical%20Legal%20Studies%2C%202025"
+  },
+  {
+   "n": 79,
+   "where": "The essay, section 4",
+   "claim": "Each tool still hallucinated between 17% and 33% of the time",
+   "verdict": "confirmed",
+   "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+   "source": "Stanford study",
+   "passage": "each hallucinate between 17% and 33% of the time",
+   "deep": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf#:~:text=each%20hallucinate%20between%2017%25%20and%2033%25%20of%20the"
+  },
+  {
+   "n": 80,
+   "where": "The essay, section 4",
+   "claim": "Counting false statements and real sources cited for claims they don't support",
+   "verdict": "confirmed",
+   "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+   "source": "Stanford study",
+   "passage": "A response is considered hallucinated if it is either incorrect or misgrounded",
+   "deep": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf#:~:text=A%20response%20is%20considered%20hallucinated%20if%20it%20is"
+  },
+  {
+   "n": 81,
+   "where": "The essay, section 4",
+   "claim": "Accuracy will never reach 100%",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/why-language-models-hallucinate/",
+   "source": "OpenAI research",
+   "passage": "Accuracy will never reach 100% because, regardless of model size, search and reasoning capabilities",
+   "deep": "https://openai.com/index/why-language-models-hallucinate/#:~:text=Accuracy%20will%20never%20reach%20100%25%20because%2C%20regardless%20of"
+  },
+  {
+   "n": 82,
+   "where": "The essay, section 4",
+   "claim": "Hallucinations aren't inevitable because a model can decline",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/why-language-models-hallucinate/",
+   "source": "OpenAI research",
+   "passage": "They are not, because language models can abstain when uncertain",
+   "deep": "https://openai.com/index/why-language-models-hallucinate/#:~:text=They%20are%20not%2C%20because%20language%20models%20can%20abstain"
+  },
+  {
+   "n": 83,
+   "where": "The essay, section 4",
+   "claim": "Easier for a small model to know its limits",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/why-language-models-hallucinate/",
+   "source": "OpenAI research",
+   "passage": "It can be easier for a small model to know its limits",
+   "deep": "https://openai.com/index/why-language-models-hallucinate/#:~:text=It%20can%20be%20easier%20for%20a%20small%20model"
+  },
+  {
+   "n": 84,
+   "where": "The essay, section 4",
+   "claim": "Nature tested Gemini 3 Pro, GPT-5, Grok 4 and Claude Opus 4.5",
+   "verdict": "confirmed",
+   "url": "https://www.nature.com/articles/s41586-026-10549-w",
+   "source": "Nature",
+   "passage": "tested Gemini 3 Pro, GPT-5, Grok 4, and Claude Opus 4.5 on SimpleQA",
+   "deep": "https://www.nature.com/articles/s41586-026-10549-w#:~:text=tested%20Gemini%203%20Pro%2C%20GPT-5%2C%20Grok%204%2C%20and"
+  },
+  {
+   "n": 85,
+   "where": "The essay, section 4",
+   "claim": "four of the most capable models of the time",
+   "verdict": "confirmed",
+   "url": "https://www.nature.com/articles/s41586-026-10549-w",
+   "source": "Nature",
+   "passage": "four frontier models",
+   "deep": "https://www.nature.com/articles/s41586-026-10549-w#:~:text=four%20frontier%20models"
+  },
+  {
+   "n": 86,
+   "where": "The essay, section 4",
+   "claim": "Each question stated how answers would be scored",
+   "verdict": "confirmed",
+   "url": "https://www.nature.com/articles/s41586-026-10549-w",
+   "source": "Nature",
+   "passage": "state the scoring system alongside the question itself",
+   "deep": "https://www.nature.com/articles/s41586-026-10549-w#:~:text=state%20the%20scoring%20system%20alongside%20the%20question%20itself"
+  },
+  {
+   "n": 87,
+   "where": "The essay, section 4",
+   "claim": "Wrong answer cost three or nine points vs one for right",
+   "verdict": "confirmed",
+   "url": "https://www.nature.com/articles/s41586-026-10549-w",
+   "source": "Nature",
+   "passage": "penalties of L = 0, 1, 3, and 9 ... assigns scores 1 (correct)",
+   "deep": "https://www.nature.com/articles/s41586-026-10549-w#:~:text=penalties%20of%20L%20%3D%200%2C%201%2C%203%2C%20and"
+  },
+  {
+   "n": 88,
+   "where": "The essay, section 4",
+   "claim": "All four would have scored higher answering IDK to everything",
+   "verdict": "confirmed",
+   "url": "https://www.nature.com/articles/s41586-026-10549-w",
+   "source": "Nature",
+   "passage": "so always abstaining yields a higher score",
+   "deep": "https://www.nature.com/articles/s41586-026-10549-w#:~:text=so%20always%20abstaining%20yields%20a%20higher%20score"
+  },
+  {
+   "n": 89,
+   "where": "The essay, section 4",
+   "claim": "Consistency check (two answers, judge agreement, decline) cut errors at some cost to accuracy",
+   "verdict": "confirmed",
+   "url": "https://www.nature.com/articles/s41586-026-10549-w",
+   "source": "Nature",
+   "passage": "generate two responses, judge whether they agree, and abstain ... reduces incorrect responses ... but also decreases correct responses",
+   "deep": "https://www.nature.com/articles/s41586-026-10549-w#:~:text=generate%20two%20responses%2C%20judge%20whether%20they%20agree%2C%20and"
+  },
+  {
+   "n": 90,
+   "where": "The essay, section 5",
+   "claim": "Comments close Oct. 18; approved changes scheduled to take effect Jan. 1",
+   "verdict": "confirmed",
+   "url": "https://www.lawcommentary.com/articles/tenth-circuit-ai-court-filings-human-review-rule",
+   "source": "Law Commentary",
+   "passage": "Approved changes are scheduled to take effect January 1, 2027",
+   "deep": "https://www.lawcommentary.com/articles/tenth-circuit-ai-court-filings-human-review-rule#:~:text=Approved%20changes%20are%20scheduled%20to%20take%20effect%20January"
+  },
+  {
+   "n": 91,
+   "where": "The essay, section 5",
+   "claim": "Fifth Circuit proposed an AI certification rule in 2023 and dropped it in 2024",
+   "verdict": "confirmed",
+   "url": "https://www.lawcommentary.com/articles/tenth-circuit-ai-court-filings-human-review-rule",
+   "source": "Law Commentary",
+   "passage": "The Fifth Circuit proposed an AI certification requirement in 2023 ... dropped the proposal in 2024",
+   "deep": "https://www.lawcommentary.com/articles/tenth-circuit-ai-court-filings-human-review-rule#:~:text=The%20Fifth%20Circuit%20proposed%20an%20AI%20certification%20requirement"
+  },
+  {
+   "n": 92,
+   "where": "The essay, section 5",
+   "claim": "The Fifth Circuit dropped it saying existing rules already require filings to be carefully checked for accuracy",
+   "verdict": "unsupported",
+   "url": "https://www.kslaw.com/attachments/000/011/823/original/ca061424.pdf",
+   "source": "King & Spalding",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 93,
+   "where": "The essay, section 5",
+   "claim": "OpenAI's Sept. 22 test drew on conversations where users flagged mistakes",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+   "source": "OpenAI",
+   "passage": "based on de-identified real-world conversations where users flagged mistakes",
+   "deep": "https://openai.com/index/introducing-gpt-6-sol-and-luna/#:~:text=based%20on%20de-identified%20real-world%20conversations%20where%20users%20flagged"
+  },
+  {
+   "n": 94,
+   "where": "The essay, section 5",
+   "claim": "which it says aren't typical of everyday use, where errors are rarer",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+   "source": "OpenAI",
+   "passage": "These error-inducing conversations are not representative of typical usage, where factual errors are more rare",
+   "deep": "https://openai.com/index/introducing-gpt-6-sol-and-luna/#:~:text=These%20error-inducing%20conversations%20are%20not%20representative%20of%20typical"
+  },
+  {
+   "n": 95,
+   "where": "The essay, section 5",
+   "claim": "Oxford built a detector sampling several answers and measuring how far their meanings disagree",
+   "verdict": "confirmed",
+   "url": "https://www.nature.com/articles/s41586-024-07421-0",
+   "source": "Oxford study",
+   "passage": "sampling several possible answers ... clustering ... entropy computed over meanings of sentences",
+   "deep": "https://www.nature.com/articles/s41586-024-07421-0#:~:text=sampling%20several%20possible%20answers"
+  },
+  {
+   "n": 96,
+   "where": "The essay, section 5",
+   "claim": "Nature study suggests telling a model IDK is acceptable won't be enough on its own",
+   "verdict": "confirmed",
+   "url": "https://www.nature.com/articles/s41586-026-10549-w",
+   "source": "Nature",
+   "passage": "For the larger penalties ... always abstaining yields a higher score (with the rubric stated in each question)",
+   "deep": "https://www.nature.com/articles/s41586-026-10549-w#:~:text=For%20the%20larger%20penalties"
+  },
+  {
+   "n": 97,
+   "where": "The essay, section 5",
+   "claim": "Stanford study counted real sources cited for unsupported claims as hallucinations",
+   "verdict": "confirmed",
+   "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+   "source": "Stanford study",
+   "passage": "misgrounded ... key factual propositions are cited but misinterpret the source",
+   "deep": ""
+  },
+  {
+   "n": 98,
+   "where": "The essay, section 5",
+   "claim": "Oxford's detector samples several answers and measures how far meanings disagree",
+   "verdict": "confirmed",
+   "url": "https://www.nature.com/articles/s41586-024-07421-0",
+   "source": "Oxford study",
+   "passage": "computing uncertainty at the level of meaning rather than specific sequences of words",
+   "deep": "https://www.nature.com/articles/s41586-024-07421-0#:~:text=computing%20uncertainty%20at%20the%20level%20of%20meaning%20rather"
+  },
+  {
+   "n": 99,
+   "where": "The essay, section 5",
+   "claim": "Ask-twice steps (advice)",
+   "verdict": "confirmed",
+   "url": "https://www.nature.com/articles/s41586-024-07421-0",
+   "source": "Oxford study",
+   "passage": "sampling several possible answers to each question",
+   "deep": "https://www.nature.com/articles/s41586-024-07421-0#:~:text=sampling%20several%20possible%20answers%20to%20each%20question"
+  },
+  {
+   "n": 100,
+   "where": "Further reading, item 1",
+   "claim": "OpenAI 'Why language models hallucinate' includes the two-model comparison",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/why-language-models-hallucinate/",
+   "source": "OpenAI research",
+   "passage": "SimpleQA table ... gpt-5-thinking-mini | OpenAI o4-mini",
+   "deep": ""
+  },
+  {
+   "n": 101,
+   "where": "Further reading, item 2",
+   "claim": "Nature paper includes test of telling models what a wrong answer costs",
+   "verdict": "confirmed",
+   "url": "https://www.nature.com/articles/s41586-026-10549-w",
+   "source": "Nature",
+   "passage": "state the scoring system alongside the question itself",
+   "deep": "https://www.nature.com/articles/s41586-026-10549-w#:~:text=state%20the%20scoring%20system%20alongside%20the%20question%20itself"
+  },
+  {
+   "n": 102,
+   "where": "Further reading, item 3",
+   "claim": "Anthropic 'Tracing the thoughts' covers whether a model knows an answer",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/tracing-thoughts-language-model",
+   "source": "Anthropic research",
+   "passage": "refusal to answer is the default behavior",
+   "deep": "https://www.anthropic.com/research/tracing-thoughts-language-model#:~:text=refusal%20to%20answer%20is%20the%20default%20behavior"
+  },
+  {
+   "n": 103,
+   "where": "Further reading, item 4",
+   "claim": "Stanford paper: tools searching real case law still misground citations",
+   "verdict": "confirmed",
+   "url": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf",
+   "source": "Stanford study",
+   "passage": "key factual propositions are cited but misinterpret the source",
+   "deep": "https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf#:~:text=key%20factual%20propositions%20are%20cited%20but%20misinterpret%20the"
+  },
+  {
+   "n": 104,
+   "where": "Further reading, item 5",
+   "claim": "Oxford semantic entropy detector",
+   "verdict": "confirmed",
+   "url": "https://www.nature.com/articles/s41586-024-07421-0",
+   "source": "Oxford study",
+   "passage": "semantic entropy ... signals a likely confabulation",
+   "deep": ""
+  }
+ ],
+ "notes": [
+  "Back-issue window check: all cited dated sources are on or before D (Law Commentary 2026-09-23, Lawyer.exe 2026-09-24, JD Journal 2026-09-18, TechCrunch/Anthropic 2026-09-22). Nothing requires knowledge after D. 'What to watch' items (Oct. 18 comments, Jan. 1, 2027 effective date) were announced Sept. 18, before D.",
+  "No compliance issues: no securities, markets, valuations or employer references. Anthropic's test concerned company performance reports, but the issue doesn't mention that.",
+  "No first-person statements found. Quotes are within 14 words and attributed.",
+  "Nature s41586-026-10549-w and s41586-024-07421-0 failed on direct fetch; both loaded via their doi.org redirects (same pages). A third-party PDF copy of the Nature paper was not used."
+ ]
+}

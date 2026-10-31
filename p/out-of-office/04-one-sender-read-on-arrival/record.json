@@ -1,0 +1,670 @@
+{
+ "issue": "https://sentfrommyagent.com/p/out-of-office/04-one-sender-read-on-arrival/",
+ "newsletter": "Out of Office",
+ "number": 4,
+ "date": "2026-10-20",
+ "title": "One sender, read on arrival.",
+ "stamp": "Sent from my agent. Every claim checked.",
+ "record": "https://sentfrommyagent.com/p/out-of-office/04-one-sender-read-on-arrival/record/",
+ "counts": {
+  "checked": 65,
+  "confirmed": 57,
+  "wrong": 1,
+  "unsupported": 7
+ },
+ "checked_at": "2026-10-24T12:00:00-04:00",
+ "checked_by": "a second agent, independent of the writer",
+ "claims": [
+  {
+   "n": 1,
+   "where": "title",
+   "claim": "Read the moment it lands. (task runs when the email arrives)",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "respond to supported Gmail, Slack, or GitHub activity; Gmail tasks can respond to a new message or filter by sender or subject",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=respond%20to%20supported%20Gmail%2C%20Slack%2C%20or%20GitHub%20activity%3B"
+  },
+  {
+   "n": 2,
+   "where": "dek",
+   "claim": "A ChatGPT task can wait for one sender's email instead of a clock",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "Gmail tasks can respond to a new message or filter by sender or subject",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=Gmail%20tasks%20can%20respond%20to%20a%20new%20message"
+  },
+  {
+   "n": 3,
+   "where": "dek",
+   "claim": "When it arrives, you get what they asked for, by when, and a reply to consider",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "Open Work and describe the event and the action ChatGPT should take. (output is defined by the reader's prompt in step 3)",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=Open%20Work%20and%20describe%20the%20event%20and%20the"
+  },
+  {
+   "n": 4,
+   "where": "dek",
+   "claim": "Nothing goes out unless you send it",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/20001495-managing-app-permissions-in-chatgpt",
+   "source": "OpenAI permissions help",
+   "passage": "Allow read actions: ChatGPT can read without asking but asks before making changes. / tasks page: Actions that require approval may pause the task",
+   "deep": "https://help.openai.com/en/articles/20001495-managing-app-permissions-in-chatgpt#:~:text=Allow%20read%20actions%3A%20ChatGPT%20can%20read%20without%20asking"
+  },
+  {
+   "n": 5,
+   "where": "summary",
+   "claim": "Event-triggered ChatGPT task that reads new Gmail from one sender",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "Gmail tasks can respond to a new message or filter by sender or subject",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=Gmail%20tasks%20can%20respond%20to%20a%20new%20message"
+  },
+  {
+   "n": 6,
+   "where": "summary",
+   "claim": "Needs Plus",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "Free and Go accounts cannot create event-triggered tasks. Available to eligible users on Plus, Pro, Business, Enterprise, and Edu",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=Free%20and%20Go%20accounts%20cannot%20create%20event-triggered%20tasks."
+  },
+  {
+   "n": 7,
+   "where": "summary",
+   "claim": "$20 a month",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus",
+   "source": "OpenAI Plus help",
+   "passage": "$20/month (billed monthly)",
+   "deep": "https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus#:~:text=%2420%2Fmonth%20%28billed%20monthly%29"
+  },
+  {
+   "n": 8,
+   "where": "art alt / art svg",
+   "claim": "Alt text and SVG words ('ON ARRIVAL') are decorative; no factual claim beyond event trigger",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "respond to supported Gmail, Slack, or GitHub activity",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=respond%20to%20supported%20Gmail%2C%20Slack%2C%20or%20GitHub%20activity"
+  },
+  {
+   "n": 9,
+   "where": "The story",
+   "claim": "Scheduled tasks in ChatGPT don't have to run on a clock; an event-triggered task waits for something in a connected app and then runs",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "respond to supported Gmail, Slack, or GitHub activity (runs in Work)",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=respond%20to%20supported%20Gmail%2C%20Slack%2C%20or%20GitHub%20activity"
+  },
+  {
+   "n": 10,
+   "where": "The story",
+   "claim": "Example trigger: a new Gmail message from a sender you name",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "Gmail tasks can respond to a new message or filter by sender or subject",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=Gmail%20tasks%20can%20respond%20to%20a%20new%20message"
+  },
+  {
+   "n": 11,
+   "where": "The story",
+   "claim": "A new email arrives from the named sender; the task's condition matches the sender",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "Review Trigger, Condition, and Prompt ... filter by sender or subject",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=Review%20Trigger%2C%20Condition%2C%20and%20Prompt"
+  },
+  {
+   "n": 12,
+   "where": "The story, step 3",
+   "claim": "ChatGPT writes the ask, deadline and a reply to consider",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "Open Work and describe the event and the action ChatGPT should take. (action set by reader's prompt)",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=Open%20Work%20and%20describe%20the%20event%20and%20the"
+  },
+  {
+   "n": 13,
+   "where": "The story, step 4",
+   "claim": "You're notified; nothing is sent",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "After notification permission is enabled, ChatGPT can send task notifications on supported devices. Manage them under Settings > Notifications, choosing Push, Email, or both",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=After%20notification%20permission%20is%20enabled%2C%20ChatGPT%20can%20send"
+  },
+  {
+   "n": 14,
+   "where": "The story",
+   "claim": "Trigger, condition and prompt are the three parts ChatGPT shows before the task goes live",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "Review Trigger, Condition, and Prompt, and complete any required authorization",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=Review%20Trigger%2C%20Condition%2C%20and%20Prompt%2C%20and%20complete%20any"
+  },
+  {
+   "n": 15,
+   "where": "The steps",
+   "claim": "Created at chatgpt.com or ChatGPT mobile app; OpenAI says created on the web or supported mobile apps",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "You can create, share, and update event-triggered tasks on the web or in supported mobile apps",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=You%20can%20create%2C%20share%2C%20and%20update%20event-triggered%20tasks"
+  },
+  {
+   "n": 16,
+   "where": "The steps",
+   "claim": "Desktop app can show them but can't set their triggers",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "The desktop app can display existing event-triggered tasks, but it does not support creating or editing their trigger conditions",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=The%20desktop%20app%20can%20display%20existing%20event-triggered%20tasks%2C"
+  },
+  {
+   "n": 17,
+   "where": "The steps",
+   "claim": "Every step needs Plus or higher; Free and Go can't create these tasks",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "Free and Go accounts cannot create event-triggered tasks",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=Free%20and%20Go%20accounts%20cannot%20create%20event-triggered%20tasks"
+  },
+  {
+   "n": 18,
+   "where": "The steps",
+   "claim": "Plus, Pro, Business, Enterprise or Edu",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "Available to eligible users on Plus, Pro, Business, Enterprise, and Edu, and in ChatGPT for Healthcare workspaces",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=Available%20to%20eligible%20users%20on%20Plus%2C%20Pro%2C%20Business%2C"
+  },
+  {
+   "n": 19,
+   "where": "The steps",
+   "claim": "On Enterprise and Edu an admin must turn on 'Allow event-triggered scheduled tasks'",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "\"Allow event-triggered scheduled tasks\" must be enabled for Enterprise, Edu, and Healthcare workspaces",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=%22Allow%20event-triggered%20scheduled%20tasks%22%20must%20be%20enabled%20for"
+  },
+  {
+   "n": 20,
+   "where": "The steps",
+   "claim": "A Gmail account connected to ChatGPT",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "Go to Settings > Apps and connect a supported Gmail, Slack, or GitHub account",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=Go%20to%20Settings%20%3E%20Apps%20and%20connect%20a"
+  },
+  {
+   "n": 21,
+   "where": "The steps",
+   "claim": "Plus 5 active scheduled tasks",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "Active task limits depend on the plan: 3 for Free and Go, 5 for Plus, 10 for Business and Edu, and 15 for Pro and Enterprise",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=Active%20task%20limits%20depend%20on%20the%20plan%3A%203"
+  },
+  {
+   "n": 22,
+   "where": "The steps",
+   "claim": "Business and Edu 10",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "10 for Business and Edu",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=10%20for%20Business%20and%20Edu"
+  },
+  {
+   "n": 23,
+   "where": "The steps",
+   "claim": "Pro and Enterprise 15",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "15 for Pro and Enterprise",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=15%20for%20Pro%20and%20Enterprise"
+  },
+  {
+   "n": 24,
+   "where": "The steps",
+   "claim": "An event-triggered task needs a free (active scheduled) task slot",
+   "verdict": "unsupported",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 25,
+   "where": "The steps, item 1",
+   "claim": "Open Settings, then Plugins (some accounts show Apps), choose Gmail and connect",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/20001494",
+   "source": "OpenAI accounts help",
+   "passage": "Open Settings, then select Apps or Plugins, depending on which option is available. (tasks page: Go to Settings > Apps and connect a supported Gmail ... account)",
+   "deep": "https://help.openai.com/en/articles/20001494#:~:text=Open%20Settings%2C%20then%20select%20Apps%20or%20Plugins%2C%20depending"
+  },
+  {
+   "n": 26,
+   "where": "The steps, item 1",
+   "claim": "If more than one Google account is connected, name the right one in your prompt",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/20001494",
+   "source": "OpenAI accounts help",
+   "passage": "When supported, specify the account you want to use in your request",
+   "deep": "https://help.openai.com/en/articles/20001494#:~:text=When%20supported%2C%20specify%20the%20account%20you%20want%20to"
+  },
+  {
+   "n": 27,
+   "where": "The steps, item 2",
+   "claim": "Settings, Plugins, Permissions, choose 'Allow read actions'",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/20001495-managing-app-permissions-in-chatgpt",
+   "source": "OpenAI permissions help",
+   "passage": "Open your profile menu and select Settings. Then select Plugins and open Permissions",
+   "deep": "https://help.openai.com/en/articles/20001495-managing-app-permissions-in-chatgpt#:~:text=Open%20your%20profile%20menu%20and%20select%20Settings.%20Then"
+  },
+  {
+   "n": 28,
+   "where": "The steps, item 2",
+   "claim": "ChatGPT can read without asking but must ask before it changes anything",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/20001495-managing-app-permissions-in-chatgpt",
+   "source": "OpenAI permissions help",
+   "passage": "Allow read actions: ChatGPT can read without asking but asks before making changes",
+   "deep": "https://help.openai.com/en/articles/20001495-managing-app-permissions-in-chatgpt#:~:text=Allow%20read%20actions%3A%20ChatGPT%20can%20read%20without%20asking"
+  },
+  {
+   "n": 29,
+   "where": "The steps, item 3",
+   "claim": "Open Work and paste a description of the event and job",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "Open Work and describe the event and the action ChatGPT should take",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=Open%20Work%20and%20describe%20the%20event%20and%20the"
+  },
+  {
+   "n": 30,
+   "where": "The steps, item 3",
+   "claim": "'@Gmail' mention syntax in the prompt to paste",
+   "verdict": "unsupported",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 31,
+   "where": "The steps, item 4",
+   "claim": "ChatGPT turns the request into Trigger, Condition and Prompt",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "Review Trigger, Condition, and Prompt, and complete any required authorization",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=Review%20Trigger%2C%20Condition%2C%20and%20Prompt%2C%20and%20complete%20any"
+  },
+  {
+   "n": 32,
+   "where": "The steps, item 4",
+   "claim": "OpenAI says Gmail tasks can filter by sender or subject",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "Gmail tasks can respond to a new message or filter by sender or subject",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=Gmail%20tasks%20can%20respond%20to%20a%20new%20message"
+  },
+  {
+   "n": 33,
+   "where": "The steps, item 4",
+   "claim": "Complete the authorization it asks for",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "complete any required authorization",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=complete%20any%20required%20authorization"
+  },
+  {
+   "n": 34,
+   "where": "The steps, item 5",
+   "claim": "Settings, Notifications: Email, Push or both",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "Manage them under Settings > Notifications, choosing Push, Email, or both",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=Manage%20them%20under%20Settings%20%3E%20Notifications%2C%20choosing%20Push%2C"
+  },
+  {
+   "n": 35,
+   "where": "The steps, item 5",
+   "claim": "Phone push alerts need the task to be created in the mobile app",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "To receive mobile push notifications, create a task in a supported ChatGPT mobile app",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=To%20receive%20mobile%20push%20notifications%2C%20create%20a%20task"
+  },
+  {
+   "n": 36,
+   "where": "The steps, item 6",
+   "claim": "Open Scheduled to see the run, or a paused run waiting for approval",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "check Scheduled for a paused task or pending approval / Go to Scheduled to review, edit, pause, or delete the task",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=check%20Scheduled%20for%20a%20paused%20task%20or%20pending"
+  },
+  {
+   "n": 37,
+   "where": "The steps, item 6",
+   "claim": "Edit the condition to the real sender (from Scheduled)",
+   "verdict": "unsupported",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 38,
+   "where": "The steps",
+   "claim": "$20 a month for Plus, billed monthly",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus",
+   "source": "OpenAI Plus help",
+   "passage": "$20/month (billed monthly)",
+   "deep": "https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus#:~:text=%2420%2Fmonth%20%28billed%20monthly%29"
+  },
+  {
+   "n": 39,
+   "where": "The steps",
+   "claim": "Event-triggered tasks need Plus or above",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "Free and Go accounts cannot create event-triggered tasks",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=Free%20and%20Go%20accounts%20cannot%20create%20event-triggered%20tasks"
+  },
+  {
+   "n": 40,
+   "where": "The steps",
+   "claim": "Capped at 30 runs an hour and 720 a day across all event-triggered tasks",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "Event-triggered tasks can run up to 30 times per hour and 720 times per day across all of your event-triggered tasks",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=Event-triggered%20tasks%20can%20run%20up%20to%2030%20times"
+  },
+  {
+   "n": 41,
+   "where": "The steps",
+   "claim": "May group several events into one run",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "Multiple events may be grouped together",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=Multiple%20events%20may%20be%20grouped%20together"
+  },
+  {
+   "n": 42,
+   "where": "The steps",
+   "claim": "A message can contain instructions aimed at the AI (prompt injection)",
+   "verdict": "unsupported",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 43,
+   "where": "The steps",
+   "claim": "With Allow read actions, any change needs your approval",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/20001495-managing-app-permissions-in-chatgpt",
+   "source": "OpenAI permissions help",
+   "passage": "ChatGPT can read without asking but asks before making changes",
+   "deep": "https://help.openai.com/en/articles/20001495-managing-app-permissions-in-chatgpt#:~:text=ChatGPT%20can%20read%20without%20asking%20but%20asks%20before"
+  },
+  {
+   "n": 44,
+   "where": "The steps",
+   "claim": "'Any new email' fires all day and eats into your limits",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "Gmail tasks can respond to a new message ... 30 times per hour and 720 times per day across all of your event-triggered tasks",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=Gmail%20tasks%20can%20respond%20to%20a%20new%20message"
+  },
+  {
+   "n": 45,
+   "where": "The steps",
+   "claim": "It may miss a deadline in a forwarded thread or invent urgency",
+   "verdict": "unsupported",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 46,
+   "where": "The steps",
+   "claim": "OpenAI says inactive tasks may pause",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "Inactive tasks may pause automatically",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=Inactive%20tasks%20may%20pause%20automatically"
+  },
+  {
+   "n": 47,
+   "where": "The steps",
+   "claim": "A run waiting for approval pauses too",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "Actions that require approval may pause the task",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=Actions%20that%20require%20approval%20may%20pause%20the%20task"
+  },
+  {
+   "n": 48,
+   "where": "The steps",
+   "claim": "If alerts go quiet, check Scheduled and that Gmail is still connected",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "If a task stops responding, check Scheduled for a paused task or pending approval, and confirm that the required app account is still connected and authorized",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=If%20a%20task%20stops%20responding%2C%20check%20Scheduled%20for"
+  },
+  {
+   "n": 49,
+   "where": "The steps",
+   "claim": "test.by = none; issue makes no claim it was tested",
+   "verdict": "confirmed",
+   "url": "",
+   "source": "the issue itself",
+   "passage": "No text says or implies the owner or agent ran it; step 6 is a reader instruction",
+   "deep": ""
+  },
+  {
+   "n": 50,
+   "where": "The steps",
+   "claim": "Things that need a person (pick sender, open email, write and send reply)",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/20001495-managing-app-permissions-in-chatgpt",
+   "source": "OpenAI permissions help",
+   "passage": "Allow read actions ... asks before making changes (sending stays with the user)",
+   "deep": "https://help.openai.com/en/articles/20001495-managing-app-permissions-in-chatgpt#:~:text=Allow%20read%20actions"
+  },
+  {
+   "n": 51,
+   "where": "The steps",
+   "claim": "Free and Go 3, Plus 5, Business and Edu 10, Pro and Enterprise 15",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "3 for Free and Go, 5 for Plus, 10 for Business and Edu, and 15 for Pro and Enterprise",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=3%20for%20Free%20and%20Go%2C%205%20for%20Plus%2C"
+  },
+  {
+   "n": 52,
+   "where": "The steps",
+   "claim": "Timed and event-triggered tasks share the same cap",
+   "verdict": "unsupported",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 53,
+   "where": "The steps",
+   "claim": "Free and Go get three slots but can't create event-triggered tasks",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "3 for Free and Go ... Free and Go accounts cannot create event-triggered tasks",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=3%20for%20Free%20and%20Go"
+  },
+  {
+   "n": 54,
+   "where": "The steps",
+   "claim": "On Plus, this task takes one of five",
+   "verdict": "unsupported",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 55,
+   "where": "The story",
+   "claim": "'Also this month' (Aug. 25 and Sept. 29 events)",
+   "verdict": "wrong",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "ChatGPT release notes",
+   "passage": "Entries are dated Aug 25, 2026 and Sept 29, 2026; neither is in October 2026, the issue's month",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=Entries%20are%20dated%20Aug%2025%2C%202026%20and%20Sept"
+  },
+  {
+   "n": 56,
+   "where": "The story",
+   "claim": "Aug. 25: scheduled tasks in Work respond to new Gmail messages, Slack channel messages and GitHub pull request activity",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "ChatGPT release notes",
+   "passage": "Aug 25, 2026: Scheduled tasks in ChatGPT Work can use webhooks to respond when something changes in a supported app. Supported webhooks include new Gmail messages, Slack channel messages, and GitHub pull request activity",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=Aug%2025%2C%202026%3A%20Scheduled%20tasks%20in%20ChatGPT%20Work"
+  },
+  {
+   "n": 57,
+   "where": "The story",
+   "claim": "'OpenAI first let' (first-ness of Aug. 25 change)",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "ChatGPT release notes",
+   "passage": "Aug 25, 2026 entry 'Scheduled tasks can respond to app updates and be shared' introduces the capability; no earlier event-trigger entry found",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=Aug%2025%2C%202026%20entry%20%27Scheduled%20tasks%20can%20respond"
+  },
+  {
+   "n": 58,
+   "where": "The story",
+   "claim": "Sept. 29: supported plugins can use MCP events to start an automation when something changes in a connected app",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "ChatGPT release notes",
+   "passage": "Sept 29, 2026: Supported plugins can use MCP events to start an automation when something changes in a connected app",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=Sept%2029%2C%202026%3A%20Supported%20plugins%20can%20use%20MCP"
+  },
+  {
+   "n": 59,
+   "where": "The story",
+   "claim": "Connected account must have access to the event and to anything the task uses",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "ChatGPT release notes",
+   "passage": "The connected account must have access to the event and any information used by the task",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=The%20connected%20account%20must%20have%20access%20to%20the"
+  },
+  {
+   "n": 60,
+   "where": "The story, step 1",
+   "claim": "Aug. 25 — Tasks respond to new Gmail, Slack and GitHub activity",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "ChatGPT release notes",
+   "passage": "Aug 25, 2026: Supported webhooks include new Gmail messages, Slack channel messages, and GitHub pull request activity",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=Aug%2025%2C%202026%3A%20Supported%20webhooks%20include%20new%20Gmail"
+  },
+  {
+   "n": 61,
+   "where": "The story, step 2",
+   "claim": "Sept. 29 — Supported plugins can start automations from MCP events",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "ChatGPT release notes",
+   "passage": "Sept 29, 2026: Start automations from connected-app events",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=Sept%2029%2C%202026%3A%20Start%20automations%20from%20connected-app%20events"
+  },
+  {
+   "n": 62,
+   "where": "The story",
+   "claim": "2026",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "ChatGPT release notes",
+   "passage": "Entries dated Aug 25, 2026 and Sept 29, 2026",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=Entries%20dated%20Aug%2025%2C%202026%20and%20Sept%2029%2C"
+  },
+  {
+   "n": 63,
+   "where": "The checklist, item 1",
+   "claim": "On Enterprise or Edu an admin must allow event-triggered tasks",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "\"Allow event-triggered scheduled tasks\" must be enabled for Enterprise, Edu, and Healthcare workspaces",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=%22Allow%20event-triggered%20scheduled%20tasks%22%20must%20be%20enabled%20for"
+  },
+  {
+   "n": 64,
+   "where": "The checklist, item 2",
+   "claim": "Settings, Plugins, Permissions should read Allow read actions",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/20001495-managing-app-permissions-in-chatgpt",
+   "source": "OpenAI permissions help",
+   "passage": "select Plugins and open Permissions ... Allow read actions",
+   "deep": "https://help.openai.com/en/articles/20001495-managing-app-permissions-in-chatgpt#:~:text=select%20Plugins%20and%20open%20Permissions"
+  },
+  {
+   "n": 65,
+   "where": "The checklist, item 3",
+   "claim": "Condition can name a single address or subject",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "filter by sender or subject",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=filter%20by%20sender%20or%20subject"
+  }
+ ],
+ "notes": []
+}

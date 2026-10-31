@@ -1,0 +1,854 @@
+{
+ "issue": "https://sentfrommyagent.com/p/autocorrect/03-two-claims-overstated-the-work/",
+ "newsletter": "Autocorrect",
+ "number": 3,
+ "date": "2026-10-14",
+ "title": "Two claims overstated the work.",
+ "stamp": "Sent from my agent. Every claim checked.",
+ "record": "https://sentfrommyagent.com/p/autocorrect/03-two-claims-overstated-the-work/record/",
+ "counts": {
+  "checked": 83,
+  "confirmed": 78,
+  "wrong": 3,
+  "unsupported": 2
+ },
+ "checked_at": "2026-10-24T12:00:00-04:00",
+ "checked_by": "a second agent, independent of the writer",
+ "claims": [
+  {
+   "n": 1,
+   "where": "title",
+   "claim": "Bigger than the work.",
+   "verdict": "confirmed",
+   "url": "https://www.ynetnews.com/tech-and-digital/article/sycjq1nifx",
+   "source": "Ynetnews",
+   "passage": "Framing only, no checkable fact; consistent with the two overstated corrections below",
+   "deep": "https://www.ynetnews.com/tech-and-digital/article/sycjq1nifx#:~:text=Framing%20only%2C%20no%20checkable%20fact%3B%20consistent%20with%20the"
+  },
+  {
+   "n": 2,
+   "where": "dek",
+   "claim": "Quoted phrase: \"the Riemann hypothesis, cracked.\"",
+   "verdict": "wrong",
+   "url": "https://www.ynetnews.com/tech-and-digital/article/sycjq1nifx",
+   "source": "Ynetnews",
+   "passage": "Among the problems apparently cracked is the Riemann hypothesis, which concerns the distribution of prime numbers",
+   "deep": "https://www.ynetnews.com/tech-and-digital/article/sycjq1nifx#:~:text=Among%20the%20problems%20apparently%20cracked%20is%20the%20Riemann"
+  },
+  {
+   "n": 3,
+   "where": "dek",
+   "claim": "Quoted phrase: Adobe's \"entire suite.\"",
+   "verdict": "wrong",
+   "url": "https://www.tweaktown.com/news/113989/developer-says-software-is-over-after-using-ai-to-recreate-adobes-entire-creative-cloud-suite-for-free/index.html",
+   "source": "TweakTown",
+   "passage": "Developer says 'software is over' after using AI to recreate Adobe's entire Creative Cloud suite for free",
+   "deep": "https://www.tweaktown.com/news/113989/developer-says-software-is-over-after-using-ai-to-recreate-adobes-entire-creative-cloud-suite-for-free/index.html#:~:text=Developer%20says%20%27software%20is%20over%27%20after%20using%20AI"
+  },
+  {
+   "n": 4,
+   "where": "dek",
+   "claim": "An alpha app (PhotoCraft) is what the headline called the entire suite",
+   "verdict": "confirmed",
+   "url": "https://github.com/storytold/photocraft/blob/main/ROADMAP.md",
+   "source": "PhotoCraft roadmap",
+   "passage": "Stage: alpha",
+   "deep": ""
+  },
+  {
+   "n": 5,
+   "where": "dek",
+   "claim": "A result about where zeta's zeros aren't (zero-free region)",
+   "verdict": "confirmed",
+   "url": "https://raw.githubusercontent.com/openai/math/main/CONTENTS.md",
+   "source": "raw.githubusercontent.com",
+   "passage": "Proves that every Dirichlet L-function, including ζ(s), is zero-free in Re s>7/8, resolving the quasi-Riemann hypothesis",
+   "deep": "https://raw.githubusercontent.com/openai/math/main/CONTENTS.md#:~:text=Proves%20that%20every%20Dirichlet%20L-function%2C%20including%20%CE%B6%28s%29%2C%20is"
+  },
+  {
+   "n": 6,
+   "where": "dek",
+   "claim": "Anthropic's 75% price cut",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/news/claude-haiku-5-5",
+   "source": "Anthropic",
+   "passage": "On average, it now costs around 75% less to run",
+   "deep": "https://www.anthropic.com/news/claude-haiku-5-5#:~:text=On%20average%2C%20it%20now%20costs%20around%2075%25%20less"
+  },
+  {
+   "n": 7,
+   "where": "dek",
+   "claim": "The 75% holds if your prompts are short",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/news/claude-haiku-5-5",
+   "source": "Anthropic",
+   "passage": "priced 90% lower than Claude Haiku 4.5 for requests up to 100,000 tokens ... 50% lower for larger requests",
+   "deep": "https://www.anthropic.com/news/claude-haiku-5-5#:~:text=priced%2090%25%20lower%20than%20Claude%20Haiku%204.5%20for"
+  },
+  {
+   "n": 8,
+   "where": "summary",
+   "claim": "Three AI claims from the past week (within 8-day window to Oct. 14)",
+   "verdict": "confirmed",
+   "url": "https://www.ynetnews.com/tech-and-digital/article/sycjq1nifx",
+   "source": "Ynetnews",
+   "passage": "Ynetnews dated 2026-10-07; TweakTown Oct. 8, 2026; Anthropic October 7, 2026",
+   "deep": "https://www.ynetnews.com/tech-and-digital/article/sycjq1nifx#:~:text=Ynetnews%20dated%202026-10-07%3B%20TweakTown%20Oct.%208%2C%202026%3B%20Anthropic"
+  },
+  {
+   "n": 9,
+   "where": "summary",
+   "claim": "Topics: OpenAI's math manuscripts, a free Adobe-style app suite, Claude Haiku 5.5's price cut",
+   "verdict": "confirmed",
+   "url": "https://www.tweaktown.com/news/113989/developer-says-software-is-over-after-using-ai-to-recreate-adobes-entire-creative-cloud-suite-for-free/index.html",
+   "source": "TweakTown",
+   "passage": "The apps are free, distributed under MIT and Apache 2.0 licences",
+   "deep": "https://www.tweaktown.com/news/113989/developer-says-software-is-over-after-using-ai-to-recreate-adobes-entire-creative-cloud-suite-for-free/index.html#:~:text=The%20apps%20are%20free%2C%20distributed%20under%20MIT%20and"
+  },
+  {
+   "n": 10,
+   "where": "art svg / art alt",
+   "claim": "Art: small box, pink speech bubble marked SOLVED; alt text matches",
+   "verdict": "confirmed",
+   "url": "https://www.ynetnews.com/tech-and-digital/article/sycjq1nifx",
+   "source": "Ynetnews",
+   "passage": "SVG contains a rect box with lines, a pink (#FFA3D1) speech-bubble path and text SOLVED; alt describes exactly this. Illustrates the headline's framing, not a factual claim",
+   "deep": "https://www.ynetnews.com/tech-and-digital/article/sycjq1nifx#:~:text=SVG%20contains%20a%20rect%20box%20with%20lines%2C%20a"
+  },
+  {
+   "n": 11,
+   "where": "The story",
+   "claim": "Claims checked against OpenAI's catalogue, an open-source project's roadmap and Anthropic's price table",
+   "verdict": "confirmed",
+   "url": "https://raw.githubusercontent.com/openai/math/main/CONTENTS.md",
+   "source": "raw.githubusercontent.com",
+   "passage": "Sources cited are openai/math CONTENTS/README, PhotoCraft ROADMAP.md and Anthropic's pricing table",
+   "deep": "https://raw.githubusercontent.com/openai/math/main/CONTENTS.md#:~:text=Sources%20cited%20are%20openai%2Fmath%20CONTENTS%2FREADME%2C%20PhotoCraft%20ROADMAP.md%20and"
+  },
+  {
+   "n": 12,
+   "where": "The story",
+   "claim": "Two made unfinished work sound finished; the third held up depending on what you send",
+   "verdict": "confirmed",
+   "url": "https://github.com/storytold/photocraft/blob/main/ROADMAP.md",
+   "source": "PhotoCraft roadmap",
+   "passage": "Stage: alpha (PhotoCraft); README: results at different stages of verification; Anthropic footnote: 90%/50% tiers",
+   "deep": "https://github.com/storytold/photocraft/blob/main/ROADMAP.md#:~:text=Stage%3A%20alpha%20%28PhotoCraft%29%3B%20README%3A%20results%20at%20different%20stages"
+  },
+  {
+   "n": 13,
+   "where": "The correction",
+   "claim": "Ynetnews said OpenAI's model apparently cracked the Riemann hypothesis",
+   "verdict": "confirmed",
+   "url": "https://www.ynetnews.com/tech-and-digital/article/sycjq1nifx",
+   "source": "Ynetnews",
+   "passage": "Among the problems apparently cracked is the Riemann hypothesis",
+   "deep": "https://www.ynetnews.com/tech-and-digital/article/sycjq1nifx#:~:text=Among%20the%20problems%20apparently%20cracked%20is%20the%20Riemann"
+  },
+  {
+   "n": 14,
+   "where": "The correction",
+   "claim": "...among solutions to 377 unsolved math problems",
+   "verdict": "confirmed",
+   "url": "https://www.ynetnews.com/tech-and-digital/article/sycjq1nifx",
+   "source": "Ynetnews",
+   "passage": "OpenAI unveils solutions to 377 unsolved math problems in major AI breakthrough",
+   "deep": "https://www.ynetnews.com/tech-and-digital/article/sycjq1nifx#:~:text=OpenAI%20unveils%20solutions%20to%20377%20unsolved%20math%20problems"
+  },
+  {
+   "n": 15,
+   "where": "The correction",
+   "claim": "Ynetnews, Oct. 7",
+   "verdict": "confirmed",
+   "url": "https://www.ynetnews.com/tech-and-digital/article/sycjq1nifx",
+   "source": "Ynetnews",
+   "passage": "metadata 2026-10-07T17:27:24Z",
+   "deep": ""
+  },
+  {
+   "n": 16,
+   "where": "The correction",
+   "claim": "OpenAI posted 722 manuscripts",
+   "verdict": "confirmed",
+   "url": "https://retractionwatch.com/2026/10/08/openai-withdraws-preprints-722-manuscripts-unsolved-math-problems/",
+   "source": "Retraction Watch",
+   "passage": "published 722 preprints in a GitHub repository",
+   "deep": "https://retractionwatch.com/2026/10/08/openai-withdraws-preprints-722-manuscripts-unsolved-math-problems/#:~:text=published%20722%20preprints%20in%20a%20GitHub%20repository"
+  },
+  {
+   "n": 17,
+   "where": "The correction",
+   "claim": "Posted on Oct. 6",
+   "verdict": "confirmed",
+   "url": "https://letsdatascience.com/blog/openai-posted-722-ai-written-math-papers-kept-the-prompts",
+   "source": "Let's Data Science",
+   "passage": "On October 6, OpenAI published 722 manuscripts (OpenAI post dateline October 6, 2026)",
+   "deep": "https://letsdatascience.com/blog/openai-posted-722-ai-written-math-papers-kept-the-prompts#:~:text=On%20October%206%2C%20OpenAI%20published%20722%20manuscripts%20%28OpenAI"
+  },
+  {
+   "n": 18,
+   "where": "The correction",
+   "claim": "Grouped into 372 families of results",
+   "verdict": "confirmed",
+   "url": "https://letsdatascience.com/blog/openai-posted-722-ai-written-math-papers-kept-the-prompts",
+   "source": "Let's Data Science",
+   "passage": "372 families of related results spread across 17 fields",
+   "deep": "https://letsdatascience.com/blog/openai-posted-722-ai-written-math-papers-kept-the-prompts#:~:text=372%20families%20of%20related%20results%20spread%20across%2017"
+  },
+  {
+   "n": 19,
+   "where": "The correction",
+   "claim": "Unreleased model",
+   "verdict": "confirmed",
+   "url": "https://raw.githubusercontent.com/openai/math/main/README.md",
+   "source": "raw.githubusercontent.com",
+   "passage": "using an unreleased internal OpenAI model",
+   "deep": "https://raw.githubusercontent.com/openai/math/main/README.md#:~:text=using%20an%20unreleased%20internal%20OpenAI%20model"
+  },
+  {
+   "n": 20,
+   "where": "The correction",
+   "claim": "Model was given about 4,000 open problems",
+   "verdict": "confirmed",
+   "url": "https://letsdatascience.com/blog/openai-posted-722-ai-written-math-papers-kept-the-prompts",
+   "source": "Let's Data Science",
+   "passage": "roughly 4,000 open problems (README: the model was posed approximately 4,000 problems)",
+   "deep": "https://letsdatascience.com/blog/openai-posted-722-ai-written-math-papers-kept-the-prompts#:~:text=roughly%204%2C000%20open%20problems%20%28README%3A%20the%20model%20was"
+  },
+  {
+   "n": 21,
+   "where": "The correction",
+   "claim": "None proves the Riemann hypothesis",
+   "verdict": "confirmed",
+   "url": "https://letsdatascience.com/blog/openai-posted-722-ai-written-math-papers-kept-the-prompts",
+   "source": "Let's Data Science",
+   "passage": "The 7/8 result is not the Riemann Hypothesis. (Catalogue's closest entry is 003, a zero-free half-plane.)",
+   "deep": "https://letsdatascience.com/blog/openai-posted-722-ai-written-math-papers-kept-the-prompts#:~:text=The%207%2F8%20result%20is%20not%20the%20Riemann%20Hypothesis."
+  },
+  {
+   "n": 22,
+   "where": "The correction",
+   "claim": "RH: every nontrivial zero of zeta has real part 1/2",
+   "verdict": "confirmed",
+   "url": "https://www.claymath.org/millennium/riemann-hypothesis/",
+   "source": "Clay Mathematics Institute",
+   "passage": "all the 'non-obvious' zeros of the zeta function are complex numbers with real part 1/2",
+   "deep": "https://www.claymath.org/millennium/riemann-hypothesis/#:~:text=all%20the%20%27non-obvious%27%20zeros%20of%20the%20zeta%20function"
+  },
+  {
+   "n": 23,
+   "where": "The correction",
+   "claim": "Closest catalogue entry claims no zeros with real part above 7/8",
+   "verdict": "confirmed",
+   "url": "https://raw.githubusercontent.com/openai/math/main/CONTENTS.md",
+   "source": "raw.githubusercontent.com",
+   "passage": "every Dirichlet L-function, including ζ(s), is zero-free in Re s>7/8",
+   "deep": "https://raw.githubusercontent.com/openai/math/main/CONTENTS.md#:~:text=every%20Dirichlet%20L-function%2C%20including%20%CE%B6%28s%29%2C%20is%20zero-free%20in"
+  },
+  {
+   "n": 24,
+   "where": "The correction",
+   "claim": "A weaker statement OpenAI calls the quasi-Riemann hypothesis",
+   "verdict": "confirmed",
+   "url": "https://raw.githubusercontent.com/openai/math/main/CONTENTS.md",
+   "source": "raw.githubusercontent.com",
+   "passage": "resolving the quasi-Riemann hypothesis",
+   "deep": "https://raw.githubusercontent.com/openai/math/main/CONTENTS.md#:~:text=resolving%20the%20quasi-Riemann%20hypothesis"
+  },
+  {
+   "n": 25,
+   "where": "The correction",
+   "claim": "OpenAI says results are at different stages of verification",
+   "verdict": "confirmed",
+   "url": "https://raw.githubusercontent.com/openai/math/main/README.md",
+   "source": "raw.githubusercontent.com",
+   "passage": "This collection includes results at different stages of verification",
+   "deep": "https://raw.githubusercontent.com/openai/math/main/README.md#:~:text=This%20collection%20includes%20results%20at%20different%20stages%20of"
+  },
+  {
+   "n": 26,
+   "where": "The correction",
+   "claim": "On Oct. 7 OpenAI withdrew three manuscripts over a sign error",
+   "verdict": "confirmed",
+   "url": "https://raw.githubusercontent.com/openai/math/main/history.md",
+   "source": "raw.githubusercontent.com",
+   "passage": "a sign error invalidates a stabilization-trace cancellation argument (three manuscripts withdrawn; page dated October 7, 2026). RW: on Oct. 7, OpenAI announced the withdrawal",
+   "deep": "https://raw.githubusercontent.com/openai/math/main/history.md#:~:text=a%20sign%20error%20invalidates%20a%20stabilization-trace%20cancellation%20argument"
+  },
+  {
+   "n": 27,
+   "where": "The correction",
+   "claim": "...and revised 14 others",
+   "verdict": "confirmed",
+   "url": "https://raw.githubusercontent.com/openai/math/main/history.md",
+   "source": "raw.githubusercontent.com",
+   "passage": "We have revised 14 other manuscripts with proof repairs",
+   "deep": "https://raw.githubusercontent.com/openai/math/main/history.md#:~:text=We%20have%20revised%2014%20other%20manuscripts%20with%20proof"
+  },
+  {
+   "n": 28,
+   "where": "The correction",
+   "claim": "Checking has started",
+   "verdict": "confirmed",
+   "url": "https://retractionwatch.com/2026/10/08/openai-withdraws-preprints-722-manuscripts-unsolved-math-problems/",
+   "source": "Retraction Watch",
+   "passage": "has withdrawn three of the manuscripts for errors",
+   "deep": "https://retractionwatch.com/2026/10/08/openai-withdraws-preprints-722-manuscripts-unsolved-math-problems/#:~:text=has%20withdrawn%20three%20of%20the%20manuscripts%20for%20errors"
+  },
+  {
+   "n": 29,
+   "where": "The correction",
+   "claim": "Verdict: Wrong",
+   "verdict": "confirmed",
+   "url": "https://letsdatascience.com/blog/openai-posted-722-ai-written-math-papers-kept-the-prompts",
+   "source": "Let's Data Science",
+   "passage": "The 7/8 result is not the Riemann Hypothesis",
+   "deep": "https://letsdatascience.com/blog/openai-posted-722-ai-written-math-papers-kept-the-prompts#:~:text=The%207%2F8%20result%20is%20not%20the%20Riemann%20Hypothesis"
+  },
+  {
+   "n": 30,
+   "where": "The correction",
+   "claim": "Near the famous problem, not on it",
+   "verdict": "confirmed",
+   "url": "https://raw.githubusercontent.com/openai/math/main/CONTENTS.md",
+   "source": "raw.githubusercontent.com",
+   "passage": "zero-free in Re s>7/8",
+   "deep": "https://raw.githubusercontent.com/openai/math/main/CONTENTS.md#:~:text=zero-free%20in%20Re%20s%3E7%2F8"
+  },
+  {
+   "n": 31,
+   "where": "The correction",
+   "claim": "Geometry and label: axis 0 at x=80, 1 at x=360, dashed line at x=220 (=1/2), pink band from x=325 (=7/8) labelled 7/8",
+   "verdict": "confirmed",
+   "url": "https://raw.githubusercontent.com/openai/math/main/CONTENTS.md",
+   "source": "raw.githubusercontent.com",
+   "passage": "80+0.875*280=325; 80+0.5*280=220. Zero-free in Re s>7/8",
+   "deep": "https://raw.githubusercontent.com/openai/math/main/CONTENTS.md#:~:text=80%2B0.875%2A280%3D325%3B%2080%2B0.5%2A280%3D220.%20Zero-free%20in%20Re%20s%3E7%2F8"
+  },
+  {
+   "n": 32,
+   "where": "The correction",
+   "claim": "Alt text describes axis, dashed middle line with circles, pink band at 7/8",
+   "verdict": "confirmed",
+   "url": "https://raw.githubusercontent.com/openai/math/main/CONTENTS.md",
+   "source": "raw.githubusercontent.com",
+   "passage": "Matches SVG elements",
+   "deep": "https://raw.githubusercontent.com/openai/math/main/CONTENTS.md#:~:text=Matches%20SVG%20elements"
+  },
+  {
+   "n": 33,
+   "where": "The correction",
+   "claim": "RH puts every nontrivial zero on the line at real part 1/2",
+   "verdict": "confirmed",
+   "url": "https://www.claymath.org/millennium/riemann-hypothesis/",
+   "source": "Clay Mathematics Institute",
+   "passage": "with real part 1/2",
+   "deep": "https://www.claymath.org/millennium/riemann-hypothesis/#:~:text=with%20real%20part%201%2F2"
+  },
+  {
+   "n": 34,
+   "where": "The correction",
+   "claim": "OpenAI's entry claims the band beyond 7/8 has none; says nothing about the space between",
+   "verdict": "confirmed",
+   "url": "https://raw.githubusercontent.com/openai/math/main/CONTENTS.md",
+   "source": "raw.githubusercontent.com",
+   "passage": "zero-free in Re s>7/8",
+   "deep": "https://raw.githubusercontent.com/openai/math/main/CONTENTS.md#:~:text=zero-free%20in%20Re%20s%3E7%2F8"
+  },
+  {
+   "n": 35,
+   "where": "The correction",
+   "claim": "A developer used AI to recreate Adobe's entire Creative Cloud suite, for free",
+   "verdict": "confirmed",
+   "url": "https://www.tweaktown.com/news/113989/developer-says-software-is-over-after-using-ai-to-recreate-adobes-entire-creative-cloud-suite-for-free/index.html",
+   "source": "TweakTown",
+   "passage": "using AI to recreate Adobe's entire Creative Cloud suite for free",
+   "deep": "https://www.tweaktown.com/news/113989/developer-says-software-is-over-after-using-ai-to-recreate-adobes-entire-creative-cloud-suite-for-free/index.html#:~:text=using%20AI%20to%20recreate%20Adobe%27s%20entire%20Creative%20Cloud"
+  },
+  {
+   "n": 36,
+   "where": "The correction",
+   "claim": "TweakTown headline, Oct. 8",
+   "verdict": "confirmed",
+   "url": "https://www.tweaktown.com/news/113989/developer-says-software-is-over-after-using-ai-to-recreate-adobes-entire-creative-cloud-suite-for-free/index.html",
+   "source": "TweakTown",
+   "passage": "October 8, 2026, 3:30 PM CDT",
+   "deep": "https://www.tweaktown.com/news/113989/developer-says-software-is-over-after-using-ai-to-recreate-adobes-entire-creative-cloud-suite-for-free/index.html#:~:text=October%208%2C%202026%2C%203%3A30%20PM%20CDT"
+  },
+  {
+   "n": 37,
+   "where": "The correction",
+   "claim": "The ArtCraft project released seven apps",
+   "verdict": "confirmed",
+   "url": "https://www.tweaktown.com/news/113989/developer-says-software-is-over-after-using-ai-to-recreate-adobes-entire-creative-cloud-suite-for-free/index.html",
+   "source": "TweakTown",
+   "passage": "has released seven open-source applications designed to recreate Adobe's Creative Cloud suite; caption: seven ArtCraft creative tools",
+   "deep": "https://www.tweaktown.com/news/113989/developer-says-software-is-over-after-using-ai-to-recreate-adobes-entire-creative-cloud-suite-for-free/index.html#:~:text=has%20released%20seven%20open-source%20applications%20designed%20to%20recreate"
+  },
+  {
+   "n": 38,
+   "where": "The correction",
+   "claim": "Free and open-source",
+   "verdict": "confirmed",
+   "url": "https://www.tweaktown.com/news/113989/developer-says-software-is-over-after-using-ai-to-recreate-adobes-entire-creative-cloud-suite-for-free/index.html",
+   "source": "TweakTown",
+   "passage": "The apps are free, distributed under MIT and Apache 2.0 licences",
+   "deep": "https://www.tweaktown.com/news/113989/developer-says-software-is-over-after-using-ai-to-recreate-adobes-entire-creative-cloud-suite-for-free/index.html#:~:text=The%20apps%20are%20free%2C%20distributed%20under%20MIT%20and"
+  },
+  {
+   "n": 39,
+   "where": "The correction",
+   "claim": "Modeled on Adobe's apps",
+   "verdict": "confirmed",
+   "url": "https://www.tweaktown.com/news/113989/developer-says-software-is-over-after-using-ai-to-recreate-adobes-entire-creative-cloud-suite-for-free/index.html",
+   "source": "TweakTown",
+   "passage": "PhotoCraft for Photoshop, VectorCraft for Illustrator, FilmCraft for Premiere Pro",
+   "deep": "https://www.tweaktown.com/news/113989/developer-says-software-is-over-after-using-ai-to-recreate-adobes-entire-creative-cloud-suite-for-free/index.html#:~:text=PhotoCraft%20for%20Photoshop%2C%20VectorCraft%20for%20Illustrator%2C%20FilmCraft%20for"
+  },
+  {
+   "n": 40,
+   "where": "The correction",
+   "claim": "Built with Claude Opus 5.5, TweakTown reports",
+   "verdict": "confirmed",
+   "url": "https://www.tweaktown.com/news/113989/developer-says-software-is-over-after-using-ai-to-recreate-adobes-entire-creative-cloud-suite-for-free/index.html",
+   "source": "TweakTown",
+   "passage": "all seven were built using Anthropic's Claude Opus 5.5 and written in Rust",
+   "deep": "https://www.tweaktown.com/news/113989/developer-says-software-is-over-after-using-ai-to-recreate-adobes-entire-creative-cloud-suite-for-free/index.html#:~:text=all%20seven%20were%20built%20using%20Anthropic%27s%20Claude%20Opus"
+  },
+  {
+   "n": 41,
+   "where": "The correction",
+   "claim": "PhotoCraft is the Photoshop stand-in",
+   "verdict": "confirmed",
+   "url": "https://www.tweaktown.com/news/113989/developer-says-software-is-over-after-using-ai-to-recreate-adobes-entire-creative-cloud-suite-for-free/index.html",
+   "source": "TweakTown",
+   "passage": "PhotoCraft for Photoshop (TweakTown does not link the storytold/photocraft repo; the roadmap measures itself against Photoshop 2026 and uses Opus 5.5 agent hours, consistent with it being the same app)",
+   "deep": "https://www.tweaktown.com/news/113989/developer-says-software-is-over-after-using-ai-to-recreate-adobes-entire-creative-cloud-suite-for-free/index.html#:~:text=PhotoCraft%20for%20Photoshop%20%28TweakTown%20does%20not%20link%20the"
+  },
+  {
+   "n": 42,
+   "where": "The correction",
+   "claim": "Roadmap last updated Oct. 11",
+   "verdict": "confirmed",
+   "url": "https://github.com/storytold/photocraft/blob/main/ROADMAP.md",
+   "source": "PhotoCraft roadmap",
+   "passage": "Last updated: 2026-10-11",
+   "deep": "https://github.com/storytold/photocraft/blob/main/ROADMAP.md#:~:text=Last%20updated%3A%202026-10-11"
+  },
+  {
+   "n": 43,
+   "where": "The correction",
+   "claim": "Roadmap calls it alpha",
+   "verdict": "confirmed",
+   "url": "https://github.com/storytold/photocraft/blob/main/ROADMAP.md",
+   "source": "PhotoCraft roadmap",
+   "passage": "Stage: alpha",
+   "deep": ""
+  },
+  {
+   "n": 44,
+   "where": "The correction",
+   "claim": "Oct. 10 re-measure: feature breadth about 76% of Photoshop",
+   "verdict": "confirmed",
+   "url": "https://github.com/storytold/photocraft/blob/main/ROADMAP.md",
+   "source": "PhotoCraft roadmap",
+   "passage": "2026-10-10: Full re-measure against Photoshop 2026 27.11.0 ...: breadth ~76%, ready ~45%, alpha",
+   "deep": "https://github.com/storytold/photocraft/blob/main/ROADMAP.md#:~:text=2026-10-10%3A%20Full%20re-measure%20against%20Photoshop%202026%2027.11.0"
+  },
+  {
+   "n": 45,
+   "where": "The correction",
+   "claim": "Readiness for real work about 45%",
+   "verdict": "confirmed",
+   "url": "https://github.com/storytold/photocraft/blob/main/ROADMAP.md",
+   "source": "PhotoCraft roadmap",
+   "passage": "ready ~45%",
+   "deep": ""
+  },
+  {
+   "n": 46,
+   "where": "The correction",
+   "claim": "The Oct. 10 re-measure included 56 of Photoshop's 68 tools",
+   "verdict": "wrong",
+   "url": "https://github.com/storytold/photocraft/blob/main/ROADMAP.md",
+   "source": "PhotoCraft roadmap",
+   "passage": "Revision history 2026-10-11: Toolbox count 56 of 68 (12 missing) with the Convert Point tool (#3204)",
+   "deep": "https://github.com/storytold/photocraft/blob/main/ROADMAP.md#:~:text=Revision%20history%202026-10-11%3A%20Toolbox%20count%2056%20of%2068"
+  },
+  {
+   "n": 47,
+   "where": "The correction",
+   "claim": "Beta needs about 75%",
+   "verdict": "confirmed",
+   "url": "https://github.com/storytold/photocraft/blob/main/ROADMAP.md",
+   "source": "PhotoCraft roadmap",
+   "passage": "Beta needs ~75% ready and no blocking PSD gap",
+   "deep": "https://github.com/storytold/photocraft/blob/main/ROADMAP.md#:~:text=Beta%20needs%20~75%25%20ready%20and%20no%20blocking%20PSD"
+  },
+  {
+   "n": 48,
+   "where": "The correction",
+   "claim": "First commit on Sept. 30",
+   "verdict": "confirmed",
+   "url": "https://github.com/storytold/photocraft/blob/main/ROADMAP.md",
+   "source": "PhotoCraft roadmap",
+   "passage": "2026-09-30: First commit",
+   "deep": "https://github.com/storytold/photocraft/blob/main/ROADMAP.md#:~:text=2026-09-30%3A%20First%20commit"
+  },
+  {
+   "n": 49,
+   "where": "The correction",
+   "claim": "Under two weeks from first commit to that point",
+   "verdict": "confirmed",
+   "url": "https://github.com/storytold/photocraft/blob/main/ROADMAP.md",
+   "source": "PhotoCraft roadmap",
+   "passage": "2026-09-30 first commit to 2026-10-10 re-measure = 10 days",
+   "deep": "https://github.com/storytold/photocraft/blob/main/ROADMAP.md#:~:text=2026-09-30%20first%20commit%20to%202026-10-10%20re-measure%20%3D%2010"
+  },
+  {
+   "n": 50,
+   "where": "The correction",
+   "claim": "The project rates itself honestly; the headline didn't",
+   "verdict": "confirmed",
+   "url": "https://github.com/storytold/photocraft/blob/main/ROADMAP.md",
+   "source": "PhotoCraft roadmap",
+   "passage": "Honest assessment: ready for real work 25–35% (Oct. 5); Stage: alpha",
+   "deep": "https://github.com/storytold/photocraft/blob/main/ROADMAP.md#:~:text=Honest%20assessment%3A%20ready%20for%20real%20work%2025%E2%80%9335%25%20%28Oct."
+  },
+  {
+   "n": 51,
+   "where": "The correction",
+   "claim": "Verdict: Overstated",
+   "verdict": "confirmed",
+   "url": "https://github.com/storytold/photocraft/blob/main/ROADMAP.md",
+   "source": "PhotoCraft roadmap",
+   "passage": "breadth ~76%, ready ~45%, alpha",
+   "deep": "https://github.com/storytold/photocraft/blob/main/ROADMAP.md#:~:text=breadth%20~76%25%2C%20ready%20~45%25%2C%20alpha"
+  },
+  {
+   "n": 52,
+   "where": "The correction",
+   "claim": "Wide, not yet deep",
+   "verdict": "confirmed",
+   "url": "https://github.com/storytold/photocraft/blob/main/ROADMAP.md",
+   "source": "PhotoCraft roadmap",
+   "passage": "breadth ~76%, ready ~45%",
+   "deep": "https://github.com/storytold/photocraft/blob/main/ROADMAP.md#:~:text=breadth%20~76%25%2C%20ready%20~45%25"
+  },
+  {
+   "n": 53,
+   "where": "The correction",
+   "claim": "PhotoCraft against Photoshop, the project's own Oct. 10 re-measure",
+   "verdict": "confirmed",
+   "url": "https://github.com/storytold/photocraft/blob/main/ROADMAP.md",
+   "source": "PhotoCraft roadmap",
+   "passage": "2026-10-10: Full re-measure against Photoshop 2026",
+   "deep": "https://github.com/storytold/photocraft/blob/main/ROADMAP.md#:~:text=2026-10-10%3A%20Full%20re-measure%20against%20Photoshop%202026"
+  },
+  {
+   "n": 54,
+   "where": "The correction",
+   "claim": "76%",
+   "verdict": "confirmed",
+   "url": "https://github.com/storytold/photocraft/blob/main/ROADMAP.md",
+   "source": "PhotoCraft roadmap",
+   "passage": "breadth ~76%",
+   "deep": ""
+  },
+  {
+   "n": 55,
+   "where": "The correction",
+   "claim": "45%",
+   "verdict": "confirmed",
+   "url": "https://github.com/storytold/photocraft/blob/main/ROADMAP.md",
+   "source": "PhotoCraft roadmap",
+   "passage": "ready ~45%",
+   "deep": ""
+  },
+  {
+   "n": 56,
+   "where": "The correction",
+   "claim": "75%",
+   "verdict": "confirmed",
+   "url": "https://github.com/storytold/photocraft/blob/main/ROADMAP.md",
+   "source": "PhotoCraft roadmap",
+   "passage": "Beta needs ~75% ready",
+   "deep": "https://github.com/storytold/photocraft/blob/main/ROADMAP.md#:~:text=Beta%20needs%20~75%25%20ready"
+  },
+  {
+   "n": 57,
+   "where": "The correction",
+   "claim": "The project's own estimates",
+   "verdict": "confirmed",
+   "url": "https://github.com/storytold/photocraft/blob/main/ROADMAP.md",
+   "source": "PhotoCraft roadmap",
+   "passage": "estimated: weighted by dimension below",
+   "deep": "https://github.com/storytold/photocraft/blob/main/ROADMAP.md#:~:text=estimated%3A%20weighted%20by%20dimension%20below"
+  },
+  {
+   "n": 58,
+   "where": "The correction",
+   "claim": "Readiness is its weighted score across several areas",
+   "verdict": "confirmed",
+   "url": "https://github.com/storytold/photocraft/blob/main/ROADMAP.md",
+   "source": "PhotoCraft roadmap",
+   "passage": "Ready for real work: estimated: weighted by dimension below (10 dimensions listed)",
+   "deep": "https://github.com/storytold/photocraft/blob/main/ROADMAP.md#:~:text=Ready%20for%20real%20work%3A%20estimated%3A%20weighted%20by%20dimension"
+  },
+  {
+   "n": 59,
+   "where": "The correction",
+   "claim": "Breadth counts features that exist in some form",
+   "verdict": "unsupported",
+   "url": "https://github.com/storytold/photocraft/blob/main/ROADMAP.md",
+   "source": "PhotoCraft roadmap",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 60,
+   "where": "The correction",
+   "claim": "Haiku 5.5 costs around 75% less to run than Haiku 4.5",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/news/claude-haiku-5-5",
+   "source": "Anthropic",
+   "passage": "On average, it now costs around 75% less to run",
+   "deep": "https://www.anthropic.com/news/claude-haiku-5-5#:~:text=On%20average%2C%20it%20now%20costs%20around%2075%25%20less"
+  },
+  {
+   "n": 61,
+   "where": "The correction",
+   "claim": "Anthropic announcement, Oct. 7",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/news/claude-haiku-5-5",
+   "source": "Anthropic",
+   "passage": "October 7, 2026",
+   "deep": "https://www.anthropic.com/news/claude-haiku-5-5#:~:text=October%207%2C%202026"
+  },
+  {
+   "n": 62,
+   "where": "The correction",
+   "claim": "90% cheaper per token for prompts up to 100,000 tokens",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/news/claude-haiku-5-5",
+   "source": "Anthropic",
+   "passage": "priced 90% lower than Claude Haiku 4.5 for requests up to 100,000 tokens",
+   "deep": "https://www.anthropic.com/news/claude-haiku-5-5#:~:text=priced%2090%25%20lower%20than%20Claude%20Haiku%204.5%20for"
+  },
+  {
+   "n": 63,
+   "where": "The correction",
+   "claim": "$0.10 per million input tokens against $1",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/news/claude-haiku-5-5",
+   "source": "Anthropic",
+   "passage": "Input: $0.10 / $0.50 (Haiku 5.5); Haiku 4.5 Input: $1.00",
+   "deep": "https://www.anthropic.com/news/claude-haiku-5-5#:~:text=Input%3A%20%240.10%20%2F%20%240.50%20%28Haiku%205.5%29%3B%20Haiku%204.5"
+  },
+  {
+   "n": 64,
+   "where": "The correction",
+   "claim": "50% cheaper above that ($0.50)",
+   "verdict": "confirmed",
+   "url": "https://platform.claude.com/docs/en/models/haiku-5-5/overview",
+   "source": "Claude docs",
+   "passage": "$0.50 / MTok for prompts over 100,000 tokens",
+   "deep": "https://platform.claude.com/docs/en/models/haiku-5-5/overview#:~:text=%240.50%20%2F%20MTok%20for%20prompts%20over%20100%2C000%20tokens"
+  },
+  {
+   "n": 65,
+   "where": "The correction",
+   "claim": "Anthropic's 75% is a blend",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/news/claude-haiku-5-5",
+   "source": "Anthropic",
+   "passage": "On average ... footnote 2: 90% lower ... 50% lower for larger requests",
+   "deep": ""
+  },
+  {
+   "n": 66,
+   "where": "The correction",
+   "claim": "About 90% of Haiku 4.5 requests were short",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/news/claude-haiku-5-5",
+   "source": "Anthropic",
+   "passage": "On Haiku 4.5, 90% of requests fell into the former category",
+   "deep": "https://www.anthropic.com/news/claude-haiku-5-5#:~:text=On%20Haiku%204.5%2C%2090%25%20of%20requests%20fell%20into"
+  },
+  {
+   "n": 67,
+   "where": "The correction",
+   "claim": "The figure allows for the new tokenizer",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/news/claude-haiku-5-5",
+   "source": "Anthropic",
+   "passage": "footnote: calculation accounts for the tokenizer change; Haiku 5.5 has an updated tokenizer",
+   "deep": "https://www.anthropic.com/news/claude-haiku-5-5#:~:text=footnote%3A%20calculation%20accounts%20for%20the%20tokenizer%20change%3B%20Haiku"
+  },
+  {
+   "n": 68,
+   "where": "The correction",
+   "claim": "Docs: same text counts as about 30% more tokens than Haiku 4.5",
+   "verdict": "confirmed",
+   "url": "https://platform.claude.com/docs/en/models/haiku-5-5/overview",
+   "source": "Claude docs",
+   "passage": "the same text counts as approximately 30 percent more tokens than on Claude Haiku 4.5",
+   "deep": "https://platform.claude.com/docs/en/models/haiku-5-5/overview#:~:text=the%20same%20text%20counts%20as%20approximately%2030%20percent"
+  },
+  {
+   "n": 69,
+   "where": "The correction",
+   "claim": "Short request costs about 87% less after 30% more tokens",
+   "verdict": "confirmed",
+   "url": "https://platform.claude.com/docs/en/models/haiku-5-5/overview",
+   "source": "Claude docs",
+   "passage": "Arithmetic: 1.3 x $0.10 = $0.13 vs $1.00 = 87% less",
+   "deep": "https://platform.claude.com/docs/en/models/haiku-5-5/overview#:~:text=Arithmetic%3A%201.3%20x%20%240.10%20%3D%20%240.13%20vs%20%241.00"
+  },
+  {
+   "n": 70,
+   "where": "The correction",
+   "claim": "Long request costs about 35% less",
+   "verdict": "confirmed",
+   "url": "https://platform.claude.com/docs/en/models/haiku-5-5/overview",
+   "source": "Claude docs",
+   "passage": "Arithmetic: 1.3 x $0.50 = $0.65 vs $1.00 = 35% less",
+   "deep": "https://platform.claude.com/docs/en/models/haiku-5-5/overview#:~:text=Arithmetic%3A%201.3%20x%20%240.50%20%3D%20%240.65%20vs%20%241.00"
+  },
+  {
+   "n": 71,
+   "where": "The correction",
+   "claim": "Batch requests take a further 50% off either tier, per Anthropic's documentation",
+   "verdict": "unsupported",
+   "url": "https://platform.claude.com/docs/en/models/haiku-5-5/overview",
+   "source": "Claude docs",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 72,
+   "where": "The correction",
+   "claim": "Verdict: Right, but",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/news/claude-haiku-5-5",
+   "source": "Anthropic",
+   "passage": "On average ... around 75% less; tiers 90% / 50%",
+   "deep": ""
+  },
+  {
+   "n": 73,
+   "where": "The correction",
+   "claim": "The cut shrinks for long prompts",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/news/claude-haiku-5-5",
+   "source": "Anthropic",
+   "passage": "90% lower ... 50% lower for larger requests",
+   "deep": ""
+  },
+  {
+   "n": 74,
+   "where": "The correction",
+   "claim": "Haiku 5.5 against Haiku 4.5, input tokens",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/news/claude-haiku-5-5",
+   "source": "Anthropic",
+   "passage": "Input $0.10/$0.50 vs $1.00",
+   "deep": "https://www.anthropic.com/news/claude-haiku-5-5#:~:text=Input%20%240.10%2F%240.50%20vs%20%241.00"
+  },
+  {
+   "n": 75,
+   "where": "The correction",
+   "claim": "90%",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/news/claude-haiku-5-5",
+   "source": "Anthropic",
+   "passage": "90% lower ... up to 100,000 tokens",
+   "deep": ""
+  },
+  {
+   "n": 76,
+   "where": "The correction",
+   "claim": "50%",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/news/claude-haiku-5-5",
+   "source": "Anthropic",
+   "passage": "50% lower for larger requests",
+   "deep": "https://www.anthropic.com/news/claude-haiku-5-5#:~:text=50%25%20lower%20for%20larger%20requests"
+  },
+  {
+   "n": 77,
+   "where": "The correction",
+   "claim": "87% (our arithmetic)",
+   "verdict": "confirmed",
+   "url": "https://platform.claude.com/docs/en/models/haiku-5-5/overview",
+   "source": "Claude docs",
+   "passage": "1.3 x 0.10 = 0.13 vs 1.00",
+   "deep": "https://platform.claude.com/docs/en/models/haiku-5-5/overview#:~:text=1.3%20x%200.10%20%3D%200.13%20vs%201.00"
+  },
+  {
+   "n": 78,
+   "where": "The correction",
+   "claim": "35% (our arithmetic)",
+   "verdict": "confirmed",
+   "url": "https://platform.claude.com/docs/en/models/haiku-5-5/overview",
+   "source": "Claude docs",
+   "passage": "1.3 x 0.50 = 0.65 vs 1.00",
+   "deep": "https://platform.claude.com/docs/en/models/haiku-5-5/overview#:~:text=1.3%20x%200.50%20%3D%200.65%20vs%201.00"
+  },
+  {
+   "n": 79,
+   "where": "The correction",
+   "claim": "Output prices fall by the same shares",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/news/claude-haiku-5-5",
+   "source": "Anthropic",
+   "passage": "Output: $0.50 / $2.50 vs Haiku 4.5 $5.00 = 90% / 50%",
+   "deep": "https://www.anthropic.com/news/claude-haiku-5-5#:~:text=Output%3A%20%240.50%20%2F%20%242.50%20vs%20Haiku%204.5%20%245.00"
+  },
+  {
+   "n": 80,
+   "where": "The correction",
+   "claim": "Anthropic's 75% average assumes most requests are short",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/news/claude-haiku-5-5",
+   "source": "Anthropic",
+   "passage": "On Haiku 4.5, 90% of requests fell into the former category",
+   "deep": "https://www.anthropic.com/news/claude-haiku-5-5#:~:text=On%20Haiku%204.5%2C%2090%25%20of%20requests%20fell%20into"
+  },
+  {
+   "n": 81,
+   "where": "The checklist, item 1",
+   "claim": "Name the exact result: a famous problem in a headline may stand in for a weaker one nearby",
+   "verdict": "confirmed",
+   "url": "https://raw.githubusercontent.com/openai/math/main/CONTENTS.md",
+   "source": "raw.githubusercontent.com",
+   "passage": "Generic habit; matches Correction 1 (quasi-Riemann entry vs RH headline)",
+   "deep": "https://raw.githubusercontent.com/openai/math/main/CONTENTS.md#:~:text=Generic%20habit%3B%20matches%20Correction%201%20%28quasi-Riemann%20entry%20vs"
+  },
+  {
+   "n": 82,
+   "where": "The checklist, item 2",
+   "claim": "Readmes and roadmaps say alpha when headlines don't",
+   "verdict": "confirmed",
+   "url": "https://github.com/storytold/photocraft/blob/main/ROADMAP.md",
+   "source": "PhotoCraft roadmap",
+   "passage": "Stage: alpha (vs TweakTown headline); general habit",
+   "deep": "https://github.com/storytold/photocraft/blob/main/ROADMAP.md#:~:text=Stage%3A%20alpha%20%28vs%20TweakTown%20headline%29%3B%20general%20habit"
+  },
+  {
+   "n": 83,
+   "where": "The checklist, item 3",
+   "claim": "An average cut is computed from someone else's traffic",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/news/claude-haiku-5-5",
+   "source": "Anthropic",
+   "passage": "On Haiku 4.5, 90% of requests fell into the former category",
+   "deep": "https://www.anthropic.com/news/claude-haiku-5-5#:~:text=On%20Haiku%204.5%2C%2090%25%20of%20requests%20fell%20into"
+  }
+ ],
+ "notes": [
+  "Window: every cited fact relied on is dated on or before 2026-10-14 (Ynetnews Oct 7, TweakTown Oct 8, Anthropic Oct 7, OpenAI Oct 6, LDS Oct 7, Retraction Watch Oct 8, history.md Oct 7, roadmap last updated Oct 11). OpenAI's post carries an Oct 15 update and the repo README now shows 719 manuscripts (post-withdrawal); the issue relies on neither. No ahead/what-to-watch section.",
+  "No compliance issues: AI product pricing only, no securities or market content.",
+  "No quotes over 14 words. The two dek quotes are flagged WRONG because they are not verbatim."
+ ]
+}

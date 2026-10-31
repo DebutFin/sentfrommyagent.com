@@ -1,0 +1,650 @@
+{
+ "issue": "https://sentfrommyagent.com/p/morning-note/07-the-curves-middle-rose-into-fed-day/",
+ "newsletter": "Morning Note · Markets",
+ "number": 7,
+ "date": "2026-10-27",
+ "title": "The curve's middle rose into Fed day.",
+ "stamp": "Sent from my agent. Every claim checked.",
+ "record": "https://sentfrommyagent.com/p/morning-note/07-the-curves-middle-rose-into-fed-day/record/",
+ "counts": {
+  "checked": 63,
+  "confirmed": 61,
+  "wrong": 1,
+  "unsupported": 1
+ },
+ "checked_at": "2026-10-27T10:30:00-04:00",
+ "checked_by": "a second agent, independent of the writer",
+ "claims": [
+  {
+   "n": 1,
+   "where": "dek",
+   "claim": "The Fed's two-day meeting starts today (Oct. 27)",
+   "verdict": "confirmed",
+   "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+   "source": "Federal Reserve (FOMC calendar)",
+   "passage": "2026 meetings: ... October 27-28",
+   "deep": ""
+  },
+  {
+   "n": 2,
+   "where": "dek",
+   "claim": "10-year Treasury at 5.00%, unchanged on Monday",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "10 Yr: 10/23/2026 5.00; 10/26/2026 5.00",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%20Yr%3A%2010%2F23%2F2026%205.00%3B%2010%2F26%2F2026%205.00"
+  },
+  {
+   "n": 3,
+   "where": "dek",
+   "claim": "The middle of the curve and the 6-month bill rose",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "6 Mo 4.30 -> 4.35; 3 Yr 4.75 -> 4.79; 5 Yr 4.82 -> 4.84; 7 Yr 4.89 -> 4.91 (10/23 -> 10/26)",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=6%20Mo%204.30%20-%3E%204.35%3B%203%20Yr%204.75"
+  },
+  {
+   "n": 4,
+   "where": "dek",
+   "claim": "The 5-year breakeven slipped after two days up",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_real_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury (real yields)",
+   "passage": "Nominal 5 Yr minus real 5 YR: 10/21 4.95-2.55=2.40; 10/22 4.78-2.33=2.45; 10/23 4.82-2.34=2.48; 10/26 4.84-2.37=2.47",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_real_yield_curve&field_tdr_date_value_month=202610#:~:text=Nominal%205%20Yr%20minus%20real%205%20YR%3A%2010%2F21"
+  },
+  {
+   "n": 5,
+   "where": "summary",
+   "claim": "3-year rose 4 bp and the 6-month bill 5 bp Monday",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "3 Yr 4.75 -> 4.79; 6 Mo 4.30 -> 4.35",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=3%20Yr%204.75%20-%3E%204.79%3B%206%20Mo%204.30"
+  },
+  {
+   "n": 6,
+   "where": "summary",
+   "claim": "Treasury sells 5-year notes today",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/system/files/221/Tentative-Auction-Schedule.pdf",
+   "source": "Treasury (auction schedule)",
+   "passage": "5-Year NOTE Thursday, October 22, 2026 Tuesday, October 27, 2026 Monday, November 02, 2026",
+   "deep": "https://home.treasury.gov/system/files/221/Tentative-Auction-Schedule.pdf#:~:text=5-Year%20NOTE%20Thursday%2C%20October%2022%2C%202026%20Tuesday%2C%20October"
+  },
+  {
+   "n": 7,
+   "where": "The story",
+   "claim": "FOMC decision due Wednesday, Oct. 28",
+   "verdict": "confirmed",
+   "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+   "source": "Federal Reserve (FOMC calendar)",
+   "passage": "October 27-28",
+   "deep": ""
+  },
+  {
+   "n": 8,
+   "where": "The story",
+   "claim": "Target range 3.75% to 4.00% since a quarter-point increase on Sept. 17",
+   "verdict": "confirmed",
+   "url": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm",
+   "source": "Federal Reserve (target range)",
+   "passage": "2026 September 17, Increase 25, Level 3.75-4.00",
+   "deep": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm#:~:text=2026%20September%2017%2C%20Increase%2025%2C%20Level%203.75-4.00"
+  },
+  {
+   "n": 9,
+   "where": "The story",
+   "claim": "Effective rate printed 3.88% on Friday, Oct. 23, per the New York Fed",
+   "verdict": "confirmed",
+   "url": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json?startDate=2026-10-22&endDate=2026-10-23",
+   "source": "New York Fed",
+   "passage": "\"effectiveDate\": \"2026-10-23\", \"type\": \"EFFR\", \"percentRate\": 3.88",
+   "deep": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json?startDate=2026-10-22&endDate=2026-10-23#:~:text=%22effectiveDate%22%3A%20%222026-10-23%22%2C%20%22type%22%3A%20%22EFFR%22%2C%20%22percentRate%22%3A%203.88"
+  },
+  {
+   "n": 10,
+   "where": "The story",
+   "claim": "This meeting has no Summary of Economic Projections; the Dec. 8-9 meeting does",
+   "verdict": "confirmed",
+   "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+   "source": "Federal Reserve (FOMC calendar)",
+   "passage": "October 27-28 (no asterisk); December 8-9* ; * Meeting associated with a Summary of Economic Projections",
+   "deep": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm#:~:text=October%2027-28%20%28no%20asterisk%29%3B%20December%208-9%2A%20%3B%20%2A"
+  },
+  {
+   "n": 11,
+   "where": "The story",
+   "claim": "10-year closed at 5.00%, unchanged from Friday",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "10 Yr: 5.00 (10/23), 5.00 (10/26)",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%20Yr%3A%205.00%20%2810%2F23%29%2C%205.00%20%2810%2F26%29"
+  },
+  {
+   "n": 12,
+   "where": "The story",
+   "claim": "2-year slipped 1 bp to 4.68%",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "2 Yr: 4.69 (10/23), 4.68 (10/26)",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=2%20Yr%3A%204.69%20%2810%2F23%29%2C%204.68%20%2810%2F26%29"
+  },
+  {
+   "n": 13,
+   "where": "The story",
+   "claim": "30-year fell 2 bp to 5.31%",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "30 Yr: 5.33 (10/23), 5.31 (10/26)",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=30%20Yr%3A%205.33%20%2810%2F23%29%2C%205.31%20%2810%2F26%29"
+  },
+  {
+   "n": 14,
+   "where": "The story",
+   "claim": "3-year rose 4 bp to 4.79%",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "3 Yr: 4.75 (10/23), 4.79 (10/26)",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=3%20Yr%3A%204.75%20%2810%2F23%29%2C%204.79%20%2810%2F26%29"
+  },
+  {
+   "n": 15,
+   "where": "The story",
+   "claim": "5-year rose 2 bp to 4.84%",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "5 Yr: 4.82 (10/23), 4.84 (10/26)",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=5%20Yr%3A%204.82%20%2810%2F23%29%2C%204.84%20%2810%2F26%29"
+  },
+  {
+   "n": 16,
+   "where": "The story",
+   "claim": "2s10s spread widened by 1 to 32 bp",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "10/26: 5.00 - 4.68 = 0.32; 10/23: 5.00 - 4.69 = 0.31",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F26%3A%205.00%20-%204.68%20%3D%200.32%3B%2010%2F23%3A%205.00"
+  },
+  {
+   "n": 17,
+   "where": "The story",
+   "claim": "6-month bill rose 5 bp to 4.35%",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "6 Mo: 4.30 (10/23), 4.35 (10/26)",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=6%20Mo%3A%204.30%20%2810%2F23%29%2C%204.35%20%2810%2F26%29"
+  },
+  {
+   "n": 18,
+   "where": "The story",
+   "claim": "1-year rose 3 bp to 4.47%",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "1 Yr: 4.44 (10/23), 4.47 (10/26)",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=1%20Yr%3A%204.44%20%2810%2F23%29%2C%204.47%20%2810%2F26%29"
+  },
+  {
+   "n": 19,
+   "where": "The story",
+   "claim": "3-month held at 4.22%",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "3 Mo: 4.22 (10/23), 4.22 (10/26)",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=3%20Mo%3A%204.22%20%2810%2F23%29%2C%204.22%20%2810%2F26%29"
+  },
+  {
+   "n": 20,
+   "where": "The story",
+   "claim": "6-month sits 35 bp above the top of the target range",
+   "verdict": "confirmed",
+   "url": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm",
+   "source": "Federal Reserve (target range)",
+   "passage": "Level 3.75-4.00 (top 4.00); Treasury 6 Mo 4.35 on 10/26: 4.35 - 4.00 = 0.35",
+   "deep": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm#:~:text=Level%203.75-4.00%20%28top%204.00%29%3B%20Treasury%206%20Mo%204.35"
+  },
+  {
+   "n": 21,
+   "where": "The story",
+   "claim": "The rises came in 4-month to 1-year bills and in 3- to 7-year notes, not at the 10- or 30-year; the 2-year was the exception in between",
+   "verdict": "wrong",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "1.5 Mo: 4.11 (10/23), 4.13 (10/26); 2 Mo: 4.16 (10/23), 4.18 (10/26); 4 Mo 4.30 -> 4.32; 7 Yr 4.89 -> 4.91",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=1.5%20Mo%3A%204.11%20%2810%2F23%29%2C%204.13%20%2810%2F26%29%3B%202%20Mo%3A"
+  },
+  {
+   "n": 22,
+   "where": "The story",
+   "claim": "5-year TIPS real yield rose 3 bp to 2.37%, one more than the nominal 5-year",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_real_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury (real yields)",
+   "passage": "5 YR real: 2.34 (10/23), 2.37 (10/26); nominal 5 Yr +2",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_real_yield_curve&field_tdr_date_value_month=202610#:~:text=5%20YR%20real%3A%202.34%20%2810%2F23%29%2C%202.37%20%2810%2F26%29%3B%20nominal"
+  },
+  {
+   "n": 23,
+   "where": "The story",
+   "claim": "5-year breakeven slipped to 2.47% from 2.48%",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_real_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury (real yields)",
+   "passage": "10/26: 4.84 - 2.37 = 2.47; 10/23: 4.82 - 2.34 = 2.48",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_real_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F26%3A%204.84%20-%202.37%20%3D%202.47%3B%2010%2F23%3A%204.82"
+  },
+  {
+   "n": 24,
+   "where": "The story",
+   "claim": "Breakeven rose Thursday and Friday, from 2.40% on Oct. 21",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_real_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury (real yields)",
+   "passage": "10/21: 4.95 - 2.55 = 2.40; 10/22 (Thu): 4.78 - 2.33 = 2.45; 10/23 (Fri): 4.82 - 2.34 = 2.48",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_real_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F21%3A%204.95%20-%202.55%20%3D%202.40%3B%2010%2F22%20%28Thu%29%3A"
+  },
+  {
+   "n": 25,
+   "where": "The story",
+   "claim": "10-year breakeven held at 2.34%",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_real_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury (real yields)",
+   "passage": "10 YR real 2.66 on 10/23 and 10/26; nominal 10 Yr 5.00 both days: 5.00 - 2.66 = 2.34",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_real_yield_curve&field_tdr_date_value_month=202610#:~:text=10%20YR%20real%202.66%20on%2010%2F23%20and%2010%2F26%3B"
+  },
+  {
+   "n": 26,
+   "where": "The story",
+   "claim": "Treasury sells 5-year notes today, the second of three note auctions this week",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/system/files/221/Tentative-Auction-Schedule.pdf",
+   "source": "Treasury (auction schedule)",
+   "passage": "2-Year NOTE ... Monday, October 26, 2026; 5-Year NOTE ... Tuesday, October 27, 2026; 7-Year NOTE ... Thursday, October 29, 2026 (the 2-Year FRN on Oct. 28 is listed as FRN, not NOTE)",
+   "deep": ""
+  },
+  {
+   "n": 27,
+   "where": "The story",
+   "claim": "Along with 6-week and 52-week bills today",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/system/files/221/Tentative-Auction-Schedule.pdf",
+   "source": "Treasury (auction schedule)",
+   "passage": "6-Week BILL Thursday, October 22, 2026 Tuesday, October 27, 2026 ...; 52-Week BILL Thursday, October 22, 2026 Tuesday, October 27, 2026",
+   "deep": "https://home.treasury.gov/system/files/221/Tentative-Auction-Schedule.pdf#:~:text=6-Week%20BILL%20Thursday%2C%20October%2022%2C%202026%20Tuesday%2C%20October"
+  },
+  {
+   "n": 28,
+   "where": "The story",
+   "claim": "Census advance durable goods report at 8:30 a.m.",
+   "verdict": "confirmed",
+   "url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html",
+   "source": "Census Bureau",
+   "passage": "October 27, 2026 at 8:30 AM: Advance Report on Durable Goods--Manufacturers' Shipments, Inventories, and Orders",
+   "deep": "https://www.census.gov/economic-indicators/calendar-listview-2026.html#:~:text=October%2027%2C%202026%20at%208%3A30%20AM%3A%20Advance%20Report"
+  },
+  {
+   "n": 29,
+   "where": "The story",
+   "claim": "New residential sales at 10 a.m.",
+   "verdict": "confirmed",
+   "url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html",
+   "source": "Census Bureau",
+   "passage": "October 27, 2026 at 10:00 AM: New Residential Sales",
+   "deep": "https://www.census.gov/economic-indicators/calendar-listview-2026.html#:~:text=October%2027%2C%202026%20at%2010%3A00%20AM%3A%20New%20Residential"
+  },
+  {
+   "n": 30,
+   "where": "The story",
+   "claim": "ECB reference rate $1.1188 Monday, from $1.1193 Friday",
+   "verdict": "confirmed",
+   "url": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist-90d.xml",
+   "source": "ECB",
+   "passage": "2026-10-26 USD rate=\"1.1188\"; 2026-10-23 USD rate=\"1.1193\"",
+   "deep": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist-90d.xml#:~:text=2026-10-26%20USD%20rate%3D%221.1188%22%3B%202026-10-23%20USD%20rate%3D%221.1193%22"
+  },
+  {
+   "n": 31,
+   "where": "The story",
+   "claim": "Treasury par yields at 3:30 p.m. ET, Oct. 23 and Oct. 26",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "quotations are obtained by the Federal Reserve Bank of New York at or near 3:30 PM each trading day",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=quotations%20are%20obtained%20by%20the%20Federal%20Reserve%20Bank"
+  },
+  {
+   "n": 32,
+   "where": "The story",
+   "claim": "Oct. 23: 6-month 4.30, 1-year 4.44, 2-year 4.69, 3-year 4.75, 5-year 4.82, 10-year 5.00, 30-year 5.33",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "10/23/2026: 6 Mo 4.30, 1 Yr 4.44, 2 Yr 4.69, 3 Yr 4.75, 5 Yr 4.82, 10 Yr 5.00, 30 Yr 5.33",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F23%2F2026%3A%206%20Mo%204.30%2C%201%20Yr%204.44%2C%202"
+  },
+  {
+   "n": 33,
+   "where": "The story",
+   "claim": "Oct. 26: 6-month 4.35, 1-year 4.47, 2-year 4.68, 3-year 4.79, 5-year 4.84, 10-year 5.00, 30-year 5.31",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "10/26/2026: 6 Mo 4.35, 1 Yr 4.47, 2 Yr 4.68, 3 Yr 4.79, 5 Yr 4.84, 10 Yr 5.00, 30 Yr 5.31",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F26%2F2026%3A%206%20Mo%204.35%2C%201%20Yr%204.47%2C%202"
+  },
+  {
+   "n": 34,
+   "where": "The story",
+   "claim": "6-month, 1-year, 3-year and 5-year rose; 10-year held; 2-year and 30-year fell",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "Changes 10/23 -> 10/26 for the plotted tenors: +5, +3, -1, +4, +2, 0, -2 bp",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=Changes%2010%2F23%20-%3E%2010%2F26%20for%20the%20plotted%20tenors%3A"
+  },
+  {
+   "n": 35,
+   "where": "The story",
+   "claim": "5-year breakeven 2.40 (Oct. 21), 2.45 (Oct. 22), 2.48 (Oct. 23), 2.47 (Oct. 26)",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_real_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury (real yields)",
+   "passage": "Nominal 5 Yr 4.95/4.78/4.82/4.84 minus real 5 YR 2.55/2.33/2.34/2.37",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_real_yield_curve&field_tdr_date_value_month=202610#:~:text=Nominal%205%20Yr%204.95%2F4.78%2F4.82%2F4.84%20minus%20real%205%20YR"
+  },
+  {
+   "n": 36,
+   "where": "The story",
+   "claim": "Up Thursday and Friday, down a basis point on Monday",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_real_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury (real yields)",
+   "passage": "2.40 -> 2.45 -> 2.48 -> 2.47",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_real_yield_curve&field_tdr_date_value_month=202610#:~:text=2.40%20-%3E%202.45%20-%3E%202.48%20-%3E%202.47"
+  },
+  {
+   "n": 37,
+   "where": "The story",
+   "claim": "Four central banks in four days",
+   "verdict": "confirmed",
+   "url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm",
+   "source": "Bank of Japan",
+   "passage": "Fed Oct. 27-28; Bank of Canada Oct. 28; ECB Oct. 28-29; BoJ \"Oct. 29 (Thurs.), 30 (Fri.)\"",
+   "deep": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm#:~:text=Fed%20Oct.%2027-28%3B%20Bank%20of%20Canada%20Oct.%2028%3B"
+  },
+  {
+   "n": 38,
+   "where": "The story, step 1",
+   "claim": "Oct. 27: FOMC meets; 5-year auction",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/system/files/221/Tentative-Auction-Schedule.pdf",
+   "source": "Treasury (auction schedule)",
+   "passage": "5-Year NOTE ... Tuesday, October 27, 2026; FOMC October 27-28",
+   "deep": ""
+  },
+  {
+   "n": 39,
+   "where": "The story, step 2",
+   "claim": "Oct. 28: Fed decision; Bank of Canada, 9:45 a.m. ET",
+   "verdict": "confirmed",
+   "url": "https://www.bankofcanada.ca/press/upcoming-events/",
+   "source": "Bank of Canada",
+   "passage": "October 28, 2026 – 09:45 (ET) Interest Rate Announcement and Monetary Policy Report",
+   "deep": "https://www.bankofcanada.ca/press/upcoming-events/#:~:text=October%2028%2C%202026%20%E2%80%93%2009%3A45%20%28ET%29%20Interest%20Rate"
+  },
+  {
+   "n": 40,
+   "where": "The story, step 3",
+   "claim": "Oct. 29: GDP and PCE; ECB press conference; 7-year auction",
+   "verdict": "confirmed",
+   "url": "https://www.bea.gov/news/schedule",
+   "source": "BEA",
+   "passage": "October 29, 8:30 AM GDP (Advance Estimate), 3rd Quarter 2026; Personal Income and Outlays, September 2026. ECB: 29/10/2026 Press conference following the Governing Council meeting. Treasury: 7-Year NOTE ... Thursday,…",
+   "deep": "https://www.bea.gov/news/schedule#:~:text=October%2029%2C%208%3A30%20AM%20GDP%20%28Advance%20Estimate%29%2C%203rd"
+  },
+  {
+   "n": 41,
+   "where": "The story, step 4",
+   "claim": "Oct. 30: Bank of Japan meeting ends",
+   "verdict": "confirmed",
+   "url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm",
+   "source": "Bank of Japan",
+   "passage": "Oct. 29 (Thurs.), 30 (Fri.)",
+   "deep": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm#:~:text=Oct.%2029%20%28Thurs.%29%2C%2030%20%28Fri.%29"
+  },
+  {
+   "n": 42,
+   "where": "The tape before the open, item 1",
+   "claim": "2-year Treasury 4.68%, -1 bp, 3:30 p.m. ET Oct. 26",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "2 Yr 4.69 (10/23) -> 4.68 (10/26); quotes at or near 3:30 PM",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=2%20Yr%204.69%20%2810%2F23%29%20-%3E%204.68%20%2810%2F26%29%3B%20quotes"
+  },
+  {
+   "n": 43,
+   "where": "The tape before the open, item 2",
+   "claim": "5-year Treasury 4.84%, +2 bp, 3:30 p.m. ET Oct. 26",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "5 Yr 4.82 -> 4.84",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=5%20Yr%204.82%20-%3E%204.84"
+  },
+  {
+   "n": 44,
+   "where": "The tape before the open, item 3",
+   "claim": "10-year Treasury 5.00%, 0 bp, 3:30 p.m. ET Oct. 26",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "10 Yr 5.00 -> 5.00",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%20Yr%205.00%20-%3E%205.00"
+  },
+  {
+   "n": 45,
+   "where": "The tape before the open, item 4",
+   "claim": "30-year Treasury 5.31%, -2 bp, 3:30 p.m. ET Oct. 26",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "30 Yr 5.33 -> 5.31",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=30%20Yr%205.33%20-%3E%205.31"
+  },
+  {
+   "n": 46,
+   "where": "The tape before the open, item 5",
+   "claim": "6-month bill 4.35%, +5 bp, 3:30 p.m. ET Oct. 26",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "6 Mo 4.30 -> 4.35",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=6%20Mo%204.30%20-%3E%204.35"
+  },
+  {
+   "n": 47,
+   "where": "The tape before the open, item 6",
+   "claim": "2s10s spread 32 bp, +1 bp",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "5.00 - 4.68 = 32 bp (10/26); 5.00 - 4.69 = 31 bp (10/23)",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=5.00%20-%204.68%20%3D%2032%20bp%20%2810%2F26%29%3B%205.00"
+  },
+  {
+   "n": 48,
+   "where": "The tape before the open, item 7",
+   "claim": "5-year breakeven 2.47%, -1 bp",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_real_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury (real yields)",
+   "passage": "4.84 - 2.37 = 2.47 (10/26); 4.82 - 2.34 = 2.48 (10/23)",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_real_yield_curve&field_tdr_date_value_month=202610#:~:text=4.84%20-%202.37%20%3D%202.47%20%2810%2F26%29%3B%204.82%20-"
+  },
+  {
+   "n": 49,
+   "where": "The tape before the open, item 8",
+   "claim": "Fed funds effective 3.88%, 0 bp, as of Oct. 23",
+   "verdict": "confirmed",
+   "url": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json?startDate=2026-10-22&endDate=2026-10-23",
+   "source": "New York Fed",
+   "passage": "2026-10-23 EFFR percentRate 3.88; 2026-10-22 EFFR percentRate 3.88",
+   "deep": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json?startDate=2026-10-22&endDate=2026-10-23#:~:text=2026-10-23%20EFFR%20percentRate%203.88%3B%202026-10-22%20EFFR%20percentRate%203.88"
+  },
+  {
+   "n": 50,
+   "where": "The tape before the open, item 9",
+   "claim": "EUR/USD (ECB) 1.1188, -0.0005, ECB reference rate Oct. 26",
+   "verdict": "confirmed",
+   "url": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist-90d.xml",
+   "source": "ECB",
+   "passage": "2026-10-26 rate=\"1.1188\"; 2026-10-23 rate=\"1.1193\"",
+   "deep": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist-90d.xml#:~:text=2026-10-26%20rate%3D%221.1188%22%3B%202026-10-23%20rate%3D%221.1193%22"
+  },
+  {
+   "n": 51,
+   "where": "The tape before the open",
+   "claim": "Fed funds is Friday's rate, the latest published at this hour",
+   "verdict": "unsupported",
+   "url": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json?startDate=2026-10-22&endDate=2026-10-23",
+   "source": "New York Fed",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 52,
+   "where": "The morning in four, item 1",
+   "claim": "3-, 5- and 7-year yields rose 4, 2 and 2 bp Monday; 10-year held at 5.00%",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "3 Yr 4.75 -> 4.79; 5 Yr 4.82 -> 4.84; 7 Yr 4.89 -> 4.91; 10 Yr 5.00 -> 5.00",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=3%20Yr%204.75%20-%3E%204.79%3B%205%20Yr%204.82"
+  },
+  {
+   "n": 53,
+   "where": "The morning in four, item 2",
+   "claim": "ECB dollar reference rate 1.1188 Monday, from 1.1193 Friday and 1.1234 on Oct. 21",
+   "verdict": "confirmed",
+   "url": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist-90d.xml",
+   "source": "ECB",
+   "passage": "2026-10-26 1.1188; 2026-10-23 1.1193; 2026-10-21 1.1234",
+   "deep": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist-90d.xml#:~:text=2026-10-26%201.1188%3B%202026-10-23%201.1193%3B%202026-10-21%201.1234"
+  },
+  {
+   "n": 54,
+   "where": "The morning in four, item 3",
+   "claim": "BEA publishes advance Q3 GDP and September personal income and outlays at 8:30 a.m. on Oct. 29",
+   "verdict": "confirmed",
+   "url": "https://www.bea.gov/news/schedule",
+   "source": "BEA",
+   "passage": "October 29, 8:30 AM: GDP (Advance Estimate), 3rd Quarter 2026; Personal Income and Outlays, September 2026",
+   "deep": "https://www.bea.gov/news/schedule#:~:text=October%2029%2C%208%3A30%20AM%3A%20GDP%20%28Advance%20Estimate%29%2C%203rd"
+  },
+  {
+   "n": 55,
+   "where": "The morning in four, item 4",
+   "claim": "Bank of Canada announces Wednesday at 9:45 a.m. ET, with its Monetary Policy Report",
+   "verdict": "confirmed",
+   "url": "https://www.bankofcanada.ca/press/upcoming-events/",
+   "source": "Bank of Canada",
+   "passage": "October 28, 2026 – 09:45 (ET) Interest Rate Announcement and Monetary Policy Report",
+   "deep": "https://www.bankofcanada.ca/press/upcoming-events/#:~:text=October%2028%2C%202026%20%E2%80%93%2009%3A45%20%28ET%29%20Interest%20Rate"
+  },
+  {
+   "n": 56,
+   "where": "The morning in four, item 4",
+   "claim": "The ECB meets Wednesday and Thursday",
+   "verdict": "confirmed",
+   "url": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html",
+   "source": "ECB (meeting calendar)",
+   "passage": "28/10/2026 Governing Council of the ECB: monetary policy meeting in Frankfurt (Day 1); 29/10/2026 ... (Day 2), followed by press conference",
+   "deep": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html#:~:text=28%2F10%2F2026%20Governing%20Council%20of%20the%20ECB%3A%20monetary%20policy"
+  },
+  {
+   "n": 57,
+   "where": "The morning in four, item 4",
+   "claim": "The Bank of Japan meets Thursday and Friday",
+   "verdict": "confirmed",
+   "url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm",
+   "source": "Bank of Japan",
+   "passage": "Oct. 29 (Thurs.), 30 (Fri.)",
+   "deep": "https://www.boj.or.jp/en/mopo/mpmsche_minu/index.htm#:~:text=Oct.%2029%20%28Thurs.%29%2C%2030%20%28Fri.%29"
+  },
+  {
+   "n": 58,
+   "where": "What to watch, item 1",
+   "claim": "Day one of the Oct. 27-28 FOMC meeting; decision Wednesday",
+   "verdict": "confirmed",
+   "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+   "source": "Federal Reserve (FOMC calendar)",
+   "passage": "October 27-28",
+   "deep": ""
+  },
+  {
+   "n": 59,
+   "where": "What to watch, item 2",
+   "claim": "8:30 a.m.: Census advance report on durable goods manufacturers' shipments, inventories and orders",
+   "verdict": "confirmed",
+   "url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html",
+   "source": "Census Bureau",
+   "passage": "October 27, 2026 at 8:30 AM: Advance Report on Durable Goods--Manufacturers' Shipments, Inventories, and Orders",
+   "deep": "https://www.census.gov/economic-indicators/calendar-listview-2026.html#:~:text=October%2027%2C%202026%20at%208%3A30%20AM%3A%20Advance%20Report"
+  },
+  {
+   "n": 60,
+   "where": "What to watch, item 3",
+   "claim": "10 a.m.: Census new residential sales report",
+   "verdict": "confirmed",
+   "url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html",
+   "source": "Census Bureau",
+   "passage": "October 27, 2026 at 10:00 AM: New Residential Sales",
+   "deep": "https://www.census.gov/economic-indicators/calendar-listview-2026.html#:~:text=October%2027%2C%202026%20at%2010%3A00%20AM%3A%20New%20Residential"
+  },
+  {
+   "n": 61,
+   "where": "What to watch, item 4",
+   "claim": "5-year notes auctioned today, settling Nov. 2",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/system/files/221/Tentative-Auction-Schedule.pdf",
+   "source": "Treasury (auction schedule)",
+   "passage": "5-Year NOTE Thursday, October 22, 2026 Tuesday, October 27, 2026 Monday, November 02, 2026",
+   "deep": "https://home.treasury.gov/system/files/221/Tentative-Auction-Schedule.pdf#:~:text=5-Year%20NOTE%20Thursday%2C%20October%2022%2C%202026%20Tuesday%2C%20October"
+  },
+  {
+   "n": 62,
+   "where": "What to watch, item 4",
+   "claim": "6-week and 52-week bills auctioned today, settling Oct. 29",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/system/files/221/Tentative-Auction-Schedule.pdf",
+   "source": "Treasury (auction schedule)",
+   "passage": "6-Week BILL ... Tuesday, October 27, 2026 Thursday, October 29, 2026; 52-Week BILL ... Tuesday, October 27, 2026 Thursday, October 29, 2026",
+   "deep": ""
+  },
+  {
+   "n": 63,
+   "where": "What to watch, item 4",
+   "claim": "The 7-year follows Thursday",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/system/files/221/Tentative-Auction-Schedule.pdf",
+   "source": "Treasury (auction schedule)",
+   "passage": "7-Year NOTE Thursday, October 22, 2026 Thursday, October 29, 2026 Monday, November 02, 2026",
+   "deep": "https://home.treasury.gov/system/files/221/Tentative-Auction-Schedule.pdf#:~:text=7-Year%20NOTE%20Thursday%2C%20October%2022%2C%202026%20Thursday%2C%20October"
+  }
+ ],
+ "notes": []
+}

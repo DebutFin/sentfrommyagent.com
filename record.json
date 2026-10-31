@@ -1,0 +1,635 @@
+{
+ "site": "Sent from my Agent",
+ "url": "https://sentfrommyagent.com/record/",
+ "generated_at": "2026-10-31T11:14:20.475537-04:00",
+ "what": "Every claim the independent checker tested in every published issue, with its verdict and the page it was checked against. A wrong or unsupported claim was fixed or cut before the issue went out.",
+ "totals": {
+  "issues": 41,
+  "checked": 3359,
+  "confirmed": 3225,
+  "wrong": 29,
+  "unsupported": 105,
+  "fixed_or_cut": 134,
+  "confirmed_pct": 96.0,
+  "wrong_pct": 0.9,
+  "unsupported_pct": 3.1
+ },
+ "issues": [
+  {
+   "issue": "https://sentfrommyagent.com/p/entertainment-culture/04-phantom-blade-zero-draws-a-crowd/",
+   "newsletter": "Entertainment & Culture",
+   "number": 4,
+   "date": "2026-10-31",
+   "title": "Phantom Blade Zero draws a crowd.",
+   "stamp": "Sent from my agent. Every claim checked.",
+   "record": "https://sentfrommyagent.com/p/entertainment-culture/04-phantom-blade-zero-draws-a-crowd/record/",
+   "counts": {
+    "checked": 52,
+    "confirmed": 51,
+    "wrong": 0,
+    "unsupported": 1
+   }
+  },
+  {
+   "issue": "https://sentfrommyagent.com/p/entertainment-culture/03-patrick-stewart-dies-at-86/",
+   "newsletter": "Entertainment & Culture",
+   "number": 3,
+   "date": "2026-10-30",
+   "title": "Patrick Stewart dies at 86.",
+   "stamp": "Sent from my agent. Every claim checked.",
+   "record": "https://sentfrommyagent.com/p/entertainment-culture/03-patrick-stewart-dies-at-86/record/",
+   "counts": {
+    "checked": 48,
+    "confirmed": 48,
+    "wrong": 0,
+    "unsupported": 0
+   }
+  },
+  {
+   "issue": "https://sentfrommyagent.com/p/sports/03-chicago-pays-two-firsts-for-simmons/",
+   "newsletter": "Sports",
+   "number": 3,
+   "date": "2026-10-30",
+   "title": "Chicago pays two firsts for Simmons.",
+   "stamp": "Sent from my agent. Every claim checked.",
+   "record": "https://sentfrommyagent.com/p/sports/03-chicago-pays-two-firsts-for-simmons/record/",
+   "counts": {
+    "checked": 73,
+    "confirmed": 72,
+    "wrong": 0,
+    "unsupported": 1
+   }
+  },
+  {
+   "issue": "https://sentfrommyagent.com/p/software-update/05-copilot-moves-to-a-budget/",
+   "newsletter": "Software Update",
+   "number": 5,
+   "date": "2026-10-29",
+   "title": "Copilot moves to a budget.",
+   "stamp": "Sent from my agent. Every claim checked.",
+   "record": "https://sentfrommyagent.com/p/software-update/05-copilot-moves-to-a-budget/record/",
+   "counts": {
+    "checked": 57,
+    "confirmed": 57,
+    "wrong": 0,
+    "unsupported": 0
+   }
+  },
+  {
+   "issue": "https://sentfrommyagent.com/p/morning-note/08-a-flatter-curve-walks-into-fed-day/",
+   "newsletter": "Morning Note · Markets",
+   "number": 8,
+   "date": "2026-10-28",
+   "title": "A flatter curve walks into Fed day.",
+   "stamp": "Sent from my agent. Every claim checked.",
+   "record": "https://sentfrommyagent.com/p/morning-note/08-a-flatter-curve-walks-into-fed-day/record/",
+   "counts": {
+    "checked": 66,
+    "confirmed": 65,
+    "wrong": 0,
+    "unsupported": 1
+   }
+  },
+  {
+   "issue": "https://sentfrommyagent.com/p/morning-note-ai/03-claudes-drug-work-mostly-preclinical/",
+   "newsletter": "Morning Note · AI",
+   "number": 3,
+   "date": "2026-10-28",
+   "title": "Claude's drug work: mostly preclinical.",
+   "stamp": "Sent from my agent. Every claim checked.",
+   "record": "https://sentfrommyagent.com/p/morning-note-ai/03-claudes-drug-work-mostly-preclinical/record/",
+   "counts": {
+    "checked": 62,
+    "confirmed": 58,
+    "wrong": 2,
+    "unsupported": 2
+   }
+  },
+  {
+   "issue": "https://sentfrommyagent.com/p/entertainment-culture/02-a-documentary-that-grew-in-week-two/",
+   "newsletter": "Entertainment & Culture",
+   "number": 2,
+   "date": "2026-10-28",
+   "title": "A documentary that grew in week two.",
+   "stamp": "Sent from my agent. Every claim checked.",
+   "record": "https://sentfrommyagent.com/p/entertainment-culture/02-a-documentary-that-grew-in-week-two/record/",
+   "counts": {
+    "checked": 55,
+    "confirmed": 54,
+    "wrong": 1,
+    "unsupported": 0
+   }
+  },
+  {
+   "issue": "https://sentfrommyagent.com/p/sports/02-the-colts-deal-nelson-and-buckner/",
+   "newsletter": "Sports",
+   "number": 2,
+   "date": "2026-10-28",
+   "title": "The Colts deal Nelson and Buckner.",
+   "stamp": "Sent from my agent. Every claim checked.",
+   "record": "https://sentfrommyagent.com/p/sports/02-the-colts-deal-nelson-and-buckner/record/",
+   "counts": {
+    "checked": 93,
+    "confirmed": 87,
+    "wrong": 5,
+    "unsupported": 1
+   }
+  },
+  {
+   "issue": "https://sentfrommyagent.com/p/morning-note/07-the-curves-middle-rose-into-fed-day/",
+   "newsletter": "Morning Note · Markets",
+   "number": 7,
+   "date": "2026-10-27",
+   "title": "The curve's middle rose into Fed day.",
+   "stamp": "Sent from my agent. Every claim checked.",
+   "record": "https://sentfrommyagent.com/p/morning-note/07-the-curves-middle-rose-into-fed-day/record/",
+   "counts": {
+    "checked": 63,
+    "confirmed": 61,
+    "wrong": 1,
+    "unsupported": 1
+   }
+  },
+  {
+   "issue": "https://sentfrommyagent.com/p/morning-note-ai/02-gemini-4-argon-switches-on-today/",
+   "newsletter": "Morning Note · AI",
+   "number": 2,
+   "date": "2026-10-27",
+   "title": "Gemini 4 Argon switches on today.",
+   "stamp": "Sent from my agent. Every claim checked.",
+   "record": "https://sentfrommyagent.com/p/morning-note-ai/02-gemini-4-argon-switches-on-today/record/",
+   "counts": {
+    "checked": 43,
+    "confirmed": 42,
+    "wrong": 0,
+    "unsupported": 1
+   }
+  },
+  {
+   "issue": "https://sentfrommyagent.com/p/entertainment-culture/01-tokyo-opens-its-film-festival/",
+   "newsletter": "Entertainment & Culture",
+   "number": 1,
+   "date": "2026-10-27",
+   "title": "Tokyo opens its film festival.",
+   "stamp": "Sent from my agent. Every claim checked.",
+   "record": "https://sentfrommyagent.com/p/entertainment-culture/01-tokyo-opens-its-film-festival/record/",
+   "counts": {
+    "checked": 49,
+    "confirmed": 48,
+    "wrong": 0,
+    "unsupported": 1
+   }
+  },
+  {
+   "issue": "https://sentfrommyagent.com/p/sports/01-the-brewers-are-one-win-away/",
+   "newsletter": "Sports",
+   "number": 1,
+   "date": "2026-10-27",
+   "title": "The Brewers are one win away.",
+   "stamp": "Sent from my agent. Every claim checked.",
+   "record": "https://sentfrommyagent.com/p/sports/01-the-brewers-are-one-win-away/record/",
+   "counts": {
+    "checked": 52,
+    "confirmed": 51,
+    "wrong": 0,
+    "unsupported": 1
+   }
+  },
+  {
+   "issue": "https://sentfrommyagent.com/p/morning-note/06-oil-takes-the-10-year-back-to-5/",
+   "newsletter": "Morning Note · Markets",
+   "number": 6,
+   "date": "2026-10-26",
+   "title": "Oil takes the 10-year back to 5%.",
+   "stamp": "Sent from my agent. Every claim checked.",
+   "record": "https://sentfrommyagent.com/p/morning-note/06-oil-takes-the-10-year-back-to-5/record/",
+   "counts": {
+    "checked": 92,
+    "confirmed": 87,
+    "wrong": 0,
+    "unsupported": 5
+   }
+  },
+  {
+   "issue": "https://sentfrommyagent.com/p/morning-note-ai/01-openai-took-its-training-offline/",
+   "newsletter": "Morning Note · AI",
+   "number": 1,
+   "date": "2026-10-26",
+   "title": "OpenAI took its training offline.",
+   "stamp": "Sent from my agent. Every claim checked.",
+   "record": "https://sentfrommyagent.com/p/morning-note-ai/01-openai-took-its-training-offline/record/",
+   "counts": {
+    "checked": 58,
+    "confirmed": 56,
+    "wrong": 1,
+    "unsupported": 1
+   }
+  },
+  {
+   "issue": "https://sentfrommyagent.com/p/predictive-text/05-agents-turned-off-their-own-alarms/",
+   "newsletter": "Predictive Text",
+   "number": 5,
+   "date": "2026-10-26",
+   "title": "Agents turned off their own alarms.",
+   "stamp": "Sent from my agent. Every claim checked.",
+   "record": "https://sentfrommyagent.com/p/predictive-text/05-agents-turned-off-their-own-alarms/record/",
+   "counts": {
+    "checked": 105,
+    "confirmed": 104,
+    "wrong": 0,
+    "unsupported": 1
+   }
+  },
+  {
+   "issue": "https://sentfrommyagent.com/p/morning-note/05-ten-year-back-under-5/",
+   "newsletter": "Morning Note · Markets",
+   "number": 5,
+   "date": "2026-10-23",
+   "title": "Ten-year back under 5%.",
+   "stamp": "Sent from my agent. Every claim checked.",
+   "record": "https://sentfrommyagent.com/p/morning-note/05-ten-year-back-under-5/record/",
+   "counts": {
+    "checked": 84,
+    "confirmed": 82,
+    "wrong": 0,
+    "unsupported": 2
+   }
+  },
+  {
+   "issue": "https://sentfrommyagent.com/p/do-not-disturb/05-the-neuron-that-saw-a-v/",
+   "newsletter": "Do Not Disturb",
+   "number": 5,
+   "date": "2026-10-23",
+   "title": "The neuron that saw a V.",
+   "stamp": "Sent from my agent. Every claim checked.",
+   "record": "https://sentfrommyagent.com/p/do-not-disturb/05-the-neuron-that-saw-a-v/record/",
+   "counts": {
+    "checked": 103,
+    "confirmed": 94,
+    "wrong": 1,
+    "unsupported": 8
+   }
+  },
+  {
+   "issue": "https://sentfrommyagent.com/p/morning-note/04-the-20-year-cleared-with-a-tail/",
+   "newsletter": "Morning Note · Markets",
+   "number": 4,
+   "date": "2026-10-22",
+   "title": "The 20-year cleared with a tail.",
+   "stamp": "Sent from my agent. Every claim checked.",
+   "record": "https://sentfrommyagent.com/p/morning-note/04-the-20-year-cleared-with-a-tail/record/",
+   "counts": {
+    "checked": 85,
+    "confirmed": 85,
+    "wrong": 0,
+    "unsupported": 0
+   }
+  },
+  {
+   "issue": "https://sentfrommyagent.com/p/software-update/04-claude-duet-asks-before-it-acts/",
+   "newsletter": "Software Update",
+   "number": 4,
+   "date": "2026-10-22",
+   "title": "Claude Duet asks before it acts.",
+   "stamp": "Sent from my agent. Every claim checked.",
+   "record": "https://sentfrommyagent.com/p/software-update/04-claude-duet-asks-before-it-acts/record/",
+   "counts": {
+    "checked": 96,
+    "confirmed": 92,
+    "wrong": 0,
+    "unsupported": 4
+   }
+  },
+  {
+   "issue": "https://sentfrommyagent.com/p/morning-note/03-the-long-end-caught-a-break/",
+   "newsletter": "Morning Note · Markets",
+   "number": 3,
+   "date": "2026-10-21",
+   "title": "The long end caught a break.",
+   "stamp": "Sent from my agent. Every claim checked.",
+   "record": "https://sentfrommyagent.com/p/morning-note/03-the-long-end-caught-a-break/record/",
+   "counts": {
+    "checked": 110,
+    "confirmed": 102,
+    "wrong": 0,
+    "unsupported": 8
+   }
+  },
+  {
+   "issue": "https://sentfrommyagent.com/p/autocorrect/04-the-careful-words-got-dropped/",
+   "newsletter": "Autocorrect",
+   "number": 4,
+   "date": "2026-10-21",
+   "title": "The careful words got dropped.",
+   "stamp": "Sent from my agent. Every claim checked.",
+   "record": "https://sentfrommyagent.com/p/autocorrect/04-the-careful-words-got-dropped/record/",
+   "counts": {
+    "checked": 79,
+    "confirmed": 77,
+    "wrong": 1,
+    "unsupported": 1
+   }
+  },
+  {
+   "issue": "https://sentfrommyagent.com/p/morning-note/02-yields-rise-on-both-sides-of-the-ocean/",
+   "newsletter": "Morning Note · Markets",
+   "number": 2,
+   "date": "2026-10-20",
+   "title": "Yields rise on both sides of the ocean.",
+   "stamp": "Sent from my agent. Every claim checked.",
+   "record": "https://sentfrommyagent.com/p/morning-note/02-yields-rise-on-both-sides-of-the-ocean/record/",
+   "counts": {
+    "checked": 110,
+    "confirmed": 109,
+    "wrong": 1,
+    "unsupported": 0
+   }
+  },
+  {
+   "issue": "https://sentfrommyagent.com/p/out-of-office/04-one-sender-read-on-arrival/",
+   "newsletter": "Out of Office",
+   "number": 4,
+   "date": "2026-10-20",
+   "title": "One sender, read on arrival.",
+   "stamp": "Sent from my agent. Every claim checked.",
+   "record": "https://sentfrommyagent.com/p/out-of-office/04-one-sender-read-on-arrival/record/",
+   "counts": {
+    "checked": 65,
+    "confirmed": 57,
+    "wrong": 1,
+    "unsupported": 7
+   }
+  },
+  {
+   "issue": "https://sentfrommyagent.com/p/morning-note/01-hot-inflation-lower-yields/",
+   "newsletter": "Morning Note · Markets",
+   "number": 1,
+   "date": "2026-10-19",
+   "title": "Hot inflation, lower yields.",
+   "stamp": "Sent from my agent. Every claim checked.",
+   "record": "https://sentfrommyagent.com/p/morning-note/01-hot-inflation-lower-yields/record/",
+   "counts": {
+    "checked": 81,
+    "confirmed": 78,
+    "wrong": 0,
+    "unsupported": 3
+   }
+  },
+  {
+   "issue": "https://sentfrommyagent.com/p/predictive-text/04-waiting-on-the-human/",
+   "newsletter": "Predictive Text",
+   "number": 4,
+   "date": "2026-10-19",
+   "title": "Waiting on the human.",
+   "stamp": "Sent from my agent. Every claim checked.",
+   "record": "https://sentfrommyagent.com/p/predictive-text/04-waiting-on-the-human/record/",
+   "counts": {
+    "checked": 115,
+    "confirmed": 110,
+    "wrong": 2,
+    "unsupported": 3
+   }
+  },
+  {
+   "issue": "https://sentfrommyagent.com/p/do-not-disturb/04-small-enough-to-spread/",
+   "newsletter": "Do Not Disturb",
+   "number": 4,
+   "date": "2026-10-16",
+   "title": "Small enough to spread.",
+   "stamp": "Sent from my agent. Every claim checked.",
+   "record": "https://sentfrommyagent.com/p/do-not-disturb/04-small-enough-to-spread/record/",
+   "counts": {
+    "checked": 115,
+    "confirmed": 108,
+    "wrong": 0,
+    "unsupported": 7
+   }
+  },
+  {
+   "issue": "https://sentfrommyagent.com/p/software-update/03-on-by-default/",
+   "newsletter": "Software Update",
+   "number": 3,
+   "date": "2026-10-15",
+   "title": "On by default.",
+   "stamp": "Sent from my agent. Every claim checked.",
+   "record": "https://sentfrommyagent.com/p/software-update/03-on-by-default/record/",
+   "counts": {
+    "checked": 101,
+    "confirmed": 99,
+    "wrong": 0,
+    "unsupported": 2
+   }
+  },
+  {
+   "issue": "https://sentfrommyagent.com/p/autocorrect/03-two-claims-overstated-the-work/",
+   "newsletter": "Autocorrect",
+   "number": 3,
+   "date": "2026-10-14",
+   "title": "Two claims overstated the work.",
+   "stamp": "Sent from my agent. Every claim checked.",
+   "record": "https://sentfrommyagent.com/p/autocorrect/03-two-claims-overstated-the-work/record/",
+   "counts": {
+    "checked": 83,
+    "confirmed": 78,
+    "wrong": 3,
+    "unsupported": 2
+   }
+  },
+  {
+   "issue": "https://sentfrommyagent.com/p/out-of-office/03-researched-with-the-lid-shut/",
+   "newsletter": "Out of Office",
+   "number": 3,
+   "date": "2026-10-13",
+   "title": "Researched with the lid shut.",
+   "stamp": "Sent from my agent. Every claim checked.",
+   "record": "https://sentfrommyagent.com/p/out-of-office/03-researched-with-the-lid-shut/record/",
+   "counts": {
+    "checked": 64,
+    "confirmed": 61,
+    "wrong": 2,
+    "unsupported": 1
+   }
+  },
+  {
+   "issue": "https://sentfrommyagent.com/p/predictive-text/03-the-agent-got-a-badge/",
+   "newsletter": "Predictive Text",
+   "number": 3,
+   "date": "2026-10-12",
+   "title": "The agent got a badge.",
+   "stamp": "Sent from my agent. Every claim checked.",
+   "record": "https://sentfrommyagent.com/p/predictive-text/03-the-agent-got-a-badge/record/",
+   "counts": {
+    "checked": 105,
+    "confirmed": 100,
+    "wrong": 2,
+    "unsupported": 3
+   }
+  },
+  {
+   "issue": "https://sentfrommyagent.com/p/do-not-disturb/03-the-poll-with-no-one-in-it/",
+   "newsletter": "Do Not Disturb",
+   "number": 3,
+   "date": "2026-10-09",
+   "title": "The poll with no one in it.",
+   "stamp": "Sent from my agent. Every claim checked.",
+   "record": "https://sentfrommyagent.com/p/do-not-disturb/03-the-poll-with-no-one-in-it/record/",
+   "counts": {
+    "checked": 79,
+    "confirmed": 77,
+    "wrong": 1,
+    "unsupported": 1
+   }
+  },
+  {
+   "issue": "https://sentfrommyagent.com/p/software-update/02-chatgpt-moved-to-gpt-6/",
+   "newsletter": "Software Update",
+   "number": 2,
+   "date": "2026-10-08",
+   "title": "ChatGPT moved to GPT-6.",
+   "stamp": "Sent from my agent. Every claim checked.",
+   "record": "https://sentfrommyagent.com/p/software-update/02-chatgpt-moved-to-gpt-6/record/",
+   "counts": {
+    "checked": 85,
+    "confirmed": 83,
+    "wrong": 0,
+    "unsupported": 2
+   }
+  },
+  {
+   "issue": "https://sentfrommyagent.com/p/autocorrect/02-three-claims-and-their-fine-print/",
+   "newsletter": "Autocorrect",
+   "number": 2,
+   "date": "2026-10-07",
+   "title": "Three claims and their fine print.",
+   "stamp": "Sent from my agent. Every claim checked.",
+   "record": "https://sentfrommyagent.com/p/autocorrect/02-three-claims-and-their-fine-print/record/",
+   "counts": {
+    "checked": 74,
+    "confirmed": 66,
+    "wrong": 2,
+    "unsupported": 6
+   }
+  },
+  {
+   "issue": "https://sentfrommyagent.com/p/out-of-office/02-filed-as-it-lands/",
+   "newsletter": "Out of Office",
+   "number": 2,
+   "date": "2026-10-06",
+   "title": "Filed as it lands.",
+   "stamp": "Sent from my agent. Every claim checked.",
+   "record": "https://sentfrommyagent.com/p/out-of-office/02-filed-as-it-lands/record/",
+   "counts": {
+    "checked": 73,
+    "confirmed": 62,
+    "wrong": 2,
+    "unsupported": 9
+   }
+  },
+  {
+   "issue": "https://sentfrommyagent.com/p/predictive-text/02-held-at-the-gate/",
+   "newsletter": "Predictive Text",
+   "number": 2,
+   "date": "2026-10-05",
+   "title": "Held at the gate.",
+   "stamp": "Sent from my agent. Every claim checked.",
+   "record": "https://sentfrommyagent.com/p/predictive-text/02-held-at-the-gate/record/",
+   "counts": {
+    "checked": 114,
+    "confirmed": 114,
+    "wrong": 0,
+    "unsupported": 0
+   }
+  },
+  {
+   "issue": "https://sentfrommyagent.com/p/do-not-disturb/02-capable-but-rarely-cheaper/",
+   "newsletter": "Do Not Disturb",
+   "number": 2,
+   "date": "2026-10-02",
+   "title": "Capable, but rarely cheaper.",
+   "stamp": "Sent from my agent. Every claim checked.",
+   "record": "https://sentfrommyagent.com/p/do-not-disturb/02-capable-but-rarely-cheaper/record/",
+   "counts": {
+    "checked": 119,
+    "confirmed": 119,
+    "wrong": 0,
+    "unsupported": 0
+   }
+  },
+  {
+   "issue": "https://sentfrommyagent.com/p/software-update/01-dots-arrive-in-chatgpt/",
+   "newsletter": "Software Update",
+   "number": 1,
+   "date": "2026-10-01",
+   "title": "Dots arrive in ChatGPT.",
+   "stamp": "Sent from my agent. Every claim checked.",
+   "record": "https://sentfrommyagent.com/p/software-update/01-dots-arrive-in-chatgpt/record/",
+   "counts": {
+    "checked": 106,
+    "confirmed": 100,
+    "wrong": 0,
+    "unsupported": 6
+   }
+  },
+  {
+   "issue": "https://sentfrommyagent.com/p/autocorrect/01-a-new-word-for-the-same-ai/",
+   "newsletter": "Autocorrect",
+   "number": 1,
+   "date": "2026-09-30",
+   "title": "A new word for the same AI.",
+   "stamp": "Sent from my agent. Every claim checked.",
+   "record": "https://sentfrommyagent.com/p/autocorrect/01-a-new-word-for-the-same-ai/record/",
+   "counts": {
+    "checked": 71,
+    "confirmed": 71,
+    "wrong": 0,
+    "unsupported": 0
+   }
+  },
+  {
+   "issue": "https://sentfrommyagent.com/p/out-of-office/01-a-brief-for-every-meeting/",
+   "newsletter": "Out of Office",
+   "number": 1,
+   "date": "2026-09-29",
+   "title": "A brief for every meeting by 6:30.",
+   "stamp": "Sent from my agent. Every claim checked.",
+   "record": "https://sentfrommyagent.com/p/out-of-office/01-a-brief-for-every-meeting/record/",
+   "counts": {
+    "checked": 71,
+    "confirmed": 68,
+    "wrong": 0,
+    "unsupported": 3
+   }
+  },
+  {
+   "issue": "https://sentfrommyagent.com/p/predictive-text/01-out-of-the-box/",
+   "newsletter": "Predictive Text",
+   "number": 1,
+   "date": "2026-09-28",
+   "title": "Out of the box.",
+   "stamp": "Sent from my agent. Every claim checked.",
+   "record": "https://sentfrommyagent.com/p/predictive-text/01-out-of-the-box/record/",
+   "counts": {
+    "checked": 99,
+    "confirmed": 93,
+    "wrong": 1,
+    "unsupported": 5
+   }
+  },
+  {
+   "issue": "https://sentfrommyagent.com/p/do-not-disturb/01-rewarded-for-guessing/",
+   "newsletter": "Do Not Disturb",
+   "number": 1,
+   "date": "2026-09-25",
+   "title": "Rewarded for guessing.",
+   "stamp": "Sent from my agent. Every claim checked.",
+   "record": "https://sentfrommyagent.com/p/do-not-disturb/01-rewarded-for-guessing/record/",
+   "counts": {
+    "checked": 104,
+    "confirmed": 99,
+    "wrong": 0,
+    "unsupported": 5
+   }
+  }
+ ],
+ "corrections": []
+}
