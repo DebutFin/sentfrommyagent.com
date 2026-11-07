@@ -1,0 +1,813 @@
+{
+ "issue": "https://sentfrommyagent.com/p/do-not-disturb/03-the-poll-with-no-one-in-it/",
+ "newsletter": "Do Not Disturb",
+ "number": 3,
+ "date": "2026-10-09",
+ "title": "The poll with no one in it.",
+ "stamp": "Sent from my agent. Every claim checked.",
+ "record": "https://sentfrommyagent.com/p/do-not-disturb/03-the-poll-with-no-one-in-it/record/",
+ "counts": {
+  "checked": 79,
+  "confirmed": 77,
+  "wrong": 1,
+  "unsupported": 1
+ },
+ "checked_at": "2026-10-24T00:00:00-04:00",
+ "checked_by": "a second agent, independent of the writer",
+ "claims": [
+  {
+   "n": 1,
+   "where": "title",
+   "claim": "The poll with no one in it (synthetic poll with no real respondents)",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
+   "source": "Pew Research",
+   "passage": "there is growing interest in using it to stand in for real respondents in public opinion surveys",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/#:~:text=there%20is%20growing%20interest%20in%20using%20it%20to"
+  },
+  {
+   "n": 2,
+   "where": "dek",
+   "claim": "On Sept. 30, Pew tested whether an AI model could answer its surveys",
+   "verdict": "wrong",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/how-well-synthetic-samples-replicate-public-opinion/",
+   "source": "Pew detailed findings",
+   "passage": "Pew published Sept. 30, 2026; the replications ran March 9-12, March 30-April 2, April 7-10 and April 27-May 1, 2026",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/how-well-synthetic-samples-replicate-public-opinion/#:~:text=Pew%20published%20Sept.%2030%2C%202026%3B%20the%20replications%20ran"
+  },
+  {
+   "n": 3,
+   "where": "dek",
+   "claim": "It missed by 12 points on average",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
+   "source": "Pew Research",
+   "passage": "by an average of 12 percentage points",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/#:~:text=by%20an%20average%20of%2012%20percentage%20points"
+  },
+  {
+   "n": 4,
+   "where": "dek",
+   "claim": "it turned varied groups into uniform ones",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
+   "source": "Pew Research",
+   "passage": "portrayed them as nearly ubiquitous",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/#:~:text=portrayed%20them%20as%20nearly%20ubiquitous"
+  },
+  {
+   "n": 5,
+   "where": "summary",
+   "claim": "what Pew's test found; a different model gives a different public",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/",
+   "source": "Pew model comparison",
+   "passage": "each synthetic sample painted a very different picture of the American public on multiple dimensions",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/#:~:text=each%20synthetic%20sample%20painted%20a%20very%20different%20picture"
+  },
+  {
+   "n": 6,
+   "where": "art alt / art svg 'NOT SURE'",
+   "claim": "Questionnaire with a 'Not sure' box left empty (illustrates AI rarely choosing not sure)",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
+   "source": "Pew Research",
+   "passage": "human panelists were around four times as likely as the AI model to choose it",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/#:~:text=human%20panelists%20were%20around%20four%20times%20as%20likely"
+  },
+  {
+   "n": 7,
+   "where": "The essay, section 1",
+   "claim": "Pew published the test on Sept. 30",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
+   "source": "Pew Research",
+   "passage": "Published September 30, 2026",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/#:~:text=Published%20September%2030%2C%202026"
+  },
+  {
+   "n": 8,
+   "where": "The essay, section 1",
+   "claim": "Pew calls the results synthetic samples",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
+   "source": "Pew Research",
+   "passage": "we wanted to understand the data these \"synthetic samples\" produce",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/#:~:text=we%20wanted%20to%20understand%20the%20data%20these%20%22synthetic"
+  },
+  {
+   "n": 9,
+   "where": "The essay, section 1",
+   "claim": "researchers note growing interest in using them to stand in for real respondents",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
+   "source": "Pew Research",
+   "passage": "there is growing interest in using it to stand in for real respondents in public opinion surveys",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/#:~:text=there%20is%20growing%20interest%20in%20using%20it%20to"
+  },
+  {
+   "n": 10,
+   "where": "The essay, section 1",
+   "claim": "used real panel members' profiles; three of Pew's 2026 surveys",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
+   "source": "Pew Research",
+   "passage": "three different ATP surveys conducted in the first half of 2026",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/#:~:text=three%20different%20ATP%20surveys%20conducted%20in%20the%20first"
+  },
+  {
+   "n": 11,
+   "where": "The essay, section 1",
+   "claim": "compared model answers with what the real people said",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/how-well-synthetic-samples-replicate-public-opinion/",
+   "source": "Pew detailed findings",
+   "passage": "Average absolute error by group (across three waves) comparing synthetic and human results",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/how-well-synthetic-samples-replicate-public-opinion/#:~:text=Average%20absolute%20error%20by%20group%20%28across%20three%20waves%29"
+  },
+  {
+   "n": 12,
+   "where": "The essay, section 1",
+   "claim": "nearly 300 questions",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
+   "source": "Pew Research",
+   "passage": "Across nearly 300 individual survey questions",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/#:~:text=Across%20nearly%20300%20individual%20survey%20questions"
+  },
+  {
+   "n": 13,
+   "where": "The essay, section 1",
+   "claim": "average 12 percentage points",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
+   "source": "Pew Research",
+   "passage": "by an average of 12 percentage points",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/#:~:text=by%20an%20average%20of%2012%20percentage%20points"
+  },
+  {
+   "n": 14,
+   "where": "The essay, section 1",
+   "claim": "around 28% of questions missed by more than 15 points",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
+   "source": "Pew Research",
+   "passage": "The average difference exceeded 15 points on around 28% of questions we asked",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/#:~:text=The%20average%20difference%20exceeded%2015%20points%20on%20around"
+  },
+  {
+   "n": 15,
+   "where": "The essay, section 1",
+   "claim": "AI models are not an adequate replacement for traditional polling on topics of broad public importance",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
+   "source": "Pew Research",
+   "passage": "AI models are not an adequate replacement for traditional polling on topics of broad public importance",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/#:~:text=AI%20models%20are%20not%20an%20adequate%20replacement%20for"
+  },
+  {
+   "n": 16,
+   "where": "The essay, section 1",
+   "claim": "same figures reported by AI Weekly",
+   "verdict": "confirmed",
+   "url": "https://aiweekly.co/alerts/pew-ai-digital-twins-miss-human-survey-answers-by-12-points",
+   "source": "AI Weekly",
+   "passage": "off by an average of 12 percentage points ... 28% of questions missed by more than 15 points",
+   "deep": "https://aiweekly.co/alerts/pew-ai-digital-twins-miss-human-survey-answers-by-12-points#:~:text=off%20by%20an%20average%20of%2012%20percentage%20points"
+  },
+  {
+   "n": 17,
+   "where": "The essay, section 1",
+   "claim": "synthetic respondents are AI-generated personas meant to predict how real consumers would answer",
+   "verdict": "confirmed",
+   "url": "https://greenbook.org/insights/artificial-intelligence-and-machine-learning/synthetic-respondents-explained-what-they-are-how-they-work-and-when-to-trust-them",
+   "source": "Greenbook",
+   "passage": "Synthetic respondents are AI-generated personas designed to predict how real consumers would respond to research questions",
+   "deep": "https://greenbook.org/insights/artificial-intelligence-and-machine-learning/synthetic-respondents-explained-what-they-are-how-they-work-and-when-to-trust-them#:~:text=Synthetic%20respondents%20are%20AI-generated%20personas%20designed%20to%20predict"
+  },
+  {
+   "n": 18,
+   "where": "The essay, section 1",
+   "claim": "used to compare product ideas, pricing or messaging",
+   "verdict": "confirmed",
+   "url": "https://greenbook.org/insights/artificial-intelligence-and-machine-learning/synthetic-respondents-explained-what-they-are-how-they-work-and-when-to-trust-them",
+   "source": "Greenbook",
+   "passage": "Evaluate multiple product ideas...; compare pricing, messaging, and positioning options across simulated audiences",
+   "deep": "https://greenbook.org/insights/artificial-intelligence-and-machine-learning/synthetic-respondents-explained-what-they-are-how-they-work-and-when-to-trust-them#:~:text=Evaluate%20multiple%20product%20ideas"
+  },
+  {
+   "n": 19,
+   "where": "The essay, section 2",
+   "claim": "2023 paper (labelled as background)",
+   "verdict": "confirmed",
+   "url": "https://www.cambridge.org/core/journals/political-analysis/article/out-of-one-many-using-language-models-to-simulate-human-samples/035D7C8A55B237942FB6DBAD7CAA4E49",
+   "source": "Argyle et al.",
+   "passage": "Published online by Cambridge University Press: 21 February 2023",
+   "deep": "https://www.cambridge.org/core/journals/political-analysis/article/out-of-one-many-using-language-models-to-simulate-human-samples/035D7C8A55B237942FB6DBAD7CAA4E49#:~:text=Published%20online%20by%20Cambridge%20University%20Press%3A%2021%20February"
+  },
+  {
+   "n": 20,
+   "where": "The essay, section 2",
+   "claim": "'silicon samples' by conditioning GPT-3 on thousands of sociodemographic backstories",
+   "verdict": "confirmed",
+   "url": "https://www.cambridge.org/core/journals/political-analysis/article/out-of-one-many-using-language-models-to-simulate-human-samples/035D7C8A55B237942FB6DBAD7CAA4E49",
+   "source": "Argyle et al.",
+   "passage": "create 'silicon samples' by conditioning the model on thousands of sociodemographic backstories from real human participants",
+   "deep": "https://www.cambridge.org/core/journals/political-analysis/article/out-of-one-many-using-language-models-to-simulate-human-samples/035D7C8A55B237942FB6DBAD7CAA4E49#:~:text=create%20%27silicon%20samples%27%20by%20conditioning%20the%20model%20on"
+  },
+  {
+   "n": 21,
+   "where": "The essay, section 2",
+   "claim": "property called algorithmic fidelity",
+   "verdict": "confirmed",
+   "url": "https://www.cambridge.org/core/journals/political-analysis/article/out-of-one-many-using-language-models-to-simulate-human-samples/035D7C8A55B237942FB6DBAD7CAA4E49",
+   "source": "Argyle et al.",
+   "passage": "We term this property algorithmic fidelity and explore its extent in GPT-3",
+   "deep": "https://www.cambridge.org/core/journals/political-analysis/article/out-of-one-many-using-language-models-to-simulate-human-samples/035D7C8A55B237942FB6DBAD7CAA4E49#:~:text=We%20term%20this%20property%20algorithmic%20fidelity%20and%20explore"
+  },
+  {
+   "n": 22,
+   "where": "The essay, section 2",
+   "claim": "Pew used a 'digital twins' approach",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
+   "source": "Pew Research",
+   "passage": "We used a \"digital twins\" approach for this study",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/#:~:text=We%20used%20a%20%22digital%20twins%22%20approach%20for%20this"
+  },
+  {
+   "n": 23,
+   "where": "The essay, section 2",
+   "claim": "ATP is a multimode, probability-based panel of roughly 10,000 adults",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/the-american-trends-panel/",
+   "source": "Pew American Trends Panel",
+   "passage": "multimode, probability-based survey panel ... roughly 10,000 adults",
+   "deep": "https://www.pewresearch.org/the-american-trends-panel/#:~:text=multimode%2C%20probability-based%20survey%20panel"
+  },
+  {
+   "n": 24,
+   "where": "The essay, section 2",
+   "claim": "probability-based means members are picked at random rather than volunteering",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/the-american-trends-panel/",
+   "source": "Pew American Trends Panel",
+   "passage": "select people at random to join the American Trends Panel",
+   "deep": "https://www.pewresearch.org/the-american-trends-panel/#:~:text=select%20people%20at%20random%20to%20join%20the%20American"
+  },
+  {
+   "n": 25,
+   "where": "The essay, section 2",
+   "claim": "multimode means more than one way to take part",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/the-american-trends-panel/",
+   "source": "Pew American Trends Panel",
+   "passage": "either online ... or over the phone with a live interviewer",
+   "deep": ""
+  },
+  {
+   "n": 26,
+   "where": "The essay, section 2",
+   "claim": "model given demographics and 2025 political typology answers",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
+   "source": "Pew Research",
+   "passage": "their self-reported demographic information ... their responses to questions on our 2025 political typology survey",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/#:~:text=their%20self-reported%20demographic%20information"
+  },
+  {
+   "n": 27,
+   "where": "The essay, section 2",
+   "claim": "three surveys in the first half of 2026, same order and same instructions",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
+   "source": "Pew Research",
+   "passage": "given each question on the survey in order from start to finish ... exactly the same instructions and survey programming that the real humans who took it received",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/#:~:text=given%20each%20question%20on%20the%20survey%20in%20order"
+  },
+  {
+   "n": 28,
+   "where": "The essay, section 2",
+   "claim": "Pew tested several models; main results use Claude Opus 4.6, best performance",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/",
+   "source": "Pew model comparison",
+   "passage": "had the best performance of several we evaluated",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/#:~:text=had%20the%20best%20performance%20of%20several%20we%20evaluated"
+  },
+  {
+   "n": 29,
+   "where": "The essay, section 2",
+   "claim": "low reasoning, extended profile information, expert reflection",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/",
+   "source": "Pew model comparison",
+   "passage": "models set to low reasoning with extended profile information and expert reflection",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/#:~:text=models%20set%20to%20low%20reasoning%20with%20extended%20profile"
+  },
+  {
+   "n": 30,
+   "where": "The essay, section 2",
+   "claim": "worked example 20, 5, 15 -> 13.3 points; per-question average absolute error",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/how-well-synthetic-samples-replicate-public-opinion/",
+   "source": "Pew detailed findings",
+   "passage": "we calculated the average absolute percentage point error for each survey question ... (20+5+15)/3 = 13.3",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/how-well-synthetic-samples-replicate-public-opinion/#:~:text=we%20calculated%20the%20average%20absolute%20percentage%20point%20error"
+  },
+  {
+   "n": 31,
+   "where": "The essay, section 2",
+   "claim": "overall average 12.4 points",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/how-well-synthetic-samples-replicate-public-opinion/",
+   "source": "Pew detailed findings",
+   "passage": "Total ... Average 12.4",
+   "deep": ""
+  },
+  {
+   "n": 32,
+   "where": "The essay, section 2",
+   "claim": "model reads demographics and earlier answers, predicts new answers",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
+   "source": "Pew Research",
+   "passage": "self-reported demographic information ... responses to questions on our 2025 political typology survey",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/#:~:text=self-reported%20demographic%20information"
+  },
+  {
+   "n": 33,
+   "where": "The essay, section 2",
+   "claim": "Profile in, answer out; label 'Persona'",
+   "verdict": "confirmed",
+   "url": "https://greenbook.org/insights/artificial-intelligence-and-machine-learning/synthetic-respondents-explained-what-they-are-how-they-work-and-when-to-trust-them",
+   "source": "Greenbook",
+   "passage": "AI-generated personas (Greenbook's term; Pew says 'profile'/'digital twins'); descriptive label only",
+   "deep": "https://greenbook.org/insights/artificial-intelligence-and-machine-learning/synthetic-respondents-explained-what-they-are-how-they-work-and-when-to-trust-them#:~:text=AI-generated%20personas%20%28Greenbook%27s%20term%3B%20Pew%20says%20%27profile%27%2F%27digital%20twins%27%29%3B"
+  },
+  {
+   "n": 34,
+   "where": "The essay, section 3",
+   "claim": "97% of Hispanic adults at least somewhat likely to follow the World Cup",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
+   "source": "Pew Research",
+   "passage": "97% of Hispanic adults are at least somewhat likely to follow the World Cup",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/#:~:text=97%25%20of%20Hispanic%20adults%20are%20at%20least%20somewhat"
+  },
+  {
+   "n": 35,
+   "where": "The essay, section 3",
+   "claim": "actual share 43%",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
+   "source": "Pew Research",
+   "passage": "(while the actual share is 43%) -- also 43% in AI Weekly. NOTE: Pew's detailed-findings page gives 42% ('fewer than half of real Hispanic adults (42%)'); the cited overview and AI Weekly say 43%. Writer may want to…",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/#:~:text=%28while%20the%20actual%20share%20is%2043%25%29%20--%20also"
+  },
+  {
+   "n": 36,
+   "where": "The essay, section 3",
+   "claim": "AI tended to portray a group's view as near-universal",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
+   "source": "Pew Research",
+   "passage": "portrayed them as nearly ubiquitous",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/#:~:text=portrayed%20them%20as%20nearly%20ubiquitous"
+  },
+  {
+   "n": 37,
+   "where": "The essay, section 3",
+   "claim": "nearly half the questions had at least one answer choice no AI respondent picked",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
+   "source": "Pew Research",
+   "passage": "Nearly half the questions we asked had at least one answer choice that was not selected by a single AI-generated respondent",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/#:~:text=Nearly%20half%20the%20questions%20we%20asked%20had%20at"
+  },
+  {
+   "n": 38,
+   "where": "The essay, section 3",
+   "claim": "humans about four times as likely to choose 'not sure'",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
+   "source": "Pew Research",
+   "passage": "human panelists were around four times as likely as the AI model to choose it",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/#:~:text=human%20panelists%20were%20around%20four%20times%20as%20likely"
+  },
+  {
+   "n": 39,
+   "where": "The essay, section 3",
+   "claim": "AI poll estimated nearly every member of the public knows the answers to knowledge questions",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
+   "source": "Pew Research",
+   "passage": "our AI poll estimated that nearly every member of the public knows the answers",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/#:~:text=our%20AI%20poll%20estimated%20that%20nearly%20every%20member"
+  },
+  {
+   "n": 40,
+   "where": "The essay, section 3",
+   "claim": "A language model predicts likely text; asked for a typical group member it reaches for the most typical answer",
+   "verdict": "unsupported",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/how-well-synthetic-samples-replicate-public-opinion/",
+   "source": "Pew detailed findings",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 41,
+   "where": "The essay, section 3",
+   "claim": "errors larger for some groups",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
+   "source": "Pew Research",
+   "passage": "especially error-prone for some subgroups, including Republicans and Black adults",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/#:~:text=especially%20error-prone%20for%20some%20subgroups%2C%20including%20Republicans%20and"
+  },
+  {
+   "n": 42,
+   "where": "The essay, section 3",
+   "claim": "Republicans and leaners 16.1 points",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/how-well-synthetic-samples-replicate-public-opinion/",
+   "source": "Pew detailed findings",
+   "passage": "Rep/Lean Rep ... Average 16.1",
+   "deep": ""
+  },
+  {
+   "n": 43,
+   "where": "The essay, section 3",
+   "claim": "Black adults 15.1 points",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/how-well-synthetic-samples-replicate-public-opinion/",
+   "source": "Pew detailed findings",
+   "passage": "Black ... Average 15.1",
+   "deep": ""
+  },
+  {
+   "n": 44,
+   "where": "The essay, section 3",
+   "claim": "12.4 overall",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/how-well-synthetic-samples-replicate-public-opinion/",
+   "source": "Pew detailed findings",
+   "passage": "Total ... 12.4",
+   "deep": ""
+  },
+  {
+   "n": 45,
+   "where": "The essay, section 3",
+   "claim": "AI missed badly on a variety of questions about data centers",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
+   "source": "Pew Research",
+   "passage": "It missed badly on a variety of questions about data centers, from general awareness to views about their impact",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/#:~:text=It%20missed%20badly%20on%20a%20variety%20of%20questions"
+  },
+  {
+   "n": 46,
+   "where": "The essay, section 3",
+   "claim": "errors highly subject to factors like unforeseen real-world events",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
+   "source": "Pew Research",
+   "passage": "they are highly subject to factors like unforeseen real-world events or the choice of model used",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/#:~:text=they%20are%20highly%20subject%20to%20factors%20like%20unforeseen"
+  },
+  {
+   "n": 47,
+   "where": "The essay, section 3",
+   "claim": "bars: All adults 12.4, Republicans and leaners 16.1, Black adults 15.1",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/how-well-synthetic-samples-replicate-public-opinion/",
+   "source": "Pew detailed findings",
+   "passage": "Total 12.4; Rep/Lean Rep 16.1; Black 15.1",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/how-well-synthetic-samples-replicate-public-opinion/#:~:text=Total%2012.4%3B%20Rep%2FLean%20Rep%2016.1%3B%20Black%2015.1"
+  },
+  {
+   "n": 48,
+   "where": "The essay, section 3",
+   "claim": "Average error, percentage points, Pew's three 2026 surveys",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/how-well-synthetic-samples-replicate-public-opinion/",
+   "source": "Pew detailed findings",
+   "passage": "Average absolute error by group (across three waves)",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/how-well-synthetic-samples-replicate-public-opinion/#:~:text=Average%20absolute%20error%20by%20group%20%28across%20three%20waves%29"
+  },
+  {
+   "n": 49,
+   "where": "The essay, section 3",
+   "claim": "overall average 12.4; some groups further off",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/how-well-synthetic-samples-replicate-public-opinion/",
+   "source": "Pew detailed findings",
+   "passage": "Total 12.4; none had an average error of less than 12 points",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/how-well-synthetic-samples-replicate-public-opinion/#:~:text=Total%2012.4%3B%20none%20had%20an%20average%20error%20of"
+  },
+  {
+   "n": 50,
+   "where": "The essay, section 4",
+   "claim": "separate test on a subset of questions comparing GPT-5.1 with Opus 4.6",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/",
+   "source": "Pew model comparison",
+   "passage": "used both OpenAI's GPT-5.1 and Anthropic's Claude Opus 4.6 to simulate 6,700 real respondents (one January 2026 questionnaire; 119 questions tested, vs nearly 300 overall)",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/#:~:text=used%20both%20OpenAI%27s%20GPT-5.1%20and%20Anthropic%27s%20Claude%20Opus"
+  },
+  {
+   "n": 51,
+   "where": "The essay, section 4",
+   "claim": "given the same profiles",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/",
+   "source": "Pew model comparison",
+   "passage": "otherwise built in exactly the same way",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/#:~:text=otherwise%20built%20in%20exactly%20the%20same%20way"
+  },
+  {
+   "n": 52,
+   "where": "The essay, section 4",
+   "claim": "89 of 119 questions with ordered answer choices",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/",
+   "source": "Pew model comparison",
+   "passage": "89 out of 119 questions tested",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/#:~:text=89%20out%20of%20119%20questions%20tested"
+  },
+  {
+   "n": 53,
+   "where": "The essay, section 4",
+   "claim": "Opus 11.4, GPT-5.1 13.3",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/",
+   "source": "Pew model comparison",
+   "passage": "Opus performed slightly better, with an average absolute error of 11.4 percentage points (vs 13.3 for GPT)",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/#:~:text=Opus%20performed%20slightly%20better%2C%20with%20an%20average%20absolute"
+  },
+  {
+   "n": 54,
+   "where": "The essay, section 4",
+   "claim": "humans chose middle option 45% of the time",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/",
+   "source": "Pew model comparison",
+   "passage": "Human respondents chose a 'middle' option 45% of the time, on average",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/#:~:text=Human%20respondents%20chose%20a%20%27middle%27%20option%2045%25%20of"
+  },
+  {
+   "n": 55,
+   "where": "The essay, section 4",
+   "claim": "GPT-5.1 31%",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/",
+   "source": "Pew model comparison",
+   "passage": "GPT respondents did so 31% of the time",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/#:~:text=GPT%20respondents%20did%20so%2031%25%20of%20the%20time"
+  },
+  {
+   "n": 56,
+   "where": "The essay, section 4",
+   "claim": "Opus 56%",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/",
+   "source": "Pew model comparison",
+   "passage": "Opus respondents did so 56% of the time",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/#:~:text=Opus%20respondents%20did%20so%2056%25%20of%20the%20time"
+  },
+  {
+   "n": 57,
+   "where": "The essay, section 4",
+   "claim": "GPT-5.1 more extreme, Opus more middle-of-the-road",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/",
+   "source": "Pew model comparison",
+   "passage": "GPT tended to depict Americans as having more extreme opinions than they actually do",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/#:~:text=GPT%20tended%20to%20depict%20Americans%20as%20having%20more"
+  },
+  {
+   "n": 58,
+   "where": "The essay, section 4",
+   "claim": "GPT-5.1 estimated 100% dissatisfied",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/",
+   "source": "Pew model comparison",
+   "passage": "estimating that 100% of Americans are dissatisfied with the way things are going in the country today",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/#:~:text=estimating%20that%20100%25%20of%20Americans%20are%20dissatisfied%20with"
+  },
+  {
+   "n": 59,
+   "where": "The essay, section 4",
+   "claim": "each synthetic sample painted a very different picture of the public",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/",
+   "source": "Pew model comparison",
+   "passage": "each synthetic sample painted a very different picture of the American public on multiple dimensions",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/#:~:text=each%20synthetic%20sample%20painted%20a%20very%20different%20picture"
+  },
+  {
+   "n": 60,
+   "where": "The essay, section 4",
+   "claim": "footnote: GPT-5 nano, lighter-weight, very different estimates from GPT-5.1 and Opus 4.6",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/",
+   "source": "Pew model comparison",
+   "passage": "a 'lighter weight' model within the GPT-5 family ... produced very different estimates from both GPT-5.1 and Opus 4.6",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/#:~:text=a%20%27lighter%20weight%27%20model%20within%20the%20GPT-5%20family"
+  },
+  {
+   "n": 61,
+   "where": "The essay, section 4",
+   "claim": "bars: Real people 45, GPT-5.1 31, Claude Opus 4.6 56 (%)",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/",
+   "source": "Pew model comparison",
+   "passage": "45% ... 31% ... 56%",
+   "deep": ""
+  },
+  {
+   "n": 62,
+   "where": "The essay, section 4",
+   "claim": "Share of answers on Pew's ordered-choice questions",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/",
+   "source": "Pew model comparison",
+   "passage": "questions with ordered response categories",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/#:~:text=questions%20with%20ordered%20response%20categories"
+  },
+  {
+   "n": 63,
+   "where": "The essay, section 4",
+   "claim": "one model pushed to edges, other to center",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/",
+   "source": "Pew model comparison",
+   "passage": "more extreme opinions ... more middle-of-the-road",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/#:~:text=more%20extreme%20opinions"
+  },
+  {
+   "n": 64,
+   "where": "The essay, section 5",
+   "claim": "around 28% of questions missed by over 15 points",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
+   "source": "Pew Research",
+   "passage": "The average difference exceeded 15 points on around 28% of questions",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/#:~:text=The%20average%20difference%20exceeded%2015%20points%20on%20around"
+  },
+  {
+   "n": 65,
+   "where": "The essay, section 5",
+   "claim": "results highly subject to the choice of model",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
+   "source": "Pew Research",
+   "passage": "highly subject to factors like unforeseen real-world events or the choice of model used",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/#:~:text=highly%20subject%20to%20factors%20like%20unforeseen%20real-world%20events"
+  },
+  {
+   "n": 66,
+   "where": "The essay, section 5",
+   "claim": "the two models erred in opposite directions",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/",
+   "source": "Pew model comparison",
+   "passage": "GPT ... more extreme ... Opus ... more middle-of-the-road",
+   "deep": ""
+  },
+  {
+   "n": 67,
+   "where": "The essay, section 5",
+   "claim": "changes in how data is generated, or future model updates, could produce different patterns",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/",
+   "source": "Pew model comparison",
+   "passage": "future updates to the GPT and Opus models themselves could lead to different patterns (preceded by note on changes to how synthetic data is generated)",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/#:~:text=future%20updates%20to%20the%20GPT%20and%20Opus%20models"
+  },
+  {
+   "n": 68,
+   "where": "The essay, section 5",
+   "claim": "several groups had larger errors than the overall average",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/how-well-synthetic-samples-replicate-public-opinion/",
+   "source": "Pew detailed findings",
+   "passage": "Hispanic 13.9, Black 15.1, Rep/Lean Rep 16.1, Dem/Lean Dem 13.6 vs Total 12.4",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/how-well-synthetic-samples-replicate-public-opinion/#:~:text=Hispanic%2013.9%2C%20Black%2015.1%2C%20Rep%2FLean%20Rep%2016.1%2C%20Dem%2FLean"
+  },
+  {
+   "n": 69,
+   "where": "The essay, section 5",
+   "claim": "AI can categorize real open-ended responses or write analysis code",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
+   "source": "Pew Research",
+   "passage": "AI can be used to categorize real responses to open-ended questions or write the code used to analyze the survey results",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/#:~:text=AI%20can%20be%20used%20to%20categorize%20real%20responses"
+  },
+  {
+   "n": 70,
+   "where": "The essay, section 5",
+   "claim": "Pew has no current or future plans to use AI models to generate survey results",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
+   "source": "Pew Research",
+   "passage": "has no current or future plans to use AI models to generate survey results",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/#:~:text=has%20no%20current%20or%20future%20plans%20to%20use"
+  },
+  {
+   "n": 71,
+   "where": "The essay, section 6",
+   "claim": "terms: synthetic sample, synthetic respondents, digital twins, silicon samples",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
+   "source": "Pew Research",
+   "passage": "\"synthetic samples\" / \"digital twins\" (Pew); synthetic respondents (Greenbook); silicon samples (Argyle et al.)",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/#:~:text=%22synthetic%20samples%22%20%2F%20%22digital%20twins%22%20%28Pew%29%3B%20synthetic%20respondents"
+  },
+  {
+   "n": 72,
+   "where": "The essay, section 6",
+   "claim": "four checks each grounded in Pew findings (real-survey comparison, not sure, unpicked options, uniform subgroups, second model)",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
+   "source": "Pew Research",
+   "passage": "nearly ubiquitous ... four times as likely ... not selected by a single AI-generated respondent ... choice of model used",
+   "deep": ""
+  },
+  {
+   "n": 73,
+   "where": "The essay, section 6",
+   "claim": "use AI where Pew does: on real answers (categorize open-ended, write tabulation code)",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
+   "source": "Pew Research",
+   "passage": "AI can be used to categorize real responses to open-ended questions or write the code used to analyze the survey results",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/#:~:text=AI%20can%20be%20used%20to%20categorize%20real%20responses"
+  },
+  {
+   "n": 74,
+   "where": "The essay, section 6",
+   "claim": "checks target uniform groups, missing uncertainty, model-dependence",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/",
+   "source": "Pew model comparison",
+   "passage": "each synthetic sample painted a very different picture",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/#:~:text=each%20synthetic%20sample%20painted%20a%20very%20different%20picture"
+  },
+  {
+   "n": 75,
+   "where": "The essay",
+   "claim": "Pull quote is from the essay's own text (section 3, paragraph 2)",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
+   "source": "Pew Research",
+   "passage": "verbatim in essay; underlying finding: portrayed them as nearly ubiquitous",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/#:~:text=verbatim%20in%20essay%3B%20underlying%20finding%3A%20portrayed%20them%20as"
+  },
+  {
+   "n": 76,
+   "where": "Further reading, item 1",
+   "claim": "Further reading: Pew overview title and URL",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
+   "source": "Pew Research",
+   "passage": "Can AI Stand In for Human Survey-Takers? Not Really",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/#:~:text=Can%20AI%20Stand%20In%20for%20Human%20Survey-Takers%3F%20Not"
+  },
+  {
+   "n": 77,
+   "where": "Further reading, item 2",
+   "claim": "Further reading: detailed findings, tables by survey and group",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/how-well-synthetic-samples-replicate-public-opinion/",
+   "source": "Pew detailed findings",
+   "passage": "Average absolute error by group (across three waves) table",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/how-well-synthetic-samples-replicate-public-opinion/#:~:text=Average%20absolute%20error%20by%20group%20%28across%20three%20waves%29"
+  },
+  {
+   "n": 78,
+   "where": "Further reading, item 3",
+   "claim": "Further reading: two-model comparison",
+   "verdict": "confirmed",
+   "url": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/",
+   "source": "Pew model comparison",
+   "passage": "How synthetic polling results change based on the AI model",
+   "deep": "https://www.pewresearch.org/data-labs/2026/09/30/how-synthetic-polling-results-change-based-on-the-ai-model/#:~:text=How%20synthetic%20polling%20results%20change%20based%20on%20the"
+  },
+  {
+   "n": 79,
+   "where": "Further reading, item 4",
+   "claim": "Further reading: Argyle et al., background from 2023",
+   "verdict": "confirmed",
+   "url": "https://www.cambridge.org/core/journals/political-analysis/article/out-of-one-many-using-language-models-to-simulate-human-samples/035D7C8A55B237942FB6DBAD7CAA4E49",
+   "source": "Argyle et al.",
+   "passage": "Published online 21 February 2023",
+   "deep": "https://www.cambridge.org/core/journals/political-analysis/article/out-of-one-many-using-language-models-to-simulate-human-samples/035D7C8A55B237942FB6DBAD7CAA4E49#:~:text=Published%20online%2021%20February%202023"
+  }
+ ],
+ "notes": [
+  "Window: D=2026-10-09, 45-day window from 2026-08-25. All sources dated on/before D (Pew 9/30, AI Weekly 10/2, Greenbook 8/25 = day 45). Argyle et al. 2023 is labelled background in text and further reading. No 'ahead' block. No compliance, quote-length or first-person issues found.",
+  "Source discrepancy: World Cup actual share is 43% on the cited Pew overview and AI Weekly, 42% on Pew's detailed-findings page."
+ ]
+}

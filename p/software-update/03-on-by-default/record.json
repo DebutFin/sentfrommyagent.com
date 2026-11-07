@@ -1,0 +1,1030 @@
+{
+ "issue": "https://sentfrommyagent.com/p/software-update/03-on-by-default/",
+ "newsletter": "Software Update",
+ "number": 3,
+ "date": "2026-10-15",
+ "title": "On by default.",
+ "stamp": "Sent from my agent. Every claim checked.",
+ "record": "https://sentfrommyagent.com/p/software-update/03-on-by-default/record/",
+ "counts": {
+  "checked": 101,
+  "confirmed": 99,
+  "wrong": 0,
+  "unsupported": 2
+ },
+ "checked_at": "2026-10-24T00:00:00-04:00",
+ "checked_by": "a second agent, independent of the writer",
+ "claims": [
+  {
+   "n": 1,
+   "where": "title",
+   "claim": "On by default. (Meet next steps and Codex predictions ship on by default)",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html",
+   "source": "Google Workspace Updates (Meet)",
+   "passage": "Admins: On by default. / Codex: 'Predictions are on by default.'",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html#:~:text=Admins%3A%20On%20by%20default.%20%2F%20Codex%3A%20%27Predictions%20are"
+  },
+  {
+   "n": 2,
+   "where": "dek",
+   "claim": "Google Meet's follow-up suggestions arrived switched on",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html",
+   "source": "Google Workspace Updates (Meet)",
+   "passage": "Default setting for admins: On by default",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html#:~:text=Default%20setting%20for%20admins%3A%20On%20by%20default"
+  },
+  {
+   "n": 3,
+   "where": "dek",
+   "claim": "Codex's message predictions arrived switched on",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "Predictions are on by default",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=Predictions%20are%20on%20by%20default"
+  },
+  {
+   "n": 4,
+   "where": "dek",
+   "claim": "Gemini gathered its app connections in one menu",
+   "verdict": "confirmed",
+   "url": "https://gemini.google/release-notes/",
+   "source": "Gemini release notes",
+   "passage": "Open the left menu and click Customize to tailor how Gemini responds and connects to your everyday tools in one place",
+   "deep": "https://gemini.google/release-notes/#:~:text=Open%20the%20left%20menu%20and%20click%20Customize%20to"
+  },
+  {
+   "n": 5,
+   "where": "dek",
+   "claim": "Google delayed skills in Workspace",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/an-update-on-launch-of-skills-in-gemini-app-and-workspace.html",
+   "source": "Google Workspace Updates (skills delay)",
+   "passage": "While we work to ensure skills in Workspace launch in a safe and reliable manner, those rollouts are slightly delayed",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/an-update-on-launch-of-skills-in-gemini-app-and-workspace.html#:~:text=While%20we%20work%20to%20ensure%20skills%20in%20Workspace"
+  },
+  {
+   "n": 6,
+   "where": "summary",
+   "claim": "Gemini adds a Customize menu and Argon",
+   "verdict": "confirmed",
+   "url": "https://gemini.google/release-notes/",
+   "source": "Gemini release notes",
+   "passage": "2026.10.13: Customize; Introducing Gemini 4 Argon",
+   "deep": "https://gemini.google/release-notes/#:~:text=2026.10.13%3A%20Customize%3B%20Introducing%20Gemini%204%20Argon"
+  },
+  {
+   "n": 7,
+   "where": "summary",
+   "claim": "Notion 3.8 adds controls",
+   "verdict": "confirmed",
+   "url": "https://www.notion.com/releases/2026-10-13",
+   "source": "Notion releases",
+   "passage": "October 13, 2026 – Notion 3.8: Context for your agents; database owners control which properties each person or agent can view or edit",
+   "deep": "https://www.notion.com/releases/2026-10-13#:~:text=October%2013%2C%202026%20%E2%80%93%20Notion%203.8%3A%20Context%20for"
+  },
+  {
+   "n": 8,
+   "where": "art alt / art svg text",
+   "claim": "ON BY DEFAULT label on settings-panel drawing",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html",
+   "source": "Google Workspace Updates (Meet)",
+   "passage": "Illustrative; matches the issue's on-by-default theme supported above",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html#:~:text=Illustrative%3B%20matches%20the%20issue%27s%20on-by-default%20theme%20supported%20above"
+  },
+  {
+   "n": 9,
+   "where": "The story",
+   "claim": "Google Meet now suggests follow-up tasks when a meeting ends",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html",
+   "source": "Google Workspace Updates (Meet)",
+   "passage": "Google Meet adds 'next steps' to the post-meeting screen, powered by Gemini and Workspace Studio",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html#:~:text=Google%20Meet%20adds%20%27next%20steps%27%20to%20the%20post-meeting"
+  },
+  {
+   "n": 10,
+   "where": "The story",
+   "claim": "Codex now predicts your next message",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "Composer predictions, available in beta, suggests your next message based on the conversation in your current Codex thread",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=Composer%20predictions%2C%20available%20in%20beta%2C%20suggests%20your%20next"
+  },
+  {
+   "n": 11,
+   "where": "The story",
+   "claim": "Both are on by default",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "Predictions are on by default. (Meet: Admins: On by default.)",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=Predictions%20are%20on%20by%20default.%20%28Meet%3A%20Admins%3A%20On"
+  },
+  {
+   "n": 12,
+   "where": "The story",
+   "claim": "A Workspace admin can switch off Meet's suggestions",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html",
+   "source": "Google Workspace Updates (Meet)",
+   "passage": "Admins can disable the feature at the domain, OU, or group level",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html#:~:text=Admins%20can%20disable%20the%20feature%20at%20the%20domain%2C"
+  },
+  {
+   "n": 13,
+   "where": "The story",
+   "claim": "In Codex, you can switch off the predictions yourself",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "Turn off Show predictions in the Composer section of General settings",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=Turn%20off%20Show%20predictions%20in%20the%20Composer%20section"
+  },
+  {
+   "n": 14,
+   "where": "The story",
+   "claim": "Gemini put its connected apps, more than 40 of them, behind one Customize menu",
+   "verdict": "confirmed",
+   "url": "https://gemini.google/release-notes/",
+   "source": "Gemini release notes",
+   "passage": "You can connect more than 40 apps or services to get things done in one conversation",
+   "deep": "https://gemini.google/release-notes/#:~:text=You%20can%20connect%20more%20than%2040%20apps%20or"
+  },
+  {
+   "n": 15,
+   "where": "The story",
+   "claim": "Notion added controls over who and what can see each database column",
+   "verdict": "confirmed",
+   "url": "https://www.notion.com/releases/2026-10-13",
+   "source": "Notion releases",
+   "passage": "They let database owners control which properties each person or agent can view or edit",
+   "deep": "https://www.notion.com/releases/2026-10-13#:~:text=They%20let%20database%20owners%20control%20which%20properties%20each"
+  },
+  {
+   "n": 16,
+   "where": "The story",
+   "claim": "One date set two weeks ago has moved",
+   "verdict": "unsupported",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/an-update-on-launch-of-skills-in-gemini-app-and-workspace.html",
+   "source": "Google Workspace Updates (skills delay)",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 17,
+   "where": "The story",
+   "claim": "Google delayed skills in Workspace apps on Oct. 13",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/an-update-on-launch-of-skills-in-gemini-app-and-workspace.html",
+   "source": "Google Workspace Updates (skills delay)",
+   "passage": "Post dated October 13, 2026; Rapid and Scheduled Release: 'Delayed until further notice.'",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/an-update-on-launch-of-skills-in-gemini-app-and-workspace.html#:~:text=Post%20dated%20October%2013%2C%202026%3B%20Rapid%20and%20Scheduled"
+  },
+  {
+   "n": 18,
+   "where": "The story",
+   "claim": "...and hasn't set a new date",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/an-update-on-launch-of-skills-in-gemini-app-and-workspace.html",
+   "source": "Google Workspace Updates (skills delay)",
+   "passage": "Delayed until further notice",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/an-update-on-launch-of-skills-in-gemini-app-and-workspace.html#:~:text=Delayed%20until%20further%20notice"
+  },
+  {
+   "n": 19,
+   "where": "The story",
+   "claim": "This week's switches and dates",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html",
+   "source": "Google Workspace Updates (Meet)",
+   "passage": "Figure title; descriptive",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html#:~:text=Figure%20title%3B%20descriptive"
+  },
+  {
+   "n": 20,
+   "where": "The story",
+   "claim": "Set by Google and OpenAI",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq",
+   "source": "OpenAI GPT retirement FAQ",
+   "passage": "Dates come from Google and OpenAI pages cited",
+   "deep": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq#:~:text=Dates%20come%20from%20Google%20and%20OpenAI%20pages%20cited"
+  },
+  {
+   "n": 21,
+   "where": "The story, step 1",
+   "claim": "Oct. 5: Meet next steps start rolling out, on by default",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html",
+   "source": "Google Workspace Updates (Meet)",
+   "passage": "Extended rollout started October 5, 2026. Admins: On by default",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html#:~:text=Extended%20rollout%20started%20October%205%2C%202026.%20Admins%3A%20On"
+  },
+  {
+   "n": 22,
+   "where": "The story, step 2",
+   "claim": "Oct. 9: Codex predictions, on by default",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "October 9, 2026: Composer predictions in Codex ... Predictions are on by default",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=October%209%2C%202026%3A%20Composer%20predictions%20in%20Codex"
+  },
+  {
+   "n": 23,
+   "where": "The story, step 3",
+   "claim": "Oct. 13: Gemini Customize menu",
+   "verdict": "confirmed",
+   "url": "https://gemini.google/release-notes/",
+   "source": "Gemini release notes",
+   "passage": "2026.10.13 Customize entry",
+   "deep": "https://gemini.google/release-notes/#:~:text=2026.10.13%20Customize%20entry"
+  },
+  {
+   "n": 24,
+   "where": "The story, step 3",
+   "claim": "Oct. 13: Workspace skills delayed",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/an-update-on-launch-of-skills-in-gemini-app-and-workspace.html",
+   "source": "Google Workspace Updates (skills delay)",
+   "passage": "Post dated October 13, 2026: 'Delayed until further notice.'",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/an-update-on-launch-of-skills-in-gemini-app-and-workspace.html#:~:text=Post%20dated%20October%2013%2C%202026%3A%20%27Delayed%20until%20further"
+  },
+  {
+   "n": 25,
+   "where": "The story, step 4",
+   "claim": "Oct. 26: Enterprise custom GPT creation set to end",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq",
+   "source": "OpenAI GPT retirement FAQ",
+   "passage": "Oct 26, 2026 (planned): Creation of new custom GPTs ends",
+   "deep": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq#:~:text=Oct%2026%2C%202026%20%28planned%29%3A%20Creation%20of%20new%20custom"
+  },
+  {
+   "n": 26,
+   "where": "The story",
+   "claim": "No new date yet for skills in Workspace apps",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/an-update-on-launch-of-skills-in-gemini-app-and-workspace.html",
+   "source": "Google Workspace Updates (skills delay)",
+   "passage": "Delayed until further notice",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/an-update-on-launch-of-skills-in-gemini-app-and-workspace.html#:~:text=Delayed%20until%20further%20notice"
+  },
+  {
+   "n": 27,
+   "where": "Six changes this week",
+   "claim": "What changed · Oct. 8 – 15 (all items dated in this span)",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html",
+   "source": "Google Workspace Updates (Meet)",
+   "passage": "Item dates Oct. 9, 12, 13 fall in range; Meet rollout began Oct. 5 but was announced Oct. 12",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html#:~:text=Item%20dates%20Oct.%209%2C%2012%2C%2013%20fall%20in"
+  },
+  {
+   "n": 28,
+   "where": "Six changes this week",
+   "claim": "Six changes",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html",
+   "source": "Google Workspace Updates (Meet)",
+   "passage": "Six items listed",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html#:~:text=Six%20items%20listed"
+  },
+  {
+   "n": 29,
+   "where": "Six changes this week, item 1",
+   "claim": "Gemini suggests follow-up tasks after a meeting, on by default",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html",
+   "source": "Google Workspace Updates (Meet)",
+   "passage": "powered by Gemini and Workspace Studio ... Admins: On by default",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html#:~:text=powered%20by%20Gemini%20and%20Workspace%20Studio"
+  },
+  {
+   "n": 30,
+   "where": "Six changes this week, item 1",
+   "claim": "Oct. 12",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html",
+   "source": "Google Workspace Updates (Meet)",
+   "passage": "Publish date: October 12, 2026",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html#:~:text=Publish%20date%3A%20October%2012%2C%202026"
+  },
+  {
+   "n": 31,
+   "where": "Six changes this week, item 1",
+   "claim": "Business and Enterprise Standard and Plus",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html",
+   "source": "Google Workspace Updates (Meet)",
+   "passage": "Business Standard and Plus; Enterprise Standard and Plus (also Google AI Pro for Education add-on, omitted)",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html#:~:text=Business%20Standard%20and%20Plus%3B%20Enterprise%20Standard%20and%20Plus"
+  },
+  {
+   "n": 32,
+   "where": "Six changes this week, item 1",
+   "claim": "gradual rollout",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html",
+   "source": "Google Workspace Updates (Meet)",
+   "passage": "Extended rollout started October 5, 2026. Feature visibility may take longer than 15 days",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html#:~:text=Extended%20rollout%20started%20October%205%2C%202026.%20Feature%20visibility"
+  },
+  {
+   "n": 33,
+   "where": "Six changes this week, item 1",
+   "claim": "Requires Take notes for me to have run during the meeting",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html",
+   "source": "Google Workspace Updates (Meet)",
+   "passage": "'Take notes for me' must be enabled during the meeting for any next steps to appear",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html#:~:text=%27Take%20notes%20for%20me%27%20must%20be%20enabled%20during"
+  },
+  {
+   "n": 34,
+   "where": "Six changes this week, item 1",
+   "claim": "Next steps appear on the post-meeting screen",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html",
+   "source": "Google Workspace Updates (Meet)",
+   "passage": "On the post-meeting screen, a section called 'Routines for this meeting'",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html#:~:text=On%20the%20post-meeting%20screen%2C%20a%20section%20called%20%27Routines"
+  },
+  {
+   "n": 35,
+   "where": "Six changes this week, item 1",
+   "claim": "Example: drafting a follow-up email in Gmail",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html",
+   "source": "Google Workspace Updates (Meet)",
+   "passage": "Drafting a follow-up email in Gmail",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html#:~:text=Drafting%20a%20follow-up%20email%20in%20Gmail"
+  },
+  {
+   "n": 36,
+   "where": "Six changes this week, item 1",
+   "claim": "Example: sending action items to Google Tasks",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html",
+   "source": "Google Workspace Updates (Meet)",
+   "passage": "Exporting action items to Google Tasks",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html#:~:text=Exporting%20action%20items%20to%20Google%20Tasks"
+  },
+  {
+   "n": 37,
+   "where": "Six changes this week, item 1",
+   "claim": "On by default",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html",
+   "source": "Google Workspace Updates (Meet)",
+   "passage": "Admins: On by default",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html#:~:text=Admins%3A%20On%20by%20default"
+  },
+  {
+   "n": 38,
+   "where": "Six changes this week, item 1",
+   "claim": "Rolling out gradually since Oct. 5",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html",
+   "source": "Google Workspace Updates (Meet)",
+   "passage": "Extended rollout started October 5, 2026",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html#:~:text=Extended%20rollout%20started%20October%205%2C%202026"
+  },
+  {
+   "n": 39,
+   "where": "Six changes this week, item 1",
+   "claim": "Visibility possibly taking longer than 15 days",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html",
+   "source": "Google Workspace Updates (Meet)",
+   "passage": "Feature visibility may take longer than 15 days",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html#:~:text=Feature%20visibility%20may%20take%20longer%20than%2015%20days"
+  },
+  {
+   "n": 40,
+   "where": "Six changes this week, item 1",
+   "claim": "Admins can turn it off for a domain, OU or group",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html",
+   "source": "Google Workspace Updates (Meet)",
+   "passage": "disable the feature at the domain, organizational unit (OU), or group level",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html#:~:text=disable%20the%20feature%20at%20the%20domain%2C%20organizational%20unit"
+  },
+  {
+   "n": 41,
+   "where": "Six changes this week, item 1",
+   "claim": "...in Workspace Studio admin settings or through the Take notes for me setting",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html",
+   "source": "Google Workspace Updates (Meet)",
+   "passage": "through the Workspace Studio admin settings or the Take Notes for Me setting",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html#:~:text=through%20the%20Workspace%20Studio%20admin%20settings%20or%20the"
+  },
+  {
+   "n": 42,
+   "where": "Six changes this week, item 1",
+   "claim": "Check settings (default-on, admin setting)",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html",
+   "source": "Google Workspace Updates (Meet)",
+   "passage": "Follows spec: default changed; admin setting location given",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html#:~:text=Follows%20spec%3A%20default%20changed%3B%20admin%20setting%20location%20given"
+  },
+  {
+   "n": 43,
+   "where": "Six changes this week, item 2",
+   "claim": "The composer now predicts your next message, on by default",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "suggests your next message ... Predictions are on by default",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=suggests%20your%20next%20message"
+  },
+  {
+   "n": 44,
+   "where": "Six changes this week, item 2",
+   "claim": "Oct. 9",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "October 9, 2026: Composer predictions in Codex",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=October%209%2C%202026%3A%20Composer%20predictions%20in%20Codex"
+  },
+  {
+   "n": 45,
+   "where": "Six changes this week, item 2",
+   "claim": "Personal ChatGPT Pro",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "available to personal ChatGPT Pro users",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=available%20to%20personal%20ChatGPT%20Pro%20users"
+  },
+  {
+   "n": 46,
+   "where": "Six changes this week, item 2",
+   "claim": "18+",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "aged 18 and older in all supported regions",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=aged%2018%20and%20older%20in%20all%20supported%20regions"
+  },
+  {
+   "n": 47,
+   "where": "Six changes this week, item 2",
+   "claim": "latest Codex desktop app",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "in the latest Codex desktop app",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=in%20the%20latest%20Codex%20desktop%20app"
+  },
+  {
+   "n": 48,
+   "where": "Six changes this week, item 2",
+   "claim": "beta",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "available in beta",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=available%20in%20beta"
+  },
+  {
+   "n": 49,
+   "where": "Six changes this week, item 2",
+   "claim": "Suggests your next message from the current thread",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "based on the conversation in your current Codex thread",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=based%20on%20the%20conversation%20in%20your%20current%20Codex"
+  },
+  {
+   "n": 50,
+   "where": "Six changes this week, item 2",
+   "claim": "Press Tab to accept it, then review or edit before sending",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "Press Tab to accept it, then review or edit it before sending",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=Press%20Tab%20to%20accept%20it%2C%20then%20review%20or"
+  },
+  {
+   "n": 51,
+   "where": "Six changes this week, item 2",
+   "claim": "Generating predictions doesn't count toward Codex usage limits during the beta",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "During the beta, generating predictions doesn't count toward Codex usage limits or consume credits",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=During%20the%20beta%2C%20generating%20predictions%20doesn%27t%20count%20toward"
+  },
+  {
+   "n": 52,
+   "where": "Six changes this week, item 2",
+   "claim": "Messages you send, accepted predictions included, follow normal limits",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "Messages you send, including accepted predictions, follow normal Codex usage limits",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=Messages%20you%20send%2C%20including%20accepted%20predictions%2C%20follow%20normal"
+  },
+  {
+   "n": 53,
+   "where": "Six changes this week, item 2",
+   "claim": "Turn off Show predictions in the Composer section of General settings",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "Turn off Show predictions in the Composer section of General settings",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=Turn%20off%20Show%20predictions%20in%20the%20Composer%20section"
+  },
+  {
+   "n": 54,
+   "where": "Six changes this week, item 2",
+   "claim": "Check settings",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "Default-on; setting location stated",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=Default-on%3B%20setting%20location%20stated"
+  },
+  {
+   "n": 55,
+   "where": "Six changes this week, item 3",
+   "claim": "Customize menu gathers preferences, skills and connected apps",
+   "verdict": "confirmed",
+   "url": "https://gemini.google/release-notes/",
+   "source": "Gemini release notes",
+   "passage": "tailor how Gemini responds ... You can discover apps and add skills",
+   "deep": "https://gemini.google/release-notes/#:~:text=tailor%20how%20Gemini%20responds"
+  },
+  {
+   "n": 56,
+   "where": "Six changes this week, item 3",
+   "claim": "Oct. 13",
+   "verdict": "confirmed",
+   "url": "https://gemini.google/release-notes/",
+   "source": "Gemini release notes",
+   "passage": "2026.10.13",
+   "deep": ""
+  },
+  {
+   "n": 57,
+   "where": "Six changes this week, item 3",
+   "claim": "All tiers",
+   "verdict": "confirmed",
+   "url": "https://gemini.google/release-notes/",
+   "source": "Gemini release notes",
+   "passage": "Customize is rolling out globally ... for all user tiers",
+   "deep": "https://gemini.google/release-notes/#:~:text=Customize%20is%20rolling%20out%20globally"
+  },
+  {
+   "n": 58,
+   "where": "Six changes this week, item 3",
+   "claim": "Most connected apps in English in the U.S.",
+   "verdict": "confirmed",
+   "url": "https://gemini.google/release-notes/",
+   "source": "Gemini release notes",
+   "passage": "Most connected apps are available in English in the U.S",
+   "deep": "https://gemini.google/release-notes/#:~:text=Most%20connected%20apps%20are%20available%20in%20English%20in"
+  },
+  {
+   "n": 59,
+   "where": "Six changes this week, item 3",
+   "claim": "Open the left menu and click Customize to set how Gemini responds and which tools it connects to",
+   "verdict": "confirmed",
+   "url": "https://gemini.google/release-notes/",
+   "source": "Gemini release notes",
+   "passage": "Open the left menu and click Customize to tailor how Gemini responds and connects to your everyday tools in one place",
+   "deep": "https://gemini.google/release-notes/#:~:text=Open%20the%20left%20menu%20and%20click%20Customize%20to"
+  },
+  {
+   "n": 60,
+   "where": "Six changes this week, item 3",
+   "claim": "More than 40 apps or services",
+   "verdict": "confirmed",
+   "url": "https://gemini.google/release-notes/",
+   "source": "Gemini release notes",
+   "passage": "You can connect more than 40 apps or services",
+   "deep": "https://gemini.google/release-notes/#:~:text=You%20can%20connect%20more%20than%2040%20apps%20or"
+  },
+  {
+   "n": 61,
+   "where": "Six changes this week, item 3",
+   "claim": "Some available in other English-speaking regions, Brazil and India",
+   "verdict": "confirmed",
+   "url": "https://gemini.google/release-notes/",
+   "source": "Gemini release notes",
+   "passage": "select apps in other English-speaking regions, Brazil, and India",
+   "deep": "https://gemini.google/release-notes/#:~:text=select%20apps%20in%20other%20English-speaking%20regions%2C%20Brazil%2C%20and"
+  },
+  {
+   "n": 62,
+   "where": "Six changes this week, item 3",
+   "claim": "Each connection lets Gemini reach that app from a chat",
+   "verdict": "confirmed",
+   "url": "https://gemini.google/release-notes/",
+   "source": "Gemini release notes",
+   "passage": "connect more than 40 apps or services to get things done in one conversation",
+   "deep": "https://gemini.google/release-notes/#:~:text=connect%20more%20than%2040%20apps%20or%20services%20to"
+  },
+  {
+   "n": 63,
+   "where": "Six changes this week, item 3",
+   "claim": "Check settings (connectors)",
+   "verdict": "confirmed",
+   "url": "https://gemini.google/release-notes/",
+   "source": "Gemini release notes",
+   "passage": "Spec: connectors -> Check settings; location given (left menu > Customize); work-account caveat present",
+   "deep": "https://gemini.google/release-notes/#:~:text=Spec%3A%20connectors%20-%3E%20Check%20settings%3B%20location%20given%20%28left"
+  },
+  {
+   "n": 64,
+   "where": "Six changes this week, item 4",
+   "claim": "Skills in Workspace are delayed; the Gemini app has them now",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/an-update-on-launch-of-skills-in-gemini-app-and-workspace.html",
+   "source": "Google Workspace Updates (skills delay)",
+   "passage": "Workspace: Delayed until further notice; Gemini app: gradual rollout starts October 13, 2026",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/an-update-on-launch-of-skills-in-gemini-app-and-workspace.html#:~:text=Workspace%3A%20Delayed%20until%20further%20notice%3B%20Gemini%20app%3A%20gradual"
+  },
+  {
+   "n": 65,
+   "where": "Six changes this week, item 4",
+   "claim": "Oct. 13",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/an-update-on-launch-of-skills-in-gemini-app-and-workspace.html",
+   "source": "Google Workspace Updates (skills delay)",
+   "passage": "Post dated October 13, 2026",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/an-update-on-launch-of-skills-in-gemini-app-and-workspace.html#:~:text=Post%20dated%20October%2013%2C%202026"
+  },
+  {
+   "n": 66,
+   "where": "Six changes this week, item 4",
+   "claim": "Gemini app: personal and Workspace accounts",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/an-update-on-launch-of-skills-in-gemini-app-and-workspace.html",
+   "source": "Google Workspace Updates (skills delay)",
+   "passage": "available to all Google Workspace customers and to users with personal Google accounts",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/an-update-on-launch-of-skills-in-gemini-app-and-workspace.html#:~:text=available%20to%20all%20Google%20Workspace%20customers%20and%20to"
+  },
+  {
+   "n": 67,
+   "where": "Six changes this week, item 4",
+   "claim": "gradual to mid-November",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/an-update-on-launch-of-skills-in-gemini-app-and-workspace.html",
+   "source": "Google Workspace Updates (skills delay)",
+   "passage": "expected completion by mid-November 2026",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/an-update-on-launch-of-skills-in-gemini-app-and-workspace.html#:~:text=expected%20completion%20by%20mid-November%202026"
+  },
+  {
+   "n": 68,
+   "where": "Six changes this week, item 4",
+   "claim": "Google had said skills would start reaching Workspace apps on Oct. 5",
+   "verdict": "unsupported",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/an-update-on-launch-of-skills-in-gemini-app-and-workspace.html",
+   "source": "Google Workspace Updates (skills delay)",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 69,
+   "where": "Six changes this week, item 4",
+   "claim": "Workspace Studio and Workspace apps launch delayed until further notice",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/an-update-on-launch-of-skills-in-gemini-app-and-workspace.html",
+   "source": "Google Workspace Updates (skills delay)",
+   "passage": "Delayed until further notice",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/an-update-on-launch-of-skills-in-gemini-app-and-workspace.html#:~:text=Delayed%20until%20further%20notice"
+  },
+  {
+   "n": 70,
+   "where": "Six changes this week, item 4",
+   "claim": "...while it makes sure skills launch safely and reliably",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/an-update-on-launch-of-skills-in-gemini-app-and-workspace.html",
+   "source": "Google Workspace Updates (skills delay)",
+   "passage": "While we work to ensure skills in Workspace launch in a safe and reliable manner, those rollouts are slightly delayed",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/an-update-on-launch-of-skills-in-gemini-app-and-workspace.html#:~:text=While%20we%20work%20to%20ensure%20skills%20in%20Workspace"
+  },
+  {
+   "n": 71,
+   "where": "Six changes this week, item 4",
+   "claim": "Skills in the Gemini app started rolling out on Oct. 13",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/an-update-on-launch-of-skills-in-gemini-app-and-workspace.html",
+   "source": "Google Workspace Updates (skills delay)",
+   "passage": "Gradual rollout starts October 13, 2026",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/an-update-on-launch-of-skills-in-gemini-app-and-workspace.html#:~:text=Gradual%20rollout%20starts%20October%2013%2C%202026"
+  },
+  {
+   "n": 72,
+   "where": "Six changes this week, item 4",
+   "claim": "Completion expected by mid-November, so not everyone will see them yet",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/an-update-on-launch-of-skills-in-gemini-app-and-workspace.html",
+   "source": "Google Workspace Updates (skills delay)",
+   "passage": "expected completion by mid-November 2026",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/an-update-on-launch-of-skills-in-gemini-app-and-workspace.html#:~:text=expected%20completion%20by%20mid-November%202026"
+  },
+  {
+   "n": 73,
+   "where": "Six changes this week, item 4",
+   "claim": "Keep your Gems as they are until Google sets new dates (implies skills replace Gems)",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/an-update-on-launch-of-skills-in-gemini-app-and-workspace.html",
+   "source": "Google Workspace Updates (skills delay)",
+   "passage": "Post's resources include admin article 'About the transition from Gems to skills'; body text does not discuss Gems",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/an-update-on-launch-of-skills-in-gemini-app-and-workspace.html#:~:text=Post%27s%20resources%20include%20admin%20article%20%27About%20the%20transition"
+  },
+  {
+   "n": 74,
+   "where": "Six changes this week, item 4",
+   "claim": "Wait",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/an-update-on-launch-of-skills-in-gemini-app-and-workspace.html",
+   "source": "Google Workspace Updates (skills delay)",
+   "passage": "Delayed / gradual rollout -> Wait per spec",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/an-update-on-launch-of-skills-in-gemini-app-and-workspace.html#:~:text=Delayed%20%2F%20gradual%20rollout%20-%3E%20Wait%20per%20spec"
+  },
+  {
+   "n": 75,
+   "where": "Six changes this week, item 5",
+   "claim": "Notion 3.8: bring a ChatGPT plan, set column permissions, limit tools",
+   "verdict": "confirmed",
+   "url": "https://www.notion.com/releases/2026-10-13",
+   "source": "Notion releases",
+   "passage": "Notion 3.8: Context for your agents",
+   "deep": "https://www.notion.com/releases/2026-10-13#:~:text=Notion%203.8%3A%20Context%20for%20your%20agents"
+  },
+  {
+   "n": 76,
+   "where": "Six changes this week, item 5",
+   "claim": "Oct. 13",
+   "verdict": "confirmed",
+   "url": "https://www.notion.com/releases/2026-10-13",
+   "source": "Notion releases",
+   "passage": "October 13, 2026",
+   "deep": "https://www.notion.com/releases/2026-10-13#:~:text=October%2013%2C%202026"
+  },
+  {
+   "n": 77,
+   "where": "Six changes this week, item 5",
+   "claim": "ChatGPT plan link: Notion Business and Enterprise",
+   "verdict": "confirmed",
+   "url": "https://www.notion.com/releases/2026-10-13",
+   "source": "Notion releases",
+   "passage": "Available for Business and Enterprise plans",
+   "deep": "https://www.notion.com/releases/2026-10-13#:~:text=Available%20for%20Business%20and%20Enterprise%20plans"
+  },
+  {
+   "n": 78,
+   "where": "Six changes this week, item 5",
+   "claim": "ChatGPT Plus or Pro subscription can cover AI usage in Notion",
+   "verdict": "confirmed",
+   "url": "https://www.notion.com/releases/2026-10-13",
+   "source": "Notion releases",
+   "passage": "Users with ChatGPT Plus or Pro can connect that subscription to cover their AI usage in Notion",
+   "deep": "https://www.notion.com/releases/2026-10-13#:~:text=Users%20with%20ChatGPT%20Plus%20or%20Pro%20can%20connect"
+  },
+  {
+   "n": 79,
+   "where": "Six changes this week, item 5",
+   "claim": "Notion says it adds no markup",
+   "verdict": "confirmed",
+   "url": "https://www.notion.com/releases/2026-10-13",
+   "source": "Notion releases",
+   "passage": "We don't add a markup",
+   "deep": "https://www.notion.com/releases/2026-10-13#:~:text=We%20don%27t%20add%20a%20markup"
+  },
+  {
+   "n": 80,
+   "where": "Six changes this week, item 5",
+   "claim": "Database owners control which properties each person or agent can view or edit",
+   "verdict": "confirmed",
+   "url": "https://www.notion.com/releases/2026-10-13",
+   "source": "Notion releases",
+   "passage": "They let database owners control which properties each person or agent can view or edit",
+   "deep": "https://www.notion.com/releases/2026-10-13#:~:text=They%20let%20database%20owners%20control%20which%20properties%20each"
+  },
+  {
+   "n": 81,
+   "where": "Six changes this week, item 5",
+   "claim": "Admins can limit connections to tools verified by Notion or specific tools",
+   "verdict": "confirmed",
+   "url": "https://www.notion.com/releases/2026-10-13",
+   "source": "Notion releases",
+   "passage": "Admins can allow only tools verified by Notion or specific tools they choose",
+   "deep": "https://www.notion.com/releases/2026-10-13#:~:text=Admins%20can%20allow%20only%20tools%20verified%20by%20Notion"
+  },
+  {
+   "n": 82,
+   "where": "Six changes this week, item 5",
+   "claim": "Check settings (permissions/admin)",
+   "verdict": "confirmed",
+   "url": "https://www.notion.com/releases/2026-10-13",
+   "source": "Notion releases",
+   "passage": "Permissions/admin change -> Check settings; work-account caveat present",
+   "deep": "https://www.notion.com/releases/2026-10-13#:~:text=Permissions%2Fadmin%20change%20-%3E%20Check%20settings%3B%20work-account%20caveat%20present"
+  },
+  {
+   "n": 83,
+   "where": "Six changes this week, item 6",
+   "claim": "Gemini 4 Argon arrives for paid Gemini app subscribers",
+   "verdict": "confirmed",
+   "url": "https://gemini.google/release-notes/",
+   "source": "Gemini release notes",
+   "passage": "Gemini 4 Argon is rolling out globally for Google AI Pro & Ultra subscribers in the Gemini app",
+   "deep": "https://gemini.google/release-notes/#:~:text=Gemini%204%20Argon%20is%20rolling%20out%20globally%20for"
+  },
+  {
+   "n": 84,
+   "where": "Six changes this week, item 6",
+   "claim": "Oct. 13",
+   "verdict": "confirmed",
+   "url": "https://gemini.google/release-notes/",
+   "source": "Gemini release notes",
+   "passage": "2026.10.13",
+   "deep": ""
+  },
+  {
+   "n": 85,
+   "where": "Six changes this week, item 6",
+   "claim": "Google AI Pro and Ultra, rolling out globally",
+   "verdict": "confirmed",
+   "url": "https://gemini.google/release-notes/",
+   "source": "Gemini release notes",
+   "passage": "rolling out globally for Google AI Pro & Ultra subscribers",
+   "deep": "https://gemini.google/release-notes/#:~:text=rolling%20out%20globally%20for%20Google%20AI%20Pro%20%26"
+  },
+  {
+   "n": 86,
+   "where": "Six changes this week, item 6",
+   "claim": "Google calls Argon its newest frontier model, built to take complex tasks from start to finish",
+   "verdict": "confirmed",
+   "url": "https://gemini.google/release-notes/",
+   "source": "Gemini release notes",
+   "passage": "4 Argon is our newest frontier model, built to take your most complex tasks from start to finish",
+   "deep": "https://gemini.google/release-notes/#:~:text=4%20Argon%20is%20our%20newest%20frontier%20model%2C%20built"
+  },
+  {
+   "n": 87,
+   "where": "Six changes this week, item 6",
+   "claim": "Try it",
+   "verdict": "confirmed",
+   "url": "https://gemini.google/release-notes/",
+   "source": "Gemini release notes",
+   "passage": "New model, available to paid tiers; verdict reasonable",
+   "deep": "https://gemini.google/release-notes/#:~:text=New%20model%2C%20available%20to%20paid%20tiers%3B%20verdict%20reasonable"
+  },
+  {
+   "n": 88,
+   "where": "Six changes this week",
+   "claim": "How Meet's next steps appear",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html",
+   "source": "Google Workspace Updates (Meet)",
+   "passage": "Descriptive",
+   "deep": ""
+  },
+  {
+   "n": 89,
+   "where": "Six changes this week, step 1",
+   "claim": "Take notes for me runs in the meeting",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html",
+   "source": "Google Workspace Updates (Meet)",
+   "passage": "must be enabled during the meeting",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html#:~:text=must%20be%20enabled%20during%20the%20meeting"
+  },
+  {
+   "n": 90,
+   "where": "Six changes this week",
+   "claim": "Meeting ends; next steps appear on post-meeting screen",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html",
+   "source": "Google Workspace Updates (Meet)",
+   "passage": "post-meeting screen ... Routines for this meeting",
+   "deep": ""
+  },
+  {
+   "n": 91,
+   "where": "Six changes this week, step 4",
+   "claim": "Draft the email or send tasks",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html",
+   "source": "Google Workspace Updates (Meet)",
+   "passage": "Drafting a follow-up email in Gmail; Exporting action items to Google Tasks",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html#:~:text=Drafting%20a%20follow-up%20email%20in%20Gmail%3B%20Exporting%20action"
+  },
+  {
+   "n": 92,
+   "where": "Six changes this week",
+   "claim": "No notes, no next steps",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html",
+   "source": "Google Workspace Updates (Meet)",
+   "passage": "'Take notes for me' must be enabled ... for any next steps to appear",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html#:~:text=%27Take%20notes%20for%20me%27%20must%20be%20enabled"
+  },
+  {
+   "n": 93,
+   "where": "Six changes this week",
+   "claim": "Admins can switch it off for the whole domain or for a group",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html",
+   "source": "Google Workspace Updates (Meet)",
+   "passage": "domain, organizational unit (OU), or group level",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html#:~:text=domain%2C%20organizational%20unit%20%28OU%29%2C%20or%20group%20level"
+  },
+  {
+   "n": 94,
+   "where": "Six changes this week",
+   "claim": "A suggestion waiting for Tab; Tab to accept",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "Press Tab to accept it",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=Press%20Tab%20to%20accept%20it"
+  },
+  {
+   "n": 95,
+   "where": "Six changes this week",
+   "claim": "The prediction is a draft; read before sending, or switch off in General settings",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "review or edit it before sending ... Turn off Show predictions in the Composer section of General settings",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=review%20or%20edit%20it%20before%20sending"
+  },
+  {
+   "n": 96,
+   "where": "The checklist, item 1",
+   "claim": "Meet's next steps on by default; admin decides",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html",
+   "source": "Google Workspace Updates (Meet)",
+   "passage": "Admins: On by default; admins can disable",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/find-your-routine-next-steps-on-post-meeting-screen-in-Google-Meet.html#:~:text=Admins%3A%20On%20by%20default%3B%20admins%20can%20disable"
+  },
+  {
+   "n": 97,
+   "where": "The checklist, item 2",
+   "claim": "Gemini Customize menu lets you manage connections",
+   "verdict": "confirmed",
+   "url": "https://gemini.google/release-notes/",
+   "source": "Gemini release notes",
+   "passage": "you decide which apps to connect to and can manage your settings at any time",
+   "deep": "https://gemini.google/release-notes/#:~:text=you%20decide%20which%20apps%20to%20connect%20to%20and"
+  },
+  {
+   "n": 98,
+   "where": "The checklist, item 3",
+   "claim": "General settings > Composer > Show predictions",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "OpenAI release notes",
+   "passage": "Turn off Show predictions in the Composer section of General settings",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=Turn%20off%20Show%20predictions%20in%20the%20Composer%20section"
+  },
+  {
+   "n": 99,
+   "where": "The checklist, item 4",
+   "claim": "Google hasn't set new dates for skills in Workspace apps",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/an-update-on-launch-of-skills-in-gemini-app-and-workspace.html",
+   "source": "Google Workspace Updates (skills delay)",
+   "passage": "Delayed until further notice",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/an-update-on-launch-of-skills-in-gemini-app-and-workspace.html#:~:text=Delayed%20until%20further%20notice"
+  },
+  {
+   "n": 100,
+   "where": "The checklist, item 5",
+   "claim": "Enterprise: creating new custom GPTs set to end Oct. 26",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq",
+   "source": "OpenAI GPT retirement FAQ",
+   "passage": "Oct 26, 2026 (planned): Creation of new custom GPTs ends",
+   "deep": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq#:~:text=Oct%2026%2C%202026%20%28planned%29%3A%20Creation%20of%20new%20custom"
+  },
+  {
+   "n": 101,
+   "where": "The checklist, item 5",
+   "claim": "Publish drafts you plan to migrate",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq",
+   "source": "OpenAI GPT retirement FAQ",
+   "passage": "Publish any drafts you need to migrate before this cutoff; public sharing is not required",
+   "deep": "https://help.openai.com/en-us/articles/20001519-custom-gpt-retirement-and-migration-faq#:~:text=Publish%20any%20drafts%20you%20need%20to%20migrate%20before"
+  }
+ ],
+ "notes": []
+}

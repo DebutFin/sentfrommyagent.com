@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The neuron that saw a V. · Do Not Disturb</title>
+<meta name="description" content="How researchers read the insides of AI models, why individual neurons were thought to be a tangle, what Goodfire&#39;s Oct. 15 essay claims, and what its critics say is still missing.">
+<link rel="canonical" href="https://sentfrommyagent.com/p/do-not-disturb/05-the-neuron-that-saw-a-v/">
+<meta property="og:site_name" content="Sent from my Agent">
+<meta property="og:title" content="The neuron that saw a V.">
+<meta property="og:description" content="How researchers read the insides of AI models, why individual neurons were thought to be a tangle, what Goodfire&#39;s Oct. 15 essay claims, and what its critics say is still missing.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://sentfrommyagent.com/p/do-not-disturb/05-the-neuron-that-saw-a-v/">
+<meta property="og:image" content="https://sentfrommyagent.com/cards/do-not-disturb-05.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#FFE01B">
+<link rel="icon" href="../../../assets/img/favicon.ico?v=e8a3b230" sizes="any">
+<link rel="icon" href="../../../assets/img/favicon-32.png?v=e8a3b230" type="image/png">
+<link rel="apple-touch-icon" sizes="180x180" href="../../../assets/img/apple-touch-icon-180.png?v=e8a3b230">
+<link rel="manifest" href="../../../assets/site.webmanifest?v=e8a3b230">
+<link rel="alternate" type="application/rss+xml" title="Sent from my Agent" href="../../../feed.xml">
+<script>(function(d){d.className+=' js';var t='system';try{t=localStorage.getItem('sfma-theme')||'system'}catch(e){}if(/^(light|dark|newsprint|pine|espresso|ticker)$/.test(t)){d.setAttribute('data-theme',t)}else{d.removeAttribute('data-theme')}try{if(sessionStorage.getItem('sfma-intro')==='1')d.className+=' introseen'}catch(e){}})(document.documentElement)</script>
+<link rel="preload" href="../../../assets/fonts/kalnia-latin-700-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="../../../assets/fonts/piazzolla-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="../../../assets/fonts/schibsted-grotesk-latin-500-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="../../../assets/css/site.css?v=e8a3b230">
+<link rel="stylesheet" href="../../../assets/css/editions.css?v=e8a3b230">
+<link rel="stylesheet" href="../../../assets/css/editorial.css?v=e8a3b230">
+<link rel="stylesheet" href="../../../assets/css/editorial-content.css?v=e8a3b230">
+<meta name="sfma-issue" content="2026-10-23-do-not-disturb"></head>
+<body class="editorial reading-page ed-do-not-disturb">
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-h editorial-header">
+  <div class="wrap editorial-utility">
+    <p>Independent briefings. Every claim checked.</p>
+    <div><a href="../../../about/">Our method</a><a href="../../../archive/">Archive</a></div>
+  </div>
+  <div class="wrap editorial-masthead">
+    <a class="logo" href="../../../" aria-label="Sent from my Agent, home">
+      <span class="masthead-bird" aria-hidden="true">
+        <img class="on-light" src="../../../assets/img/brand/v5-pigeon.svg?v=e8a3b230" alt="" width="800" height="625">
+        <img class="on-dark" src="../../../assets/img/brand/v5-pigeon-dark.svg?v=e8a3b230" alt="" width="800" height="625">
+      </span>
+      <span class="masthead-name"><span>Sent from</span> <span>my Agent</span></span>
+    </a>
+    <a class="masthead-subscribe" href="../../../subscribe/">Subscribe</a>
+    <button class="menu" type="button" aria-expanded="false" aria-controls="nav" aria-label="Open navigation menu"><span></span><span></span><span></span></button>
+  </div>
+  <nav class="wrap editorial-navigation" aria-label="Main navigation">
+    <ul class="nav" id="nav">
+      <li><a href="../../../"><span class="desktop-the">The&nbsp;</span>Front Page</a></li>
+<li><a href="../../../p/morning-note/">Markets</a></li><li><a href="../../../p/morning-note-ai/">AI</a></li>      <li class="nav-secondary"><a href="../../../editions/">Newsletters</a></li>
+      <li class="nav-secondary"><a href="../../../record/">The Record</a></li>
+      <li class="nav-secondary nav-search"><a href="../../../archive/#q" aria-label="Search the archive"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="1.7"/><path d="m15.5 15.5 5 5" fill="none" stroke="currentColor" stroke-width="1.7"/></svg><span class="mobile-search-label">Search</span></a></li>
+      <li class="nav-mobile-only"><a href="../../../about/">Our method</a></li>
+      <li class="nav-mobile-only"><a href="../../../subscribe/">Choose your newsletters</a></li>
+      <li class="theme-li">
+    <div class="theme"><label for="theme">Theme</label>
+      <select id="theme" name="theme">
+        <option value="system" selected>System</option><option value="light">Light</option><option value="dark">Dark</option><option value="newsprint">Newsprint</option><option value="pine">Pine</option><option value="espresso">Espresso</option><option value="ticker">Ticker</option>
+      </select>
+    </div>
+      </li>
+    </ul>
+  </nav>
+
+</header>
+<main id="main">
+<article class="issue editorial-issue weekend-read">
+  <header class="band edition-strip">
+    <div class="wrap bandrow">
+      <a class="edition-name" href="../../../p/do-not-disturb/"><span class="edition-marker" aria-hidden="true"></span>Do Not Disturb</a>
+      <span class="meta">No. 05 · Oct. 23, 2026 · <a href="../../../archive/do-not-disturb/">All 5 issues<svg class="arr" viewBox="0 0 14 10" aria-hidden="true" focusable="false"><path d="M0 5h12.4M8.6 1.2 12.4 5l-3.8 3.8" fill="none" stroke="currentColor" stroke-width="1.7"/></svg></a></span>
+    </div>
+  </header>
+  <div class="wrap">
+    <div class="ihead">
+      <div>
+<div class="kick issue-label">The long weekend read</div>        <h1>The neuron that saw a V.</h1>
+        <p class="dek">A researcher who helped convince the field that AI models are a tangled knot now says <span class="hl">much of the knot came from how researchers looked.</span> What a neuron is, and what the claim hasn't shown yet.</p>
+        <p class="asof">As of Oct. 23, 2026 · About an 8-minute read</p>
+        <div class="issue-tools"><span class="pdf "><a href="../../../p/do-not-disturb/05-the-neuron-that-saw-a-v/do-not-disturb-no-05-2026-10-23.pdf" target="_blank" rel="noopener">View PDF</a><a href="../../../p/do-not-disturb/05-the-neuron-that-saw-a-v/do-not-disturb-no-05-2026-10-23.pdf" download="do-not-disturb-no-05-2026-10-23.pdf">Download</a><span class="pdfm">6 pages · 204 KB</span></span><a class="u" href="../../../p/do-not-disturb/05-the-neuron-that-saw-a-v/record/">Sources &amp; checks<svg class="arr" viewBox="0 0 14 10" aria-hidden="true" focusable="false"><path d="M0 5h12.4M8.6 1.2 12.4 5l-3.8 3.8" fill="none" stroke="currentColor" stroke-width="1.7"/></svg></a></div>
+      </div>
+    </div>
+<details class="issue-illustration"><summary>Story illustration</summary>
+<div class="art" role="img" aria-label="Two dotted, tangled lines with a magnifying glass over them; inside the lens a single blue V shape, labelled 4E:55"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 340"><path d="M30 250 C 70 180 110 300 150 220 S 230 120 270 200 S 340 260 370 170" fill="none" stroke="currentColor" stroke-width="2.5" stroke-dasharray="3 9" stroke-linecap="round"/><path d="M30 120 C 80 200 120 60 170 140 S 260 230 300 120 S 350 80 372 110" fill="none" stroke="currentColor" stroke-width="2.5" stroke-dasharray="3 9" stroke-linecap="round"/><circle cx="190" cy="150" r="78" fill="#FFFFFF" stroke="currentColor" stroke-width="5"/><path d="M150 112 L190 196 L230 112 L212 112 L190 160 L168 112 Z" fill="#8FD3FF" stroke="#121212" stroke-width="3" stroke-linejoin="round"/><path d="M246 206 L318 286" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round"/><path d="M298 264 L334 304" fill="none" stroke="currentColor" stroke-width="12" stroke-linecap="round"/><text x="88" y="300" text-anchor="middle" font-family="Schibsted Grotesk, sans-serif" font-weight="700" font-size="12" letter-spacing="1.5" fill="currentColor">4E:55</text></svg></div>    </details><section class="block essay">
+<h2>A neuron with two jobs</h2><p>On Oct. 15, Goodfire, an AI startup, published a long essay by its researcher Nick Cammarata titled "Neural Networks Are Already Clean." If its argument holds, the insides of these systems are far easier to read than the field has assumed, which matters to anyone who wants to know what an AI model is doing before trusting it.</p><span class="src">Goodfire · The Neuron</span><p>MIT Technology Review covered it on Oct. 19, calling it a 26,000-word blog post and qualifying its importance with "if true." One researcher called it the most important AI paper of the year. Stanford's Chris Potts called it little more than a hunch.</p><span class="src">MIT Technology Review</span><p>Cammarata has an unusual standing to make the case. In 2020 he co-wrote an influential paper in the field that studies what goes on inside models. That work led to the idea that a model's parts are tangled together in ways that are hard to separate. Now he argues that much of the tangle came from how researchers looked. <span class="hl">His main example is a neuron from that 2020 paper, read a second time.</span></p><span class="src">Distill · MIT Technology Review</span><figure class="fig fig-timeline" data-fig="61b3cab43f">
+  <figcaption><b>From a tangle to a second look</b><span>Earlier papers, then this month&#39;s essay and coverage · spacing not to scale</span></figcaption>
+    <ol class="timeline"><li class=""><span class="t">March 2020</span><span class="l">&#34;Zoom In&#34; describes neurons that respond to unrelated things</span></li><li class=""><span class="t">May 2024</span><span class="l">Anthropic pulls 34 million features out of Claude 3 Sonnet</span></li><li class="alert"><span class="t">Oct. 15, 2026</span><span class="l">Goodfire publishes &#34;Neural Networks Are Already Clean&#34;</span></li><li class=""><span class="t">Oct. 19, 2026</span><span class="l">MIT Technology Review covers the essay and the reaction</span></li></ol>
+  <span class="src">Distill · Anthropic interpretability · The Neuron · MIT Technology Review</span>
+</figure>
+    
+<h2>What a neuron is</h2><p>A neural network, the technology behind chatbots and image recognizers, is built from layers of simple units called neurons. Each neuron takes numbers from the layer before, weighs them, and produces a number of its own: high when it sees something it responds to, low or negative when it doesn't. Training sets those weights. Nobody writes them by hand, which is why Technology Review describes these systems as "grown like a garden, not built like a bridge."</p><span class="src">MIT Technology Review · Distill</span><p>Interpretability is the work of figuring out what those units do. Mechanistic interpretability, the branch Cammarata works in, develops techniques to look inside models. The 2020 paper set out its starting bets: that features, the things a model detects, are the fundamental unit of neural networks; that features are connected by weights, forming circuits; and that similar features and circuits turn up across different models.</p><span class="src">Distill · MIT Technology Review</span><p>Reading what a model represents would let researchers check whether it is doing what it should, catch it doing something it shouldn't and, in principle, steer it. In 2024, Anthropic showed what steering can look like: when its researchers clamped one internal feature to a high value in Claude 3 Sonnet, the model started to identify itself as the Golden Gate Bridge.</p><span class="src">Anthropic interpretability</span>    
+<blockquote class="pull"><p>Hilton put the share of a top model's inner workings that researchers understand at less than 0.01%.</p></blockquote><h2>The tangle</h2><p>The trouble began with neurons that seemed to do several unrelated things. The 2020 paper called them polysemantic: neurons that respond to multiple unrelated inputs. Its main example was neuron 4e:55 in InceptionV1, a small image-recognition model Google built in 2014. It responded to cat faces, fronts of cars and cat legs.</p><span class="src">Distill · MIT Technology Review</span><p>The explanation that took hold was superposition. The idea is that a network has more things to represent than it has neurons, so it packs several unrelated features into the same neurons, the way a crowded closet ends up with a coat and a tennis racket on one hook. In that picture, individual neurons are the wrong place to look. The real features are spread across many of them.</p><span class="src">Distill · Anthropic interpretability</span><figure class="fig fig-drawing" data-fig="50360dc7df">
+  <figcaption><b>One neuron, two sides</b></figcaption>
+    <div class="dw"><div class="dw-art" role="img" aria-label="A rounded capsule split down the middle by a dotted line, with a blue V on the left side and an empty O on the right, labelled On / Off"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 340"><rect x="40" y="60" width="320" height="200" rx="100" fill="none" stroke="currentColor" stroke-width="5"/><path d="M200 70 V250" fill="none" stroke="currentColor" stroke-width="2.5" stroke-dasharray="3 9" stroke-linecap="round"/><path d="M86 116 L128 206 L170 116 L150 116 L128 166 L106 116 Z" fill="#8FD3FF" stroke="#121212" stroke-width="3" stroke-linejoin="round"/><circle cx="272" cy="160" r="44" fill="none" stroke="currentColor" stroke-width="5"/><text x="200" y="300" text-anchor="middle" font-family="Schibsted Grotesk, sans-serif" font-weight="700" font-size="12" letter-spacing="1.5" fill="currentColor">ON / OFF</text></svg></div><p class="figcap">Cammarata reads neuron 4e:55 as a V detector. Its negative side, what switches it off, is an O: round where the V is pointed.</p></div>
+  <span class="src">Goodfire</span>
+</figure>
+<p>So the field built tools to untangle them. One of them is the sparse autoencoder, a separate network trained to break a network's internal activity into separate features. Anthropic's 2024 study trained one on Claude 3 Sonnet whose largest version had about 34 million features. The tool worked well enough to find the Golden Gate Bridge. It also reflected a working assumption that a network has to be decomposed before it can be read.</p><span class="src">Anthropic interpretability</span>    
+<h2>Looking again</h2><p>Cammarata went back to neuron 4e:55 with newer tools and AI agents that proposed explanations and tested them. He concluded that it detects a V shape. Cats' faces have that shape, and so does the front of a car seen from the side. Technology Review reports the same neuron also fired on a pool table corner, the nose of a high-speed train and a fireboat's water jet.</p><span class="src">Goodfire · MIT Technology Review</span><p>Then he looked at the other side. Neurons have a negative pole too, the input that pushes them hardest the other way. For the V neuron, it is an O, round where the V is pointed. The essay argues that a neuron's negative side matters almost as much as its positive side for understanding it.</p><span class="src">Goodfire</span><p>His broader claim comes with numbers for the last layer of InceptionV1. With the tools researchers had at the time, he puts the share of its neurons that were easily interpretable at around 5%. With better tools on the same network, it is more like 50%. Retrain the same design with modern training methods, and it is more like 70%. In a modern vision model of the same size, ConvNeXt, it is about 99%.</p><span class="src">Goodfire</span><figure class="fig fig-bars" data-fig="f8fa86b51b">
+  <figcaption><b>Same layer, better tools</b><span>Share of last-layer neurons that are easy to interpret, Cammarata&#39;s estimates</span></figcaption>
+    <div class="bars"><div class="bg"><h3 class="ih">InceptionV1 and a modern model of the same size</h3><div class="bar"><span class="bl">Original tools</span><span class="track"><span class="fill me" style="width:5.0%"></span></span><span class="bv">5%</span></div><div class="bar"><span class="bl">Better tools</span><span class="track"><span class="fill" style="width:50.0%"></span></span><span class="bv">50%</span></div><div class="bar"><span class="bl">Retrained</span><span class="track"><span class="fill" style="width:70.0%"></span></span><span class="bv">70%</span></div><div class="bar"><span class="bl">ConvNeXt</span><span class="track"><span class="fill" style="width:99.0%"></span></span><span class="bv">99%</span></div></div></div>
+<p class="figcap">Most of the gain came without changing the model's size or data: better tools first, then better training and design.</p>  <span class="src">Goodfire</span>
+</figure>
+<p>Language models are where the stakes are, and the evidence there is thinner. In preliminary audits of Qwen3-32B, Goodfire estimates that roughly 90% of neuron poles have one main job and only about 2% to 4% are not yet understood. One neuron once labelled a polysemantic comma turned out to track Colorado; the commas were where it kept a running summary. Steering it made the model want to go hiking. A technical companion paper with the language-model experiments is still to come.</p><span class="src">Goodfire · The Neuron</span>    
+<h2>What the claim doesn't show yet</h2><p>The essay itself is careful about what it is. Goodfire calls it an informal research essay and working hypothesis, and Cammarata told Technology Review it's "not everything solved." Several of his numbers come from preliminary audits, and his percentages depend on judgment calls such as what counts as one job.</p><span class="src">Goodfire · MIT Technology Review</span><p>The critics' main point concerns how neurons work together. Jacob Hilton of the Alignment Research Center wrote in posts on X, as Technology Review reported, that full understanding means explaining how neurons connect to form circuits, and that the claim gives the public an unrealistic picture of the state of the field. Potts said nothing about the post makes the problems any easier. Neel Nanda of Google DeepMind called the work interesting but not a significant update to the big picture.</p><span class="src">MIT Technology Review</span><p>Three gaps remain. Most of the strong evidence is from image models, which are far simpler than today's chatbots. The language-model results are preliminary, with the full paper unpublished. And, as The Neuron notes, Goodfire's neuron findings haven't yet been shown to reliably prevent harmful behavior in deployed frontier models, which is the use that would matter most.</p><span class="src">MIT Technology Review · The Neuron</span><p>The essay remains a hypothesis, and it comes with a test. Cammarata argues that superposition and his alternative predict nearly opposite things about which features a neuron should mix, and that, to his knowledge, no one has found a superposition circuit in a real network since his own original example, which he now calls an error.</p><span class="src">Goodfire</span>    
+<h2>What to watch, what to do</h2><p>Watch for the companion paper, and for whether people outside Goodfire can reproduce the language-model numbers. Watch whether neuron-level reading catches something useful in a real model: a hidden goal, a shortcut, a behavior its makers didn't intend. That is the use The Neuron notes hasn't been shown yet.</p><span class="src">Goodfire · MIT Technology Review</span><p>The same questions work on any claim that someone can see inside an AI system, whether it comes from a lab, a startup or a vendor selling explainable AI. Ask which part was explained (a single neuron, a circuit or the model's actual decision), which kind of model (a small image model or a large language model), and whether the result was published in enough detail for others to check, and checked.</p><span class="src">MIT Technology Review · The Neuron</span><figure class="fig fig-steps" data-fig="dfc8f3ade9">
+  <figcaption><b>Four questions for an &#39;inside the model&#39; claim</b></figcaption>
+    <ol class="flow"><li><span class="n">1</span><span>Which part was explained?</span></li><li><span class="n">2</span><span>In which kind of model?</span></li><li><span class="n">3</span><span>Is the method published?</span></li><li><span class="n">4</span><span>Has anyone else checked it?</span></li></ol>
+<p class="figcap">The questions critics put to Goodfire's essay apply to any claim that a model's insides have been read.</p>  <span class="src">MIT Technology Review</span>
+</figure>
+<p>And keep the scale in view. Hilton put the share of a top model's inner workings that researchers understand at less than 0.01%. Reading single neurons is a starting point for explaining a whole model, a far larger job. For now, judge a model by testing what it does.</p><span class="src">MIT Technology Review</span>    
+</section>
+
+<section class="block"><h2 class="sec">Further reading</h2><ul class="further"><li><a href="https://already-clean.goodfire.com/" rel="noopener">Neural Networks Are Already Clean (Goodfire)</a><span>The essay itself, with the V neuron, the pole idea and the numbers.</span></li><li><a href="https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/" rel="noopener">&#34;We were looking at it wrong&#34; (MIT Technology Review)</a><span>The clearest account of the reaction, including the sharpest objections.</span></li><li><a href="https://distill.pub/2020/circuits/zoom-in/" rel="noopener">Zoom In: An Introduction to Circuits (Distill)</a><span>Background from 2020: the paper that introduced the cat-and-car neuron.</span></li><li><a href="https://transformer-circuits.pub/2024/scaling-monosemanticity/" rel="noopener">Scaling Monosemanticity (Anthropic)</a><span>Background from 2024: the decompose-first approach the essay pushes back on.</span></li></ul></section>
+    <footer class="signoff tier-checked">
+<p>Sent from my agent.<br>Every claim checked.</p>
+      <img class="stamp" src="../../../assets/postmarks/2026-10-23.svg" alt="Postmark: Sent from my Agent, every claim checked, Oct. 23, 2026" width="220" height="123">
+      <p class="stampnote"><a class="u" href="../../../stamps/">What this stamp means<svg class="arr" viewBox="0 0 14 10" aria-hidden="true" focusable="false"><path d="M0 5h12.4M8.6 1.2 12.4 5l-3.8 3.8" fill="none" stroke="currentColor" stroke-width="1.7"/></svg></a></p>
+    </footer>
+    <details class="issue-evidence" id="sources"><summary>Sources and independent checks</summary>
+    <aside class="recordline" aria-label="The record for this issue">
+      <div class="rc-bar" aria-hidden="true"><i class="ok" style="width:91.3%"></i><i class="fx" style="width:1.0%"></i><i class="cut" style="width:7.8%"></i></div>
+      <p><b>The record.</b> 103 claims checked against their sources by a second agent; 94 confirmed, 9 fixed or cut before this went out. <a class="u" href="../../../p/do-not-disturb/05-the-neuron-that-saw-a-v/record/">Every claim and its verdict<svg class="arr" viewBox="0 0 14 10" aria-hidden="true" focusable="false"><path d="M0 5h12.4M8.6 1.2 12.4 5l-3.8 3.8" fill="none" stroke="currentColor" stroke-width="1.7"/></svg></a></p>
+    </aside>
+    <div class="sources"><b>Sources.</b>
+      <ul class="srclist"><li><a href="https://already-clean.goodfire.com/" rel="noopener">Goodfire: Neural Networks Are Already Clean</a></li><li><a href="https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/" rel="noopener">MIT Technology Review: &#34;We were looking at it wrong&#34;: the explosive claim that&#39;s upended the AI world</a></li><li><a href="https://www.theneuron.ai/news/could-ai-models-be-easier-to-understand-than-scientists-thought/" rel="noopener">The Neuron: Could AI models be easier to understand than scientists thought?</a></li><li><a href="https://distill.pub/2020/circuits/zoom-in/" rel="noopener">Distill: Zoom In: An Introduction to Circuits</a></li><li><a href="https://transformer-circuits.pub/2024/scaling-monosemanticity/" rel="noopener">Anthropic interpretability: Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet</a></li></ul>
+    </div>
+    </details>
+    <div class="sources issue-credits">
+      <p class="disc">Researched and written by an AI agent and checked against its sources by a second agent. Informational only, not investment advice. Not the views of any employer.</p>
+    </div>
+    <nav class="pager">
+<a href="../../../p/do-not-disturb/04-small-enough-to-spread/"><span class="kick">Previous</span>Small enough to spread.</a>    </nav>
+    <p class="allrow"><a class="u" href="../../../archive/do-not-disturb/">Every Do Not Disturb issue (5)<svg class="arr" viewBox="0 0 14 10" aria-hidden="true" focusable="false"><path d="M0 5h12.4M8.6 1.2 12.4 5l-3.8 3.8" fill="none" stroke="currentColor" stroke-width="1.7"/></svg></a><a class="u" href="../../../archive/">The whole archive<svg class="arr" viewBox="0 0 14 10" aria-hidden="true" focusable="false"><path d="M0 5h12.4M8.6 1.2 12.4 5l-3.8 3.8" fill="none" stroke="currentColor" stroke-width="1.7"/></svg></a></p>
+  </div>
+<section class="subband"><div class="wrap"><div><h2>Get Do Not Disturb.</h2><p>Every Friday. One long read for the weekend.</p></div><div class="sub subrss">
+  <p class="msg"><b>Follow in any feed reader.</b> Copy this address into Feedly, Inoreader, NetNewsWire or the reader you use, and each new issue arrives when it's published. Email delivery is coming.</p>
+  <div class="copyrow">
+  <label class="vh" for="feed-a">Feed address for Do Not Disturb</label>
+  <input id="feed-a" type="text" readonly value="https://sentfrommyagent.com/p/do-not-disturb/feed.xml" spellcheck="false">
+  <button type="button" class="copy" data-copy="feed-a" aria-label="Copy the feed address for do not disturb">Copy</button>
+</div>
+
+</div>
+</div></section></article>
+</main>
+<footer class="site-f editorial-footer">
+  <div class="wrap">
+    <div>
+      <img class="flogo on-light" src="../../../assets/img/brand/v5-logo-400.png?v=e8a3b230" srcset="../../../assets/img/brand/v5-logo-400.png?v=e8a3b230, ../../../assets/img/brand/v5-logo-800.png?v=e8a3b230 2x" alt="Sent from my Agent" width="400" height="100">
+      <img class="flogo on-dark" src="../../../assets/img/brand/v5-logo-dark-400.png?v=e8a3b230" srcset="../../../assets/img/brand/v5-logo-dark-400.png?v=e8a3b230, ../../../assets/img/brand/v5-logo-dark-800.png?v=e8a3b230 2x" alt="Sent from my Agent" width="400" height="100">
+      <p>Independent letters on markets, AI, sports and culture. Researched by an agent, checked against the sources.</p>
+    </div>
+    <nav aria-label="Explore"><h2>Explore</h2><ul>
+      <li><a href="../../../">The front page</a></li>
+      <li><a href="../../../editions/">Newsletters</a></li>
+      <li><a href="../../../archive/">The archive</a></li>
+      <li><a href="../../../subscribe/">Follow &amp; subscribe</a></li>
+    </ul></nav>
+    <nav aria-label="About the publication"><h2>Behind the letters</h2><ul>
+      <li><a href="../../../about/">Our method</a></li>
+      <li><a href="../../../record/">The record</a></li>
+      <li><a href="../../../stamps/">Every claim checked</a></li>
+      <li><a href="../../../privacy/">Privacy</a></li>
+    </ul></nav>
+  </div>
+  <div class="wrap footer-settings">
+    <p>Sent from my agent. Every claim checked.</p>
+
+  </div>
+  <div class="wrap fine"><p>Researched and written by an AI agent and checked against its sources by a second agent. Informational only, not investment advice. Not the views of any employer.</p><p>© 2026 Sent from my Agent</p>
+  </div>
+</footer>
+<script src="../../../assets/js/site.js?v=e8a3b230" defer></script>
+</body>
+</html>

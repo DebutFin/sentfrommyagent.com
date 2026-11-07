@@ -1,0 +1,590 @@
+{
+ "issue": "https://sentfrommyagent.com/p/software-update/05-copilot-moves-to-a-budget/",
+ "newsletter": "Software Update",
+ "number": 5,
+ "date": "2026-10-29",
+ "title": "Copilot moves to a budget.",
+ "stamp": "Sent from my agent. Every claim checked.",
+ "record": "https://sentfrommyagent.com/p/software-update/05-copilot-moves-to-a-budget/record/",
+ "counts": {
+  "checked": 57,
+  "confirmed": 57,
+  "wrong": 0,
+  "unsupported": 0
+ },
+ "checked_at": "2026-10-29T08:40:00-04:00",
+ "checked_by": "a second agent, independent of the writer",
+ "claims": [
+  {
+   "n": 1,
+   "where": "dek",
+   "claim": "GitHub Enterprise now includes Copilot, metered from the first request; Copilot can drive desktop apps in preview; Google turned on a Gemini Notebook connection by default",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
+   "source": "GitHub changelog (Enterprise)",
+   "passage": "AI usage is metered from the first request against your enterprise budget; Computer use—in public preview on macOS and Windows (github.blog Copilot app changelog); Gemini Notebook ON by default, OFF in the EEA…",
+   "deep": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot#:~:text=AI%20usage%20is%20metered%20from%20the%20first%20request"
+  },
+  {
+   "n": 2,
+   "where": "summary",
+   "claim": "Copilot comes with GitHub Enterprise, computer use in preview, Fusion routing, Gemini Notebook in Gemini, Vault exports of Gemini chats and cited Sheets fills",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/google-vault-now-supports-filtered-exports-for-Gemini-in-Workspace.html",
+   "source": "Google Workspace Updates (Vault)",
+   "passage": "Each element confirmed against its vendor post below",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/google-vault-now-supports-filtered-exports-for-Gemini-in-Workspace.html#:~:text=Each%20element%20confirmed%20against%20its%20vendor%20post%20below"
+  },
+  {
+   "n": 3,
+   "where": "The story",
+   "claim": "Universe on Oct. 28 brought Copilot included with GitHub Enterprise, paid for from a usage budget rather than per-seat credits",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
+   "source": "GitHub changelog (Enterprise)",
+   "passage": "October 28, 2026 (universe26 release) ... metered from the first request against your enterprise budget ... does not include monthly AI credits per seat",
+   "deep": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot#:~:text=October%2028%2C%202026%20%28universe26%20release%29"
+  },
+  {
+   "n": 4,
+   "where": "The story",
+   "claim": "The same day GitHub put computer use for the Copilot app into public preview",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases",
+   "source": "GitHub changelog (Copilot app)",
+   "passage": "October 28, 2026 ... Computer use—in public preview on macOS and Windows",
+   "deep": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases#:~:text=October%2028%2C%202026"
+  },
+  {
+   "n": 5,
+   "where": "The story",
+   "claim": "and made Fusion, its model router, generally available",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
+   "source": "GitHub changelog (Fusion)",
+   "passage": "GitHub Copilot Fusion is generally available. ... let Copilot intelligently route and orchestrate which models it uses",
+   "deep": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion#:~:text=GitHub%20Copilot%20Fusion%20is%20generally%20available."
+  },
+  {
+   "n": 6,
+   "where": "The story",
+   "claim": "Google switched on a Gemini Notebook connection inside the Gemini app by default outside the EEA",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/take-actions-on-your-notebooks-from-Gemini-Notebook-directly-in-the-Gemini-app.html",
+   "source": "Google Workspace Updates (Gemini Notebook)",
+   "passage": "ON by default; OFF by default in the European Economic Area (post dated October 23, 2026)",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/take-actions-on-your-notebooks-from-Gemini-Notebook-directly-in-the-Gemini-app.html#:~:text=ON%20by%20default%3B%20OFF%20by%20default%20in%20the"
+  },
+  {
+   "n": 7,
+   "where": "The story",
+   "claim": "gave Vault admins a way to export Gemini conversations",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/google-vault-now-supports-filtered-exports-for-Gemini-in-Workspace.html",
+   "source": "Google Workspace Updates (Vault)",
+   "passage": "Exports occur in JSON format and include user prompts, AI responses, and referenced file links (post dated October 22, 2026)",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/google-vault-now-supports-filtered-exports-for-Gemini-in-Workspace.html#:~:text=Exports%20occur%20in%20JSON%20format%20and%20include%20user"
+  },
+  {
+   "n": 8,
+   "where": "Six changes, one verdict each",
+   "claim": "What changed · Oct. 22 – 29 (every item's announcement falls in that window)",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/google-vault-now-supports-filtered-exports-for-Gemini-in-Workspace.html",
+   "source": "Google Workspace Updates (Vault)",
+   "passage": "Vault post Oct. 22; Gemini Notebook post Oct. 23; GitHub posts and Fill with Gemini post Oct. 28",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/google-vault-now-supports-filtered-exports-for-Gemini-in-Workspace.html#:~:text=Vault%20post%20Oct.%2022%3B%20Gemini%20Notebook%20post%20Oct."
+  },
+  {
+   "n": 9,
+   "where": "Six changes, one verdict each, item 1",
+   "claim": "Oct. 28",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
+   "source": "GitHub changelog (Enterprise)",
+   "passage": "October 28, 2026",
+   "deep": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot#:~:text=October%2028%2C%202026"
+  },
+  {
+   "n": 10,
+   "where": "Six changes, one verdict each, item 1",
+   "claim": "GitHub Enterprise via an account team; self-serve in stages",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
+   "source": "GitHub changelog (Enterprise)",
+   "passage": "Enterprises with GitHub or Microsoft account teams ... Self-serve: Currently unavailable. We are opening this to self-serve customers in stages",
+   "deep": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot#:~:text=Enterprises%20with%20GitHub%20or%20Microsoft%20account%20teams"
+  },
+  {
+   "n": 11,
+   "where": "Six changes, one verdict each, item 1",
+   "claim": "Included with GitHub Enterprise; usage is metered per request",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
+   "source": "GitHub changelog (Enterprise)",
+   "passage": "AI usage is metered from the first request",
+   "deep": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot#:~:text=AI%20usage%20is%20metered%20from%20the%20first%20request"
+  },
+  {
+   "n": 12,
+   "where": "Six changes, one verdict each, item 1",
+   "claim": "Every licensed GitHub Enterprise user can get Copilot, with no monthly AI credits per seat",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
+   "source": "GitHub changelog (Enterprise)",
+   "passage": "for all licensed users ... does not include monthly AI credits per seat",
+   "deep": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot#:~:text=for%20all%20licensed%20users"
+  },
+  {
+   "n": 13,
+   "where": "Six changes, one verdict each, item 1",
+   "claim": "usage is metered from the first request against the enterprise budget",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
+   "source": "GitHub changelog (Enterprise)",
+   "passage": "AI usage is metered from the first request against your enterprise budget",
+   "deep": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot#:~:text=AI%20usage%20is%20metered%20from%20the%20first%20request"
+  },
+  {
+   "n": 14,
+   "where": "Six changes, one verdict each, item 1",
+   "claim": "Completions and next-edit suggestions work with no budget",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
+   "source": "GitHub changelog (Enterprise)",
+   "passage": "No budget required: Code completion and next edit suggestions",
+   "deep": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot#:~:text=No%20budget%20required%3A%20Code%20completion%20and%20next%20edit"
+  },
+  {
+   "n": 15,
+   "where": "Six changes, one verdict each, item 1",
+   "claim": "Chat, code review and Copilot in the cloud need budget",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
+   "source": "GitHub changelog (Enterprise)",
+   "passage": "Budget required: Copilot Chat; Copilot code review; Copilot in the cloud",
+   "deep": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot#:~:text=Budget%20required%3A%20Copilot%20Chat%3B%20Copilot%20code%20review%3B%20Copilot"
+  },
+  {
+   "n": 16,
+   "where": "Six changes, one verdict each, item 1",
+   "claim": "Users without an Enterprise license can get the same access through Copilot Standalone",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
+   "source": "GitHub changelog (Enterprise)",
+   "passage": "Users in your enterprise account who do not hold a GitHub Enterprise license get the same Copilot access through Copilot Standalone",
+   "deep": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot#:~:text=Users%20in%20your%20enterprise%20account%20who%20do%20not"
+  },
+  {
+   "n": 17,
+   "where": "Six changes, one verdict each, item 1",
+   "claim": "Copilot Standalone at $10 per user per month",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
+   "source": "GitHub changelog (Enterprise)",
+   "passage": "at $10 per user per month",
+   "deep": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot#:~:text=at%20%2410%20per%20user%20per%20month"
+  },
+  {
+   "n": 18,
+   "where": "Six changes, one verdict each, item 1",
+   "claim": "Current self-serve subscriptions are unaffected",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
+   "source": "GitHub changelog (Enterprise)",
+   "passage": "Your current subscription is unaffected",
+   "deep": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot#:~:text=Your%20current%20subscription%20is%20unaffected"
+  },
+  {
+   "n": 19,
+   "where": "Six changes, one verdict each, item 2",
+   "claim": "Oct. 28; public preview; macOS and Windows",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases",
+   "source": "GitHub changelog (Copilot app)",
+   "passage": "October 28, 2026 ... in public preview on macOS and Windows",
+   "deep": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases#:~:text=October%2028%2C%202026"
+  },
+  {
+   "n": 20,
+   "where": "Six changes, one verdict each, item 2",
+   "claim": "Copilot can read app content, click controls, enter or edit text and move between apps, including ones without an API",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases",
+   "source": "GitHub changelog (Copilot app)",
+   "passage": "read app content, click controls, enter or edit text, and navigate across apps, including those without an API",
+   "deep": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases#:~:text=read%20app%20content%2C%20click%20controls%2C%20enter%20or%20edit"
+  },
+  {
+   "n": 21,
+   "where": "Six changes, one verdict each, item 2",
+   "claim": "You turn it on under Settings > Computer Use",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases",
+   "source": "GitHub changelog (Copilot app)",
+   "passage": "open Settings > Computer Use and turn on Enable Computer Use",
+   "deep": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases#:~:text=open%20Settings%20%3E%20Computer%20Use%20and%20turn%20on"
+  },
+  {
+   "n": 22,
+   "where": "Six changes, one verdict each, item 2",
+   "claim": "on macOS it also needs Accessibility and Screen Recording permissions",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases",
+   "source": "GitHub changelog (Copilot app)",
+   "passage": "On macOS, grant the required Accessibility and Screen Recording permissions",
+   "deep": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases#:~:text=On%20macOS%2C%20grant%20the%20required%20Accessibility%20and%20Screen"
+  },
+  {
+   "n": 23,
+   "where": "Six changes, one verdict each, item 2",
+   "claim": "It asks for approval before controlling an app",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases",
+   "source": "GitHub changelog (Copilot app)",
+   "passage": "Copilot asks for your approval before controlling an app",
+   "deep": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases#:~:text=Copilot%20asks%20for%20your%20approval%20before%20controlling%20an"
+  },
+  {
+   "n": 24,
+   "where": "Six changes, one verdict each, item 2",
+   "claim": "organizations can disable it through managed settings",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases",
+   "source": "GitHub changelog (Copilot app)",
+   "passage": "your organization can disable the feature through managed settings",
+   "deep": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases#:~:text=your%20organization%20can%20disable%20the%20feature%20through%20managed"
+  },
+  {
+   "n": 25,
+   "where": "Six changes, one verdict each, item 3",
+   "claim": "Oct. 28; Copilot in VS Code, the Copilot app, Copilot CLI and JetBrains",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
+   "source": "GitHub changelog (Fusion)",
+   "passage": "Copilot Fusion is available on all Copilot plans in Visual Studio Code, the GitHub Copilot app, GitHub Copilot CLI, and JetBrains IDEs",
+   "deep": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion#:~:text=Copilot%20Fusion%20is%20available%20on%20all%20Copilot%20plans"
+  },
+  {
+   "n": 26,
+   "where": "Six changes, one verdict each, item 3",
+   "claim": "Choose Fusion at Standard, High or Max effort instead of a specific model",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
+   "source": "GitHub changelog (Fusion)",
+   "passage": "Instead of picking a model for each task, choose Copilot Fusion ... Fusion Standard / Fusion High / Fusion Max",
+   "deep": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion#:~:text=Instead%20of%20picking%20a%20model%20for%20each%20task%2C"
+  },
+  {
+   "n": 27,
+   "where": "Six changes, one verdict each, item 3",
+   "claim": "Copilot may answer with one model, escalate to a stronger one, or have a second model review the first",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
+   "source": "GitHub changelog (Fusion)",
+   "passage": "Single: One model directly solves the task; Cascade: ... escalate to a stronger model; Critique: ... another model reviews it, and the original model revises",
+   "deep": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion#:~:text=Single%3A%20One%20model%20directly%20solves%20the%20task%3B%20Cascade%3A"
+  },
+  {
+   "n": 28,
+   "where": "Six changes, one verdict each, item 3",
+   "claim": "You're billed for each model it uses at its standard rate",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
+   "source": "GitHub changelog (Fusion)",
+   "passage": "you're billed for each model it uses, at each model's standard rate",
+   "deep": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion#:~:text=you%27re%20billed%20for%20each%20model%20it%20uses%2C%20at"
+  },
+  {
+   "n": 29,
+   "where": "Six changes, one verdict each, item 3",
+   "claim": "paid plans get 30% off model costs for a limited time",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
+   "source": "GitHub changelog (Fusion)",
+   "passage": "For a limited time, users on paid Copilot plans will receive a 30% discount on model costs when using Copilot Fusion",
+   "deep": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion#:~:text=For%20a%20limited%20time%2C%20users%20on%20paid%20Copilot"
+  },
+  {
+   "n": 30,
+   "where": "Six changes, one verdict each, item 4",
+   "claim": "Oct. 23",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/take-actions-on-your-notebooks-from-Gemini-Notebook-directly-in-the-Gemini-app.html",
+   "source": "Google Workspace Updates (Gemini Notebook)",
+   "passage": "October 23, 2026 ... Available now for both Rapid Release and Scheduled Release domains",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/take-actions-on-your-notebooks-from-Gemini-Notebook-directly-in-the-Gemini-app.html#:~:text=October%2023%2C%202026"
+  },
+  {
+   "n": 31,
+   "where": "Six changes, one verdict each, item 4",
+   "claim": "Workspace, Workspace Individual and personal accounts",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/take-actions-on-your-notebooks-from-Gemini-Notebook-directly-in-the-Gemini-app.html",
+   "source": "Google Workspace Updates (Gemini Notebook)",
+   "passage": "All Google Workspace customers, Workspace Individual subscribers, and personal Google account users",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/take-actions-on-your-notebooks-from-Gemini-Notebook-directly-in-the-Gemini-app.html#:~:text=All%20Google%20Workspace%20customers%2C%20Workspace%20Individual%20subscribers%2C%20and"
+  },
+  {
+   "n": 32,
+   "where": "Six changes, one verdict each, item 4",
+   "claim": "Type @Gemini Notebook in a chat",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/take-actions-on-your-notebooks-from-Gemini-Notebook-directly-in-the-Gemini-app.html",
+   "source": "Google Workspace Updates (Gemini Notebook)",
+   "passage": "Users type @Gemini Notebook in Gemini chat",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/take-actions-on-your-notebooks-from-Gemini-Notebook-directly-in-the-Gemini-app.html#:~:text=Users%20type%20%40Gemini%20Notebook%20in%20Gemini%20chat"
+  },
+  {
+   "n": 33,
+   "where": "Six changes, one verdict each, item 4",
+   "claim": "create, edit or delete notebooks, add or delete sources, or answer questions from a notebook",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/take-actions-on-your-notebooks-from-Gemini-Notebook-directly-in-the-Gemini-app.html",
+   "source": "Google Workspace Updates (Gemini Notebook)",
+   "passage": "Create, edit, or delete a notebook; Add, update, or delete sources in a notebook; Answer questions using context from your notebook",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/take-actions-on-your-notebooks-from-Gemini-Notebook-directly-in-the-Gemini-app.html#:~:text=Create%2C%20edit%2C%20or%20delete%20a%20notebook%3B%20Add%2C%20update%2C"
+  },
+  {
+   "n": 34,
+   "where": "Six changes, one verdict each, item 4",
+   "claim": "It's on by default except in the European Economic Area, where it's off",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/take-actions-on-your-notebooks-from-Gemini-Notebook-directly-in-the-Gemini-app.html",
+   "source": "Google Workspace Updates (Gemini Notebook)",
+   "passage": "ON by default; OFF by default in the European Economic Area",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/take-actions-on-your-notebooks-from-Gemini-Notebook-directly-in-the-Gemini-app.html#:~:text=ON%20by%20default%3B%20OFF%20by%20default%20in%20the"
+  },
+  {
+   "n": 35,
+   "where": "Six changes, one verdict each, item 4",
+   "claim": "Users can switch it in Settings > Connected Apps in the Gemini app",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/take-actions-on-your-notebooks-from-Gemini-Notebook-directly-in-the-Gemini-app.html",
+   "source": "Google Workspace Updates (Gemini Notebook)",
+   "passage": "Settings > Connected Apps in the Gemini app",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/take-actions-on-your-notebooks-from-Gemini-Notebook-directly-in-the-Gemini-app.html#:~:text=Settings%20%3E%20Connected%20Apps%20in%20the%20Gemini%20app"
+  },
+  {
+   "n": 36,
+   "where": "Six changes, one verdict each, item 4",
+   "claim": "admins control it with the existing Gemini and Gemini Notebook access settings",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/take-actions-on-your-notebooks-from-Gemini-Notebook-directly-in-the-Gemini-app.html",
+   "source": "Google Workspace Updates (Gemini Notebook)",
+   "passage": "Access governed by existing Gemini and Gemini Notebook access settings",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/take-actions-on-your-notebooks-from-Gemini-Notebook-directly-in-the-Gemini-app.html#:~:text=Access%20governed%20by%20existing%20Gemini%20and%20Gemini%20Notebook"
+  },
+  {
+   "n": 37,
+   "where": "Six changes, one verdict each, item 5",
+   "claim": "Oct. 22",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/google-vault-now-supports-filtered-exports-for-Gemini-in-Workspace.html",
+   "source": "Google Workspace Updates (Vault)",
+   "passage": "October 22, 2026 ... Available now for Rapid and Scheduled Release domains",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/google-vault-now-supports-filtered-exports-for-Gemini-in-Workspace.html#:~:text=October%2022%2C%202026"
+  },
+  {
+   "n": 38,
+   "where": "Six changes, one verdict each, item 5",
+   "claim": "Business Plus, Enterprise, Frontline and Education editions with Vault",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/google-vault-now-supports-filtered-exports-for-Gemini-in-Workspace.html",
+   "source": "Google Workspace Updates (Vault)",
+   "passage": "Business Plus, Enterprise Standard/Plus, Education Fundamentals/Standard/Plus, Frontline Standard/Plus, and Enterprise Essentials Plus (with Vault add-on)",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/google-vault-now-supports-filtered-exports-for-Gemini-in-Workspace.html#:~:text=Business%20Plus%2C%20Enterprise%20Standard%2FPlus%2C%20Education%20Fundamentals%2FStandard%2FPlus%2C%20Frontline%20Standard%2FPlus%2C"
+  },
+  {
+   "n": 39,
+   "where": "Six changes, one verdict each, item 5",
+   "claim": "scope exports to accounts or organizational units of up to 5,000 users",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/google-vault-now-supports-filtered-exports-for-Gemini-in-Workspace.html",
+   "source": "Google Workspace Updates (Vault)",
+   "passage": "Define export scopes by specific user accounts or organizational units (OUs) up to 5,000 users in size",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/google-vault-now-supports-filtered-exports-for-Gemini-in-Workspace.html#:~:text=Define%20export%20scopes%20by%20specific%20user%20accounts%20or"
+  },
+  {
+   "n": 40,
+   "where": "Six changes, one verdict each, item 5",
+   "claim": "filter by date range",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/google-vault-now-supports-filtered-exports-for-Gemini-in-Workspace.html",
+   "source": "Google Workspace Updates (Vault)",
+   "passage": "Filter conversations by custodian and date range",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/google-vault-now-supports-filtered-exports-for-Gemini-in-Workspace.html#:~:text=Filter%20conversations%20by%20custodian%20and%20date%20range"
+  },
+  {
+   "n": 41,
+   "where": "Six changes, one verdict each, item 5",
+   "claim": "export conversation histories as JSON",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/google-vault-now-supports-filtered-exports-for-Gemini-in-Workspace.html",
+   "source": "Google Workspace Updates (Vault)",
+   "passage": "Exports occur in JSON format",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/google-vault-now-supports-filtered-exports-for-Gemini-in-Workspace.html#:~:text=Exports%20occur%20in%20JSON%20format"
+  },
+  {
+   "n": 42,
+   "where": "Six changes, one verdict each, item 5",
+   "claim": "API support follows within 14 days of the interface rollout",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/google-vault-now-supports-filtered-exports-for-Gemini-in-Workspace.html",
+   "source": "Google Workspace Updates (Vault)",
+   "passage": "Support for Vault API users will be available within 14 days of the UI rollout",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/google-vault-now-supports-filtered-exports-for-Gemini-in-Workspace.html#:~:text=Support%20for%20Vault%20API%20users%20will%20be%20available"
+  },
+  {
+   "n": 43,
+   "where": "Six changes, one verdict each, item 5",
+   "claim": "Retention is governed by the OU conversation history and deletion settings in the Admin console",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/google-vault-now-supports-filtered-exports-for-Gemini-in-Workspace.html",
+   "source": "Google Workspace Updates (Vault)",
+   "passage": "Admins can use OU-level conversation history and deletion settings in the Admin console to govern data retention",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/google-vault-now-supports-filtered-exports-for-Gemini-in-Workspace.html#:~:text=Admins%20can%20use%20OU-level%20conversation%20history%20and%20deletion"
+  },
+  {
+   "n": 44,
+   "where": "Six changes, one verdict each, item 6",
+   "claim": "From Oct. 20",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/fill-with-gemini-now-provides-cell-level-citations-for-web-sources-and-supports-larger-requests.html",
+   "source": "Google Workspace Updates (Fill with Gemini)",
+   "passage": "Gradual rollout (up to 15 days for feature visibility) started on October 20, 2026 (post dated October 28, 2026)",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/fill-with-gemini-now-provides-cell-level-citations-for-web-sources-and-supports-larger-requests.html#:~:text=Gradual%20rollout%20%28up%20to%2015%20days%20for%20feature"
+  },
+  {
+   "n": 45,
+   "where": "Six changes, one verdict each, item 6",
+   "claim": "Business and Enterprise Standard and Plus; Google AI Pro and Ultra",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/fill-with-gemini-now-provides-cell-level-citations-for-web-sources-and-supports-larger-requests.html",
+   "source": "Google Workspace Updates (Fill with Gemini)",
+   "passage": "Business Standard and Plus; Enterprise Standard and Plus; Google AI Pro and Ultra (also Google AI Pro for Education, AI Expanded Access)",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/fill-with-gemini-now-provides-cell-level-citations-for-web-sources-and-supports-larger-requests.html#:~:text=Business%20Standard%20and%20Plus%3B%20Enterprise%20Standard%20and%20Plus%3B"
+  },
+  {
+   "n": 46,
+   "where": "Six changes, one verdict each, item 6",
+   "claim": "each cell now shows the source it used when Gemini fills from the web",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/fill-with-gemini-now-provides-cell-level-citations-for-web-sources-and-supports-larger-requests.html",
+   "source": "Google Workspace Updates (Fill with Gemini)",
+   "passage": "Cell-level citations for web sources now display directly within individual cells",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/fill-with-gemini-now-provides-cell-level-citations-for-web-sources-and-supports-larger-requests.html#:~:text=Cell-level%20citations%20for%20web%20sources%20now%20display%20directly"
+  },
+  {
+   "n": 47,
+   "where": "Six changes, one verdict each, item 6",
+   "claim": "a single request can cover up to 3,000 cells",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/fill-with-gemini-now-provides-cell-level-citations-for-web-sources-and-supports-larger-requests.html",
+   "source": "Google Workspace Updates (Fill with Gemini)",
+   "passage": "up to 3,000 cells per request",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/fill-with-gemini-now-provides-cell-level-citations-for-web-sources-and-supports-larger-requests.html#:~:text=up%20to%203%2C000%20cells%20per%20request"
+  },
+  {
+   "n": 48,
+   "where": "Six changes, one verdict each, item 6",
+   "claim": "on by default where Gemini in Sheets is enabled",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/fill-with-gemini-now-provides-cell-level-citations-for-web-sources-and-supports-larger-requests.html",
+   "source": "Google Workspace Updates (Fill with Gemini)",
+   "passage": "This feature will be available by default to users with Gemini in Sheets enabled",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/fill-with-gemini-now-provides-cell-level-citations-for-web-sources-and-supports-larger-requests.html#:~:text=This%20feature%20will%20be%20available%20by%20default%20to"
+  },
+  {
+   "n": 49,
+   "where": "Six changes, one verdict each, item 6",
+   "claim": "rolling out over up to 15 days from Oct. 20",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/fill-with-gemini-now-provides-cell-level-citations-for-web-sources-and-supports-larger-requests.html",
+   "source": "Google Workspace Updates (Fill with Gemini)",
+   "passage": "Gradual rollout (up to 15 days for feature visibility) started on October 20, 2026",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/fill-with-gemini-now-provides-cell-level-citations-for-web-sources-and-supports-larger-requests.html#:~:text=Gradual%20rollout%20%28up%20to%2015%20days%20for%20feature"
+  },
+  {
+   "n": 50,
+   "where": "The story",
+   "claim": "premise: Copilot asks before it controls an app",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases",
+   "source": "GitHub changelog (Copilot app)",
+   "passage": "Copilot asks for your approval before controlling an app",
+   "deep": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases#:~:text=Copilot%20asks%20for%20your%20approval%20before%20controlling%20an"
+  },
+  {
+   "n": 51,
+   "where": "The story",
+   "claim": "premise: the Gemini Notebook connection starts on (outside the EEA)",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/take-actions-on-your-notebooks-from-Gemini-Notebook-directly-in-the-Gemini-app.html",
+   "source": "Google Workspace Updates (Gemini Notebook)",
+   "passage": "ON by default; OFF by default in the European Economic Area",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/take-actions-on-your-notebooks-from-Gemini-Notebook-directly-in-the-Gemini-app.html#:~:text=ON%20by%20default%3B%20OFF%20by%20default%20in%20the"
+  },
+  {
+   "n": 52,
+   "where": "The story",
+   "claim": "premise: Vault exports and retention of conversations",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/google-vault-now-supports-filtered-exports-for-Gemini-in-Workspace.html",
+   "source": "Google Workspace Updates (Vault)",
+   "passage": "Admins can use OU-level conversation history and deletion settings in the Admin console to govern data retention",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/google-vault-now-supports-filtered-exports-for-Gemini-in-Workspace.html#:~:text=Admins%20can%20use%20OU-level%20conversation%20history%20and%20deletion"
+  },
+  {
+   "n": 53,
+   "where": "The story",
+   "claim": "premise: spending now decides whether Copilot Chat and code review keep working",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
+   "source": "GitHub changelog (Enterprise)",
+   "passage": "Budget required: Copilot Chat; Copilot code review; Copilot in the cloud",
+   "deep": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot#:~:text=Budget%20required%3A%20Copilot%20Chat%3B%20Copilot%20code%20review%3B%20Copilot"
+  },
+  {
+   "n": 54,
+   "where": "The checklist, item 1",
+   "claim": "Chat and code review stop when the budget runs out; completions don't",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
+   "source": "GitHub changelog (Enterprise)",
+   "passage": "Budget required: Copilot Chat, Copilot code review ... No budget required: Code completion and next edit suggestions",
+   "deep": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot#:~:text=Budget%20required%3A%20Copilot%20Chat%2C%20Copilot%20code%20review"
+  },
+  {
+   "n": 55,
+   "where": "The checklist, item 2",
+   "claim": "Copilot computer use is a managed setting",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases",
+   "source": "GitHub changelog (Copilot app)",
+   "passage": "your organization can disable the feature through managed settings",
+   "deep": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases#:~:text=your%20organization%20can%20disable%20the%20feature%20through%20managed"
+  },
+  {
+   "n": 56,
+   "where": "The checklist, item 3",
+   "claim": "Outside the EEA, Gemini Notebook is connected by default; Settings > Connected Apps in Gemini",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/take-actions-on-your-notebooks-from-Gemini-Notebook-directly-in-the-Gemini-app.html",
+   "source": "Google Workspace Updates (Gemini Notebook)",
+   "passage": "ON by default; OFF by default in the European Economic Area ... Settings > Connected Apps in the Gemini app",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/take-actions-on-your-notebooks-from-Gemini-Notebook-directly-in-the-Gemini-app.html#:~:text=ON%20by%20default%3B%20OFF%20by%20default%20in%20the"
+  },
+  {
+   "n": 57,
+   "where": "The checklist, item 4",
+   "claim": "Vault admins: conversation history and deletion settings for each organizational unit",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/10/google-vault-now-supports-filtered-exports-for-Gemini-in-Workspace.html",
+   "source": "Google Workspace Updates (Vault)",
+   "passage": "OU-level conversation history and deletion settings in the Admin console",
+   "deep": "https://workspaceupdates.googleblog.com/2026/10/google-vault-now-supports-filtered-exports-for-Gemini-in-Workspace.html#:~:text=OU-level%20conversation%20history%20and%20deletion%20settings%20in%20the"
+  }
+ ],
+ "notes": []
+}

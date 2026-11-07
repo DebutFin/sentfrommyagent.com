@@ -1,0 +1,1070 @@
+{
+ "issue": "https://sentfrommyagent.com/p/predictive-text/03-the-agent-got-a-badge/",
+ "newsletter": "Predictive Text",
+ "number": 3,
+ "date": "2026-10-12",
+ "title": "The agent got a badge.",
+ "stamp": "Sent from my agent. Every claim checked.",
+ "record": "https://sentfrommyagent.com/p/predictive-text/03-the-agent-got-a-badge/record/",
+ "counts": {
+  "checked": 105,
+  "confirmed": 100,
+  "wrong": 2,
+  "unsupported": 3
+ },
+ "checked_at": "2026-10-24T00:00:00-04:00",
+ "checked_by": "a second agent, independent of the writer",
+ "claims": [
+  {
+   "n": 1,
+   "where": "title",
+   "claim": "The agent got a badge. (agents get own work identity)",
+   "verdict": "confirmed",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+   "source": "Google Cloud",
+   "passage": "The agent receives its own Workspace account, including an email address, calendar, Drive, and presence in your company directory",
+   "deep": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026#:~:text=The%20agent%20receives%20its%20own%20Workspace%20account%2C%20including"
+  },
+  {
+   "n": 2,
+   "where": "dek",
+   "claim": "Google's coworker agents get their own work account, email address and place in the company directory",
+   "verdict": "confirmed",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+   "source": "Google Cloud",
+   "passage": "The agent receives its own Workspace account, including an email address, calendar, Drive, and presence in your company directory",
+   "deep": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026#:~:text=The%20agent%20receives%20its%20own%20Workspace%20account%2C%20including"
+  },
+  {
+   "n": 3,
+   "where": "dek",
+   "claim": "every action is logged under the agent's name",
+   "verdict": "confirmed",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+   "source": "Google Cloud",
+   "passage": "every action Gemini takes is written to an audit trail and attributed to the agent rather than to a person",
+   "deep": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026#:~:text=every%20action%20Gemini%20takes%20is%20written%20to%20an"
+  },
+  {
+   "n": 4,
+   "where": "dek",
+   "claim": "The same week, OpenAI and Google made AI-made content easier to detect",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/eu-text-provenance/",
+   "source": "OpenAI watermark",
+   "passage": "Oct. 5: 'Starting today, API customers around the world will be able to opt in to watermarked text outputs'; Google SynthID Detector opened to everyone Oct. 7 (blog.google)",
+   "deep": "https://openai.com/index/eu-text-provenance/#:~:text=Oct.%205%3A%20%27Starting%20today%2C%20API%20customers%20around%20the"
+  },
+  {
+   "n": 5,
+   "where": "summary",
+   "claim": "Google gave Gemini coworker agents their own Workspace accounts and audit trails",
+   "verdict": "confirmed",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+   "source": "Google Cloud",
+   "passage": "The agent receives its own Workspace account ... every action Gemini takes is written to an audit trail and attributed to the agent",
+   "deep": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026#:~:text=The%20agent%20receives%20its%20own%20Workspace%20account"
+  },
+  {
+   "n": 6,
+   "where": "summary",
+   "claim": "OpenAI began watermarking text in the EU",
+   "verdict": "wrong",
+   "url": "https://openai.com/index/eu-text-provenance/",
+   "source": "OpenAI watermark",
+   "passage": "Over the coming weeks, we will add an invisible watermark to eligible ChatGPT and Codex text output in the European Union",
+   "deep": "https://openai.com/index/eu-text-provenance/#:~:text=Over%20the%20coming%20weeks%2C%20we%20will%20add%20an"
+  },
+  {
+   "n": 7,
+   "where": "summary",
+   "claim": "SynthID Detector opened to the public",
+   "verdict": "confirmed",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/",
+   "source": "Google SynthID",
+   "passage": "Now, we're expanding access to everyone – with the tool available globally in English starting today",
+   "deep": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/#:~:text=Now%2C%20we%27re%20expanding%20access%20to%20everyone%20%E2%80%93%20with"
+  },
+  {
+   "n": 8,
+   "where": "art alt / art svg",
+   "claim": "Badge labelled AGENT (illustration, no factual content beyond the lead story)",
+   "verdict": "confirmed",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+   "source": "Google Cloud",
+   "passage": "A coworker agent acts under its own identity rather than yours",
+   "deep": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026#:~:text=A%20coworker%20agent%20acts%20under%20its%20own%20identity"
+  },
+  {
+   "n": 9,
+   "where": "The week in four, item 1",
+   "claim": "Google's coworker agents get their own Workspace account, email address and directory listing",
+   "verdict": "confirmed",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+   "source": "Google Cloud",
+   "passage": "its own Workspace account, including an email address, calendar, Drive, and presence in your company directory",
+   "deep": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026#:~:text=its%20own%20Workspace%20account%2C%20including%20an%20email%20address%2C"
+  },
+  {
+   "n": 10,
+   "where": "The week in four, item 1",
+   "claim": "act under their own identity, not yours",
+   "verdict": "confirmed",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+   "source": "Google Cloud",
+   "passage": "A coworker agent acts under its own identity rather than yours",
+   "deep": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026#:~:text=A%20coworker%20agent%20acts%20under%20its%20own%20identity"
+  },
+  {
+   "n": 11,
+   "where": "The week in four, item 2",
+   "claim": "OpenAI will watermark ChatGPT and Codex text for eligible EU users over the coming weeks",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/eu-text-provenance/",
+   "source": "OpenAI watermark",
+   "passage": "Over the coming weeks, we will add an invisible watermark to eligible ChatGPT and Codex text output in the European Union",
+   "deep": "https://openai.com/index/eu-text-provenance/#:~:text=Over%20the%20coming%20weeks%2C%20we%20will%20add%20an"
+  },
+  {
+   "n": 12,
+   "where": "The week in four, item 2",
+   "claim": "to meet the EU AI Act",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/eu-text-provenance/",
+   "source": "OpenAI watermark",
+   "passage": "The EU AI Act requires generative AI providers to make generated text identifiable in a machine-readable way",
+   "deep": "https://openai.com/index/eu-text-provenance/#:~:text=The%20EU%20AI%20Act%20requires%20generative%20AI%20providers"
+  },
+  {
+   "n": 13,
+   "where": "The week in four, item 3",
+   "claim": "Google opened SynthID Detector to the public for images, video and audio",
+   "verdict": "confirmed",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/",
+   "source": "Google SynthID",
+   "passage": "anyone can easily check if an image, video, or audio file was made with AI from Google or our partners",
+   "deep": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/#:~:text=anyone%20can%20easily%20check%20if%20an%20image%2C%20video%2C"
+  },
+  {
+   "n": 14,
+   "where": "The week in four, item 3",
+   "claim": "including watermarks from OpenAI, Nvidia and Kakao",
+   "verdict": "confirmed",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/",
+   "source": "Google SynthID",
+   "passage": "including OpenAI, NVIDIA, Kakao, and soon, Apple",
+   "deep": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/#:~:text=including%20OpenAI%2C%20NVIDIA%2C%20Kakao%2C%20and%20soon%2C%20Apple"
+  },
+  {
+   "n": 15,
+   "where": "The week in four, item 4",
+   "claim": "GPT-6 brought interactive charts, forms and tools to ChatGPT answers",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/gpt-6-for-everyone/",
+   "source": "OpenAI GPT-6",
+   "passage": "responses can include graphics, tappable buttons, forms, charts, and interactive experiences",
+   "deep": "https://openai.com/index/gpt-6-for-everyone/#:~:text=responses%20can%20include%20graphics%2C%20tappable%20buttons%2C%20forms%2C%20charts%2C"
+  },
+  {
+   "n": 16,
+   "where": "The week in four, item 4",
+   "claim": "Anthropic put Claude inside Google Docs, Sheets and Slides",
+   "verdict": "confirmed",
+   "url": "https://9to5google.com/2026/10/06/claude-google-docs-sheet-slides/",
+   "source": "9to5Google",
+   "passage": "A sidebar opens up alongside your file in Docs, Sheets, or Slides",
+   "deep": "https://9to5google.com/2026/10/06/claude-google-docs-sheet-slides/#:~:text=A%20sidebar%20opens%20up%20alongside%20your%20file%20in"
+  },
+  {
+   "n": 17,
+   "where": "The story",
+   "claim": "Gemini at Work event",
+   "verdict": "confirmed",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+   "source": "Google Cloud",
+   "passage": "This article is adapted from Thomas Kurian's keynote address at Gemini at Work 2026",
+   "deep": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026#:~:text=This%20article%20is%20adapted%20from%20Thomas%20Kurian%27s%20keynote"
+  },
+  {
+   "n": 18,
+   "where": "The story",
+   "claim": "on Thursday, Oct. 8",
+   "verdict": "confirmed",
+   "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+   "source": "TechCrunch",
+   "passage": "At a Google Cloud event on Thursday (article dated October 8, 2026)",
+   "deep": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/#:~:text=At%20a%20Google%20Cloud%20event%20on%20Thursday%20%28article"
+  },
+  {
+   "n": 19,
+   "where": "The story",
+   "claim": "a single 'universal agent for work' in Gemini",
+   "verdict": "confirmed",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+   "source": "Google Cloud",
+   "passage": "the Gemini agent: your new single, universal agent for work",
+   "deep": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026#:~:text=the%20Gemini%20agent%3A%20your%20new%20single%2C%20universal%20agent"
+  },
+  {
+   "n": 20,
+   "where": "The story",
+   "claim": "coworker agents you create by describing a role",
+   "verdict": "confirmed",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+   "source": "Google Cloud",
+   "passage": "You simply describe the role you need, and Gemini creates it",
+   "deep": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026#:~:text=You%20simply%20describe%20the%20role%20you%20need%2C%20and"
+  },
+  {
+   "n": 21,
+   "where": "The story",
+   "claim": "own Workspace account: an email address, a calendar, Drive and a place in the company directory",
+   "verdict": "confirmed",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+   "source": "Google Cloud",
+   "passage": "its own Workspace account, including an email address, calendar, Drive, and presence in your company directory",
+   "deep": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026#:~:text=its%20own%20Workspace%20account%2C%20including%20an%20email%20address%2C"
+  },
+  {
+   "n": 22,
+   "where": "The story",
+   "claim": "quote 'acts under its own identity rather than yours' and sees only what you share",
+   "verdict": "confirmed",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+   "source": "Google Cloud",
+   "passage": "A coworker agent acts under its own identity rather than yours, and it sees only what you share with it",
+   "deep": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026#:~:text=A%20coworker%20agent%20acts%20under%20its%20own%20identity"
+  },
+  {
+   "n": 23,
+   "where": "The story",
+   "claim": "Businesses get it first",
+   "verdict": "confirmed",
+   "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+   "source": "TechCrunch",
+   "passage": "Google will initially focus on bringing the agent to businesses before later rolling it out to consumers",
+   "deep": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/#:~:text=Google%20will%20initially%20focus%20on%20bringing%20the%20agent"
+  },
+  {
+   "n": 24,
+   "where": "The story",
+   "claim": "Google gave no general-availability date or price",
+   "verdict": "confirmed",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+   "source": "Google Cloud",
+   "passage": "Neither the Google Cloud post nor TechCrunch gives a GA date or price for the Gemini agent (only industry previews and spend-cap controls)",
+   "deep": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026#:~:text=Neither%20the%20Google%20Cloud%20post%20nor%20TechCrunch%20gives"
+  },
+  {
+   "n": 25,
+   "where": "The story",
+   "claim": "every action written to an audit trail attributed to the agent rather than a person",
+   "verdict": "confirmed",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+   "source": "Google Cloud",
+   "passage": "every action Gemini takes is written to an audit trail and attributed to the agent rather than to a person",
+   "deep": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026#:~:text=every%20action%20Gemini%20takes%20is%20written%20to%20an"
+  },
+  {
+   "n": 26,
+   "where": "The story",
+   "claim": "permissions approved by the organization's security administrators",
+   "verdict": "confirmed",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+   "source": "Google Cloud",
+   "passage": "role-based access permissions, approved by your organization's security administrators",
+   "deep": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026#:~:text=role-based%20access%20permissions%2C%20approved%20by%20your%20organization%27s%20security"
+  },
+  {
+   "n": 27,
+   "where": "The story",
+   "claim": "it runs in a sandbox",
+   "verdict": "confirmed",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+   "source": "Google Cloud",
+   "passage": "All Gemini agents execute tasks safely inside an Agent Sandbox with its own network boundary",
+   "deep": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026#:~:text=All%20Gemini%20agents%20execute%20tasks%20safely%20inside%20an"
+  },
+  {
+   "n": 28,
+   "where": "The story",
+   "claim": "traffic passes through a gateway that enforces policy in real time",
+   "verdict": "confirmed",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+   "source": "Google Cloud",
+   "passage": "passes through Agent Gateway, an AI network firewall enforcing your organization's policies in real time",
+   "deep": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026#:~:text=passes%20through%20Agent%20Gateway%2C%20an%20AI%20network%20firewall"
+  },
+  {
+   "n": 29,
+   "where": "The story",
+   "claim": "When a project hits its spend cap, that project's agent pauses until someone resumes it",
+   "verdict": "confirmed",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+   "source": "Google Cloud",
+   "passage": "if a spend cap is triggered, that project's agent pauses, and you can choose to resume work with a single click in the console",
+   "deep": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026#:~:text=if%20a%20spend%20cap%20is%20triggered%2C%20that%20project%27s"
+  },
+  {
+   "n": 30,
+   "where": "The story",
+   "claim": "On Sept. 25, Microsoft said Copilot's Autopilot agent keeps a distinct identity, memory and workspace",
+   "verdict": "confirmed",
+   "url": "https://venturebeat.com/technology/microsoft-revamps-its-copilot-ai-with-a-persistent-autopilot-agent-and-hosting-for-ai-generated-apps",
+   "source": "VentureBeat",
+   "passage": "the system maintains a distinct identity, memory, computing environment and workspace (announced Friday, Sept. 25, 2026)",
+   "deep": "https://venturebeat.com/technology/microsoft-revamps-its-copilot-ai-with-a-persistent-autopilot-agent-and-hosting-for-ai-generated-apps#:~:text=the%20system%20maintains%20a%20distinct%20identity%2C%20memory%2C%20computing"
+  },
+  {
+   "n": 31,
+   "where": "The story",
+   "claim": "On Sept. 23, Meta said its Muse agent will get its own email address",
+   "verdict": "confirmed",
+   "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+   "source": "TechCrunch (Muse)",
+   "passage": "Muse will get its own email address (TechCrunch, Sept. 23, 2026)",
+   "deep": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/#:~:text=Muse%20will%20get%20its%20own%20email%20address%20%28TechCrunch%2C"
+  },
+  {
+   "n": 32,
+   "where": "The story",
+   "claim": "Google is the third large vendor in a month to treat an agent as a colleague with an identity",
+   "verdict": "confirmed",
+   "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+   "source": "TechCrunch (Muse)",
+   "passage": "Follows from Sept. 23 (Meta), Sept. 25 (Microsoft), Oct. 8 (Google) dates on the three cited pages; 'third' is the issue's count of these three",
+   "deep": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/#:~:text=Follows%20from%20Sept.%2023%20%28Meta%29%2C%20Sept.%2025%20%28Microsoft%29%2C"
+  },
+  {
+   "n": 33,
+   "where": "The story",
+   "claim": "an agent with its own account can be scoped, audited and paused",
+   "verdict": "confirmed",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+   "source": "Google Cloud",
+   "passage": "fine-grained, role-based access permissions ... audit trail ... that project's agent pauses",
+   "deep": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026#:~:text=fine-grained%2C%20role-based%20access%20permissions"
+  },
+  {
+   "n": 34,
+   "where": "The story",
+   "claim": "It also needs ... a person who owns it, and someone who closes it when the work is done",
+   "verdict": "unsupported",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+   "source": "Google Cloud",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 35,
+   "where": "The story",
+   "claim": "Agents with an identity of their own; announcement dates",
+   "verdict": "confirmed",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+   "source": "Google Cloud",
+   "passage": "Dates match the three cited pages",
+   "deep": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026#:~:text=Dates%20match%20the%20three%20cited%20pages"
+  },
+  {
+   "n": 36,
+   "where": "The story, step 1",
+   "claim": "Sept. 23 Meta: Muse will get its own email address",
+   "verdict": "confirmed",
+   "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+   "source": "TechCrunch (Muse)",
+   "passage": "Muse will get its own email address",
+   "deep": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/#:~:text=Muse%20will%20get%20its%20own%20email%20address"
+  },
+  {
+   "n": 37,
+   "where": "The story, step 2",
+   "claim": "Sept. 25 Microsoft: Autopilot keeps a distinct identity and workspace",
+   "verdict": "confirmed",
+   "url": "https://venturebeat.com/technology/microsoft-revamps-its-copilot-ai-with-a-persistent-autopilot-agent-and-hosting-for-ai-generated-apps",
+   "source": "VentureBeat",
+   "passage": "maintains a distinct identity, memory, computing environment and workspace",
+   "deep": "https://venturebeat.com/technology/microsoft-revamps-its-copilot-ai-with-a-persistent-autopilot-agent-and-hosting-for-ai-generated-apps#:~:text=maintains%20a%20distinct%20identity%2C%20memory%2C%20computing%20environment%20and"
+  },
+  {
+   "n": 38,
+   "where": "The story, step 3",
+   "claim": "Oct. 8 Google: coworker agents get a Workspace account and directory listing",
+   "verdict": "confirmed",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+   "source": "Google Cloud",
+   "passage": "own Workspace account ... presence in your company directory (post dated October 8, 2026)",
+   "deep": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026#:~:text=own%20Workspace%20account"
+  },
+  {
+   "n": 39,
+   "where": "The story, item 1",
+   "claim": "Audit trail in the agent's own name",
+   "verdict": "confirmed",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+   "source": "Google Cloud",
+   "passage": "attributed to the agent rather than to a person",
+   "deep": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026#:~:text=attributed%20to%20the%20agent%20rather%20than%20to%20a"
+  },
+  {
+   "n": 40,
+   "where": "The story, item 2",
+   "claim": "A spend cap that pauses it",
+   "verdict": "confirmed",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+   "source": "Google Cloud",
+   "passage": "if a spend cap is triggered, that project's agent pauses",
+   "deep": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026#:~:text=if%20a%20spend%20cap%20is%20triggered%2C%20that%20project%27s"
+  },
+  {
+   "n": 41,
+   "where": "The story, item 3",
+   "claim": "A gateway that enforces policy",
+   "verdict": "confirmed",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+   "source": "Google Cloud",
+   "passage": "Agent Gateway, an AI network firewall enforcing your organization's policies in real time",
+   "deep": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026#:~:text=Agent%20Gateway%2C%20an%20AI%20network%20firewall%20enforcing%20your"
+  },
+  {
+   "n": 42,
+   "where": "The story, item 4",
+   "claim": "A sandbox it runs in",
+   "verdict": "confirmed",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+   "source": "Google Cloud",
+   "passage": "inside an Agent Sandbox with its own network boundary",
+   "deep": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026#:~:text=inside%20an%20Agent%20Sandbox%20with%20its%20own%20network"
+  },
+  {
+   "n": 43,
+   "where": "The story, item 5",
+   "claim": "Permissions your admins approve",
+   "verdict": "confirmed",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+   "source": "Google Cloud",
+   "passage": "approved by your organization's security administrators",
+   "deep": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026#:~:text=approved%20by%20your%20organization%27s%20security%20administrators"
+  },
+  {
+   "n": 44,
+   "where": "The story, item 6",
+   "claim": "Only what you share with it",
+   "verdict": "confirmed",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+   "source": "Google Cloud",
+   "passage": "it sees only what you share with it",
+   "deep": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026#:~:text=it%20sees%20only%20what%20you%20share%20with%20it"
+  },
+  {
+   "n": 45,
+   "where": "The story",
+   "claim": "None of these layers names a person who owns the agent; deciding who answers for it is up to the company",
+   "verdict": "unsupported",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+   "source": "Google Cloud",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 46,
+   "where": "The story",
+   "claim": "The controls Google described",
+   "verdict": "confirmed",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+   "source": "Google Cloud",
+   "passage": "All six layers appear in the Google Cloud post",
+   "deep": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026#:~:text=All%20six%20layers%20appear%20in%20the%20Google%20Cloud"
+  },
+  {
+   "n": 47,
+   "where": "shipped, item 1",
+   "claim": "OpenAI GPT-6 with Intelligent UI, Oct. 7",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/gpt-6-for-everyone/",
+   "source": "OpenAI GPT-6",
+   "passage": "GPT-6 in ChatGPT introduces Intelligent UI (dated October 7, 2026)",
+   "deep": "https://openai.com/index/gpt-6-for-everyone/#:~:text=GPT-6%20in%20ChatGPT%20introduces%20Intelligent%20UI%20%28dated%20October"
+  },
+  {
+   "n": 48,
+   "where": "shipped, item 1",
+   "claim": "ChatGPT can answer with interactive graphics, buttons, forms and charts",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/gpt-6-for-everyone/",
+   "source": "OpenAI GPT-6",
+   "passage": "responses can include graphics, tappable buttons, forms, charts, and interactive experiences",
+   "deep": "https://openai.com/index/gpt-6-for-everyone/#:~:text=responses%20can%20include%20graphics%2C%20tappable%20buttons%2C%20forms%2C%20charts%2C"
+  },
+  {
+   "n": 49,
+   "where": "shipped, item 1",
+   "claim": "Rolled out to Plus, Pro, Business and Enterprise on Oct. 7",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/gpt-6-for-everyone/",
+   "source": "OpenAI GPT-6",
+   "passage": "starts rolling out globally to ChatGPT Plus, Pro, Business and Enterprise tiers today",
+   "deep": "https://openai.com/index/gpt-6-for-everyone/#:~:text=starts%20rolling%20out%20globally%20to%20ChatGPT%20Plus%2C%20Pro%2C"
+  },
+  {
+   "n": 50,
+   "where": "shipped, item 1",
+   "claim": "Enterprise depends on admin settings",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/gpt-6-for-everyone/",
+   "source": "OpenAI GPT-6",
+   "passage": "Enterprise availability depends on workplace admin settings",
+   "deep": "https://openai.com/index/gpt-6-for-everyone/#:~:text=Enterprise%20availability%20depends%20on%20workplace%20admin%20settings"
+  },
+  {
+   "n": 51,
+   "where": "shipped, item 1",
+   "claim": "to Free and Go on Oct. 8",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/gpt-6-for-everyone/",
+   "source": "OpenAI GPT-6",
+   "passage": "Starting tomorrow, the rollout expands to Free and Go tiers. (post dated Oct. 7)",
+   "deep": "https://openai.com/index/gpt-6-for-everyone/#:~:text=Starting%20tomorrow%2C%20the%20rollout%20expands%20to%20Free%20and"
+  },
+  {
+   "n": 52,
+   "where": "shipped, item 1",
+   "claim": "Work and Codex models are unchanged",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/gpt-6-for-everyone/",
+   "source": "OpenAI GPT-6",
+   "passage": "The models powering Work and Codex are not changing as part of this release",
+   "deep": "https://openai.com/index/gpt-6-for-everyone/#:~:text=The%20models%20powering%20Work%20and%20Codex%20are%20not"
+  },
+  {
+   "n": 53,
+   "where": "shipped, item 2",
+   "claim": "Anthropic Claude Haiku 5.5, Oct. 7",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/claude-haiku-5-5",
+   "source": "Anthropic Haiku",
+   "passage": "Page dated October 7, 2026",
+   "deep": "https://www.anthropic.com/claude-haiku-5-5#:~:text=Page%20dated%20October%207%2C%202026"
+  },
+  {
+   "n": 54,
+   "where": "shipped, item 2",
+   "claim": "$0.10 per million input and $0.50 output for prompts up to 100k tokens",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/claude-haiku-5-5",
+   "source": "Anthropic Haiku",
+   "passage": "Haiku 5.5 (prompts up to 100k / over 100k): input $0.10 / $0.50, output $0.50 / $2.50",
+   "deep": "https://www.anthropic.com/claude-haiku-5-5#:~:text=Haiku%205.5%20%28prompts%20up%20to%20100k%20%2F%20over"
+  },
+  {
+   "n": 55,
+   "where": "shipped, item 2",
+   "claim": "costs around 75% less to run than Haiku 4.5 on average",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/claude-haiku-5-5",
+   "source": "Anthropic Haiku",
+   "passage": "On average, it now costs around 75% less to run",
+   "deep": "https://www.anthropic.com/claude-haiku-5-5#:~:text=On%20average%2C%20it%20now%20costs%20around%2075%25%20less"
+  },
+  {
+   "n": 56,
+   "where": "shipped, item 2",
+   "claim": "Sonnet 5.5's cache reads halved, to $0.10 per million",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/claude-haiku-5-5",
+   "source": "Anthropic Haiku",
+   "passage": "Cache reads now cost 50% less: $0.10 per million tokens rather than $0.20",
+   "deep": "https://www.anthropic.com/claude-haiku-5-5#:~:text=Cache%20reads%20now%20cost%2050%25%20less%3A%20%240.10%20per"
+  },
+  {
+   "n": 57,
+   "where": "shipped, item 3",
+   "claim": "Claude for Google Workspace, Oct. 6",
+   "verdict": "confirmed",
+   "url": "https://9to5google.com/2026/10/06/claude-google-docs-sheet-slides/",
+   "source": "9to5Google",
+   "passage": "public beta starting today (article dated October 6, 2026)",
+   "deep": "https://9to5google.com/2026/10/06/claude-google-docs-sheet-slides/#:~:text=public%20beta%20starting%20today%20%28article%20dated%20October%206%2C"
+  },
+  {
+   "n": 58,
+   "where": "shipped, item 3",
+   "claim": "sidebar add-on in public beta for all paid Claude users",
+   "verdict": "confirmed",
+   "url": "https://9to5google.com/2026/10/06/claude-google-docs-sheet-slides/",
+   "source": "9to5Google",
+   "passage": "The Claude for Google Workspace beta is available to all paid Claude users",
+   "deep": "https://9to5google.com/2026/10/06/claude-google-docs-sheet-slides/#:~:text=The%20Claude%20for%20Google%20Workspace%20beta%20is%20available"
+  },
+  {
+   "n": 59,
+   "where": "shipped, item 3",
+   "claim": "rewrites sections in Docs",
+   "verdict": "confirmed",
+   "url": "https://9to5google.com/2026/10/06/claude-google-docs-sheet-slides/",
+   "source": "9to5Google",
+   "passage": "rewrite portions of a document, or restyle sections",
+   "deep": "https://9to5google.com/2026/10/06/claude-google-docs-sheet-slides/#:~:text=rewrite%20portions%20of%20a%20document%2C%20or%20restyle%20sections"
+  },
+  {
+   "n": 60,
+   "where": "shipped, item 3",
+   "claim": "writes formulas in Sheets",
+   "verdict": "confirmed",
+   "url": "https://9to5google.com/2026/10/06/claude-google-docs-sheet-slides/",
+   "source": "9to5Google",
+   "passage": "In Sheets, you can have Claude write formulas or build tables",
+   "deep": "https://9to5google.com/2026/10/06/claude-google-docs-sheet-slides/#:~:text=In%20Sheets%2C%20you%20can%20have%20Claude%20write%20formulas"
+  },
+  {
+   "n": 61,
+   "where": "shipped, item 3",
+   "claim": "builds slides from your existing layouts",
+   "verdict": "confirmed",
+   "url": "https://9to5google.com/2026/10/06/claude-google-docs-sheet-slides/",
+   "source": "9to5Google",
+   "passage": "Claude can build new slides using existing layouts or themes",
+   "deep": "https://9to5google.com/2026/10/06/claude-google-docs-sheet-slides/#:~:text=Claude%20can%20build%20new%20slides%20using%20existing%20layouts"
+  },
+  {
+   "n": 62,
+   "where": "shipped, item 3",
+   "claim": "'ask before edits' mode shows changes before they're applied",
+   "verdict": "confirmed",
+   "url": "https://9to5google.com/2026/10/06/claude-google-docs-sheet-slides/",
+   "source": "9to5Google",
+   "passage": "There's an 'ask before edits' mode where Claude will let you preview changes before they're made",
+   "deep": "https://9to5google.com/2026/10/06/claude-google-docs-sheet-slides/#:~:text=There%27s%20an%20%27ask%20before%20edits%27%20mode%20where%20Claude"
+  },
+  {
+   "n": 63,
+   "where": "shipped",
+   "claim": "Answers you can click, and a cheaper small model",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/gpt-6-for-everyone/",
+   "source": "OpenAI GPT-6",
+   "passage": "tappable buttons, forms ... ; Haiku 5.5 priced 90% lower than Haiku 4.5 (anthropic.com)",
+   "deep": "https://openai.com/index/gpt-6-for-everyone/#:~:text=tappable%20buttons%2C%20forms"
+  },
+  {
+   "n": 64,
+   "where": "shipped",
+   "claim": "Input: Haiku 5.5 $0.10, Haiku 4.5 $1.00",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/claude-haiku-5-5",
+   "source": "Anthropic Haiku",
+   "passage": "Haiku 5.5 input $0.10 (≤100k); Haiku 4.5 $1.00",
+   "deep": "https://www.anthropic.com/claude-haiku-5-5#:~:text=Haiku%205.5%20input%20%240.10%20%28%E2%89%A4100k%29%3B%20Haiku%204.5%20%241.00"
+  },
+  {
+   "n": 65,
+   "where": "shipped",
+   "claim": "Output: Haiku 5.5 $0.50, Haiku 4.5 $5.00",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/claude-haiku-5-5",
+   "source": "Anthropic Haiku",
+   "passage": "Haiku 5.5 output $0.50 (≤100k); Haiku 4.5 $5.00",
+   "deep": "https://www.anthropic.com/claude-haiku-5-5#:~:text=Haiku%205.5%20output%20%240.50%20%28%E2%89%A4100k%29%3B%20Haiku%204.5%20%245.00"
+  },
+  {
+   "n": 66,
+   "where": "shipped",
+   "claim": "List prices for prompts up to 100k tokens",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/claude-haiku-5-5",
+   "source": "Anthropic Haiku",
+   "passage": "priced 90% lower than Claude Haiku 4.5 for requests up to 100,000 tokens",
+   "deep": "https://www.anthropic.com/claude-haiku-5-5#:~:text=priced%2090%25%20lower%20than%20Claude%20Haiku%204.5%20for"
+  },
+  {
+   "n": 67,
+   "where": "shipped",
+   "claim": "average saving around 75%, after a new tokenizer that uses slightly more tokens",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/claude-haiku-5-5",
+   "source": "Anthropic Haiku",
+   "passage": "On average, it now costs around 75% less to run ... updated tokenizer ... uses slightly more tokens per task",
+   "deep": "https://www.anthropic.com/claude-haiku-5-5#:~:text=On%20average%2C%20it%20now%20costs%20around%2075%25%20less"
+  },
+  {
+   "n": 68,
+   "where": "shipped",
+   "claim": "Small models are now cheap enough to sit behind every routine step of an agent",
+   "verdict": "unsupported",
+   "url": "https://www.anthropic.com/claude-haiku-5-5",
+   "source": "Anthropic Haiku",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 69,
+   "where": "The story",
+   "claim": "On Oct. 5, OpenAI said it will add textGrain ... to ChatGPT and Codex text for eligible EU users over the coming weeks",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/eu-text-provenance/",
+   "source": "OpenAI watermark",
+   "passage": "Over the coming weeks, we will add an invisible watermark to eligible ChatGPT and Codex text output in the European Union. (Oct. 5, 2026)",
+   "deep": "https://openai.com/index/eu-text-provenance/#:~:text=Over%20the%20coming%20weeks%2C%20we%20will%20add%20an"
+  },
+  {
+   "n": 70,
+   "where": "The story",
+   "claim": "textGrain is an invisible statistical signal in the model's word choices",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/eu-text-provenance/",
+   "source": "OpenAI watermark",
+   "passage": "textGrain, adds an invisible statistical signal to the model's word choices",
+   "deep": "https://openai.com/index/eu-text-provenance/#:~:text=textGrain%2C%20adds%20an%20invisible%20statistical%20signal%20to%20the"
+  },
+  {
+   "n": 71,
+   "where": "The story",
+   "claim": "EU AI Act requires providers to make generated text identifiable by machine",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/eu-text-provenance/",
+   "source": "OpenAI watermark",
+   "passage": "requires generative AI providers to make generated text identifiable in a machine-readable way",
+   "deep": "https://openai.com/index/eu-text-provenance/#:~:text=requires%20generative%20AI%20providers%20to%20make%20generated%20text"
+  },
+  {
+   "n": 72,
+   "where": "The story",
+   "claim": "TNW reports existing providers have until Dec. 2 to comply",
+   "verdict": "confirmed",
+   "url": "https://thenextweb.com/news/openai-text-watermarking-chatgpt-codex-eu-ai-act",
+   "source": "TNW",
+   "passage": "Providers already on the market have until 2 December to comply (citing Engadget)",
+   "deep": "https://thenextweb.com/news/openai-text-watermarking-chatgpt-codex-eu-ai-act#:~:text=Providers%20already%20on%20the%20market%20have%20until%202"
+  },
+  {
+   "n": 73,
+   "where": "The story",
+   "claim": "API customers anywhere can opt in",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/eu-text-provenance/",
+   "source": "OpenAI watermark",
+   "passage": "API customers around the world will be able to opt in to watermarked text outputs for select models",
+   "deep": "https://openai.com/index/eu-text-provenance/#:~:text=API%20customers%20around%20the%20world%20will%20be%20able"
+  },
+  {
+   "n": 74,
+   "where": "The story",
+   "claim": "detector goes only to vetted researchers and organizations, case by case",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/eu-text-provenance/",
+   "source": "OpenAI watermark",
+   "passage": "Access will initially be limited to approved researchers and expert organizations ... granted on a case-by-case basis. (note: 'initially')",
+   "deep": "https://openai.com/index/eu-text-provenance/#:~:text=Access%20will%20initially%20be%20limited%20to%20approved%20researchers"
+  },
+  {
+   "n": 75,
+   "where": "The story",
+   "claim": "At 1% false-positive target, detected about 80% of 200-token passages",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/eu-text-provenance/",
+   "source": "OpenAI watermark",
+   "passage": "our detector identified watermarks in about 80% of 200-token passages",
+   "deep": "https://openai.com/index/eu-text-provenance/#:~:text=our%20detector%20identified%20watermarks%20in%20about%2080%25%20of"
+  },
+  {
+   "n": 76,
+   "where": "The story",
+   "claim": "about 95% of 400-token ones",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/eu-text-provenance/",
+   "source": "OpenAI watermark",
+   "passage": "compared with about 95% of 400-token passages",
+   "deep": "https://openai.com/index/eu-text-provenance/#:~:text=compared%20with%20about%2095%25%20of%20400-token%20passages"
+  },
+  {
+   "n": 77,
+   "where": "The story",
+   "claim": "Swapping 10% of words for synonyms cut detection to 66%",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/eu-text-provenance/",
+   "source": "OpenAI watermark",
+   "passage": "replacing 10% of words with synonyms reduced detection from about 92% to 66%",
+   "deep": "https://openai.com/index/eu-text-provenance/#:~:text=replacing%2010%25%20of%20words%20with%20synonyms%20reduced%20detection"
+  },
+  {
+   "n": 78,
+   "where": "The story",
+   "claim": "swapping a quarter cut it to 17%",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/eu-text-provenance/",
+   "source": "OpenAI watermark",
+   "passage": "Replacing 25% of words reduced it to 17%",
+   "deep": "https://openai.com/index/eu-text-provenance/#:~:text=Replacing%2025%25%20of%20words%20reduced%20it%20to%2017%25"
+  },
+  {
+   "n": 79,
+   "where": "The story",
+   "claim": "quote 'the absence of a detected watermark does not prove human authorship' (OpenAI, 10 words)",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/eu-text-provenance/",
+   "source": "OpenAI watermark",
+   "passage": "The absence of a detected watermark does not prove human authorship",
+   "deep": "https://openai.com/index/eu-text-provenance/#:~:text=The%20absence%20of%20a%20detected%20watermark%20does%20not"
+  },
+  {
+   "n": 80,
+   "where": "The story",
+   "claim": "on Oct. 7 Google opened SynthID Detector to anyone for images, video and audio",
+   "verdict": "confirmed",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/",
+   "source": "Google SynthID",
+   "passage": "expanding access to everyone ... starting today (Oct. 7, 2026); image, video, or audio file",
+   "deep": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/#:~:text=expanding%20access%20to%20everyone"
+  },
+  {
+   "n": 81,
+   "where": "The story",
+   "claim": "A watermark, and what it can't prove",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/eu-text-provenance/",
+   "source": "OpenAI watermark",
+   "passage": "The absence of a detected watermark does not prove human authorship",
+   "deep": "https://openai.com/index/eu-text-provenance/#:~:text=The%20absence%20of%20a%20detected%20watermark%20does%20not"
+  },
+  {
+   "n": 82,
+   "where": "The story",
+   "claim": "OpenAI's tests, at a 1% false-positive target",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/eu-text-provenance/",
+   "source": "OpenAI watermark",
+   "passage": "at a 1% false-positive rate",
+   "deep": "https://openai.com/index/eu-text-provenance/#:~:text=at%20a%201%25%20false-positive%20rate"
+  },
+  {
+   "n": 83,
+   "where": "The story",
+   "claim": "Unedited passages: 200 tokens 80%, 400 tokens 95%",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/eu-text-provenance/",
+   "source": "OpenAI watermark",
+   "passage": "about 80% of 200-token passages ... about 95% of 400-token passages",
+   "deep": "https://openai.com/index/eu-text-provenance/#:~:text=about%2080%25%20of%20200-token%20passages"
+  },
+  {
+   "n": 84,
+   "where": "The story",
+   "claim": "400-token passages, words swapped: 10% -> 66%, 25% -> 17%",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/eu-text-provenance/",
+   "source": "OpenAI watermark",
+   "passage": "In an evaluation of 400-token passages, replacing 10% ... to 66% ... Replacing 25% of words reduced it to 17%",
+   "deep": "https://openai.com/index/eu-text-provenance/#:~:text=In%20an%20evaluation%20of%20400-token%20passages%2C%20replacing%2010%25"
+  },
+  {
+   "n": 85,
+   "where": "The story",
+   "claim": "detection is substantially lower for math",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/eu-text-provenance/",
+   "source": "OpenAI watermark",
+   "passage": "Detection rates were substantially lower for content such as mathematics",
+   "deep": "https://openai.com/index/eu-text-provenance/#:~:text=Detection%20rates%20were%20substantially%20lower%20for%20content%20such"
+  },
+  {
+   "n": 86,
+   "where": "Agent actions and AI output got easier to trace",
+   "claim": "Agents now act under their own names in a log, and AI text, images and audio carry marks a machine can check",
+   "verdict": "confirmed",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+   "source": "Google Cloud",
+   "passage": "audit trail attributed to the agent; textGrain watermark (openai.com); SynthID Detector for image, video, audio (blog.google)",
+   "deep": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026#:~:text=audit%20trail%20attributed%20to%20the%20agent%3B%20textGrain%20watermark"
+  },
+  {
+   "n": 87,
+   "where": "What to watch, item 1",
+   "claim": "Wed 10/14: GPT-5.5 leaves Codex for ChatGPT sign-in users at noon Pacific; API-key sessions unaffected",
+   "verdict": "confirmed",
+   "url": "https://learn.chatgpt.com/docs/models",
+   "source": "OpenAI models",
+   "passage": "Effective October 14, 2026, at noon PDT (19:00 UTC), GPT-5.5 retires from Codex for users signed in with ChatGPT. The OpenAI API and Codex sessions authenticated with an API key aren't affected",
+   "deep": "https://learn.chatgpt.com/docs/models#:~:text=Effective%20October%2014%2C%202026%2C%20at%20noon%20PDT%20%2819%3A00"
+  },
+  {
+   "n": 88,
+   "where": "What to watch, item 2",
+   "claim": "Mon 10/19: Scheduled Release Workspace domains get Gemini skills from this date",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/09/skills-gemini-app-workspace.html",
+   "source": "Google Workspace Updates",
+   "passage": "Scheduled Release domains: Gradual rollout starting on October 19, 2026 (post dated Sept. 30, 2026)",
+   "deep": "https://workspaceupdates.googleblog.com/2026/09/skills-gemini-app-workspace.html#:~:text=Scheduled%20Release%20domains%3A%20Gradual%20rollout%20starting%20on%20October"
+  },
+  {
+   "n": 89,
+   "where": "What to watch, item 3",
+   "claim": "Coming weeks: textGrain reaches eligible ChatGPT and Codex text",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/eu-text-provenance/",
+   "source": "OpenAI watermark",
+   "passage": "Over the coming weeks, we will add an invisible watermark to eligible ChatGPT and Codex text output",
+   "deep": "https://openai.com/index/eu-text-provenance/#:~:text=Over%20the%20coming%20weeks%2C%20we%20will%20add%20an"
+  },
+  {
+   "n": 90,
+   "where": "What to watch, item 4",
+   "claim": "Mistral will release Mistral Large 4's weights by end of month",
+   "verdict": "confirmed",
+   "url": "https://mistral.ai/news/mistral-large-4/",
+   "source": "Mistral",
+   "passage": "We will release the weights by the end of the month. (post dated Oct. 6, 2026)",
+   "deep": "https://mistral.ai/news/mistral-large-4/#:~:text=We%20will%20release%20the%20weights%20by%20the%20end"
+  },
+  {
+   "n": 91,
+   "where": "What to watch, item 4",
+   "claim": "API preview opened Oct. 6",
+   "verdict": "confirmed",
+   "url": "https://mistral.ai/news/mistral-large-4/",
+   "source": "Mistral",
+   "passage": "You can try the preview API today on Mistral Studio. (Oct. 6, 2026)",
+   "deep": "https://mistral.ai/news/mistral-large-4/#:~:text=You%20can%20try%20the%20preview%20API%20today%20on"
+  },
+  {
+   "n": 92,
+   "where": "The checklist, item 2",
+   "claim": "If it sees only what you share (premise)",
+   "verdict": "confirmed",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+   "source": "Google Cloud",
+   "passage": "it sees only what you share with it",
+   "deep": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026#:~:text=it%20sees%20only%20what%20you%20share%20with%20it"
+  },
+  {
+   "n": 93,
+   "where": "The checklist, item 3",
+   "claim": "Set a spend cap and decide who's allowed to resume it (premise: caps pause the agent until resumed)",
+   "verdict": "confirmed",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+   "source": "Google Cloud",
+   "passage": "that project's agent pauses, and you can choose to resume work with a single click",
+   "deep": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026#:~:text=that%20project%27s%20agent%20pauses%2C%20and%20you%20can%20choose"
+  },
+  {
+   "n": 94,
+   "where": "The checklist, item 4",
+   "claim": "No mark doesn't mean a person wrote it",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/eu-text-provenance/",
+   "source": "OpenAI watermark",
+   "passage": "The absence of a detected watermark does not prove human authorship",
+   "deep": "https://openai.com/index/eu-text-provenance/#:~:text=The%20absence%20of%20a%20detected%20watermark%20does%20not"
+  },
+  {
+   "n": 95,
+   "where": "The checklist, item 4",
+   "claim": "light edits hide it",
+   "verdict": "wrong",
+   "url": "https://openai.com/index/eu-text-provenance/",
+   "source": "OpenAI watermark",
+   "passage": "replacing 10% of words with synonyms reduced detection from about 92% to 66%",
+   "deep": "https://openai.com/index/eu-text-provenance/#:~:text=replacing%2010%25%20of%20words%20with%20synonyms%20reduced%20detection"
+  },
+  {
+   "n": 96,
+   "where": "quote",
+   "claim": "'A coworker agent acts under its own identity rather than yours.' (11 words) — Thomas Kurian, CEO, Google Cloud, via Google Cloud blog",
+   "verdict": "confirmed",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+   "source": "Google Cloud",
+   "passage": "Byline Thomas Kurian, CEO, Google Cloud; 'This article is adapted from Thomas Kurian's keynote'; 'A coworker agent acts under its own identity rather than yours'",
+   "deep": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026#:~:text=Byline%20Thomas%20Kurian%2C%20CEO%2C%20Google%20Cloud%3B%20%27This%20article"
+  },
+  {
+   "n": 97,
+   "where": "Before you go, item 1",
+   "claim": "premise: coworker agents get an email address and a calendar",
+   "verdict": "confirmed",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+   "source": "Google Cloud",
+   "passage": "including an email address, calendar, Drive",
+   "deep": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026#:~:text=including%20an%20email%20address%2C%20calendar%2C%20Drive"
+  },
+  {
+   "n": 98,
+   "where": "Before you go, item 2",
+   "claim": "premise: OpenAI's watermark lives in word choice",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/eu-text-provenance/",
+   "source": "OpenAI watermark",
+   "passage": "adds an invisible statistical signal to the model's word choices",
+   "deep": "https://openai.com/index/eu-text-provenance/#:~:text=adds%20an%20invisible%20statistical%20signal%20to%20the%20model%27s"
+  },
+  {
+   "n": 99,
+   "where": "Before you go, item 3",
+   "claim": "premise: ChatGPT now answers with forms",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/gpt-6-for-everyone/",
+   "source": "OpenAI GPT-6",
+   "passage": "responses can include graphics, tappable buttons, forms, charts",
+   "deep": "https://openai.com/index/gpt-6-for-everyone/#:~:text=responses%20can%20include%20graphics%2C%20tappable%20buttons%2C%20forms%2C%20charts"
+  },
+  {
+   "n": 100,
+   "where": "linkedin post",
+   "claim": "Gemini coworker agents each get an email address, a calendar, Drive and a place in the company directory",
+   "verdict": "confirmed",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+   "source": "Google Cloud",
+   "passage": "its own Workspace account, including an email address, calendar, Drive, and presence in your company directory",
+   "deep": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026#:~:text=its%20own%20Workspace%20account%2C%20including%20an%20email%20address%2C"
+  },
+  {
+   "n": 101,
+   "where": "linkedin post",
+   "claim": "act under their own identity, see only what you share, every action in an audit trail under the agent's name",
+   "verdict": "confirmed",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+   "source": "Google Cloud",
+   "passage": "acts under its own identity rather than yours, and it sees only what you share with it ... attributed to the agent",
+   "deep": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026#:~:text=acts%20under%20its%20own%20identity%20rather%20than%20yours%2C"
+  },
+  {
+   "n": 102,
+   "where": "linkedin post",
+   "claim": "Microsoft and Meta said similar things in September",
+   "verdict": "confirmed",
+   "url": "https://venturebeat.com/technology/microsoft-revamps-its-copilot-ai-with-a-persistent-autopilot-agent-and-hosting-for-ai-generated-apps",
+   "source": "VentureBeat",
+   "passage": "Microsoft Sept. 25 (VentureBeat); Meta Sept. 23 (TechCrunch)",
+   "deep": "https://venturebeat.com/technology/microsoft-revamps-its-copilot-ai-with-a-persistent-autopilot-agent-and-hosting-for-ai-generated-apps#:~:text=Microsoft%20Sept.%2025%20%28VentureBeat%29%3B%20Meta%20Sept.%2023%20%28TechCrunch%29"
+  },
+  {
+   "n": 103,
+   "where": "linkedin post",
+   "claim": "OpenAI said it will watermark ChatGPT text in the EU",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/eu-text-provenance/",
+   "source": "OpenAI watermark",
+   "passage": "Over the coming weeks, we will add an invisible watermark to eligible ChatGPT and Codex text output in the European Union",
+   "deep": "https://openai.com/index/eu-text-provenance/#:~:text=Over%20the%20coming%20weeks%2C%20we%20will%20add%20an"
+  },
+  {
+   "n": 104,
+   "where": "linkedin post",
+   "claim": "swap a quarter of the words and detection drops to 17%",
+   "verdict": "confirmed",
+   "url": "https://openai.com/index/eu-text-provenance/",
+   "source": "OpenAI watermark",
+   "passage": "Replacing 25% of words reduced it to 17%",
+   "deep": "https://openai.com/index/eu-text-provenance/#:~:text=Replacing%2025%25%20of%20words%20reduced%20it%20to%2017%25"
+  },
+  {
+   "n": 105,
+   "where": "linkedin post",
+   "claim": "plus a much cheaper small Claude model",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/claude-haiku-5-5",
+   "source": "Anthropic Haiku",
+   "passage": "priced 90% lower than Claude Haiku 4.5 for requests up to 100,000 tokens",
+   "deep": "https://www.anthropic.com/claude-haiku-5-5#:~:text=priced%2090%25%20lower%20than%20Claude%20Haiku%204.5%20for"
+  }
+ ],
+ "notes": []
+}

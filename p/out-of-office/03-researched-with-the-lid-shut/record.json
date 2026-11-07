@@ -1,0 +1,664 @@
+{
+ "issue": "https://sentfrommyagent.com/p/out-of-office/03-researched-with-the-lid-shut/",
+ "newsletter": "Out of Office",
+ "number": 3,
+ "date": "2026-10-13",
+ "title": "Researched with the lid shut.",
+ "stamp": "Sent from my agent. Every claim checked.",
+ "record": "https://sentfrommyagent.com/p/out-of-office/03-researched-with-the-lid-shut/record/",
+ "counts": {
+  "checked": 64,
+  "confirmed": 61,
+  "wrong": 2,
+  "unsupported": 1
+ },
+ "checked_at": "2026-10-24T12:00:00-04:00",
+ "checked_by": "a second agent, independent of the writer",
+ "claims": [
+  {
+   "n": 1,
+   "where": "title",
+   "claim": "Researched with the lid shut (cloud scheduled tasks run with laptop closed)",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/15520349-use-claude-cowork-on-web-desktop-and-mobile",
+   "source": "Anthropic Cowork help",
+   "passage": "Work continues when your laptop is closed, and scheduled tasks run without a device online",
+   "deep": "https://support.claude.com/en/articles/15520349-use-claude-cowork-on-web-desktop-and-mobile#:~:text=Work%20continues%20when%20your%20laptop%20is%20closed%2C%20and"
+  },
+  {
+   "n": 2,
+   "where": "dek",
+   "claim": "Since Oct. 6, new Claude scheduled tasks on Pro and Max run in the cloud",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/15520349-use-claude-cowork-on-web-desktop-and-mobile",
+   "source": "Anthropic Cowork help",
+   "passage": "Existing local scheduled tasks keep running locally. New scheduled tasks run in the cloud. (Oct. 6, 2026 changes, Pro and Max)",
+   "deep": "https://support.claude.com/en/articles/15520349-use-claude-cowork-on-web-desktop-and-mobile#:~:text=Existing%20local%20scheduled%20tasks%20keep%20running%20locally.%20New"
+  },
+  {
+   "n": 3,
+   "where": "dek",
+   "claim": "A weekly digest now arrives with your laptop closed",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-claude-cowork",
+   "source": "Anthropic scheduled tasks help",
+   "passage": "Tasks run remotely, so they run on schedule even when your computer is asleep or the desktop app is closed",
+   "deep": "https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-claude-cowork#:~:text=Tasks%20run%20remotely%2C%20so%20they%20run%20on%20schedule"
+  },
+  {
+   "n": 4,
+   "where": "summary",
+   "claim": "Claude scheduled task can search the web and write a digest (recurring research use)",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-claude-cowork",
+   "source": "Anthropic scheduled tasks help",
+   "passage": "Common uses include daily briefings, weekly reports, recurring research",
+   "deep": "https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-claude-cowork#:~:text=Common%20uses%20include%20daily%20briefings%2C%20weekly%20reports%2C%20recurring"
+  },
+  {
+   "n": 5,
+   "where": "summary",
+   "claim": "Pro is $20 a month",
+   "verdict": "confirmed",
+   "url": "https://claude.com/pricing",
+   "source": "Claude pricing",
+   "passage": "$20 per month if billed monthly",
+   "deep": "https://claude.com/pricing#:~:text=%2420%20per%20month%20if%20billed%20monthly"
+  },
+  {
+   "n": 6,
+   "where": "summary",
+   "claim": "New tasks run in the cloud",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/15520349-use-claude-cowork-on-web-desktop-and-mobile",
+   "source": "Anthropic Cowork help",
+   "passage": "New Pro and Max sessions run in the cloud",
+   "deep": "https://support.claude.com/en/articles/15520349-use-claude-cowork-on-web-desktop-and-mobile#:~:text=New%20Pro%20and%20Max%20sessions%20run%20in%20the"
+  },
+  {
+   "n": 7,
+   "where": "art alt / art svg text",
+   "claim": "Drawing: closed laptop under a cloud, dotted line to orange page, text LID SHUT",
+   "verdict": "confirmed",
+   "url": "",
+   "source": "the issue itself",
+   "passage": "SVG contains laptop base paths, dashed and solid cloud paths, dotted connector, orange (#FFB547) page, and <text>LID SHUT</text>; alt matches",
+   "deep": ""
+  },
+  {
+   "n": 8,
+   "where": "The story",
+   "claim": "Keeping up takes an hour you rarely have on a Monday",
+   "verdict": "unsupported",
+   "url": "",
+   "source": "the issue itself",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 9,
+   "where": "The story",
+   "claim": "A Claude scheduled task can run once a week, search the web, read and write a digest",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-claude-cowork",
+   "source": "Anthropic scheduled tasks help",
+   "passage": "Claude saves your prompt as the task's instructions and runs it at your chosen cadence. Frequency: hourly, daily, weekly",
+   "deep": "https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-claude-cowork#:~:text=Claude%20saves%20your%20prompt%20as%20the%20task%27s%20instructions"
+  },
+  {
+   "n": 10,
+   "where": "The story",
+   "claim": "Anthropic changed where these tasks run on Oct. 6",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/15520349-use-claude-cowork-on-web-desktop-and-mobile",
+   "source": "Anthropic Cowork help",
+   "passage": "October 6, 2026 changes (Pro and Max): New tasks run in the cloud",
+   "deep": "https://support.claude.com/en/articles/15520349-use-claude-cowork-on-web-desktop-and-mobile#:~:text=October%206%2C%202026%20changes%20%28Pro%20and%20Max%29%3A%20New"
+  },
+  {
+   "n": 11,
+   "where": "The story",
+   "claim": "New ones on Pro and Max run in the cloud, so the run no longer needs your computer awake",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/15520349-use-claude-cowork-on-web-desktop-and-mobile",
+   "source": "Anthropic Cowork help",
+   "passage": "scheduled tasks run without a device online ... New scheduled tasks run in the cloud",
+   "deep": "https://support.claude.com/en/articles/15520349-use-claude-cowork-on-web-desktop-and-mobile#:~:text=scheduled%20tasks%20run%20without%20a%20device%20online"
+  },
+  {
+   "n": 12,
+   "where": "The story",
+   "claim": "Task searches past week, opens originals, writes dated linked lines, lists what it couldn't verify; seven-day window and Couldn't verify line come from step 1 prompt",
+   "verdict": "confirmed",
+   "url": "",
+   "source": "the issue itself",
+   "passage": "Matches the prompt in blocks[1].items[0]: 'last seven days', 'Prefer the organization's own announcement', 'date ... and a link', 'Couldn't verify:'",
+   "deep": ""
+  },
+  {
+   "n": 13,
+   "where": "The steps",
+   "claim": "Do this at claude.ai or in the desktop or mobile app",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/13345190",
+   "source": "Anthropic Cowork get started",
+   "passage": "Open Claude on the web, in the desktop app, or in the mobile app",
+   "deep": "https://support.claude.com/en/articles/13345190#:~:text=Open%20Claude%20on%20the%20web%2C%20in%20the%20desktop"
+  },
+  {
+   "n": 14,
+   "where": "The steps",
+   "claim": "Scheduled tasks are on Pro, Max, Team and Enterprise (needs a paid plan)",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-claude-cowork",
+   "source": "Anthropic scheduled tasks help",
+   "passage": "Scheduled tasks are available on all paid plans (Pro, Max, Team, and Enterprise)",
+   "deep": "https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-claude-cowork#:~:text=Scheduled%20tasks%20are%20available%20on%20all%20paid%20plans"
+  },
+  {
+   "n": 15,
+   "where": "The steps",
+   "claim": "The new Claude experience, which puts Cowork in any conversation, is still rolling out to Pro and Max",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-claude-cowork",
+   "source": "Anthropic scheduled tasks help",
+   "passage": "The new Claude experience, which combines chat and Cowork, is rolling out to Pro and Max",
+   "deep": "https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-claude-cowork#:~:text=The%20new%20Claude%20experience%2C%20which%20combines%20chat%20and"
+  },
+  {
+   "n": 16,
+   "where": "The steps",
+   "claim": "If you don't have it, use Scheduled in Cowork's sidebar",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-claude-cowork",
+   "source": "Anthropic scheduled tasks help",
+   "passage": "Click 'Scheduled' in the left sidebar, then 'New task'",
+   "deep": "https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-claude-cowork#:~:text=Click%20%27Scheduled%27%20in%20the%20left%20sidebar%2C%20then%20%27New"
+  },
+  {
+   "n": 17,
+   "where": "The steps",
+   "claim": "Claude Pro or Max; on Team/Enterprise admins control Cowork with a toggle",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-claude-cowork",
+   "source": "Anthropic scheduled tasks help",
+   "passage": "On Team and Enterprise, admins control Cowork access with an admin toggle",
+   "deep": "https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-claude-cowork#:~:text=On%20Team%20and%20Enterprise%2C%20admins%20control%20Cowork%20access"
+  },
+  {
+   "n": 18,
+   "where": "The steps",
+   "claim": "Needing no connectors and no folders is what lets it run in the cloud",
+   "verdict": "wrong",
+   "url": "https://support.claude.com/en/articles/15520349-use-claude-cowork-on-web-desktop-and-mobile",
+   "source": "Anthropic Cowork help",
+   "passage": "Desktop, web, and mobile all support starting and steering tasks, connectors, skills and plugins ... scheduled tasks. Features that require the desktop app open: Local file access; Local connectors and plugins that…",
+   "deep": "https://support.claude.com/en/articles/15520349-use-claude-cowork-on-web-desktop-and-mobile#:~:text=Desktop%2C%20web%2C%20and%20mobile%20all%20support%20starting%20and"
+  },
+  {
+   "n": 19,
+   "where": "The steps, item 1",
+   "claim": "Open a new conversation and paste the brief (task is started by describing it in a conversation)",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/13345190",
+   "source": "Anthropic Cowork get started",
+   "passage": "In the message box ... every conversation can take a Cowork task. Describe the task, review Claude's approach, and let it run",
+   "deep": "https://support.claude.com/en/articles/13345190#:~:text=In%20the%20message%20box"
+  },
+  {
+   "n": 20,
+   "where": "The steps, item 2",
+   "claim": "Run it once and correct it in the same conversation",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/13345190",
+   "source": "Anthropic Cowork get started",
+   "passage": "You can jump in mid-task to course-correct or add direction",
+   "deep": "https://support.claude.com/en/articles/13345190#:~:text=You%20can%20jump%20in%20mid-task%20to%20course-correct%20or"
+  },
+  {
+   "n": 21,
+   "where": "The steps, item 3",
+   "claim": "Ask in the conversation to make it a scheduled task; Claude may ask questions, shows proposed name, schedule and instructions; select Schedule",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-claude-cowork",
+   "source": "Anthropic scheduled tasks help",
+   "passage": "In any conversation, describe the task and how often it should run. Answer Claude's questions, review the proposed name, schedule, and instructions, then click 'Schedule.'",
+   "deep": "https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-claude-cowork#:~:text=In%20any%20conversation%2C%20describe%20the%20task%20and%20how"
+  },
+  {
+   "n": 22,
+   "where": "The steps, item 3",
+   "claim": "In Cowork: Scheduled > New task > Create with Claude",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-claude-cowork",
+   "source": "Anthropic scheduled tasks help",
+   "passage": "Click 'Scheduled' in the left sidebar, then 'New task' and 'Create with Claude.'",
+   "deep": "https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-claude-cowork#:~:text=Click%20%27Scheduled%27%20in%20the%20left%20sidebar%2C%20then%20%27New"
+  },
+  {
+   "n": 23,
+   "where": "The steps, item 4",
+   "claim": "Set up manually (Scheduled > New task > Set up manually) asks for an approval mode",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-claude-cowork",
+   "source": "Anthropic scheduled tasks help",
+   "passage": "Click 'Scheduled,' then 'New task' and 'Set up manually.' Enter: Task name, Prompt, Approval mode",
+   "deep": "https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-claude-cowork#:~:text=Click%20%27Scheduled%2C%27%20then%20%27New%20task%27%20and%20%27Set%20up"
+  },
+  {
+   "n": 24,
+   "where": "The steps, item 4",
+   "claim": "Manual pauses for approval",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/13345190",
+   "source": "Anthropic Cowork get started",
+   "passage": "Manual (formerly 'Ask before acting'): Claude asks for approval for actions, and you choose Allow or Deny",
+   "deep": "https://support.claude.com/en/articles/13345190#:~:text=Manual%20%28formerly%20%27Ask%20before%20acting%27%29%3A%20Claude%20asks%20for"
+  },
+  {
+   "n": 25,
+   "where": "The steps, item 4",
+   "claim": "Auto keeps working while Claude checks each action for safety",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/13345190",
+   "source": "Anthropic Cowork get started",
+   "passage": "Auto ...: Claude reviews each action for safety and blocks unsafe ones",
+   "deep": ""
+  },
+  {
+   "n": 26,
+   "where": "The steps, item 4",
+   "claim": "Skip exists as a third mode (advice: never Skip)",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/13345190",
+   "source": "Anthropic Cowork get started",
+   "passage": "Skip (formerly 'Act without asking'): Claude doesn't pause, and nothing checks its actions automatically ... use it only when you completely trust everything involved",
+   "deep": "https://support.claude.com/en/articles/13345190#:~:text=Skip%20%28formerly%20%27Act%20without%20asking%27%29%3A%20Claude%20doesn%27t%20pause%2C"
+  },
+  {
+   "n": 27,
+   "where": "The steps, item 5",
+   "claim": "A scheduled task that needs local files or apps runs only locally",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-claude-cowork",
+   "source": "Anthropic scheduled tasks help",
+   "passage": "If a task requires local files or apps, it runs only locally",
+   "deep": "https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-claude-cowork#:~:text=If%20a%20task%20requires%20local%20files%20or%20apps%2C"
+  },
+  {
+   "n": 28,
+   "where": "The steps, item 5",
+   "claim": "A cloud session reaches your folders only while the desktop app is open",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/15520349-use-claude-cowork-on-web-desktop-and-mobile",
+   "source": "Anthropic Cowork help",
+   "passage": "Claude can access only connected folders, through the desktop app, while the app is open",
+   "deep": "https://support.claude.com/en/articles/15520349-use-claude-cowork-on-web-desktop-and-mobile#:~:text=Claude%20can%20access%20only%20connected%20folders%2C%20through%20the"
+  },
+  {
+   "n": 29,
+   "where": "The steps, item 6",
+   "claim": "Run the task on demand from Scheduled",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-claude-cowork",
+   "source": "Anthropic scheduled tasks help",
+   "passage": "Run a task on demand",
+   "deep": "https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-claude-cowork#:~:text=Run%20a%20task%20on%20demand"
+  },
+  {
+   "n": 30,
+   "where": "The steps, item 6",
+   "claim": "Each run is its own session; you review results when ready",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-claude-cowork",
+   "source": "Anthropic scheduled tasks help",
+   "passage": "Each scheduled task runs as its own Cowork session, and you review results when they're ready",
+   "deep": "https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-claude-cowork#:~:text=Each%20scheduled%20task%20runs%20as%20its%20own%20Cowork"
+  },
+  {
+   "n": 31,
+   "where": "The steps, item 6",
+   "claim": "See upcoming and past runs, edit instructions or cadence, pause",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-claude-cowork",
+   "source": "Anthropic scheduled tasks help",
+   "passage": "review upcoming and past runs. Edit a task's instructions or cadence. Pause, resume, or delete a task",
+   "deep": "https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-claude-cowork#:~:text=review%20upcoming%20and%20past%20runs.%20Edit%20a%20task%27s"
+  },
+  {
+   "n": 32,
+   "where": "The steps",
+   "claim": "$20 a month for Pro billed monthly",
+   "verdict": "confirmed",
+   "url": "https://claude.com/pricing",
+   "source": "Claude pricing",
+   "passage": "$20 per month if billed monthly",
+   "deep": "https://claude.com/pricing#:~:text=%2420%20per%20month%20if%20billed%20monthly"
+  },
+  {
+   "n": 33,
+   "where": "The steps",
+   "claim": "$17 a month on annual plan ($200 up front)",
+   "verdict": "confirmed",
+   "url": "https://claude.com/pricing",
+   "source": "Claude pricing",
+   "passage": "$17 per month with the annual subscription, billed as $200 up front",
+   "deep": "https://claude.com/pricing#:~:text=%2417%20per%20month%20with%20the%20annual%20subscription%2C%20billed"
+  },
+  {
+   "n": 34,
+   "where": "The steps",
+   "claim": "Scheduled tasks come with every paid plan",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-claude-cowork",
+   "source": "Anthropic scheduled tasks help",
+   "passage": "Scheduled tasks are available on all paid plans (Pro, Max, Team, and Enterprise)",
+   "deep": "https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-claude-cowork#:~:text=Scheduled%20tasks%20are%20available%20on%20all%20paid%20plans"
+  },
+  {
+   "n": 35,
+   "where": "The steps",
+   "claim": "Multi-step tasks use more usage than a quick question",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/13345190",
+   "source": "Anthropic Cowork get started",
+   "passage": "Multi-step tasks ... use more usage than quick questions, since each step consumes tokens",
+   "deep": ""
+  },
+  {
+   "n": 36,
+   "where": "The steps",
+   "claim": "Anthropic says Cowork has unique risks because of its internet access",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/13345190",
+   "source": "Anthropic Cowork get started",
+   "passage": "Cowork has unique risks because of its agentic nature and internet access. (paraphrase acceptable)",
+   "deep": "https://support.claude.com/en/articles/13345190#:~:text=Cowork%20has%20unique%20risks%20because%20of%20its%20agentic"
+  },
+  {
+   "n": 37,
+   "where": "The steps",
+   "claim": "In Auto, Claude checks each action for problems such as prompt injection",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/13345190",
+   "source": "Anthropic Cowork get started",
+   "passage": "Auto mode checks for issues such as data exfiltration and prompt injection before actions run",
+   "deep": "https://support.claude.com/en/articles/13345190#:~:text=Auto%20mode%20checks%20for%20issues%20such%20as%20data"
+  },
+  {
+   "n": 38,
+   "where": "The steps",
+   "claim": "Without connectors/folders a bad page has nothing of yours to reach",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/13345190",
+   "source": "Anthropic Cowork get started",
+   "passage": "Cowork runs in an isolated environment on Anthropic's servers and can only access folders you connect",
+   "deep": "https://support.claude.com/en/articles/13345190#:~:text=Cowork%20runs%20in%20an%20isolated%20environment%20on%20Anthropic%27s"
+  },
+  {
+   "n": 39,
+   "where": "The steps",
+   "claim": "Model may present old news as new or credit coverage as original (generic hallucination risk; mitigation is in the prompt)",
+   "verdict": "confirmed",
+   "url": "",
+   "source": "the issue itself",
+   "passage": "Advisory; mitigation matches step 1 prompt. No vendor fact asserted",
+   "deep": ""
+  },
+  {
+   "n": 40,
+   "where": "The steps",
+   "claim": "With a connector, switch to Manual and read what it asks",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/13345190",
+   "source": "Anthropic Cowork get started",
+   "passage": "For high-stakes work (money, messages sent as you, important files) ... staying close and reviewing actions, or switching to Manual",
+   "deep": "https://support.claude.com/en/articles/13345190#:~:text=For%20high-stakes%20work%20%28money%2C%20messages%20sent%20as%20you%2C"
+  },
+  {
+   "n": 41,
+   "where": "The steps",
+   "claim": "Check Settings > Usage",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/13345190",
+   "source": "Anthropic Cowork get started",
+   "passage": "check Settings > Usage",
+   "deep": "https://support.claude.com/en/articles/13345190#:~:text=check%20Settings%20%3E%20Usage"
+  },
+  {
+   "n": 42,
+   "where": "The steps",
+   "claim": "test by none; issue does not claim it was tested",
+   "verdict": "confirmed",
+   "url": "",
+   "source": "the issue itself",
+   "passage": "test = {by: none}; no text says the agent or owner ran it",
+   "deep": ""
+  },
+  {
+   "n": 43,
+   "where": "The steps",
+   "claim": "Three things that need a person (choose topics, open links, decide)",
+   "verdict": "confirmed",
+   "url": "",
+   "source": "the issue itself",
+   "passage": "Advisory, no vendor fact asserted",
+   "deep": ""
+  },
+  {
+   "n": 44,
+   "where": "The steps",
+   "claim": "Three approval modes: Manual stops for approval, Auto keeps going with safety check, Skip trusts everything",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/13345190",
+   "source": "Anthropic Cowork get started",
+   "passage": "Manual ... asks for approval; Auto ... reviews each action for safety; Skip ... nothing checks its actions automatically",
+   "deep": ""
+  },
+  {
+   "n": 45,
+   "where": "The steps",
+   "claim": "Dial with three positions, needle on middle (Auto), right crossed out, text NEVER SKIP",
+   "verdict": "confirmed",
+   "url": "",
+   "source": "the issue itself",
+   "passage": "Ticks at left/top/right; needle 200,230 to 200,146 (top/middle); X near right tick; <text>NEVER SKIP</text>. Alt matches",
+   "deep": ""
+  },
+  {
+   "n": 46,
+   "where": "The story",
+   "claim": "On Oct. 6, new Cowork tasks on Pro and Max moved to the cloud",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/15520349-use-claude-cowork-on-web-desktop-and-mobile",
+   "source": "Anthropic Cowork help",
+   "passage": "October 6, 2026 changes (Pro and Max): New tasks run in the cloud",
+   "deep": "https://support.claude.com/en/articles/15520349-use-claude-cowork-on-web-desktop-and-mobile#:~:text=October%206%2C%202026%20changes%20%28Pro%20and%20Max%29%3A%20New"
+  },
+  {
+   "n": 47,
+   "where": "The story",
+   "claim": "Anthropic removed the Only on your computer option from Settings > General",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/15520349-use-claude-cowork-on-web-desktop-and-mobile",
+   "source": "Anthropic Cowork help",
+   "passage": "The 'Only on your computer' option was removed from Settings > General",
+   "deep": "https://support.claude.com/en/articles/15520349-use-claude-cowork-on-web-desktop-and-mobile#:~:text=The%20%27Only%20on%20your%20computer%27%20option%20was%20removed"
+  },
+  {
+   "n": 48,
+   "where": "The story",
+   "claim": "Scheduled tasks that already ran on your computer keep running there; new ones run in the cloud",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/15520349-use-claude-cowork-on-web-desktop-and-mobile",
+   "source": "Anthropic Cowork help",
+   "passage": "Existing local scheduled tasks keep running locally. New scheduled tasks run in the cloud",
+   "deep": "https://support.claude.com/en/articles/15520349-use-claude-cowork-on-web-desktop-and-mobile#:~:text=Existing%20local%20scheduled%20tasks%20keep%20running%20locally.%20New"
+  },
+  {
+   "n": 49,
+   "where": "The story",
+   "claim": "For new work that must stay on your machine, Anthropic points to Claude Code in the desktop app",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/15520349-use-claude-cowork-on-web-desktop-and-mobile",
+   "source": "Anthropic Cowork help",
+   "passage": "To run tasks only on your computer, use Claude Code in the desktop app",
+   "deep": "https://support.claude.com/en/articles/15520349-use-claude-cowork-on-web-desktop-and-mobile#:~:text=To%20run%20tasks%20only%20on%20your%20computer%2C%20use"
+  },
+  {
+   "n": 50,
+   "where": "The story",
+   "claim": "Sept. 16 rollout of Cowork into every conversation",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/12138966-release-notes",
+   "source": "Claude release notes",
+   "passage": "September 16, 2026: Claude Cowork comes to every conversation ... rollout is gradual, starting with Pro and Max",
+   "deep": "https://support.claude.com/en/articles/12138966-release-notes#:~:text=September%2016%2C%202026%3A%20Claude%20Cowork%20comes%20to%20every"
+  },
+  {
+   "n": 51,
+   "where": "The story",
+   "claim": "Sonnet 5.5 released Sept. 28",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/12138966-release-notes",
+   "source": "Claude release notes",
+   "passage": "September 28, 2026: Claude Sonnet 5.5 launch",
+   "deep": "https://support.claude.com/en/articles/12138966-release-notes#:~:text=September%2028%2C%202026%3A%20Claude%20Sonnet%205.5%20launch"
+  },
+  {
+   "n": 52,
+   "where": "The story",
+   "claim": "Sonnet 5.5 pitched at well-scoped everyday tasks",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/claude-sonnet-5-5",
+   "source": "Anthropic Sonnet 5.5",
+   "passage": "aimed at well-scoped everyday work such as bug fixes and polished documents, slides, and spreadsheets",
+   "deep": "https://www.anthropic.com/claude-sonnet-5-5#:~:text=aimed%20at%20well-scoped%20everyday%20work%20such%20as%20bug"
+  },
+  {
+   "n": 53,
+   "where": "The story",
+   "claim": "Haiku 5.5 released Oct. 7",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/12138966-release-notes",
+   "source": "Claude release notes",
+   "passage": "October 7, 2026: Claude Haiku 5.5 launch",
+   "deep": "https://support.claude.com/en/articles/12138966-release-notes#:~:text=October%207%2C%202026%3A%20Claude%20Haiku%205.5%20launch"
+  },
+  {
+   "n": 54,
+   "where": "The story",
+   "claim": "Haiku 5.5 is its cheapest and fastest small model",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/12138966-release-notes",
+   "source": "Claude release notes",
+   "passage": "the cheapest, fastest, and most capable small model we've released",
+   "deep": "https://support.claude.com/en/articles/12138966-release-notes#:~:text=the%20cheapest%2C%20fastest%2C%20and%20most%20capable%20small%20model"
+  },
+  {
+   "n": 55,
+   "where": "The story",
+   "claim": "A task's model can be set when you create it",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-claude-cowork",
+   "source": "Anthropic scheduled tasks help",
+   "passage": "Model (optional) [field in Set up manually]",
+   "deep": "https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-claude-cowork#:~:text=Model%20%28optional%29%20%5Bfield%20in%20Set%20up%20manually%5D"
+  },
+  {
+   "n": 56,
+   "where": "The story",
+   "claim": "Four dates for this setup, 2026, not to scale",
+   "verdict": "confirmed",
+   "url": "",
+   "source": "the issue itself",
+   "passage": "Four steps, all 2026 dates confirmed below",
+   "deep": ""
+  },
+  {
+   "n": 57,
+   "where": "The story, step 1",
+   "claim": "Sept. 16: Cowork starts rolling out to every conversation on Pro and Max",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/12138966-release-notes",
+   "source": "Claude release notes",
+   "passage": "September 16, 2026 ... starting with Pro and Max plans on web, desktop, and mobile",
+   "deep": "https://support.claude.com/en/articles/12138966-release-notes#:~:text=September%2016%2C%202026"
+  },
+  {
+   "n": 58,
+   "where": "The story, step 2",
+   "claim": "Sept. 28: Sonnet 5.5 released",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/12138966-release-notes",
+   "source": "Claude release notes",
+   "passage": "September 28, 2026: Claude Sonnet 5.5 launch",
+   "deep": "https://support.claude.com/en/articles/12138966-release-notes#:~:text=September%2028%2C%202026%3A%20Claude%20Sonnet%205.5%20launch"
+  },
+  {
+   "n": 59,
+   "where": "The story, step 3",
+   "claim": "Oct. 6: new Pro and Max tasks, scheduled ones included, run in the cloud",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/15520349-use-claude-cowork-on-web-desktop-and-mobile",
+   "source": "Anthropic Cowork help",
+   "passage": "New tasks run in the cloud ... New scheduled tasks run in the cloud",
+   "deep": "https://support.claude.com/en/articles/15520349-use-claude-cowork-on-web-desktop-and-mobile#:~:text=New%20tasks%20run%20in%20the%20cloud"
+  },
+  {
+   "n": 60,
+   "where": "The story, step 4",
+   "claim": "Oct. 7: Haiku 5.5 released",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/12138966-release-notes",
+   "source": "Claude release notes",
+   "passage": "October 7, 2026: Claude Haiku 5.5 launch",
+   "deep": "https://support.claude.com/en/articles/12138966-release-notes#:~:text=October%207%2C%202026%3A%20Claude%20Haiku%205.5%20launch"
+  },
+  {
+   "n": 61,
+   "where": "The checklist, item 1",
+   "claim": "Team/Enterprise admins decide whether Cowork is on",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-claude-cowork",
+   "source": "Anthropic scheduled tasks help",
+   "passage": "On Team and Enterprise, admins control Cowork access with an admin toggle",
+   "deep": "https://support.claude.com/en/articles/13854387-schedule-recurring-tasks-in-claude-cowork#:~:text=On%20Team%20and%20Enterprise%2C%20admins%20control%20Cowork%20access"
+  },
+  {
+   "n": 62,
+   "where": "The checklist, item 2",
+   "claim": "No folder, no connectors keeps it in the cloud",
+   "verdict": "wrong",
+   "url": "https://support.claude.com/en/articles/15520349-use-claude-cowork-on-web-desktop-and-mobile",
+   "source": "Anthropic Cowork help",
+   "passage": "Desktop, web, and mobile all support ... connectors ... scheduled tasks. Features that require the desktop app open: Local file access; Local connectors and plugins that use local MCP servers",
+   "deep": "https://support.claude.com/en/articles/15520349-use-claude-cowork-on-web-desktop-and-mobile#:~:text=Desktop%2C%20web%2C%20and%20mobile%20all%20support"
+  },
+  {
+   "n": 63,
+   "where": "The checklist, item 3",
+   "claim": "Approval mode should read Auto or Manual",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/13345190",
+   "source": "Anthropic Cowork get started",
+   "passage": "Manual ... Auto ... Skip (three modes listed)",
+   "deep": ""
+  },
+  {
+   "n": 64,
+   "where": "The checklist, item 4",
+   "claim": "Read one run in full; open every link",
+   "verdict": "confirmed",
+   "url": "",
+   "source": "the issue itself",
+   "passage": "Advisory",
+   "deep": ""
+  }
+ ],
+ "notes": [
+  "Window: all dated facts (Sept. 16, Sept. 28, Oct. 6, Oct. 7) fall within 30 days before D=2026-10-13 and on/before D. No ahead/watch section. Cited help pages show no publish/updated dates and archive.org is blocked from this environment, so I could not confirm the help-article wording (e.g. 'Manual/Auto/Skip' mode names, 'formerly Ask before acting') was live on Oct. 13 rather than revised later; the Oct. 6 change itself is dated before D.",
+  "Release notes latest entry is Oct. 21 (Claude Duet); the issue does not use it. Sonnet 5.5 page says Haiku 5.5 joins 'in the coming weeks'; the issue sources Haiku's date to the release notes, correctly.",
+  "No compliance terms (no prices of securities, valuations, earnings). Monthly API credits entry (Oct. 7) not used. No first-person statements; test is {by: none} and nothing implies a test was run."
+ ]
+}

@@ -1,0 +1,540 @@
+{
+ "issue": "https://sentfrommyagent.com/p/sports/05-no-unbeaten-teams-left-in-the-nfl/",
+ "newsletter": "Sports",
+ "number": 5,
+ "date": "2026-11-01",
+ "title": "No unbeaten teams left in the NFL.",
+ "stamp": "Sent from my agent. Every claim checked.",
+ "record": "https://sentfrommyagent.com/p/sports/05-no-unbeaten-teams-left-in-the-nfl/record/",
+ "counts": {
+  "checked": 52,
+  "confirmed": 52,
+  "wrong": 0,
+  "unsupported": 0
+ },
+ "checked_at": "2026-11-02T05:00:00-05:00",
+ "checked_by": "a second agent, independent of the writer",
+ "claims": [
+  {
+   "n": 1,
+   "where": "dek",
+   "claim": "Detroit beat Minnesota 19–15 on Sunday",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Detroit_Lions_season",
+   "source": "Wikipedia (Lions season)",
+   "passage": "8 | November 1 | 1:00 p.m. | Minnesota Vikings | W 19–15 | 5–2 | Ford Field | Fox",
+   "deep": ""
+  },
+  {
+   "n": 2,
+   "where": "dek",
+   "claim": "ending the league's last perfect start",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Minnesota_Vikings_season",
+   "source": "Wikipedia (Vikings season)",
+   "passage": "The Vikings started the season 6–0 for the first time since 2009, and became the last undefeated team in the league at the time",
+   "deep": "https://en.wikipedia.org/wiki/2026_Minnesota_Vikings_season#:~:text=The%20Vikings%20started%20the%20season%206%E2%80%930%20for%20the"
+  },
+  {
+   "n": 3,
+   "where": "dek",
+   "claim": "Miami survived 38–35 at North Carolina",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Miami_Hurricanes_football_team",
+   "source": "Wikipedia (Miami season)",
+   "passage": "October 31 | 7:30 p.m. | at North Carolina | No. 1 | Kenan Stadium, Chapel Hill, NC | ABC | W 38–35",
+   "deep": ""
+  },
+  {
+   "n": 4,
+   "where": "dek",
+   "claim": "Miami stays 8–0",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Miami_Hurricanes_football_team",
+   "source": "Wikipedia (Miami season)",
+   "passage": "8–0 (6–0 ACC)",
+   "deep": "https://en.wikipedia.org/wiki/2026_Miami_Hurricanes_football_team#:~:text=8%E2%80%930%20%286%E2%80%930%20ACC%29"
+  },
+  {
+   "n": 5,
+   "where": "dek",
+   "claim": "Memphis is the NBA's only unbeaten team at 6–0",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_NBA_season",
+   "source": "Wikipedia (2026–27 NBA season)",
+   "passage": "Western standings: Memphis Grizzlies 6–0; every other West team has at least one loss. Eastern standings: best records Philadelphia 6–1, Detroit 5–1; no Eastern team at zero losses",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_NBA_season#:~:text=Western%20standings%3A%20Memphis%20Grizzlies%206%E2%80%930%3B%20every%20other%20West"
+  },
+  {
+   "n": 6,
+   "where": "summary",
+   "claim": "Miami, Utah and UCLA all reached 8–0 on Saturday",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings",
+   "source": "Wikipedia (FBS rankings)",
+   "passage": "Week 9 (Nov. 1) AP poll: 1. Miami (FL) 8–0 … 3. Utah 8–0 … 4. UCLA 8–0. Each team's season page dates its win to October 31",
+   "deep": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings#:~:text=Week%209%20%28Nov.%201%29%20AP%20poll%3A%201.%20Miami"
+  },
+  {
+   "n": 7,
+   "where": "The story",
+   "claim": "at Ford Field on Sunday, Nov. 1",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Detroit_Lions_season",
+   "source": "Wikipedia (Lions season)",
+   "passage": "8 | November 1 | 1:00 p.m. | Minnesota Vikings | W 19–15 | 5–2 | Ford Field | Fox",
+   "deep": ""
+  },
+  {
+   "n": 8,
+   "where": "The story",
+   "claim": "in the 1 p.m. ET game on Fox",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Detroit_Lions_season",
+   "source": "Wikipedia (Lions season)",
+   "passage": "Time (ET) 1:00 p.m. … Fox (Vikings page: 12:00 p.m. CT, Fox)",
+   "deep": "https://en.wikipedia.org/wiki/2026_Detroit_Lions_season#:~:text=Time%20%28ET%29%201%3A00%20p.m."
+  },
+  {
+   "n": 9,
+   "where": "The story",
+   "claim": "The Vikings arrived 6–0, their first such start since 2009",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Minnesota_Vikings_season",
+   "source": "Wikipedia (Vikings season)",
+   "passage": "The Vikings started the season 6–0 for the first time since 2009",
+   "deep": "https://en.wikipedia.org/wiki/2026_Minnesota_Vikings_season#:~:text=The%20Vikings%20started%20the%20season%206%E2%80%930%20for%20the"
+  },
+  {
+   "n": 10,
+   "where": "The story",
+   "claim": "as the league's last undefeated team",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Minnesota_Vikings_season",
+   "source": "Wikipedia (Vikings season)",
+   "passage": "became the last undefeated team in the league at the time",
+   "deep": "https://en.wikipedia.org/wiki/2026_Minnesota_Vikings_season#:~:text=became%20the%20last%20undefeated%20team%20in%20the%20league"
+  },
+  {
+   "n": 11,
+   "where": "The story",
+   "claim": "At 6–1, they leave no unbeaten team in the NFL",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Minnesota_Vikings_season",
+   "source": "Wikipedia (Vikings season)",
+   "passage": "8 | November 1 | at Detroit Lions | L 15–19 | 6–1 … a Week 8 road loss to the Detroit Lions ended Minnesota's hopes of remaining undefeated",
+   "deep": ""
+  },
+  {
+   "n": 12,
+   "where": "The story",
+   "claim": "Detroit is 5–2, a game behind Minnesota",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Green_Bay_Packers_season",
+   "source": "Wikipedia (Packers season)",
+   "passage": "NFC North: Minnesota Vikings 6–1; Detroit Lions 5–2",
+   "deep": "https://en.wikipedia.org/wiki/2026_Green_Bay_Packers_season#:~:text=NFC%20North%3A%20Minnesota%20Vikings%206%E2%80%931%3B%20Detroit%20Lions%205%E2%80%932"
+  },
+  {
+   "n": 13,
+   "where": "The story",
+   "claim": "Green Bay is 5–3 after its Thursday win over Carolina",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Green_Bay_Packers_season",
+   "source": "Wikipedia (Packers season)",
+   "passage": "8 | Oct 29 | 7:15 p.m. | Carolina Panthers | W 27–19 | 5–3 | Lambeau Field | Prime Video (Oct. 29, 2026 is a Thursday)",
+   "deep": ""
+  },
+  {
+   "n": 14,
+   "where": "The story",
+   "claim": "Chicago, 5–2, plays at Seattle on Monday night",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Chicago_Bears_season",
+   "source": "Wikipedia (Bears season)",
+   "passage": "7 | Oct 22 | … W 30–24 | 5–2 … 8 | Nov 2 | 7:15 p.m. | at Seattle Seahawks | — | Lumen Field | ESPN",
+   "deep": ""
+  },
+  {
+   "n": 15,
+   "where": "The story",
+   "claim": "At Highmark Stadium, Buffalo beat Baltimore 36–10",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Buffalo_Bills_season",
+   "source": "Wikipedia (Bills season)",
+   "passage": "8 | November 1 | 1:00 p.m. | Baltimore Ravens | W 36–10 | 6–1 | Highmark Stadium | CBS",
+   "deep": ""
+  },
+  {
+   "n": 16,
+   "where": "The story",
+   "claim": "Buffalo goes to 6–1",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Buffalo_Bills_season",
+   "source": "Wikipedia (Bills season)",
+   "passage": "W 36–10 | 6–1",
+   "deep": ""
+  },
+  {
+   "n": 17,
+   "where": "The story",
+   "claim": "the Ravens finished with 144 total yards",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Buffalo_Bills_season",
+   "source": "Wikipedia (Bills season)",
+   "passage": "limited Baltimore to just 10 points and 144 total yards",
+   "deep": "https://en.wikipedia.org/wiki/2026_Buffalo_Bills_season#:~:text=limited%20Baltimore%20to%20just%2010%20points%20and%20144"
+  },
+  {
+   "n": 18,
+   "where": "The story",
+   "claim": "Lamar Jackson and his backup, Tyler Huntley, both left the game injured",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Buffalo_Bills_season",
+   "source": "Wikipedia (Bills season)",
+   "passage": "Ravens quarterback Lamar Jackson and backup Tyler Huntley … both left with injuries",
+   "deep": "https://en.wikipedia.org/wiki/2026_Buffalo_Bills_season#:~:text=Ravens%20quarterback%20Lamar%20Jackson%20and%20backup%20Tyler%20Huntley"
+  },
+  {
+   "n": 19,
+   "where": "The story",
+   "claim": "This issue found no team statement on either player's condition",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Buffalo_Bills_season",
+   "source": "Wikipedia (Bills season)",
+   "passage": "The cited page reports the departures and gives no team statement on either player's condition. Confirmed only within that stated scope. The checker's own search found no Nov. 1 Ravens statement, but that is not…",
+   "deep": "https://en.wikipedia.org/wiki/2026_Buffalo_Bills_season#:~:text=The%20cited%20page%20reports%20the%20departures%20and%20gives"
+  },
+  {
+   "n": 20,
+   "where": "The story",
+   "claim": "Minnesota's six wins were 39–22, 9–3, 23–16, 15–10, 23–13 and 16–10",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Minnesota_Vikings_season",
+   "source": "Wikipedia (Vikings season)",
+   "passage": "W 39–22 (Packers); W 9–3 (at Bears); W 23–16 (at Buccaneers); W 15–10 (Dolphins); W 23–13 (at Saints); W 16–10 (Colts)",
+   "deep": "https://en.wikipedia.org/wiki/2026_Minnesota_Vikings_season#:~:text=W%2039%E2%80%9322%20%28Packers%29%3B%20W%209%E2%80%933%20%28at%20Bears%29%3B%20W"
+  },
+  {
+   "n": 21,
+   "where": "The story",
+   "claim": "Five of them came by 10 points or fewer",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Minnesota_Vikings_season",
+   "source": "Wikipedia (Vikings season)",
+   "passage": "Margins 17, 6, 7, 5, 10, 6: five are 10 or fewer",
+   "deep": "https://en.wikipedia.org/wiki/2026_Minnesota_Vikings_season#:~:text=Margins%2017%2C%206%2C%207%2C%205%2C%2010%2C%206%3A%20five"
+  },
+  {
+   "n": 22,
+   "where": "The story",
+   "claim": "no opponent scored more than 22",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Minnesota_Vikings_season",
+   "source": "Wikipedia (Vikings season)",
+   "passage": "Points allowed in wins: 22, 3, 16, 10, 13, 10",
+   "deep": "https://en.wikipedia.org/wiki/2026_Minnesota_Vikings_season#:~:text=Points%20allowed%20in%20wins%3A%2022%2C%203%2C%2016%2C%2010%2C"
+  },
+  {
+   "n": 23,
+   "where": "The story",
+   "claim": "the 22 Green Bay scored in the opener, the most Minnesota has allowed; Detroit's 19 stayed below it",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Minnesota_Vikings_season",
+   "source": "Wikipedia (Vikings season)",
+   "passage": "1 | September 13 | Green Bay Packers | W 39–22 … 8 | November 1 | at Detroit Lions | L 15–19",
+   "deep": ""
+  },
+  {
+   "n": 24,
+   "where": "The story",
+   "claim": "the Vikings managed only 15",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Minnesota_Vikings_season",
+   "source": "Wikipedia (Vikings season)",
+   "passage": "L 15–19",
+   "deep": ""
+  },
+  {
+   "n": 25,
+   "where": "The story",
+   "claim": "No. 1 Miami won 38–35 at North Carolina on Saturday night, Oct. 31",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Miami_Hurricanes_football_team",
+   "source": "Wikipedia (Miami season)",
+   "passage": "October 31 | 7:30 p.m. | at North Carolina | No. 1 | Kenan Stadium | ABC | W 38–35",
+   "deep": ""
+  },
+  {
+   "n": 26,
+   "where": "The story",
+   "claim": "led 24–21 going into the fourth quarter; the teams traded 14 points each in it",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Miami_Hurricanes_football_team",
+   "source": "Wikipedia (Miami season)",
+   "passage": "Linescore: Hurricanes 7 | 10 | 7 | 14 | 38; Tar Heels 0 | 14 | 7 | 14 | 35 (after three quarters 24–21)",
+   "deep": "https://en.wikipedia.org/wiki/2026_Miami_Hurricanes_football_team#:~:text=Linescore%3A%20Hurricanes%207"
+  },
+  {
+   "n": 27,
+   "where": "The story",
+   "claim": "Miami is 8–0, 6–0 in the ACC",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Miami_Hurricanes_football_team",
+   "source": "Wikipedia (Miami season)",
+   "passage": "8–0 (6–0 ACC)",
+   "deep": "https://en.wikipedia.org/wiki/2026_Miami_Hurricanes_football_team#:~:text=8%E2%80%930%20%286%E2%80%930%20ACC%29"
+  },
+  {
+   "n": 28,
+   "where": "The story",
+   "claim": "The other two unbeaten teams in the AP poll (Utah and UCLA)",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings",
+   "source": "Wikipedia (FBS rankings)",
+   "passage": "Week 9 AP poll: Miami (FL) 8–0, Utah 8–0, UCLA 8–0; every other ranked team has at least one loss",
+   "deep": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings#:~:text=Week%209%20AP%20poll%3A%20Miami%20%28FL%29%208%E2%80%930%2C%20Utah"
+  },
+  {
+   "n": 29,
+   "where": "The story",
+   "claim": "Utah won 49–25 at Cincinnati",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Utah_Utes_football_team",
+   "source": "Wikipedia (Utah season)",
+   "passage": "October 31: No. 6 Utah Utes (7–0) at Cincinnati Bearcats (5–2), Utah won 49–25",
+   "deep": "https://en.wikipedia.org/wiki/2026_Utah_Utes_football_team#:~:text=October%2031%3A%20No.%206%20Utah%20Utes%20%287%E2%80%930%29%20at"
+  },
+  {
+   "n": 30,
+   "where": "The story",
+   "claim": "UCLA shut out Nevada 27–0 in Pasadena",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team",
+   "source": "Wikipedia (UCLA season)",
+   "passage": "October 31: Nevada, Rose Bowl, Pasadena, CA, BTN, W 27–0",
+   "deep": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team#:~:text=October%2031%3A%20Nevada%2C%20Rose%20Bowl%2C%20Pasadena%2C%20CA%2C%20BTN%2C"
+  },
+  {
+   "n": 31,
+   "where": "The story",
+   "claim": "both are 8–0",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings",
+   "source": "Wikipedia (FBS rankings)",
+   "passage": "3. Utah 8–0; 4. UCLA 8–0",
+   "deep": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings#:~:text=3.%20Utah%208%E2%80%930%3B%204.%20UCLA%208%E2%80%930"
+  },
+  {
+   "n": 32,
+   "where": "The story",
+   "claim": "Miami's next game is at Notre Dame on Saturday, Nov. 7, at 7:30 p.m. ET on NBC",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Miami_Hurricanes_football_team",
+   "source": "Wikipedia (Miami season)",
+   "passage": "November 7 | 7:30 p.m. | at Notre Dame | Notre Dame Stadium, Notre Dame, IN | NBC (the schedule's times are Eastern, e.g. 9:00 p.m. kickoff at Stanford)",
+   "deep": ""
+  },
+  {
+   "n": 33,
+   "where": "The story",
+   "claim": "Notre Dame, 7–1",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings",
+   "source": "Wikipedia (FBS rankings)",
+   "passage": "5. Notre Dame 7–1",
+   "deep": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings#:~:text=5.%20Notre%20Dame%207%E2%80%931"
+  },
+  {
+   "n": 34,
+   "where": "The story",
+   "claim": "UCLA plays at Minnesota the same day",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team",
+   "source": "Wikipedia (UCLA season)",
+   "passage": "November 7 | at Minnesota | Huntington Bank Stadium, Minneapolis, MN | FOX",
+   "deep": ""
+  },
+  {
+   "n": 35,
+   "where": "The story",
+   "claim": "the CFP committee publishes its first rankings on Tuesday, Nov. 3",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings",
+   "source": "Wikipedia (FBS rankings)",
+   "passage": "CFP rankings table: first column \"Week 9 Nov 3\" (Nov. 3, 2026 is a Tuesday)",
+   "deep": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings#:~:text=CFP%20rankings%20table%3A%20first%20column%20%22Week%209%20Nov"
+  },
+  {
+   "n": 36,
+   "where": "The story",
+   "claim": "The Grizzlies beat Sacramento 136–105 at FedExForum on Saturday, Oct. 31, to go 6–0",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Memphis_Grizzlies_season",
+   "source": "Wikipedia (Grizzlies season)",
+   "passage": "6 | Oct 31 | Sacramento | W 136–105 | … | FedExForum | 6–0",
+   "deep": ""
+  },
+  {
+   "n": 37,
+   "where": "The story",
+   "claim": "ties the franchise's best start, set in 2014–15",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Memphis_Grizzlies_season",
+   "source": "Wikipedia (Grizzlies season)",
+   "passage": "tying their best start in franchise history set in 2014–15",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Memphis_Grizzlies_season#:~:text=tying%20their%20best%20start%20in%20franchise%20history%20set"
+  },
+  {
+   "n": 38,
+   "where": "The story",
+   "claim": "Cameron Boozer scored 27 points with nine rebounds",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Memphis_Grizzlies_season",
+   "source": "Wikipedia (Grizzlies season)",
+   "passage": "High points: Cameron Boozer (27) | High rebounds: Cameron Boozer (9)",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Memphis_Grizzlies_season#:~:text=High%20points%3A%20Cameron%20Boozer%20%2827%29"
+  },
+  {
+   "n": 39,
+   "where": "The story",
+   "claim": "Cam Spencer had 13 assists",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Memphis_Grizzlies_season",
+   "source": "Wikipedia (Grizzlies season)",
+   "passage": "High assists: Cam Spencer (13)",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Memphis_Grizzlies_season#:~:text=High%20assists%3A%20Cam%20Spencer%20%2813%29"
+  },
+  {
+   "n": 40,
+   "where": "The story",
+   "claim": "The Kings fell to 0–6",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_NBA_season",
+   "source": "Wikipedia (2026–27 NBA season)",
+   "passage": "Sacramento Kings 0 | 6",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_NBA_season#:~:text=Sacramento%20Kings%200"
+  },
+  {
+   "n": 41,
+   "where": "The story",
+   "claim": "Houston's loss at Dallas was its first loss",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Houston_Rockets_season",
+   "source": "Wikipedia (Rockets season)",
+   "passage": "Game 6 | October 30 | @ Dallas | L 111–116 | Record 5–1",
+   "deep": ""
+  },
+  {
+   "n": 42,
+   "where": "The story",
+   "claim": "losing 116–111 at Dallas",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Houston_Rockets_season",
+   "source": "Wikipedia (Rockets season)",
+   "passage": "@ Dallas Mavericks | L 111–116 | American Airlines Center",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Houston_Rockets_season#:~:text=%40%20Dallas%20Mavericks"
+  },
+  {
+   "n": 43,
+   "where": "The story",
+   "claim": "A night later the Rockets beat Oklahoma City 119–98 at Toyota Center",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Houston_Rockets_season",
+   "source": "Wikipedia (Rockets season)",
+   "passage": "Game 7 | October 31 | Oklahoma City | W 119–98 | Toyota Center | 6–1",
+   "deep": ""
+  },
+  {
+   "n": 44,
+   "where": "The story",
+   "claim": "Jabari Smith Jr. scoring 30",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Houston_Rockets_season",
+   "source": "Wikipedia (Rockets season)",
+   "passage": "High points: Jabari Smith Jr. (30)",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Houston_Rockets_season#:~:text=High%20points%3A%20Jabari%20Smith%20Jr.%20%2830%29"
+  },
+  {
+   "n": 45,
+   "where": "The story",
+   "claim": "At 6–1, they sit second in the West behind Memphis",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_NBA_season",
+   "source": "Wikipedia (2026–27 NBA season)",
+   "passage": "Western Conference: Memphis Grizzlies 6–0; Houston Rockets 6–1; Portland 4–1 …",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_NBA_season#:~:text=Western%20Conference%3A%20Memphis%20Grizzlies%206%E2%80%930%3B%20Houston%20Rockets%206%E2%80%931%3B"
+  },
+  {
+   "n": 46,
+   "where": "What comes next, item 1",
+   "claim": "Bears at Seahawks, Mon., Nov. 2, 8:15 p.m. ET, Lumen Field, ESPN; Chicago 5–2 and level with Detroit",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Chicago_Bears_season",
+   "source": "Wikipedia (Bears season)",
+   "passage": "Nov 2 | 7:15 p.m. (CT) | at Seattle Seahawks | Lumen Field | ESPN; \"7:15 p.m. CST/5:15 p.m. PST\" = 8:15 p.m. EST, same calendar day. Record 5–2, as Detroit 5–2 (Lions page)",
+   "deep": ""
+  },
+  {
+   "n": 47,
+   "where": "What comes next, item 2",
+   "claim": "Pelicans at Grizzlies, Mon., Nov. 2, FedExForum, tip time not listed",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Memphis_Grizzlies_season",
+   "source": "Wikipedia (Grizzlies season)",
+   "passage": "Game 7: November 2, New Orleans Pelicans, FedExForum; time not given",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Memphis_Grizzlies_season#:~:text=Game%207%3A%20November%202%2C%20New%20Orleans%20Pelicans%2C%20FedExForum%3B"
+  },
+  {
+   "n": 48,
+   "where": "What comes next, item 3",
+   "claim": "First CFP rankings, Tue., Nov. 3",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings",
+   "source": "Wikipedia (FBS rankings)",
+   "passage": "CFP rankings: \"Week 9 Nov 3\" is the first column",
+   "deep": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings#:~:text=CFP%20rankings%3A%20%22Week%209%20Nov%203%22%20is%20the"
+  },
+  {
+   "n": 49,
+   "where": "What comes next, item 4",
+   "claim": "Miami at Notre Dame, Sat., Nov. 7, 7:30 p.m. ET, Notre Dame Stadium, NBC; Miami No. 1",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Miami_Hurricanes_football_team",
+   "source": "Wikipedia (Miami season)",
+   "passage": "November 7 | 7:30 p.m. | at Notre Dame | Notre Dame Stadium, Notre Dame, IN | NBC; No. 1 in AP and Coaches polls",
+   "deep": ""
+  },
+  {
+   "n": 50,
+   "where": "Go to the record, item 1",
+   "claim": "Vikings page has all seven scores",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Minnesota_Vikings_season",
+   "source": "Wikipedia (Vikings season)",
+   "passage": "Schedule table lists results for weeks 1–5, 7 and 8 (bye in week 6): seven scores",
+   "deep": "https://en.wikipedia.org/wiki/2026_Minnesota_Vikings_season#:~:text=Schedule%20table%20lists%20results%20for%20weeks%201%E2%80%935%2C%207"
+  },
+  {
+   "n": 51,
+   "where": "Go to the record, item 2",
+   "claim": "Miami page has the quarter-by-quarter score at North Carolina and the rest of the schedule",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Miami_Hurricanes_football_team",
+   "source": "Wikipedia (Miami season)",
+   "passage": "Game summary linescore 7–10–7–14 / 0–14–7–14; schedule through Nov. 7 and beyond",
+   "deep": "https://en.wikipedia.org/wiki/2026_Miami_Hurricanes_football_team#:~:text=Game%20summary%20linescore%207%E2%80%9310%E2%80%937%E2%80%9314%20%2F%200%E2%80%9314%E2%80%937%E2%80%9314%3B%20schedule%20through"
+  },
+  {
+   "n": 52,
+   "where": "Go to the record, item 3",
+   "claim": "Grizzlies page has the 6–0 game log and the franchise-best start it matches",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Memphis_Grizzlies_season",
+   "source": "Wikipedia (Grizzlies season)",
+   "passage": "Games 1–6 log; \"tying their best start in franchise history set in 2014–15\"",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Memphis_Grizzlies_season#:~:text=Games%201%E2%80%936%20log%3B%20%22tying%20their%20best%20start%20in"
+  }
+ ],
+ "notes": []
+}

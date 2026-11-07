@@ -1,0 +1,750 @@
+{
+ "issue": "https://sentfrommyagent.com/p/out-of-office/02-filed-as-it-lands/",
+ "newsletter": "Out of Office",
+ "number": 2,
+ "date": "2026-10-06",
+ "title": "Filed as it lands.",
+ "stamp": "Sent from my agent. Every claim checked.",
+ "record": "https://sentfrommyagent.com/p/out-of-office/02-filed-as-it-lands/record/",
+ "counts": {
+  "checked": 73,
+  "confirmed": 62,
+  "wrong": 2,
+  "unsupported": 9
+ },
+ "checked_at": "2026-10-24T00:00:00-04:00",
+ "checked_by": "a second agent, independent of the writer",
+ "claims": [
+  {
+   "n": 1,
+   "where": "title",
+   "claim": "Filed as it lands (rules file new mail as it arrives)",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot",
+   "source": "Microsoft rules help",
+   "passage": "they apply only to future incoming messages",
+   "deep": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot#:~:text=they%20apply%20only%20to%20future%20incoming%20messages"
+  },
+  {
+   "n": 2,
+   "where": "dek",
+   "claim": "Copilot in Outlook now turns a plain request into a standard Inbox rule",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot",
+   "source": "Microsoft rules help",
+   "passage": "Copilot-created rules are standard inbox rules; create rules from natural-language requests (page published 07/20/2026)",
+   "deep": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot#:~:text=Copilot-created%20rules%20are%20standard%20inbox%20rules%3B%20create%20rules"
+  },
+  {
+   "n": 3,
+   "where": "dek",
+   "claim": "newsletters, invoices and alerts get sorted",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot",
+   "source": "Microsoft rules help",
+   "passage": "Examples: 'Move emails with \"Invoice\" in the subject to the Invoices folder.' 'Delete newsletters from newsletters@contoso.com.'",
+   "deep": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot#:~:text=Examples%3A%20%27Move%20emails%20with%20%22Invoice%22%20in%20the%20subject"
+  },
+  {
+   "n": 4,
+   "where": "dek",
+   "claim": "Copilot shows each rule and waits for your yes",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot",
+   "source": "Microsoft rules help",
+   "passage": "Before making any changes, Copilot shows a summary of the rule and asks for confirmation",
+   "deep": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot#:~:text=Before%20making%20any%20changes%2C%20Copilot%20shows%20a%20summary"
+  },
+  {
+   "n": 5,
+   "where": "summary",
+   "claim": "Ask Copilot in Outlook for Inbox rules in plain words; they file new mail as it arrives",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot",
+   "source": "Microsoft rules help",
+   "passage": "they apply only to future incoming messages (they don't retroactively process existing email)",
+   "deep": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot#:~:text=they%20apply%20only%20to%20future%20incoming%20messages%20%28they"
+  },
+  {
+   "n": 6,
+   "where": "summary",
+   "claim": "Needs a work or school account",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-us/copilot-outlook",
+   "source": "Microsoft Copilot in Outlook help",
+   "passage": "sign in with a work or school account",
+   "deep": "https://support.microsoft.com/en-us/copilot-outlook#:~:text=sign%20in%20with%20a%20work%20or%20school%20account"
+  },
+  {
+   "n": 7,
+   "where": "art alt / art svg text 'FILED'",
+   "claim": "Inbox tray, letter into folder labelled Filed (illustrative)",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot",
+   "source": "Microsoft rules help",
+   "passage": "Illustrative; consistent with rules moving mail to folders. No factual claim beyond that",
+   "deep": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot#:~:text=Illustrative%3B%20consistent%20with%20rules%20moving%20mail%20to%20folders."
+  },
+  {
+   "n": 8,
+   "where": "The story",
+   "claim": "Outlook has always been able to do this with Inbox rules",
+   "verdict": "unsupported",
+   "url": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot",
+   "source": "Microsoft rules help",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 9,
+   "where": "The story",
+   "claim": "Few people set them up, because the rules screen is fiddly",
+   "verdict": "unsupported",
+   "url": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot",
+   "source": "Microsoft rules help",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 10,
+   "where": "The story",
+   "claim": "Copilot can now write the rule from a sentence",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot",
+   "source": "Microsoft rules help",
+   "passage": "Copilot in Outlook can create ... inbox rules from natural-language requests",
+   "deep": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot#:~:text=Copilot%20in%20Outlook%20can%20create"
+  },
+  {
+   "n": 11,
+   "where": "The story",
+   "claim": "It shows you a summary first and creates nothing until you confirm",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot",
+   "source": "Microsoft rules help",
+   "passage": "Before making any changes, Copilot shows a summary of the rule and asks for confirmation",
+   "deep": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot#:~:text=Before%20making%20any%20changes%2C%20Copilot%20shows%20a%20summary"
+  },
+  {
+   "n": 12,
+   "where": "The story",
+   "claim": "After that, it's an ordinary Inbox rule; it acts on new mail as it arrives",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot",
+   "source": "Microsoft rules help",
+   "passage": "Copilot-created rules are standard inbox rules ... apply only to future incoming messages",
+   "deep": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot#:~:text=Copilot-created%20rules%20are%20standard%20inbox%20rules"
+  },
+  {
+   "n": 13,
+   "where": "The story",
+   "claim": "with no AI in the loop",
+   "verdict": "unsupported",
+   "url": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot",
+   "source": "Microsoft rules help",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 14,
+   "where": "The story",
+   "claim": "What a rule does with each new email, after you've confirmed it once",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot",
+   "source": "Microsoft rules help",
+   "passage": "asks for confirmation ... apply only to future incoming messages",
+   "deep": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot#:~:text=asks%20for%20confirmation"
+  },
+  {
+   "n": 15,
+   "where": "The story, step 2",
+   "claim": "Outlook checks the rule's condition: sender or subject",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot",
+   "source": "Microsoft rules help",
+   "passage": "Examples: 'move emails from Alex...'; 'emails with \"Invoice\" in the subject'",
+   "deep": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot#:~:text=Examples%3A%20%27move%20emails%20from%20Alex"
+  },
+  {
+   "n": 16,
+   "where": "The story, step 3",
+   "claim": "Moves, categorizes or deletes it",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot",
+   "source": "Microsoft rules help",
+   "passage": "Examples: move from a sender, categorize messages, delete newsletters",
+   "deep": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot#:~:text=Examples%3A%20move%20from%20a%20sender%2C%20categorize%20messages%2C%20delete"
+  },
+  {
+   "n": 17,
+   "where": "The story",
+   "claim": "Rules made by Copilot are standard Inbox rules and only touch mail that arrives after you create them",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot",
+   "source": "Microsoft rules help",
+   "passage": "No existing emails are changed when the rule is created",
+   "deep": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot#:~:text=No%20existing%20emails%20are%20changed%20when%20the%20rule"
+  },
+  {
+   "n": 18,
+   "where": "The steps",
+   "claim": "Works in new Outlook for Windows, Outlook on the web, classic Outlook, Outlook for Mac",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot",
+   "source": "Microsoft rules help",
+   "passage": "Classic and New Outlook for Windows, Outlook on the web, Outlook for Mac, and Outlook for iOS and Android",
+   "deep": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot#:~:text=Classic%20and%20New%20Outlook%20for%20Windows%2C%20Outlook%20on"
+  },
+  {
+   "n": 19,
+   "where": "The steps",
+   "claim": "Rules available in Copilot pane on phones, but the Outlook rules settings link isn't there",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot",
+   "source": "Microsoft rules help",
+   "passage": "On iOS and Android, 'You can use Copilot to create, view, update, and delete rules.' 'The Outlook Rules settings link isn't available.'",
+   "deep": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot#:~:text=On%20iOS%20and%20Android%2C%20%27You%20can%20use%20Copilot"
+  },
+  {
+   "n": 20,
+   "where": "The steps",
+   "claim": "work or school account",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-us/copilot-outlook",
+   "source": "Microsoft Copilot in Outlook help",
+   "passage": "sign in with a work or school account",
+   "deep": "https://support.microsoft.com/en-us/copilot-outlook#:~:text=sign%20in%20with%20a%20work%20or%20school%20account"
+  },
+  {
+   "n": 21,
+   "where": "The steps",
+   "claim": "Copilot in Outlook works only on your primary mailbox",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-US/Outlook/frequently-asked-questions-about-copilot-in-outlook",
+   "source": "Microsoft Outlook FAQ",
+   "passage": "Copilot scenarios in Outlook are only available on a user's primary mailbox",
+   "deep": "https://support.microsoft.com/en-US/Outlook/frequently-asked-questions-about-copilot-in-outlook#:~:text=Copilot%20scenarios%20in%20Outlook%20are%20only%20available%20on"
+  },
+  {
+   "n": 22,
+   "where": "The steps",
+   "claim": "hosted on Exchange Online",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-US/Outlook/frequently-asked-questions-about-copilot-in-outlook",
+   "source": "Microsoft Outlook FAQ",
+   "passage": "Copilot scenarios are not supported on mailboxes that are not hosted on Exchange Online",
+   "deep": "https://support.microsoft.com/en-US/Outlook/frequently-asked-questions-about-copilot-in-outlook#:~:text=Copilot%20scenarios%20are%20not%20supported%20on%20mailboxes%20that"
+  },
+  {
+   "n": 23,
+   "where": "The steps",
+   "claim": "Copilot is switched on, or not, by your IT team",
+   "verdict": "unsupported",
+   "url": "https://support.microsoft.com/en-us/copilot-outlook",
+   "source": "Microsoft Copilot in Outlook help",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 24,
+   "where": "The steps, item 1",
+   "claim": "Select the Copilot button near the top of the window",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-us/copilot-outlook",
+   "source": "Microsoft Copilot in Outlook help",
+   "passage": "select the Copilot button located in the upper region of your Outlook app",
+   "deep": "https://support.microsoft.com/en-us/copilot-outlook#:~:text=select%20the%20Copilot%20button%20located%20in%20the%20upper"
+  },
+  {
+   "n": 25,
+   "where": "The steps, item 2",
+   "claim": "Prompt 'Show me my current rules.'",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot",
+   "source": "Microsoft rules help",
+   "passage": "Example prompt: \"Show me my current rules.\"",
+   "deep": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot#:~:text=Example%20prompt%3A%20%22Show%20me%20my%20current%20rules.%22"
+  },
+  {
+   "n": 26,
+   "where": "The steps, item 2",
+   "claim": "Copilot lists each rule's name, condition, action and whether it's on",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot",
+   "source": "Microsoft rules help",
+   "passage": "read-only list of rule names, conditions and actions, and whether each rule is on or off",
+   "deep": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot#:~:text=read-only%20list%20of%20rule%20names%2C%20conditions%20and%20actions%2C"
+  },
+  {
+   "n": 27,
+   "where": "The steps, item 2",
+   "claim": "Listing changes nothing",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot",
+   "source": "Microsoft rules help",
+   "passage": "read-only list ... No confirmation is needed",
+   "deep": ""
+  },
+  {
+   "n": 28,
+   "where": "The steps, item 3",
+   "claim": "Prompt 'Create a rule to move emails from ... to a Read Later folder'",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot",
+   "source": "Microsoft rules help",
+   "passage": "\"Create a rule to move emails from Alex to the Read Later folder.\" (issue substitutes example address; reader told to use own)",
+   "deep": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot#:~:text=%22Create%20a%20rule%20to%20move%20emails%20from%20Alex"
+  },
+  {
+   "n": 29,
+   "where": "The steps, item 3",
+   "claim": "Copilot replies with a summary: condition, action, future emails only",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot",
+   "source": "Microsoft rules help",
+   "passage": "summarizing the condition, action, and note that the rule applies to future emails only",
+   "deep": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot#:~:text=summarizing%20the%20condition%2C%20action%2C%20and%20note%20that%20the"
+  },
+  {
+   "n": 30,
+   "where": "The steps, item 3",
+   "claim": "If the folder doesn't exist, it asks to create the folder and rule together",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot",
+   "source": "Microsoft rules help",
+   "passage": "If the target folder doesn't exist, Copilot confirms creating the folder and the rule together",
+   "deep": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot#:~:text=If%20the%20target%20folder%20doesn%27t%20exist%2C%20Copilot%20confirms"
+  },
+  {
+   "n": 31,
+   "where": "The steps, item 4",
+   "claim": "Prompt 'Categorize emails from my manager as Important.'",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot",
+   "source": "Microsoft rules help",
+   "passage": "\"Categorize emails from my manager as Important.\"",
+   "deep": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot#:~:text=%22Categorize%20emails%20from%20my%20manager%20as%20Important.%22"
+  },
+  {
+   "n": 32,
+   "where": "The steps, item 4",
+   "claim": "The message stays in your inbox with a category you can sort by",
+   "verdict": "unsupported",
+   "url": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot",
+   "source": "Microsoft rules help",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 33,
+   "where": "The steps, item 5",
+   "claim": "A rule ignores mail that's already in your inbox",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot",
+   "source": "Microsoft rules help",
+   "passage": "they don't retroactively process existing email",
+   "deep": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot#:~:text=they%20don%27t%20retroactively%20process%20existing%20email"
+  },
+  {
+   "n": 34,
+   "where": "The steps, item 5",
+   "claim": "Prompt 'Move emails from Contoso about invoices to my Finance folder.'",
+   "verdict": "confirmed",
+   "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes",
+   "source": "Microsoft 365 Copilot release notes",
+   "passage": "Try this: \"Move emails from Contoso about invoices to my Finance folder.\" (Sept. 23, 2026 notes)",
+   "deep": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes#:~:text=Try%20this%3A%20%22Move%20emails%20from%20Contoso%20about%20invoices"
+  },
+  {
+   "n": 35,
+   "where": "The steps, item 5",
+   "claim": "Microsoft says Copilot asks for confirmation before acting on more than five emails",
+   "verdict": "confirmed",
+   "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes",
+   "source": "Microsoft 365 Copilot release notes",
+   "passage": "Copilot requests confirmation before acting on more than five emails or making changes to inbox rules",
+   "deep": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes#:~:text=Copilot%20requests%20confirmation%20before%20acting%20on%20more%20than"
+  },
+  {
+   "n": 36,
+   "where": "The steps, item 5",
+   "claim": "Five or fewer can move without a prompt",
+   "verdict": "unsupported",
+   "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes",
+   "source": "Microsoft 365 Copilot release notes",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 37,
+   "where": "The steps, item 6",
+   "claim": "Each time Copilot creates or changes a rule, its reply includes an Outlook Rules settings link",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot",
+   "source": "Microsoft rules help",
+   "passage": "When Copilot creates, shows, updates, or deletes rules, it includes an Outlook Rules settings link",
+   "deep": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot#:~:text=When%20Copilot%20creates%2C%20shows%2C%20updates%2C%20or%20deletes%20rules%2C"
+  },
+  {
+   "n": 38,
+   "where": "The steps, item 6",
+   "claim": "Prompt to change rule destination to Archive",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot",
+   "source": "Microsoft rules help",
+   "passage": "\"Change the Alex rule to move mail to Archive instead of Read Later.\"",
+   "deep": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot#:~:text=%22Change%20the%20Alex%20rule%20to%20move%20mail%20to"
+  },
+  {
+   "n": 39,
+   "where": "The steps",
+   "claim": "No separate charge for Copilot Chat on eligible Microsoft 365 work plans",
+   "verdict": "confirmed",
+   "url": "https://www.microsoft.com/en-us/microsoft-365/copilot/business",
+   "source": "Microsoft 365 Copilot Business",
+   "passage": "Copilot Chat is a web-grounded AI assistant included at no additional cost with eligible Microsoft 365 plans",
+   "deep": "https://www.microsoft.com/en-us/microsoft-365/copilot/business#:~:text=Copilot%20Chat%20is%20a%20web-grounded%20AI%20assistant%20included"
+  },
+  {
+   "n": 40,
+   "where": "The steps",
+   "claim": "Some Copilot features in Outlook need the paid Microsoft 365 Copilot add-on",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-us/copilot-outlook",
+   "source": "Microsoft Copilot in Outlook help",
+   "passage": "With the add-on: same capabilities, plus access to your chats and enterprise data (depends on whether admin 'assigned a Microsoft Copilot add-on license')",
+   "deep": "https://support.microsoft.com/en-us/copilot-outlook#:~:text=With%20the%20add-on%3A%20same%20capabilities%2C%20plus%20access%20to"
+  },
+  {
+   "n": 41,
+   "where": "The steps",
+   "claim": "$25.20 per user per month on monthly billing, for businesses",
+   "verdict": "confirmed",
+   "url": "https://www.microsoft.com/en-us/microsoft-365/copilot/business",
+   "source": "Microsoft 365 Copilot Business",
+   "passage": "Monthly billing: $25.20 per user per month (yearly billing shown at $18.00 promo / $21.00 list). Checked 2026-10-24; page undated, so price on Oct. 6 can't be independently fixed",
+   "deep": "https://www.microsoft.com/en-us/microsoft-365/copilot/business#:~:text=Monthly%20billing%3A%20%2425.20%20per%20user%20per%20month%20%28yearly"
+  },
+  {
+   "n": 42,
+   "where": "The steps",
+   "claim": "Your employer decides and pays",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-us/copilot-outlook",
+   "source": "Microsoft Copilot in Outlook help",
+   "passage": "features depend on whether your admin assigned a Microsoft Copilot add-on license",
+   "deep": "https://support.microsoft.com/en-us/copilot-outlook#:~:text=features%20depend%20on%20whether%20your%20admin%20assigned%20a"
+  },
+  {
+   "n": 43,
+   "where": "The steps",
+   "claim": "Copilot confirms before acting on more than five emails or changing a rule",
+   "verdict": "confirmed",
+   "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes",
+   "source": "Microsoft 365 Copilot release notes",
+   "passage": "Copilot requests confirmation before acting on more than five emails or making changes to inbox rules",
+   "deep": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes#:~:text=Copilot%20requests%20confirmation%20before%20acting%20on%20more%20than"
+  },
+  {
+   "n": 44,
+   "where": "The steps",
+   "claim": "A one-off move of five or fewer may simply happen",
+   "verdict": "unsupported",
+   "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes",
+   "source": "Microsoft 365 Copilot release notes",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 45,
+   "where": "The steps",
+   "claim": "A rule keyed on a word like 'invoice' catches every message with that word",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot",
+   "source": "Microsoft rules help",
+   "passage": "Example: 'Move emails with \"Invoice\" in the subject to the Invoices folder.' (subject-word conditions exist; breadth is a general consequence)",
+   "deep": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot#:~:text=Example%3A%20%27Move%20emails%20with%20%22Invoice%22%20in%20the%20subject"
+  },
+  {
+   "n": 46,
+   "where": "The steps",
+   "claim": "Copilot can create rules that delete mail",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot",
+   "source": "Microsoft rules help",
+   "passage": "\"Delete newsletters from newsletters@contoso.com.\"",
+   "deep": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot#:~:text=%22Delete%20newsletters%20from%20newsletters%40contoso.com.%22"
+  },
+  {
+   "n": 47,
+   "where": "The steps",
+   "claim": "Microsoft says these features don't work on signed or encrypted email, IRM mail or some sensitivity-labelled mail",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-US/Outlook/frequently-asked-questions-about-copilot-in-outlook",
+   "source": "Microsoft Outlook FAQ",
+   "passage": "These features are not supported on signed or encrypted emails, on emails with IRM, or on some MIP labeled emails",
+   "deep": "https://support.microsoft.com/en-US/Outlook/frequently-asked-questions-about-copilot-in-outlook#:~:text=These%20features%20are%20not%20supported%20on%20signed%20or"
+  },
+  {
+   "n": 48,
+   "where": "The steps",
+   "claim": "That mail stays where it lands",
+   "verdict": "unsupported",
+   "url": "https://support.microsoft.com/en-US/Outlook/frequently-asked-questions-about-copilot-in-outlook",
+   "source": "Microsoft Outlook FAQ",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 49,
+   "where": "The steps",
+   "claim": "by: none (no test claimed)",
+   "verdict": "confirmed",
+   "url": "",
+   "source": "the issue itself",
+   "passage": "No claim in text that the workflow was tested or that the owner tested/saw it",
+   "deep": ""
+  },
+  {
+   "n": 50,
+   "where": "The steps",
+   "claim": "Decide which senders get a rule (judgment item)",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot",
+   "source": "Microsoft rules help",
+   "passage": "Non-factual; consistent with rule creation by sender",
+   "deep": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot#:~:text=Non-factual%3B%20consistent%20with%20rule%20creation%20by%20sender"
+  },
+  {
+   "n": 51,
+   "where": "The steps",
+   "claim": "The summary is the only check",
+   "verdict": "wrong",
+   "url": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot",
+   "source": "Microsoft rules help",
+   "passage": "When Copilot creates, shows, updates, or deletes rules, it includes an Outlook Rules settings link",
+   "deep": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot#:~:text=When%20Copilot%20creates%2C%20shows%2C%20updates%2C%20or%20deletes%20rules%2C"
+  },
+  {
+   "n": 52,
+   "where": "The steps",
+   "claim": "Check new folders daily for the first week (advice)",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot",
+   "source": "Microsoft rules help",
+   "passage": "Non-factual advice",
+   "deep": ""
+  },
+  {
+   "n": 53,
+   "where": "The steps",
+   "claim": "Nothing happens until you say yes",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot",
+   "source": "Microsoft rules help",
+   "passage": "Before making any changes, Copilot shows a summary of the rule and asks for confirmation",
+   "deep": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot#:~:text=Before%20making%20any%20changes%2C%20Copilot%20shows%20a%20summary"
+  },
+  {
+   "n": 54,
+   "where": "The steps",
+   "claim": "Before it creates, changes or deletes a rule, Copilot shows what the rule will do and waits",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot",
+   "source": "Microsoft rules help",
+   "passage": "Updating: shows the current rule and the proposed change, and waits for your approval. Deleting: removes it only after you confirm",
+   "deep": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot#:~:text=Updating%3A%20shows%20the%20current%20rule%20and%20the%20proposed"
+  },
+  {
+   "n": 55,
+   "where": "The steps",
+   "claim": "Moving five emails or fewer by hand is the exception",
+   "verdict": "unsupported",
+   "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes",
+   "source": "Microsoft 365 Copilot release notes",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 56,
+   "where": "The steps",
+   "claim": "Summary card with confirm button, line to a folder",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot",
+   "source": "Microsoft rules help",
+   "passage": "asks for confirmation (illustrative)",
+   "deep": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot#:~:text=asks%20for%20confirmation%20%28illustrative%29"
+  },
+  {
+   "n": 57,
+   "where": "The story",
+   "claim": "Also this month · Microsoft 365 Copilot",
+   "verdict": "wrong",
+   "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes",
+   "source": "Microsoft 365 Copilot release notes",
+   "passage": "## September 23, 2026",
+   "deep": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes#:~:text=%23%23%20September%2023%2C%202026"
+  },
+  {
+   "n": 58,
+   "where": "The story",
+   "claim": "Triage by request, with a threshold",
+   "verdict": "confirmed",
+   "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes",
+   "source": "Microsoft 365 Copilot release notes",
+   "passage": "natural language triage actions ... confirmation before acting on more than five emails",
+   "deep": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes#:~:text=natural%20language%20triage%20actions"
+  },
+  {
+   "n": 59,
+   "where": "The story",
+   "claim": "Microsoft's Sept. 23 release notes",
+   "verdict": "confirmed",
+   "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes",
+   "source": "Microsoft 365 Copilot release notes",
+   "passage": "## September 23, 2026",
+   "deep": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes#:~:text=%23%23%20September%2023%2C%202026"
+  },
+  {
+   "n": 60,
+   "where": "The story",
+   "claim": "covering updates released from Aug. 26 to Sept. 22",
+   "verdict": "confirmed",
+   "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes",
+   "source": "Microsoft 365 Copilot release notes",
+   "passage": "Updates released between August 26, 2026, and September 22, 2026",
+   "deep": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes#:~:text=Updates%20released%20between%20August%2026%2C%202026%2C%20and%20September"
+  },
+  {
+   "n": 61,
+   "where": "The story",
+   "claim": "add plain-language triage: delete, move, copy and categorize mail, and create rules and folders",
+   "verdict": "confirmed",
+   "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes",
+   "source": "Microsoft 365 Copilot release notes",
+   "passage": "users can now delete, move, copy, and categorize emails using natural language. It also supports creating, managing rules, and creating folders",
+   "deep": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes#:~:text=users%20can%20now%20delete%2C%20move%2C%20copy%2C%20and%20categorize"
+  },
+  {
+   "n": 62,
+   "where": "The story",
+   "claim": "builds on a preview for Frontier program users",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-us/outlook/use-microsoft-365-copilot-in-outlook-to-manage-your-inbox-frontier",
+   "source": "Microsoft Frontier inbox help",
+   "passage": "The new default experience requires enrollment in the Frontier program ... preview feature",
+   "deep": "https://support.microsoft.com/en-us/outlook/use-microsoft-365-copilot-in-outlook-to-manage-your-inbox-frontier#:~:text=The%20new%20default%20experience%20requires%20enrollment%20in%20the"
+  },
+  {
+   "n": 63,
+   "where": "The story",
+   "claim": "preview began on April 27",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-us/outlook/use-microsoft-365-copilot-in-outlook-to-manage-your-inbox-frontier",
+   "source": "Microsoft Frontier inbox help",
+   "passage": "For Frontier-enrolled organizations, rollout starts April 27, 2026",
+   "deep": "https://support.microsoft.com/en-us/outlook/use-microsoft-365-copilot-in-outlook-to-manage-your-inbox-frontier#:~:text=For%20Frontier-enrolled%20organizations%2C%20rollout%20starts%20April%2027%2C%202026"
+  },
+  {
+   "n": 64,
+   "where": "The story",
+   "claim": "actions work across classic and new Outlook for Windows, Outlook on the web, Mac and mobile",
+   "verdict": "confirmed",
+   "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes",
+   "source": "Microsoft 365 Copilot release notes",
+   "passage": "These features work across Classic and New Outlook for Windows, Outlook on the web, Outlook for Mac, and Outlook mobile",
+   "deep": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes#:~:text=These%20features%20work%20across%20Classic%20and%20New%20Outlook"
+  },
+  {
+   "n": 65,
+   "where": "The story",
+   "claim": "The same notes list Copilot Cowork",
+   "verdict": "confirmed",
+   "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes",
+   "source": "Microsoft 365 Copilot release notes",
+   "passage": "Delegate complex work with Copilot Cowork (Sept. 23, 2026 section)",
+   "deep": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes#:~:text=Delegate%20complex%20work%20with%20Copilot%20Cowork%20%28Sept.%2023%2C"
+  },
+  {
+   "n": 66,
+   "where": "The story",
+   "claim": "Copilot Cowork completes multi-step work with your approval",
+   "verdict": "confirmed",
+   "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes",
+   "source": "Microsoft 365 Copilot release notes",
+   "passage": "complete multi-step actions with your approval",
+   "deep": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes#:~:text=complete%20multi-step%20actions%20with%20your%20approval"
+  },
+  {
+   "n": 67,
+   "where": "The story",
+   "claim": "How inbox actions reached Outlook · 2026",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-us/outlook/use-microsoft-365-copilot-in-outlook-to-manage-your-inbox-frontier",
+   "source": "Microsoft Frontier inbox help",
+   "passage": "rollout starts April 27, 2026; release notes September 23, 2026",
+   "deep": "https://support.microsoft.com/en-us/outlook/use-microsoft-365-copilot-in-outlook-to-manage-your-inbox-frontier#:~:text=rollout%20starts%20April%2027%2C%202026%3B%20release%20notes%20September"
+  },
+  {
+   "n": 68,
+   "where": "The story, step 1",
+   "claim": "April 27: Inbox actions preview starts for Frontier program users",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-us/outlook/use-microsoft-365-copilot-in-outlook-to-manage-your-inbox-frontier",
+   "source": "Microsoft Frontier inbox help",
+   "passage": "For Frontier-enrolled organizations, rollout starts April 27, 2026",
+   "deep": "https://support.microsoft.com/en-us/outlook/use-microsoft-365-copilot-in-outlook-to-manage-your-inbox-frontier#:~:text=For%20Frontier-enrolled%20organizations%2C%20rollout%20starts%20April%2027%2C%202026"
+  },
+  {
+   "n": 69,
+   "where": "The story, step 2",
+   "claim": "Sept. 23: Release notes add delete, move, copy, categorize, rules and folders",
+   "verdict": "confirmed",
+   "url": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes",
+   "source": "Microsoft 365 Copilot release notes",
+   "passage": "September 23, 2026 ... delete, move, copy, and categorize emails ... creating, managing rules, and creating folders",
+   "deep": "https://learn.microsoft.com/en-us/microsoft-365/copilot/release-notes#:~:text=September%2023%2C%202026"
+  },
+  {
+   "n": 70,
+   "where": "The checklist, item 1",
+   "claim": "Copilot in Outlook is your company's tool; use as IT allows",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-us/copilot-outlook",
+   "source": "Microsoft Copilot in Outlook help",
+   "passage": "depends on whether your admin assigned a Microsoft Copilot add-on license to your work or school account",
+   "deep": "https://support.microsoft.com/en-us/copilot-outlook#:~:text=depends%20on%20whether%20your%20admin%20assigned%20a%20Microsoft"
+  },
+  {
+   "n": 71,
+   "where": "The checklist, item 2",
+   "claim": "Run 'Show me my current rules'",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot",
+   "source": "Microsoft rules help",
+   "passage": "\"Show me my current rules.\"",
+   "deep": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot#:~:text=%22Show%20me%20my%20current%20rules.%22"
+  },
+  {
+   "n": 72,
+   "where": "The checklist, item 3",
+   "claim": "Move, don't delete (advice)",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot",
+   "source": "Microsoft rules help",
+   "passage": "Non-factual advice; delete rules exist per page",
+   "deep": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot#:~:text=Non-factual%20advice%3B%20delete%20rules%20exist%20per%20page"
+  },
+  {
+   "n": 73,
+   "where": "The checklist, item 4",
+   "claim": "Summary shows sender, folder and 'future emails only'",
+   "verdict": "confirmed",
+   "url": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot",
+   "source": "Microsoft rules help",
+   "passage": "summarizing the condition, action, and note that the rule applies to future emails only",
+   "deep": "https://support.microsoft.com/en-US/Outlook/create-and-view-outlook-rules-with-microsoft-365-copilot#:~:text=summarizing%20the%20condition%2C%20action%2C%20and%20note%20that%20the"
+  }
+ ],
+ "notes": []
+}

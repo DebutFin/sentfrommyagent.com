@@ -1,0 +1,865 @@
+{
+ "issue": "https://sentfrommyagent.com/p/morning-note/05-ten-year-back-under-5/",
+ "newsletter": "Morning Note · Markets",
+ "number": 5,
+ "date": "2026-10-23",
+ "title": "Ten-year back under 5%.",
+ "stamp": "Sent from my agent. Every claim checked.",
+ "record": "https://sentfrommyagent.com/p/morning-note/05-ten-year-back-under-5/record/",
+ "counts": {
+  "checked": 84,
+  "confirmed": 82,
+  "wrong": 0,
+  "unsupported": 2
+ },
+ "checked_at": "2026-10-26T12:00:00-04:00",
+ "checked_by": "a second agent, independent of the writer",
+ "claims": [
+  {
+   "n": 1,
+   "where": "title",
+   "claim": "Ten-year back under 5%",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "10/22/2026 10 Yr 4.96",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F22%2F2026%2010%20Yr%204.96"
+  },
+  {
+   "n": 2,
+   "where": "dek",
+   "claim": "AI-stock selloff Thursday sent money into Treasuries",
+   "verdict": "confirmed",
+   "url": "https://finwire.io/news/stock-markets-news/us-bond-yields-plunge-as-fears-about-sustaining-ai-boom-resurface",
+   "source": "Reuters via Finwire",
+   "passage": "as equities sold off after concerns about the sustainability of the AI outlook reignited ... boosting the safe-haven appeal of government debt",
+   "deep": "https://finwire.io/news/stock-markets-news/us-bond-yields-plunge-as-fears-about-sustaining-ai-boom-resurface#:~:text=as%20equities%20sold%20off%20after%20concerns%20about%20the"
+  },
+  {
+   "n": 3,
+   "where": "dek",
+   "claim": "10-year closed at 4.96%, down 17 bp",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "10/21/2026 row: 3 Mo 4.25, 2 Yr 4.81, 5 Yr 4.95, 10 Yr 5.13, 30 Yr 5.42; 10/22/2026 row: 3 Mo 4.22, 2 Yr 4.65, 3 Yr 4.72, 5 Yr 4.78, 7 Yr 4.86, 10 Yr 4.96, 30 Yr 5.29",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F21%2F2026%20row%3A%203%20Mo%204.25%2C%202%20Yr%204.81%2C"
+  },
+  {
+   "n": 4,
+   "where": "dek",
+   "claim": "on pace for biggest one-day drop since March 2023 by Reuters' count",
+   "verdict": "confirmed",
+   "url": "https://finwire.io/news/stock-markets-news/us-bond-yields-plunge-as-fears-about-sustaining-ai-boom-resurface",
+   "source": "Reuters via Finwire",
+   "passage": "biggest daily drop since March 10, 2023",
+   "deep": "https://finwire.io/news/stock-markets-news/us-bond-yields-plunge-as-fears-about-sustaining-ai-boom-resurface#:~:text=biggest%20daily%20drop%20since%20March%2010%2C%202023"
+  },
+  {
+   "n": 5,
+   "where": "dek",
+   "claim": "Brent rose about 4% on attacks in Saudi Arabia",
+   "verdict": "confirmed",
+   "url": "https://www.rigzone.com/news/wire/oil_surges_4_after_deadly_saudi_attacks-22-oct-2026-184912-article/",
+   "source": "Bloomberg via Rigzone",
+   "passage": "Brent for December settlement climbed 4% to settle at $113.17 a barrel ... A drone strike on Saudi Aramco's Shaybah field killed two people",
+   "deep": "https://www.rigzone.com/news/wire/oil_surges_4_after_deadly_saudi_attacks-22-oct-2026-184912-article/#:~:text=Brent%20for%20December%20settlement%20climbed%204%25%20to%20settle"
+  },
+  {
+   "n": 6,
+   "where": "summary",
+   "claim": "10-year closed Thursday at 4.96%, down 17 bp",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "10/22/2026 row: 3 Mo 4.22, 2 Yr 4.65, 3 Yr 4.72, 5 Yr 4.78, 7 Yr 4.86, 10 Yr 4.96, 30 Yr 5.29 vs 10 Yr 5.13 on 10/21",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F22%2F2026%20row%3A%203%20Mo%204.22%2C%202%20Yr%204.65%2C"
+  },
+  {
+   "n": 7,
+   "where": "summary",
+   "claim": "AI stocks sold off after Meta's results",
+   "verdict": "confirmed",
+   "url": "https://finwire.io/news/stock-markets-news/us-bond-yields-plunge-as-fears-about-sustaining-ai-boom-resurface",
+   "source": "Reuters via Finwire",
+   "passage": "equities sold off after concerns about the sustainability of the AI outlook reignited ... The Nasdaq slumped more than 2% as Meta shares lost nearly 8%",
+   "deep": "https://finwire.io/news/stock-markets-news/us-bond-yields-plunge-as-fears-about-sustaining-ai-boom-resurface#:~:text=equities%20sold%20off%20after%20concerns%20about%20the%20sustainability"
+  },
+  {
+   "n": 8,
+   "where": "summary",
+   "claim": "Brent settled at $113.17",
+   "verdict": "confirmed",
+   "url": "https://www.rigzone.com/news/wire/oil_surges_4_after_deadly_saudi_attacks-22-oct-2026-184912-article/",
+   "source": "Bloomberg via Rigzone",
+   "passage": "settle at $113.17 a barrel",
+   "deep": "https://www.rigzone.com/news/wire/oil_surges_4_after_deadly_saudi_attacks-22-oct-2026-184912-article/#:~:text=settle%20at%20%24113.17%20a%20barrel"
+  },
+  {
+   "n": 9,
+   "where": "summary",
+   "claim": "Fed meets Oct. 27-28",
+   "verdict": "confirmed",
+   "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+   "source": "Federal Reserve (FOMC calendar)",
+   "passage": "October: 27-28",
+   "deep": ""
+  },
+  {
+   "n": 10,
+   "where": "The story",
+   "claim": "10-year closed Thursday 4.96% from 5.13% Wednesday",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "10/21/2026 row: 3 Mo 4.25, 2 Yr 4.81, 5 Yr 4.95, 10 Yr 5.13, 30 Yr 5.42; 10/22/2026 row: 3 Mo 4.22, 2 Yr 4.65, 3 Yr 4.72, 5 Yr 4.78, 7 Yr 4.86, 10 Yr 4.96, 30 Yr 5.29",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F21%2F2026%20row%3A%203%20Mo%204.25%2C%202%20Yr%204.81%2C"
+  },
+  {
+   "n": 11,
+   "where": "The story",
+   "claim": "Treasury par curve quotes at 3:30 p.m.",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "obtained by the Federal Reserve Bank of New York at or near 3:30 PM each trading day",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=obtained%20by%20the%20Federal%20Reserve%20Bank%20of%20New"
+  },
+  {
+   "n": 12,
+   "where": "The story",
+   "claim": "2-year fell to 4.65% from 4.81%",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "2 Yr 4.81 (10/21) -> 4.65 (10/22)",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=2%20Yr%204.81%20%2810%2F21%29%20-%3E%204.65%20%2810%2F22%29"
+  },
+  {
+   "n": 13,
+   "where": "The story",
+   "claim": "30-year fell to 5.29% from 5.42%",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "30 Yr 5.42 (10/21) -> 5.29 (10/22)",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=30%20Yr%205.42%20%2810%2F21%29%20-%3E%205.29%20%2810%2F22%29"
+  },
+  {
+   "n": 14,
+   "where": "The story",
+   "claim": "Reuters: 10-year on track for largest one-day decline since March 10, 2023",
+   "verdict": "confirmed",
+   "url": "https://finwire.io/news/stock-markets-news/us-bond-yields-plunge-as-fears-about-sustaining-ai-boom-resurface",
+   "source": "Reuters via Finwire",
+   "passage": "biggest daily drop since March 10, 2023",
+   "deep": "https://finwire.io/news/stock-markets-news/us-bond-yields-plunge-as-fears-about-sustaining-ai-boom-resurface#:~:text=biggest%20daily%20drop%20since%20March%2010%2C%202023"
+  },
+  {
+   "n": 15,
+   "where": "The story",
+   "claim": "10-year closed at 5.31% on Oct. 5, high of the month on Treasury curve",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "10/05/2026 10 Yr 5.31; no October row through 10/22 is higher (next highest 5.28 on 10/02 and 10/07)",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F05%2F2026%2010%20Yr%205.31%3B%20no%20October%20row%20through"
+  },
+  {
+   "n": 16,
+   "where": "The story",
+   "claim": "Reuters: yield rose to 5.3645% on Oct. 7, highest since April 2002",
+   "verdict": "confirmed",
+   "url": "https://finwire.io/news/stock-markets-news/us-bond-yields-plunge-as-fears-about-sustaining-ai-boom-resurface",
+   "source": "Reuters via Finwire",
+   "passage": "The yield had risen to 5.3645% on October 7, its highest since April 2002",
+   "deep": "https://finwire.io/news/stock-markets-news/us-bond-yields-plunge-as-fears-about-sustaining-ai-boom-resurface#:~:text=The%20yield%20had%20risen%20to%205.3645%25%20on%20October"
+  },
+  {
+   "n": 17,
+   "where": "The story",
+   "claim": "Meta Q3 report released Wednesday",
+   "verdict": "confirmed",
+   "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx",
+   "source": "Meta",
+   "passage": "Release date: October 21, 2026 (Wednesday)",
+   "deep": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx#:~:text=Release%20date%3A%20October%2021%2C%202026%20%28Wednesday%29"
+  },
+  {
+   "n": 18,
+   "where": "The story",
+   "claim": "Q3 capex $34.91 billion",
+   "verdict": "confirmed",
+   "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx",
+   "source": "Meta",
+   "passage": "Capital expenditures, including principal payments on finance leases, were $34.91 billion",
+   "deep": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx#:~:text=Capital%20expenditures%2C%20including%20principal%20payments%20on%20finance%20leases%2C"
+  },
+  {
+   "n": 19,
+   "where": "The story",
+   "claim": "full-year range narrowed to $135-145 billion",
+   "verdict": "confirmed",
+   "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx",
+   "source": "Meta",
+   "passage": "to be in the range of $135-145 billion, narrowed from our prior outlook of $130-145 billion",
+   "deep": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx#:~:text=to%20be%20in%20the%20range%20of%20%24135-145%20billion%2C"
+  },
+  {
+   "n": 20,
+   "where": "The story",
+   "claim": "free cash flow negative $2.12 billion",
+   "verdict": "confirmed",
+   "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx",
+   "source": "Meta",
+   "passage": "free cash flow was negative $2.12 billion",
+   "deep": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx#:~:text=free%20cash%20flow%20was%20negative%20%242.12%20billion"
+  },
+  {
+   "n": 21,
+   "where": "The story",
+   "claim": "publicly listed, non-voting Class C stock, effective January 2027",
+   "verdict": "confirmed",
+   "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx",
+   "source": "Meta",
+   "passage": "publicly listed, non-voting Class C common stock, with an effective date in January 2027",
+   "deep": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx#:~:text=publicly%20listed%2C%20non-voting%20Class%20C%20common%20stock%2C%20with"
+  },
+  {
+   "n": 22,
+   "where": "The story",
+   "claim": "quote: \"will provide Meta the ability to finance its growth\" (10 words, attributed to release)",
+   "verdict": "confirmed",
+   "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx",
+   "source": "Meta",
+   "passage": "The Special Committee determined this new class of common stock will provide Meta the ability to finance its growth",
+   "deep": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx#:~:text=The%20Special%20Committee%20determined%20this%20new%20class%20of"
+  },
+  {
+   "n": 23,
+   "where": "The story",
+   "claim": "Meta shares fell 6.98% Thursday",
+   "verdict": "confirmed",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html",
+   "source": "Yahoo Finance",
+   "passage": "648.85 -48.67 (-6.98%) At close: October 22 at 4:00:01 PM EDT",
+   "deep": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html#:~:text=648.85%20-48.67%20%28-6.98%25%29%20At%20close%3A%20October%2022%20at"
+  },
+  {
+   "n": 24,
+   "where": "The story",
+   "claim": "Nasdaq Composite lost 2.6%",
+   "verdict": "confirmed",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html",
+   "source": "Yahoo Finance",
+   "passage": "tumbled 2.6% (entry Oct 22, 8:03 PM UTC)",
+   "deep": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html#:~:text=tumbled%202.6%25%20%28entry%20Oct%2022%2C%208%3A03%20PM%20UTC%29"
+  },
+  {
+   "n": 25,
+   "where": "The story",
+   "claim": "S&P 500 fell 1.2%",
+   "verdict": "confirmed",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html",
+   "source": "Yahoo Finance",
+   "passage": "dropped 1.2% (entry Oct 22, 8:03 PM UTC)",
+   "deep": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html#:~:text=dropped%201.2%25%20%28entry%20Oct%2022%2C%208%3A03%20PM%20UTC%29"
+  },
+  {
+   "n": 26,
+   "where": "The story",
+   "claim": "Brent for December settled $113.17, up about 4%",
+   "verdict": "confirmed",
+   "url": "https://www.rigzone.com/news/wire/oil_surges_4_after_deadly_saudi_attacks-22-oct-2026-184912-article/",
+   "source": "Bloomberg via Rigzone",
+   "passage": "Brent for December settlement climbed 4% to settle at $113.17 a barrel",
+   "deep": "https://www.rigzone.com/news/wire/oil_surges_4_after_deadly_saudi_attacks-22-oct-2026-184912-article/#:~:text=Brent%20for%20December%20settlement%20climbed%204%25%20to%20settle"
+  },
+  {
+   "n": 27,
+   "where": "The story",
+   "claim": "WTI settled $99.47, up 2.4%",
+   "verdict": "confirmed",
+   "url": "https://www.rigzone.com/news/wire/oil_surges_4_after_deadly_saudi_attacks-22-oct-2026-184912-article/",
+   "source": "Bloomberg via Rigzone",
+   "passage": "WTI for December delivery advanced 2.4% to settle at $99.47 a barrel in New York",
+   "deep": "https://www.rigzone.com/news/wire/oil_surges_4_after_deadly_saudi_attacks-22-oct-2026-184912-article/#:~:text=WTI%20for%20December%20delivery%20advanced%202.4%25%20to%20settle"
+  },
+  {
+   "n": 28,
+   "where": "The story",
+   "claim": "drone strike on Aramco's Shaybah field killed two people",
+   "verdict": "confirmed",
+   "url": "https://www.rigzone.com/news/wire/oil_surges_4_after_deadly_saudi_attacks-22-oct-2026-184912-article/",
+   "source": "Bloomberg via Rigzone",
+   "passage": "A drone strike on Saudi Aramco's Shaybah field killed two people but left operations unaffected",
+   "deep": "https://www.rigzone.com/news/wire/oil_surges_4_after_deadly_saudi_attacks-22-oct-2026-184912-article/#:~:text=A%20drone%20strike%20on%20Saudi%20Aramco%27s%20Shaybah%20field"
+  },
+  {
+   "n": 29,
+   "where": "The story",
+   "claim": "attack hit King Fahd International Airport in Dammam",
+   "verdict": "confirmed",
+   "url": "https://www.rigzone.com/news/wire/oil_surges_4_after_deadly_saudi_attacks-22-oct-2026-184912-article/",
+   "source": "Bloomberg via Rigzone",
+   "passage": "there were casualties from an attack on the King Fahd International Airport in Dammam",
+   "deep": "https://www.rigzone.com/news/wire/oil_surges_4_after_deadly_saudi_attacks-22-oct-2026-184912-article/#:~:text=there%20were%20casualties%20from%20an%20attack%20on%20the"
+  },
+  {
+   "n": 30,
+   "where": "The story",
+   "claim": "Bloomberg reported operations were unaffected",
+   "verdict": "confirmed",
+   "url": "https://www.rigzone.com/news/wire/oil_surges_4_after_deadly_saudi_attacks-22-oct-2026-184912-article/",
+   "source": "Bloomberg via Rigzone",
+   "passage": "left operations unaffected (refers to Shaybah field)",
+   "deep": "https://www.rigzone.com/news/wire/oil_surges_4_after_deadly_saudi_attacks-22-oct-2026-184912-article/#:~:text=left%20operations%20unaffected%20%28refers%20to%20Shaybah%20field%29"
+  },
+  {
+   "n": 31,
+   "where": "The story",
+   "claim": "Reuters reported Aramco ordered evacuation of Dhahran HQ",
+   "verdict": "confirmed",
+   "url": "https://boereport.com/2026/10/22/oil-prices-rise-as-supply-concerns-linger-amid-houthi-attacks-on-saudi-arabia/",
+   "source": "Reuters via BOE Report",
+   "passage": "Saudi Aramco on Thursday ordered the evacuation of its headquarters in Dhahran on the Gulf near Bahrain",
+   "deep": "https://boereport.com/2026/10/22/oil-prices-rise-as-supply-concerns-linger-amid-houthi-attacks-on-saudi-arabia/#:~:text=Saudi%20Aramco%20on%20Thursday%20ordered%20the%20evacuation%20of"
+  },
+  {
+   "n": 32,
+   "where": "The story",
+   "claim": "target range 3.75%-4.00% since Sept. 17",
+   "verdict": "confirmed",
+   "url": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm",
+   "source": "Federal Reserve (target range)",
+   "passage": "2026 September 17 | 25 | 0 | 3.75-4.00 (most recent row)",
+   "deep": "https://www.federalreserve.gov/monetarypolicy/openmarket.htm#:~:text=2026%20September%2017"
+  },
+  {
+   "n": 33,
+   "where": "The story",
+   "claim": "effective rate printed 3.88% Thursday",
+   "verdict": "confirmed",
+   "url": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json?startDate=2026-10-19&endDate=2026-10-22",
+   "source": "New York Fed",
+   "passage": "effectiveDate 2026-10-22, percentRate 3.88",
+   "deep": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json?startDate=2026-10-19&endDate=2026-10-22#:~:text=effectiveDate%202026-10-22%2C%20percentRate%203.88"
+  },
+  {
+   "n": 34,
+   "where": "The story",
+   "claim": "2-year at 4.65% sits above top of range (4.00%)",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "10/22 2 Yr 4.65 vs targetRateTo 4.00",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F22%202%20Yr%204.65%20vs%20targetRateTo%204.00"
+  },
+  {
+   "n": 35,
+   "where": "The story",
+   "claim": "FedWatch odds of >=25bp hike at Oct 27-28 meeting 7.2%, from 27.7% week before, 55.4% month before",
+   "verdict": "confirmed",
+   "url": "https://finwire.io/news/stock-markets-news/us-bond-yields-plunge-as-fears-about-sustaining-ai-boom-resurface",
+   "source": "Reuters via Finwire",
+   "passage": "The probability of a hike of at least 25 bps has shrunk to 7.2%, according to CME FedWatch ... from 27.7% a week ago and 55.4% a month earlier",
+   "deep": "https://finwire.io/news/stock-markets-news/us-bond-yields-plunge-as-fears-about-sustaining-ai-boom-resurface#:~:text=The%20probability%20of%20a%20hike%20of%20at%20least"
+  },
+  {
+   "n": 36,
+   "where": "The story",
+   "claim": "meeting Oct. 27-28",
+   "verdict": "confirmed",
+   "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+   "source": "Federal Reserve (FOMC calendar)",
+   "passage": "October: 27-28",
+   "deep": ""
+  },
+  {
+   "n": 37,
+   "where": "The story",
+   "claim": "blackout until the day after the meeting",
+   "verdict": "confirmed",
+   "url": "https://www.federalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.pdf",
+   "source": "Federal Reserve (blackout rule)",
+   "passage": "end at 11:59 p.m. Eastern Time the day after a meeting",
+   "deep": "https://www.federalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.pdf#:~:text=end%20at%2011%3A59%20p.m.%20Eastern%20Time%20the%20day"
+  },
+  {
+   "n": 38,
+   "where": "The story",
+   "claim": "initial claims fell 6,000 to 194,000, week ended Oct. 17",
+   "verdict": "confirmed",
+   "url": "https://oui.doleta.gov/press/2026/102226.pdf",
+   "source": "Labor Department",
+   "passage": "In the week ending October 17, the advance figure for seasonally adjusted initial claims was 194,000, a decrease of 6,000 from the previous week's revised level",
+   "deep": "https://oui.doleta.gov/press/2026/102226.pdf#:~:text=In%20the%20week%20ending%20October%2017%2C%20the%20advance"
+  },
+  {
+   "n": 39,
+   "where": "The story",
+   "claim": "four-week average 197,750",
+   "verdict": "confirmed",
+   "url": "https://oui.doleta.gov/press/2026/102226.pdf",
+   "source": "Labor Department",
+   "passage": "The 4-week moving average was 197,750",
+   "deep": "https://oui.doleta.gov/press/2026/102226.pdf#:~:text=The%204-week%20moving%20average%20was%20197%2C750"
+  },
+  {
+   "n": 40,
+   "where": "The story",
+   "claim": "Treasury sold $26 billion of 5-year TIPS",
+   "verdict": "confirmed",
+   "url": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/auctions_query?filter=auction_date:gte:2026-10-19,auction_date:lte:2026-10-30&sort=auction_date&page[size]=100",
+   "source": "Treasury Fiscal Data",
+   "passage": "auction_date 2026-10-22, security_type Note, security_term 5-Year, inflation_index_security Yes, offering_amt 26000000000",
+   "deep": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/auctions_query?filter=auction_date:gte:2026-10-19,auction_date:lte:2026-10-30&sort=auction_date&page[size]=100#:~:text=auction_date%202026-10-22%2C%20security_type%20Note%2C%20security_term%205-Year%2C%20inflation_index_security%20Yes%2C"
+  },
+  {
+   "n": 41,
+   "where": "The story",
+   "claim": "at 1 p.m.",
+   "verdict": "confirmed",
+   "url": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/auctions_query?filter=auction_date:gte:2026-10-19,auction_date:lte:2026-10-30&sort=auction_date&page[size]=100",
+   "source": "Treasury Fiscal Data",
+   "passage": "closing_time_comp 01:00 PM",
+   "deep": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/auctions_query?filter=auction_date:gte:2026-10-19,auction_date:lte:2026-10-30&sort=auction_date&page[size]=100#:~:text=closing_time_comp%2001%3A00%20PM"
+  },
+  {
+   "n": 42,
+   "where": "The story",
+   "claim": "BMO analysts saw result as solid (per Reuters)",
+   "verdict": "confirmed",
+   "url": "https://finwire.io/news/stock-markets-news/us-bond-yields-plunge-as-fears-about-sustaining-ai-boom-resurface",
+   "source": "Reuters via Finwire",
+   "passage": "was seen as solid by analysts at BMO Capital Markets",
+   "deep": "https://finwire.io/news/stock-markets-news/us-bond-yields-plunge-as-fears-about-sustaining-ai-boom-resurface#:~:text=was%20seen%20as%20solid%20by%20analysts%20at%20BMO"
+  },
+  {
+   "n": 43,
+   "where": "The story",
+   "claim": "non-dealer bidders 94.5% vs 90.8% average of previous six",
+   "verdict": "confirmed",
+   "url": "https://finwire.io/news/stock-markets-news/us-bond-yields-plunge-as-fears-about-sustaining-ai-boom-resurface",
+   "source": "Reuters via Finwire",
+   "passage": "non-dealer bidding of 94.5% above the 90.8% average for the past six auctions",
+   "deep": "https://finwire.io/news/stock-markets-news/us-bond-yields-plunge-as-fears-about-sustaining-ai-boom-resurface#:~:text=non-dealer%20bidding%20of%2094.5%25%20above%20the%2090.8%25%20average"
+  },
+  {
+   "n": 44,
+   "where": "The story",
+   "claim": "5-year fell 17 bp to 4.78% from 4.95%",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "5 Yr 4.95 (10/21) -> 4.78 (10/22)",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=5%20Yr%204.95%20%2810%2F21%29%20-%3E%204.78%20%2810%2F22%29"
+  },
+  {
+   "n": 45,
+   "where": "The story",
+   "claim": "3-month bill 4.22% from 4.25%",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "3 Mo 4.25 (10/21) -> 4.22 (10/22)",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=3%20Mo%204.25%20%2810%2F21%29%20-%3E%204.22%20%2810%2F22%29"
+  },
+  {
+   "n": 46,
+   "where": "The story",
+   "claim": "the bill barely moved \"because the Fed's range anchors it\"",
+   "verdict": "unsupported",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 47,
+   "where": "The story",
+   "claim": "2s10s 31 bp from 32 Wednesday",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "10/22: 4.96-4.65=0.31; 10/21: 5.13-4.81=0.32",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F22%3A%204.96-4.65%3D0.31%3B%2010%2F21%3A%205.13-4.81%3D0.32"
+  },
+  {
+   "n": 48,
+   "where": "The story",
+   "claim": "move ran from the 2-year out to the 10-year",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "10/21->10/22: 2Y -16, 3Y -17, 5Y -17, 7Y -17, 10Y -17",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F21-%3E10%2F22%3A%202Y%20-16%2C%203Y%20-17%2C%205Y%20-17%2C%207Y"
+  },
+  {
+   "n": 49,
+   "where": "The story",
+   "claim": "Treasury par yields at 3:30 p.m. ET, Oct. 21 and Oct. 22",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "at or near 3:30 PM each trading day; rows 10/21 and 10/22",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=at%20or%20near%203%3A30%20PM%20each%20trading%20day%3B"
+  },
+  {
+   "n": 50,
+   "where": "The story",
+   "claim": "Oct. 21: 4.25, 4.81, 4.95, 5.13, 5.42",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "10/21/2026 row: 3 Mo 4.25, 2 Yr 4.81, 5 Yr 4.95, 10 Yr 5.13, 30 Yr 5.42",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F21%2F2026%20row%3A%203%20Mo%204.25%2C%202%20Yr%204.81%2C"
+  },
+  {
+   "n": 51,
+   "where": "The story",
+   "claim": "Oct. 22: 4.22, 4.65, 4.78, 4.96, 5.29",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "10/22/2026 row: 3 Mo 4.22, 2 Yr 4.65, 3 Yr 4.72, 5 Yr 4.78, 7 Yr 4.86, 10 Yr 4.96, 30 Yr 5.29",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F22%2F2026%20row%3A%203%20Mo%204.22%2C%202%20Yr%204.65%2C"
+  },
+  {
+   "n": 52,
+   "where": "The story",
+   "claim": "bill barely moved; 2-year through 10-year fell 16-17 bp",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "3M -3; 2Y -16; 5Y -17; 10Y -17",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=3M%20-3%3B%202Y%20-16%3B%205Y%20-17%3B%2010Y%20-17"
+  },
+  {
+   "n": 53,
+   "where": "The story",
+   "claim": "money left stocks and landed in Treasuries Thursday; yield fell as price rose",
+   "verdict": "confirmed",
+   "url": "https://finwire.io/news/stock-markets-news/us-bond-yields-plunge-as-fears-about-sustaining-ai-boom-resurface",
+   "source": "Reuters via Finwire",
+   "passage": "as equities sold off ... boosting the safe-haven appeal of government debt",
+   "deep": "https://finwire.io/news/stock-markets-news/us-bond-yields-plunge-as-fears-about-sustaining-ai-boom-resurface#:~:text=as%20equities%20sold%20off"
+  },
+  {
+   "n": 54,
+   "where": "The tape before the open, item 1",
+   "claim": "3-month bill 4.22%, -3 bp, 3:30 p.m. Oct. 22",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "3 Mo 4.25 -> 4.22",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=3%20Mo%204.25%20-%3E%204.22"
+  },
+  {
+   "n": 55,
+   "where": "The tape before the open, item 2",
+   "claim": "2-year 4.65%, -16 bp, 3:30 p.m. Oct. 22",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "2 Yr 4.81 -> 4.65",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=2%20Yr%204.81%20-%3E%204.65"
+  },
+  {
+   "n": 56,
+   "where": "The tape before the open, item 3",
+   "claim": "10-year 4.96%, -17 bp, 3:30 p.m. Oct. 22",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "10 Yr 5.13 -> 4.96",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%20Yr%205.13%20-%3E%204.96"
+  },
+  {
+   "n": 57,
+   "where": "The tape before the open, item 4",
+   "claim": "30-year 5.29%, -13 bp, 3:30 p.m. Oct. 22",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "30 Yr 5.42 -> 5.29",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=30%20Yr%205.42%20-%3E%205.29"
+  },
+  {
+   "n": 58,
+   "where": "The tape before the open, item 5",
+   "claim": "2s10s 31 bp, -1 bp",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "31 bp on 10/22 vs 32 bp on 10/21 (computed from page rows)",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=31%20bp%20on%2010%2F22%20vs%2032%20bp%20on"
+  },
+  {
+   "n": 59,
+   "where": "The tape before the open, item 6",
+   "claim": "Fed funds effective 3.88%, 0 bp, Oct. 22",
+   "verdict": "confirmed",
+   "url": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json?startDate=2026-10-19&endDate=2026-10-22",
+   "source": "New York Fed",
+   "passage": "2026-10-22 percentRate 3.88; 2026-10-21 percentRate 3.88",
+   "deep": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json?startDate=2026-10-19&endDate=2026-10-22#:~:text=2026-10-22%20percentRate%203.88%3B%202026-10-21%20percentRate%203.88"
+  },
+  {
+   "n": 60,
+   "where": "The tape before the open, item 7",
+   "claim": "EUR/USD (ECB) 1.1205, -0.0029, Oct. 22",
+   "verdict": "confirmed",
+   "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.en.html",
+   "source": "ECB",
+   "passage": "21 October: 1.1234; 22 October: 1.1205",
+   "deep": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.en.html#:~:text=21%20October%3A%201.1234%3B%2022%20October%3A%201.1205"
+  },
+  {
+   "n": 61,
+   "where": "The tape before the open, item 8",
+   "claim": "Brent Dec. $113.17, +4%, settlement Oct. 22",
+   "verdict": "confirmed",
+   "url": "https://www.rigzone.com/news/wire/oil_surges_4_after_deadly_saudi_attacks-22-oct-2026-184912-article/",
+   "source": "Bloomberg via Rigzone",
+   "passage": "Brent for December settlement climbed 4% to settle at $113.17 a barrel (Oct 22, 3:55 PM)",
+   "deep": "https://www.rigzone.com/news/wire/oil_surges_4_after_deadly_saudi_attacks-22-oct-2026-184912-article/#:~:text=Brent%20for%20December%20settlement%20climbed%204%25%20to%20settle"
+  },
+  {
+   "n": 62,
+   "where": "The tape before the open, item 9",
+   "claim": "WTI Dec. $99.47, +2.4%, settlement Oct. 22",
+   "verdict": "confirmed",
+   "url": "https://www.rigzone.com/news/wire/oil_surges_4_after_deadly_saudi_attacks-22-oct-2026-184912-article/",
+   "source": "Bloomberg via Rigzone",
+   "passage": "WTI for December delivery advanced 2.4% to settle at $99.47",
+   "deep": "https://www.rigzone.com/news/wire/oil_surges_4_after_deadly_saudi_attacks-22-oct-2026-184912-article/#:~:text=WTI%20for%20December%20delivery%20advanced%202.4%25%20to%20settle"
+  },
+  {
+   "n": 63,
+   "where": "The tape before the open, item 10",
+   "claim": "Nikkei 225 62,693.16, -0.34%, Tokyo close Oct. 23",
+   "verdict": "confirmed",
+   "url": "https://fred.stlouisfed.org/series/NIKKEI225",
+   "source": "FRED (Nikkei 225)",
+   "passage": "2026-10-22: 62,907.84; 2026-10-23: 62,693.16 (-0.341%)",
+   "deep": "https://fred.stlouisfed.org/series/NIKKEI225#:~:text=2026-10-22%3A%2062%2C907.84%3B%202026-10-23%3A%2062%2C693.16%20%28-0.341%25%29"
+  },
+  {
+   "n": 64,
+   "where": "The morning in four, item 1",
+   "claim": "2-year through 10-year fell 16-17 bp; 30-year fell 13; 3-month moved 3",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "2Y -16, 3Y/5Y/7Y/10Y -17, 30Y -13, 3M -3",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=2Y%20-16%2C%203Y%2F5Y%2F7Y%2F10Y%20-17%2C%2030Y%20-13%2C%203M%20-3"
+  },
+  {
+   "n": 65,
+   "where": "The morning in four, item 2",
+   "claim": "Meta free cash flow negative $2.12 billion",
+   "verdict": "confirmed",
+   "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx",
+   "source": "Meta",
+   "passage": "free cash flow was negative $2.12 billion",
+   "deep": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx#:~:text=free%20cash%20flow%20was%20negative%20%242.12%20billion"
+  },
+  {
+   "n": 66,
+   "where": "The morning in four, item 2",
+   "claim": "Meta long-term debt $80.92 billion",
+   "verdict": "confirmed",
+   "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx",
+   "source": "Meta",
+   "passage": "long-term debt $80,922 million as of September 30, 2026",
+   "deep": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx#:~:text=long-term%20debt%20%2480%2C922%20million%20as%20of%20September%2030%2C"
+  },
+  {
+   "n": 67,
+   "where": "The morning in four, item 2",
+   "claim": "new non-voting share class to finance growth",
+   "verdict": "confirmed",
+   "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx",
+   "source": "Meta",
+   "passage": "non-voting Class C common stock ... will provide Meta the ability to finance its growth",
+   "deep": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx#:~:text=non-voting%20Class%20C%20common%20stock"
+  },
+  {
+   "n": 68,
+   "where": "The morning in four, item 3",
+   "claim": "claims fell 6,000 to 194,000, week ended Oct. 17",
+   "verdict": "confirmed",
+   "url": "https://oui.doleta.gov/press/2026/102226.pdf",
+   "source": "Labor Department",
+   "passage": "advance figure ... was 194,000, a decrease of 6,000",
+   "deep": ""
+  },
+  {
+   "n": 69,
+   "where": "The morning in four, item 3",
+   "claim": "insured unemployment rose 25,000 to 1,728,000, week ended Oct. 10",
+   "verdict": "confirmed",
+   "url": "https://oui.doleta.gov/press/2026/102226.pdf",
+   "source": "Labor Department",
+   "passage": "during the week ending October 10 was 1,728,000, an increase of 25,000 from the previous week's revised level",
+   "deep": "https://oui.doleta.gov/press/2026/102226.pdf#:~:text=during%20the%20week%20ending%20October%2010%20was%201%2C728%2C000%2C"
+  },
+  {
+   "n": 70,
+   "where": "The morning in four, item 4",
+   "claim": "Brent up 58 cents to $113.75 at 12:39 a.m. ET (Reuters)",
+   "verdict": "confirmed",
+   "url": "https://boereport.com/2026/10/22/oil-prices-rise-as-supply-concerns-linger-amid-houthi-attacks-on-saudi-arabia/",
+   "source": "Reuters via BOE Report",
+   "passage": "Brent crude futures climbed 58 cents, or 0.5%, to $113.75 a barrel as of 0439 GMT (= 12:39 a.m. EDT)",
+   "deep": "https://boereport.com/2026/10/22/oil-prices-rise-as-supply-concerns-linger-amid-houthi-attacks-on-saudi-arabia/#:~:text=Brent%20crude%20futures%20climbed%2058%20cents%2C%20or%200.5%25%2C"
+  },
+  {
+   "n": 71,
+   "where": "The morning in four, item 4",
+   "claim": "WTI up 66 cents to $100.13",
+   "verdict": "confirmed",
+   "url": "https://boereport.com/2026/10/22/oil-prices-rise-as-supply-concerns-linger-amid-houthi-attacks-on-saudi-arabia/",
+   "source": "Reuters via BOE Report",
+   "passage": "US West Texas Intermediate crude futures rose 66 cents, or 0.7%, to $100.13",
+   "deep": "https://boereport.com/2026/10/22/oil-prices-rise-as-supply-concerns-linger-amid-houthi-attacks-on-saudi-arabia/#:~:text=US%20West%20Texas%20Intermediate%20crude%20futures%20rose%2066"
+  },
+  {
+   "n": 72,
+   "where": "The morning in four, item 4",
+   "claim": "\"as Houthi attacks in Saudi Arabia continued\"",
+   "verdict": "unsupported",
+   "url": "https://boereport.com/2026/10/22/oil-prices-rise-as-supply-concerns-linger-amid-houthi-attacks-on-saudi-arabia/",
+   "source": "Reuters via BOE Report",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 73,
+   "where": "The morning in four, item 4",
+   "claim": "ECB euro reference rate $1.1205",
+   "verdict": "confirmed",
+   "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.en.html",
+   "source": "ECB",
+   "passage": "22 October: 1.1205",
+   "deep": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.en.html#:~:text=22%20October%3A%201.1205"
+  },
+  {
+   "n": 74,
+   "where": "What to watch, item 1",
+   "claim": "S&P Global flash PMIs 9:45 a.m. Friday Oct. 23",
+   "verdict": "confirmed",
+   "url": "https://economics.td.com/domains/economics.td.com/documents/reports/bottom-line/tables/2026-10-16/upcoming.htm",
+   "source": "TD Economics",
+   "passage": "Oct 23 9:45 S&P Global US Manufacturing PMI Oct",
+   "deep": "https://economics.td.com/domains/economics.td.com/documents/reports/bottom-line/tables/2026-10-16/upcoming.htm#:~:text=Oct%2023%209%3A45%20S%26P%20Global%20US%20Manufacturing%20PMI"
+  },
+  {
+   "n": 75,
+   "where": "What to watch, item 1",
+   "claim": "September readings 55.9, 58.8, 58.4",
+   "verdict": "confirmed",
+   "url": "https://economics.td.com/domains/economics.td.com/documents/reports/bottom-line/tables/2026-10-16/upcoming.htm",
+   "source": "TD Economics",
+   "passage": "Manufacturing prior 55.9; Services prior 58.8; Composite prior 58.4",
+   "deep": "https://economics.td.com/domains/economics.td.com/documents/reports/bottom-line/tables/2026-10-16/upcoming.htm#:~:text=Manufacturing%20prior%2055.9%3B%20Services%20prior%2058.8%3B%20Composite%20prior"
+  },
+  {
+   "n": 76,
+   "where": "What to watch, item 1",
+   "claim": "the one scheduled U.S. print of the day",
+   "verdict": "confirmed",
+   "url": "https://economics.td.com/domains/economics.td.com/documents/reports/bottom-line/tables/2026-10-16/upcoming.htm",
+   "source": "TD Economics",
+   "passage": "Only U.S. entries for Oct 23 are the three S&P Global PMIs",
+   "deep": "https://economics.td.com/domains/economics.td.com/documents/reports/bottom-line/tables/2026-10-16/upcoming.htm#:~:text=Only%20U.S.%20entries%20for%20Oct%2023%20are%20the"
+  },
+  {
+   "n": 77,
+   "where": "What to watch, item 2",
+   "claim": "no BLS release scheduled Friday",
+   "verdict": "confirmed",
+   "url": "https://www.bls.gov/schedule/2026/10_sched.htm",
+   "source": "BLS",
+   "passage": "No releases are listed for ... Friday, October 23",
+   "deep": "https://www.bls.gov/schedule/2026/10_sched.htm#:~:text=No%20releases%20are%20listed%20for"
+  },
+  {
+   "n": 78,
+   "where": "What to watch, item 2",
+   "claim": "no Census release scheduled Friday",
+   "verdict": "confirmed",
+   "url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html",
+   "source": "Census Bureau",
+   "passage": "no releases on October 23 in the list view",
+   "deep": "https://www.census.gov/economic-indicators/calendar-listview-2026.html#:~:text=no%20releases%20on%20October%2023%20in%20the%20list"
+  },
+  {
+   "n": 79,
+   "where": "What to watch, item 2",
+   "claim": "durable goods and new home sales Tuesday Oct. 27",
+   "verdict": "confirmed",
+   "url": "https://www.census.gov/economic-indicators/calendar-listview-2026.html",
+   "source": "Census Bureau",
+   "passage": "October 27, 2026, 8:30 AM: Advance Report on Durable Goods; October 27, 2026, 10:00 AM: New Residential Sales",
+   "deep": "https://www.census.gov/economic-indicators/calendar-listview-2026.html#:~:text=October%2027%2C%202026%2C%208%3A30%20AM%3A%20Advance%20Report%20on"
+  },
+  {
+   "n": 80,
+   "where": "What to watch, item 3",
+   "claim": "$13 billion 20-year (19-year 10-month reopening) auctioned Wednesday settles Friday",
+   "verdict": "confirmed",
+   "url": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/auctions_query?filter=auction_date:gte:2026-10-19,auction_date:lte:2026-10-30&sort=auction_date&page[size]=100",
+   "source": "Treasury Fiscal Data",
+   "passage": "auction_date 2026-10-21, issue_date 2026-10-23, Bond, 19-Year 10-Month, original 20-Year, reopening Yes, offering_amt 13000000000",
+   "deep": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/auctions_query?filter=auction_date:gte:2026-10-19,auction_date:lte:2026-10-30&sort=auction_date&page[size]=100#:~:text=auction_date%202026-10-21%2C%20issue_date%202026-10-23%2C%20Bond%2C%2019-Year%2010-Month%2C%20original"
+  },
+  {
+   "n": 81,
+   "where": "What to watch, item 3",
+   "claim": "auction data lists no sale for Friday",
+   "verdict": "confirmed",
+   "url": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/auctions_query?filter=auction_date:gte:2026-10-19,auction_date:lte:2026-10-30&sort=auction_date&page[size]=100",
+   "source": "Treasury Fiscal Data",
+   "passage": "no record with auction_date 2026-10-23",
+   "deep": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/auctions_query?filter=auction_date:gte:2026-10-19,auction_date:lte:2026-10-30&sort=auction_date&page[size]=100#:~:text=no%20record%20with%20auction_date%202026-10-23"
+  },
+  {
+   "n": 82,
+   "where": "What to watch, item 3",
+   "claim": "$26 billion 5-year TIPS sold Thursday settles Oct. 30",
+   "verdict": "confirmed",
+   "url": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/auctions_query?filter=auction_date:gte:2026-10-19,auction_date:lte:2026-10-30&sort=auction_date&page[size]=100",
+   "source": "Treasury Fiscal Data",
+   "passage": "auction_date 2026-10-22, issue_date 2026-10-30, inflation_index_security Yes, offering_amt 26000000000",
+   "deep": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/auctions_query?filter=auction_date:gte:2026-10-19,auction_date:lte:2026-10-30&sort=auction_date&page[size]=100#:~:text=auction_date%202026-10-22%2C%20issue_date%202026-10-30%2C%20inflation_index_security%20Yes%2C%20offering_amt%2026000000000"
+  },
+  {
+   "n": 83,
+   "where": "What to watch, item 4",
+   "claim": "blackout keeps participants off policy talk until day after Oct 27-28 meeting",
+   "verdict": "confirmed",
+   "url": "https://www.federalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.pdf",
+   "source": "Federal Reserve (blackout rule)",
+   "passage": "end at 11:59 p.m. Eastern Time the day after a meeting",
+   "deep": "https://www.federalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.pdf#:~:text=end%20at%2011%3A59%20p.m.%20Eastern%20Time%20the%20day"
+  },
+  {
+   "n": 84,
+   "where": "What to watch, item 4",
+   "claim": "blackout began Oct. 17",
+   "verdict": "confirmed",
+   "url": "https://www.federalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.pdf",
+   "source": "Federal Reserve (blackout rule)",
+   "passage": "begin at 12:00 a.m. Eastern Time the second Saturday before a meeting (meeting Tue Oct 27 -> Sat Oct 17)",
+   "deep": "https://www.federalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.pdf#:~:text=begin%20at%2012%3A00%20a.m.%20Eastern%20Time%20the%20second"
+  }
+ ],
+ "notes": [
+  "Post-deadline check: no fact in the draft depends on information after 4:30 AM ET Oct. 23. The cited Treasury page now also shows a 10/23 row (10Y 5.00) and the ECB page a 23 Oct rate (1.1193); the draft uses neither.",
+  "Nikkei row: the value (Tokyo close 3:30 p.m. JST = 2:30 a.m. ET Oct. 23) predates the deadline, but the cited FRED page shows 'Updated: Oct 23, 2026 7:02 AM CDT', so that page could not have shown it at 4:30 AM ET. Value confirmed; consider a source that published it before the deadline.",
+  "Reuters' own measure of the 10-year move was 'fell 19.3 basis points to 4.953%'; the draft's 17 bp/4.96% is Treasury's par curve and is attributed as such. Reuters also says Meta 'lost nearly 8%' (likely intraday) vs Yahoo's 6.98% close; the draft uses the close.",
+  "No political opinion found. No conduct issue found: analysis is labelled as 'this issue's reading' and outlooks are impersonal and conditional. No quote over 14 words. Background dates (March 2023, April 2002) are inside Reuters attribution."
+ ]
+}

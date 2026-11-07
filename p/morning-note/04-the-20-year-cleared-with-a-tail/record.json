@@ -1,0 +1,875 @@
+{
+ "issue": "https://sentfrommyagent.com/p/morning-note/04-the-20-year-cleared-with-a-tail/",
+ "newsletter": "Morning Note · Markets",
+ "number": 4,
+ "date": "2026-10-22",
+ "title": "The 20-year cleared with a tail.",
+ "stamp": "Sent from my agent. Every claim checked.",
+ "record": "https://sentfrommyagent.com/p/morning-note/04-the-20-year-cleared-with-a-tail/record/",
+ "counts": {
+  "checked": 85,
+  "confirmed": 85,
+  "wrong": 0,
+  "unsupported": 0
+ },
+ "checked_at": "2026-10-26T08:30:00-04:00",
+ "checked_by": "a second agent, independent of the writer",
+ "claims": [
+  {
+   "n": 1,
+   "where": "dek",
+   "claim": "Wednesday's $13 billion 20-year reopening",
+   "verdict": "confirmed",
+   "url": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/auctions_query?filter=cusip:eq:912810UX4&sort=-auction_date",
+   "source": "Treasury auction data",
+   "passage": "auction_date 2026-10-21, offering_amt 13000000000, security_term 19-Year 10-Month (reopening of CUSIP 912810UX4)",
+   "deep": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/auctions_query?filter=cusip:eq:912810UX4&sort=-auction_date#:~:text=auction_date%202026-10-21%2C%20offering_amt%2013000000000%2C%20security_term%2019-Year%2010-Month%20%28reopening"
+  },
+  {
+   "n": 2,
+   "where": "dek",
+   "claim": "cleared at 5.469%",
+   "verdict": "confirmed",
+   "url": "https://investinglive.com/news/us-treasury-sells-13-billion-of-20-year-bonds-at-a-high-yield-of-5-469/",
+   "source": "investingLive",
+   "passage": "US treasury sells $13 billion of 20 year bonds at a high yield of 5.469%",
+   "deep": "https://investinglive.com/news/us-treasury-sells-13-billion-of-20-year-bonds-at-a-high-yield-of-5-469/#:~:text=US%20treasury%20sells%20%2413%20billion%20of%2020%20year"
+  },
+  {
+   "n": 3,
+   "where": "dek",
+   "claim": "0.9 basis point above its last quote before bids closed",
+   "verdict": "confirmed",
+   "url": "https://investinglive.com/news/us-treasury-sells-13-billion-of-20-year-bonds-at-a-high-yield-of-5-469/",
+   "source": "investingLive",
+   "passage": "WI level at time of auction 5.460%; tail 0.9 bps vs 0.2 bps average",
+   "deep": "https://investinglive.com/news/us-treasury-sells-13-billion-of-20-year-bonds-at-a-high-yield-of-5-469/#:~:text=WI%20level%20at%20time%20of%20auction%205.460%25%3B%20tail"
+  },
+  {
+   "n": 4,
+   "where": "dek",
+   "claim": "The bond already yields more than the 30-year",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury yield curve",
+   "passage": "10/21/2026: 20 Yr 5.47, 30 Yr 5.42",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F21%2F2026%3A%2020%20Yr%205.47%2C%2030%20Yr%205.42"
+  },
+  {
+   "n": 5,
+   "where": "summary",
+   "claim": "tailed 0.9 basis point at 5.469%",
+   "verdict": "confirmed",
+   "url": "https://investinglive.com/news/us-treasury-sells-13-billion-of-20-year-bonds-at-a-high-yield-of-5-469/",
+   "source": "investingLive",
+   "passage": "high yield 5.469%; WI 5.460%; tail 0.9 bps",
+   "deep": "https://investinglive.com/news/us-treasury-sells-13-billion-of-20-year-bonds-at-a-high-yield-of-5-469/#:~:text=high%20yield%205.469%25%3B%20WI%205.460%25%3B%20tail%200.9%20bps"
+  },
+  {
+   "n": 6,
+   "where": "summary",
+   "claim": "A 5-year TIPS sale is Thursday",
+   "verdict": "confirmed",
+   "url": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/auctions_query?filter=cusip:eq:91282CRR4",
+   "source": "Treasury auction data (5-year TIPS)",
+   "passage": "auction_date 2026-10-22; security_term 5-Year; inflation_index_security Yes",
+   "deep": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/auctions_query?filter=cusip:eq:91282CRR4#:~:text=auction_date%202026-10-22%3B%20security_term%205-Year%3B%20inflation_index_security%20Yes"
+  },
+  {
+   "n": 7,
+   "where": "art alt",
+   "claim": "Curve rises, peaks at the 20-year, dips slightly toward the long end",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury yield curve",
+   "passage": "Oct 21 row: 3Mo 4.25, 2Yr 4.81, 5Yr 4.95, 10Yr 5.13, 20Yr 5.47, 30Yr 5.42; Oct 20 row: 2Yr 4.79, 10Yr 5.12, 20Yr 5.47, 30Yr 5.42; Oct 19 row: 20Yr 5.53, 30Yr 5.48",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=Oct%2021%20row%3A%203Mo%204.25%2C%202Yr%204.81%2C%205Yr"
+  },
+  {
+   "n": 8,
+   "where": "The story",
+   "claim": "Treasury sold $13 billion of reopened 20-year bonds on Wednesday, Oct. 21",
+   "verdict": "confirmed",
+   "url": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/auctions_query?filter=cusip:eq:912810UX4&sort=-auction_date",
+   "source": "Treasury auction data",
+   "passage": "auction_date 2026-10-21, offering_amt 13000000000, maturity 2046-08-15",
+   "deep": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/auctions_query?filter=cusip:eq:912810UX4&sort=-auction_date#:~:text=auction_date%202026-10-21%2C%20offering_amt%2013000000000%2C%20maturity%202046-08-15"
+  },
+  {
+   "n": 9,
+   "where": "The story",
+   "claim": "high yield of 5.469%",
+   "verdict": "confirmed",
+   "url": "https://investinglive.com/news/us-treasury-sells-13-billion-of-20-year-bonds-at-a-high-yield-of-5-469/",
+   "source": "investingLive",
+   "passage": "at a high yield of 5.469%",
+   "deep": "https://investinglive.com/news/us-treasury-sells-13-billion-of-20-year-bonds-at-a-high-yield-of-5-469/#:~:text=at%20a%20high%20yield%20of%205.469%25"
+  },
+  {
+   "n": 10,
+   "where": "The story",
+   "claim": "0.9 bp above the 5.460% when-issued yield just before bids closed",
+   "verdict": "confirmed",
+   "url": "https://investinglive.com/news/us-treasury-sells-13-billion-of-20-year-bonds-at-a-high-yield-of-5-469/",
+   "source": "investingLive",
+   "passage": "WI level at time of auction 5.460%; tail 0.9 bps",
+   "deep": "https://investinglive.com/news/us-treasury-sells-13-billion-of-20-year-bonds-at-a-high-yield-of-5-469/#:~:text=WI%20level%20at%20time%20of%20auction%205.460%25%3B%20tail"
+  },
+  {
+   "n": 11,
+   "where": "The story",
+   "claim": "investingLive reported at 1:03 p.m. ET",
+   "verdict": "confirmed",
+   "url": "https://investinglive.com/news/us-treasury-sells-13-billion-of-20-year-bonds-at-a-high-yield-of-5-469/",
+   "source": "investingLive",
+   "passage": "dated 21/10/2026 17:03 GMT (= 1:03 p.m. EDT)",
+   "deep": "https://investinglive.com/news/us-treasury-sells-13-billion-of-20-year-bonds-at-a-high-yield-of-5-469/#:~:text=dated%2021%2F10%2F2026%2017%3A03%20GMT%20%28%3D%201%3A03%20p.m.%20EDT%29"
+  },
+  {
+   "n": 12,
+   "where": "The story",
+   "claim": "Sept. 15 reopening cleared at 5.420% (background)",
+   "verdict": "confirmed",
+   "url": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/auctions_query?filter=cusip:eq:912810UX4&sort=-auction_date",
+   "source": "Treasury auction data",
+   "passage": "auction_date 2026-09-15, high_yield 5.4200",
+   "deep": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/auctions_query?filter=cusip:eq:912810UX4&sort=-auction_date#:~:text=auction_date%202026-09-15%2C%20high_yield%205.4200"
+  },
+  {
+   "n": 13,
+   "where": "The story",
+   "claim": "first sale on Aug. 19 at 5.204% (background)",
+   "verdict": "confirmed",
+   "url": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/auctions_query?filter=cusip:eq:912810UX4&sort=-auction_date",
+   "source": "Treasury auction data",
+   "passage": "auction_date 2026-08-19, security_term 20-Year, high_yield 5.2040",
+   "deep": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/auctions_query?filter=cusip:eq:912810UX4&sort=-auction_date#:~:text=auction_date%202026-08-19%2C%20security_term%2020-Year%2C%20high_yield%205.2040"
+  },
+  {
+   "n": 14,
+   "where": "The story",
+   "claim": "Bid-to-cover 2.73",
+   "verdict": "confirmed",
+   "url": "https://www.rttnews.com/3701253/twenty-year-bond-auction-attracts-above-average-demand.aspx",
+   "source": "RTTNews",
+   "passage": "a bid-to-cover ratio of 2.73",
+   "deep": "https://www.rttnews.com/3701253/twenty-year-bond-auction-attracts-above-average-demand.aspx#:~:text=a%20bid-to-cover%20ratio%20of%202.73"
+  },
+  {
+   "n": 15,
+   "where": "The story",
+   "claim": "up from 2.57 in September",
+   "verdict": "confirmed",
+   "url": "https://www.rttnews.com/3701253/twenty-year-bond-auction-attracts-above-average-demand.aspx",
+   "source": "RTTNews",
+   "passage": "drawing a high yield of 5.420 percent and a bid-to-cover ratio of 2.57",
+   "deep": "https://www.rttnews.com/3701253/twenty-year-bond-auction-attracts-above-average-demand.aspx#:~:text=drawing%20a%20high%20yield%20of%205.420%20percent%20and"
+  },
+  {
+   "n": 16,
+   "where": "The story",
+   "claim": "above the 2.64 average of the prior ten sales, RTTNews reported",
+   "verdict": "confirmed",
+   "url": "https://www.rttnews.com/3701253/twenty-year-bond-auction-attracts-above-average-demand.aspx",
+   "source": "RTTNews",
+   "passage": "the ten previous twenty-year bond auctions averaged a bid-to-cover ratio of 2.64",
+   "deep": "https://www.rttnews.com/3701253/twenty-year-bond-auction-attracts-above-average-demand.aspx#:~:text=the%20ten%20previous%20twenty-year%20bond%20auctions%20averaged%20a"
+  },
+  {
+   "n": 17,
+   "where": "The story",
+   "claim": "Direct bidders 31.6% against 22.9% average",
+   "verdict": "confirmed",
+   "url": "https://investinglive.com/news/us-treasury-sells-13-billion-of-20-year-bonds-at-a-high-yield-of-5-469/",
+   "source": "investingLive",
+   "passage": "Directs 31.6% vs 22.9% average",
+   "deep": "https://investinglive.com/news/us-treasury-sells-13-billion-of-20-year-bonds-at-a-high-yield-of-5-469/#:~:text=Directs%2031.6%25%20vs%2022.9%25%20average"
+  },
+  {
+   "n": 18,
+   "where": "The story",
+   "claim": "Indirect bidders 58.2% against 65.2%",
+   "verdict": "confirmed",
+   "url": "https://investinglive.com/news/us-treasury-sells-13-billion-of-20-year-bonds-at-a-high-yield-of-5-469/",
+   "source": "investingLive",
+   "passage": "Indirects 58.2% vs 65.2% average",
+   "deep": "https://investinglive.com/news/us-treasury-sells-13-billion-of-20-year-bonds-at-a-high-yield-of-5-469/#:~:text=Indirects%2058.2%25%20vs%2065.2%25%20average"
+  },
+  {
+   "n": 19,
+   "where": "The story",
+   "claim": "Dealers 10.3%, below 11.9% average",
+   "verdict": "confirmed",
+   "url": "https://investinglive.com/news/us-treasury-sells-13-billion-of-20-year-bonds-at-a-high-yield-of-5-469/",
+   "source": "investingLive",
+   "passage": "Dealers 10.3% vs 11.9% average",
+   "deep": "https://investinglive.com/news/us-treasury-sells-13-billion-of-20-year-bonds-at-a-high-yield-of-5-469/#:~:text=Dealers%2010.3%25%20vs%2011.9%25%20average"
+  },
+  {
+   "n": 20,
+   "where": "The story",
+   "claim": "investingLive grade C",
+   "verdict": "confirmed",
+   "url": "https://investinglive.com/news/us-treasury-sells-13-billion-of-20-year-bonds-at-a-high-yield-of-5-469/",
+   "source": "investingLive",
+   "passage": "Auction grade: C",
+   "deep": "https://investinglive.com/news/us-treasury-sells-13-billion-of-20-year-bonds-at-a-high-yield-of-5-469/#:~:text=Auction%20grade%3A%20C"
+  },
+  {
+   "n": 21,
+   "where": "The story",
+   "claim": "20-year par yield 5.47% at Wednesday's quotes",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury yield curve",
+   "passage": "10/21/2026 20 Yr 5.47",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F21%2F2026%2020%20Yr%205.47"
+  },
+  {
+   "n": 22,
+   "where": "The story",
+   "claim": "five basis points above the 30-year at 5.42%",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury yield curve",
+   "passage": "10/21/2026 30 Yr 5.42",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F21%2F2026%2030%20Yr%205.42"
+  },
+  {
+   "n": 23,
+   "where": "The story",
+   "claim": "34 above the 10-year at 5.13%",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury yield curve",
+   "passage": "10/21/2026 10 Yr 5.13",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F21%2F2026%2010%20Yr%205.13"
+  },
+  {
+   "n": 24,
+   "where": "The story",
+   "claim": "Monday 5.53% against 5.48%",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury yield curve",
+   "passage": "10/19/2026 20 Yr 5.53, 30 Yr 5.48",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F19%2F2026%2020%20Yr%205.53%2C%2030%20Yr%205.48"
+  },
+  {
+   "n": 25,
+   "where": "The story",
+   "claim": "Tuesday 5.47% against 5.42%",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury yield curve",
+   "passage": "10/20/2026 20 Yr 5.47, 30 Yr 5.42",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F20%2F2026%2020%20Yr%205.47%2C%2030%20Yr%205.42"
+  },
+  {
+   "n": 26,
+   "where": "The story",
+   "claim": "20-year above the 30-year all week",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury yield curve",
+   "passage": "20 Yr above 30 Yr on 10/19, 10/20 and 10/21",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=20%20Yr%20above%2030%20Yr%20on%2010%2F19%2C%2010%2F20"
+  },
+  {
+   "n": 27,
+   "where": "The story",
+   "claim": "Treasury's 3:30 p.m. quotes",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury yield curve",
+   "passage": "obtained by the Federal Reserve Bank of New York at or near 3:30 PM each trading day",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=obtained%20by%20the%20Federal%20Reserve%20Bank%20of%20New"
+  },
+  {
+   "n": 28,
+   "where": "The story",
+   "claim": "2-year rose two basis points to 4.81%",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury yield curve",
+   "passage": "2 Yr 4.79 (10/20) -> 4.81 (10/21)",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=2%20Yr%204.79%20%2810%2F20%29%20-%3E%204.81%20%2810%2F21%29"
+  },
+  {
+   "n": 29,
+   "where": "The story",
+   "claim": "10-year rose one basis point to 5.13%",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury yield curve",
+   "passage": "10 Yr 5.12 (10/20) -> 5.13 (10/21)",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%20Yr%205.12%20%2810%2F20%29%20-%3E%205.13%20%2810%2F21%29"
+  },
+  {
+   "n": 30,
+   "where": "The story",
+   "claim": "30-year unchanged",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury yield curve",
+   "passage": "30 Yr 5.42 on 10/20 and 10/21",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=30%20Yr%205.42%20on%2010%2F20%20and%2010%2F21"
+  },
+  {
+   "n": 31,
+   "where": "The story",
+   "claim": "2s10s narrowed to 32 bp from 33",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury yield curve",
+   "passage": "5.13-4.81=0.32 (10/21); 5.12-4.79=0.33 (10/20)",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=5.13-4.81%3D0.32%20%2810%2F21%29%3B%205.12-4.79%3D0.33%20%2810%2F20%29"
+  },
+  {
+   "n": 32,
+   "where": "The story",
+   "claim": "Fed funds effective 3.88% on Oct. 20",
+   "verdict": "confirmed",
+   "url": "https://markets.newyorkfed.org/api/rates/unsecured/effr/last/10.json",
+   "source": "New York Fed",
+   "passage": "effectiveDate 2026-10-20, percentRate 3.88, targetRateFrom 3.75, targetRateTo 4.00",
+   "deep": "https://markets.newyorkfed.org/api/rates/unsecured/effr/last/10.json#:~:text=effectiveDate%202026-10-20%2C%20percentRate%203.88%2C%20targetRateFrom%203.75%2C%20targetRateTo%204.00"
+  },
+  {
+   "n": 33,
+   "where": "The story",
+   "claim": "3.75% to 4% range set Sept. 16 (background)",
+   "verdict": "confirmed",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+   "source": "Federal Reserve FOMC statement",
+   "passage": "decided to raise the target range for the federal funds rate by 1/4 percentage point to 3-3/4 to 4 percent (Sept. 16, 2026)",
+   "deep": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm#:~:text=decided%20to%20raise%20the%20target%20range%20for%20the"
+  },
+  {
+   "n": 34,
+   "where": "The story",
+   "claim": "12-0 vote",
+   "verdict": "confirmed",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+   "source": "Federal Reserve FOMC statement",
+   "passage": "by a 12 - 0 vote",
+   "deep": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm#:~:text=by%20a%2012%20-%200%20vote"
+  },
+  {
+   "n": 35,
+   "where": "The story",
+   "claim": "Reuters, citing CME FedWatch, 88% chance of a December hike",
+   "verdict": "confirmed",
+   "url": "https://www.kitco.com/news/off-the-wire/2026-10-21/gold-edges-higher-yields-retreat-fed-decision-focus",
+   "source": "Reuters via Kitco (gold)",
+   "passage": "pricing in an 88% chance that the Federal Reserve will raise interest rates in December, according to CME's FedWatch Tool",
+   "deep": "https://www.kitco.com/news/off-the-wire/2026-10-21/gold-edges-higher-yields-retreat-fed-decision-focus#:~:text=pricing%20in%20an%2088%25%20chance%20that%20the%20Federal"
+  },
+  {
+   "n": 36,
+   "where": "The story",
+   "claim": "$26 billion of new 5-year TIPS on Thursday",
+   "verdict": "confirmed",
+   "url": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/auctions_query?filter=cusip:eq:91282CRR4",
+   "source": "Treasury auction data (5-year TIPS)",
+   "passage": "auction_date 2026-10-22, offering_amt 26000000000, 5-Year, inflation_index_security Yes",
+   "deep": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/auctions_query?filter=cusip:eq:91282CRR4#:~:text=auction_date%202026-10-22%2C%20offering_amt%2026000000000%2C%205-Year%2C%20inflation_index_security%20Yes"
+  },
+  {
+   "n": 37,
+   "where": "The story",
+   "claim": "competitive bids due at 1 p.m. ET",
+   "verdict": "confirmed",
+   "url": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/auctions_query?filter=cusip:eq:91282CRR4",
+   "source": "Treasury auction data (5-year TIPS)",
+   "passage": "closing_time_comp 01:00 PM",
+   "deep": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/auctions_query?filter=cusip:eq:91282CRR4#:~:text=closing_time_comp%2001%3A00%20PM"
+  },
+  {
+   "n": 38,
+   "where": "The story",
+   "claim": "Spot Brent $115.22 on Oct. 20, EIA data on FRED",
+   "verdict": "confirmed",
+   "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+   "source": "EIA via FRED (Brent)",
+   "passage": "2026-10-20: 115.22",
+   "deep": ""
+  },
+  {
+   "n": 39,
+   "where": "The story",
+   "claim": "September CPI released Oct. 14 (background)",
+   "verdict": "confirmed",
+   "url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+   "source": "BLS CPI",
+   "passage": "Release date Wednesday, October 14, 2026, 8:30 a.m. ET; reference month September 2026",
+   "deep": "https://www.bls.gov/news.release/cpi.nr0.htm#:~:text=Release%20date%20Wednesday%2C%20October%2014%2C%202026%2C%208%3A30%20a.m."
+  },
+  {
+   "n": 40,
+   "where": "The story",
+   "claim": "CPI rose 3.7% from a year earlier",
+   "verdict": "confirmed",
+   "url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+   "source": "BLS CPI",
+   "passage": "The all items index rose 3.7 percent for the 12 months ending September",
+   "deep": "https://www.bls.gov/news.release/cpi.nr0.htm#:~:text=The%20all%20items%20index%20rose%203.7%20percent%20for"
+  },
+  {
+   "n": 41,
+   "where": "The story",
+   "claim": "The 20-year maturing Aug. 2046",
+   "verdict": "confirmed",
+   "url": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/auctions_query?filter=cusip:eq:912810UX4&sort=-auction_date",
+   "source": "Treasury auction data",
+   "passage": "maturity_date 2046-08-15",
+   "deep": ""
+  },
+  {
+   "n": 42,
+   "where": "The story, step 1",
+   "claim": "Aug. 19 first sale: $16 billion at 5.204%",
+   "verdict": "confirmed",
+   "url": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/auctions_query?filter=cusip:eq:912810UX4&sort=-auction_date",
+   "source": "Treasury auction data",
+   "passage": "2026-08-19, offering_amt 16000000000, high_yield 5.2040",
+   "deep": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/auctions_query?filter=cusip:eq:912810UX4&sort=-auction_date#:~:text=2026-08-19%2C%20offering_amt%2016000000000%2C%20high_yield%205.2040"
+  },
+  {
+   "n": 43,
+   "where": "The story, step 2",
+   "claim": "Sept. 15 reopening: $13 billion at 5.420%",
+   "verdict": "confirmed",
+   "url": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/auctions_query?filter=cusip:eq:912810UX4&sort=-auction_date",
+   "source": "Treasury auction data",
+   "passage": "2026-09-15, offering_amt 13000000000, high_yield 5.4200",
+   "deep": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/auctions_query?filter=cusip:eq:912810UX4&sort=-auction_date#:~:text=2026-09-15%2C%20offering_amt%2013000000000%2C%20high_yield%205.4200"
+  },
+  {
+   "n": 44,
+   "where": "The story, step 3",
+   "claim": "Oct. 21 reopening: $13 billion at 5.469%, 0.9 bp tail",
+   "verdict": "confirmed",
+   "url": "https://investinglive.com/news/us-treasury-sells-13-billion-of-20-year-bonds-at-a-high-yield-of-5-469/",
+   "source": "investingLive",
+   "passage": "$13 billion ... high yield of 5.469%; tail 0.9 bps",
+   "deep": ""
+  },
+  {
+   "n": 45,
+   "where": "The story",
+   "claim": "5.460% when-issued yield; 5.469% high yield",
+   "verdict": "confirmed",
+   "url": "https://investinglive.com/news/us-treasury-sells-13-billion-of-20-year-bonds-at-a-high-yield-of-5-469/",
+   "source": "investingLive",
+   "passage": "WI 5.460%; high yield 5.469%",
+   "deep": "https://investinglive.com/news/us-treasury-sells-13-billion-of-20-year-bonds-at-a-high-yield-of-5-469/#:~:text=WI%205.460%25%3B%20high%20yield%205.469%25"
+  },
+  {
+   "n": 46,
+   "where": "The story",
+   "claim": "3-month par yield 4.25% on Oct. 21",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury yield curve",
+   "passage": "10/21/2026 3 Mo 4.25",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F21%2F2026%203%20Mo%204.25"
+  },
+  {
+   "n": 47,
+   "where": "The story",
+   "claim": "2-year par yield 4.81% on Oct. 21",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury yield curve",
+   "passage": "10/21/2026 2 Yr 4.81",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F21%2F2026%202%20Yr%204.81"
+  },
+  {
+   "n": 48,
+   "where": "The story",
+   "claim": "5-year par yield 4.95% on Oct. 21",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury yield curve",
+   "passage": "10/21/2026 5 Yr 4.95",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F21%2F2026%205%20Yr%204.95"
+  },
+  {
+   "n": 49,
+   "where": "The story",
+   "claim": "10-year par yield 5.13% on Oct. 21",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury yield curve",
+   "passage": "10/21/2026 10 Yr 5.13",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F21%2F2026%2010%20Yr%205.13"
+  },
+  {
+   "n": 50,
+   "where": "The story",
+   "claim": "20-year par yield 5.47% on Oct. 21",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury yield curve",
+   "passage": "10/21/2026 20 Yr 5.47",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F21%2F2026%2020%20Yr%205.47"
+  },
+  {
+   "n": 51,
+   "where": "The story",
+   "claim": "30-year par yield 5.42% on Oct. 21",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury yield curve",
+   "passage": "10/21/2026 30 Yr 5.42",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F21%2F2026%2030%20Yr%205.42"
+  },
+  {
+   "n": 52,
+   "where": "The story",
+   "claim": "Treasury par yields, Oct. 21, 3:30 p.m. ET",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury yield curve",
+   "passage": "at or near 3:30 PM each trading day",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=at%20or%20near%203%3A30%20PM%20each%20trading%20day"
+  },
+  {
+   "n": 53,
+   "where": "The story",
+   "claim": "A tail is the yield the Treasury pays above the market's last quote",
+   "verdict": "confirmed",
+   "url": "https://investinglive.com/news/us-treasury-sells-13-billion-of-20-year-bonds-at-a-high-yield-of-5-469/",
+   "source": "investingLive",
+   "passage": "high yield 5.469% vs WI 5.460% at time of auction = 0.9 bp tail",
+   "deep": "https://investinglive.com/news/us-treasury-sells-13-billion-of-20-year-bonds-at-a-high-yield-of-5-469/#:~:text=high%20yield%205.469%25%20vs%20WI%205.460%25%20at%20time"
+  },
+  {
+   "n": 54,
+   "where": "The tape before the open, item 1",
+   "claim": "2-year 4.81%, +2 bp, 3:30 p.m. ET Oct. 21",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury yield curve",
+   "passage": "2 Yr 4.79 (10/20) -> 4.81 (10/21)",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=2%20Yr%204.79%20%2810%2F20%29%20-%3E%204.81%20%2810%2F21%29"
+  },
+  {
+   "n": 55,
+   "where": "The tape before the open, item 2",
+   "claim": "10-year 5.13%, +1 bp, 3:30 p.m. ET Oct. 21",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury yield curve",
+   "passage": "10 Yr 5.12 -> 5.13",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%20Yr%205.12%20-%3E%205.13"
+  },
+  {
+   "n": 56,
+   "where": "The tape before the open, item 3",
+   "claim": "30-year 5.42%, 0 bp, 3:30 p.m. ET Oct. 21",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury yield curve",
+   "passage": "30 Yr 5.42 -> 5.42",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=30%20Yr%205.42%20-%3E%205.42"
+  },
+  {
+   "n": 57,
+   "where": "The tape before the open, item 4",
+   "claim": "2s10s 32 bp, -1 bp",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury yield curve",
+   "passage": "10/21: 5.13-4.81=32 bp; 10/20: 5.12-4.79=33 bp",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F21%3A%205.13-4.81%3D32%20bp%3B%2010%2F20%3A%205.12-4.79%3D33%20bp"
+  },
+  {
+   "n": 58,
+   "where": "The tape before the open, item 5",
+   "claim": "Fed funds effective 3.88%, 0 bp, rate for Oct. 20",
+   "verdict": "confirmed",
+   "url": "https://markets.newyorkfed.org/api/rates/unsecured/effr/last/10.json",
+   "source": "New York Fed",
+   "passage": "2026-10-20 3.88; 2026-10-19 3.88",
+   "deep": "https://markets.newyorkfed.org/api/rates/unsecured/effr/last/10.json#:~:text=2026-10-20%203.88%3B%202026-10-19%203.88"
+  },
+  {
+   "n": 59,
+   "where": "The tape before the open, item 6",
+   "claim": "EUR/USD ECB reference 1.1234, +0.0019, Oct. 21",
+   "verdict": "confirmed",
+   "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.en.html",
+   "source": "ECB reference rates",
+   "passage": "20 Oct 2026 1.1215; 21 Oct 2026 1.1234",
+   "deep": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.en.html#:~:text=20%20Oct%202026%201.1215%3B%2021%20Oct%202026%201.1234"
+  },
+  {
+   "n": 60,
+   "where": "The tape before the open, item 7",
+   "claim": "Brent EIA spot $115.22, -$3.60, Oct. 20",
+   "verdict": "confirmed",
+   "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+   "source": "EIA via FRED (Brent)",
+   "passage": "2026-10-19 118.82; 2026-10-20 115.22",
+   "deep": "https://fred.stlouisfed.org/series/DCOILBRENTEU#:~:text=2026-10-19%20118.82%3B%202026-10-20%20115.22"
+  },
+  {
+   "n": 61,
+   "where": "The tape before the open, item 8",
+   "claim": "WTI EIA spot $107.89, -$2.12, Oct. 20",
+   "verdict": "confirmed",
+   "url": "https://fred.stlouisfed.org/series/DCOILWTICO",
+   "source": "EIA via FRED (WTI)",
+   "passage": "2026-10-19 110.01; 2026-10-20 107.89",
+   "deep": "https://fred.stlouisfed.org/series/DCOILWTICO#:~:text=2026-10-19%20110.01%3B%202026-10-20%20107.89"
+  },
+  {
+   "n": 62,
+   "where": "The tape before the open, item 9",
+   "claim": "Gold Dec. futures $4,150.00, +0.2%, settlement Oct. 21",
+   "verdict": "confirmed",
+   "url": "https://www.kitco.com/news/off-the-wire/2026-10-21/gold-edges-higher-yields-retreat-fed-decision-focus",
+   "source": "Reuters via Kitco (gold)",
+   "passage": "settled 0.2% higher at $4,150 per ounce",
+   "deep": "https://www.kitco.com/news/off-the-wire/2026-10-21/gold-edges-higher-yields-retreat-fed-decision-focus#:~:text=settled%200.2%25%20higher%20at%20%244%2C150%20per%20ounce"
+  },
+  {
+   "n": 63,
+   "where": "The tape before the open, item 10",
+   "claim": "Nikkei 225 64,621.24, +545.82, Tokyo close Oct. 21",
+   "verdict": "confirmed",
+   "url": "https://indexes.nikkei.co.jp/en/nkave/archives/data?list=daily&idx=nk225",
+   "source": "Nikkei Indexes",
+   "passage": "Oct 20 64,075.42; Oct 21 64,621.24",
+   "deep": "https://indexes.nikkei.co.jp/en/nkave/archives/data?list=daily&idx=nk225#:~:text=Oct%2020%2064%2C075.42%3B%20Oct%2021%2064%2C621.24"
+  },
+  {
+   "n": 64,
+   "where": "The tape before the open",
+   "claim": "Oil rows are the latest on FRED before this issue (Oct. 20)",
+   "verdict": "confirmed",
+   "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+   "source": "EIA via FRED (Brent)",
+   "passage": "page updated Oct 21; latest observation 2026-10-20 (same on DCOILWTICO)",
+   "deep": "https://fred.stlouisfed.org/series/DCOILBRENTEU#:~:text=page%20updated%20Oct%2021%3B%20latest%20observation%202026-10-20%20%28same"
+  },
+  {
+   "n": 65,
+   "where": "The tape before the open",
+   "claim": "New York Fed publishes the Oct. 21 rate at approximately 9 a.m.",
+   "verdict": "confirmed",
+   "url": "https://www.newyorkfed.org/markets/reference-rates/effr",
+   "source": "New York Fed EFFR page",
+   "passage": "publishes the EFFR for the prior business day ... at approximately 9:00 a.m",
+   "deep": "https://www.newyorkfed.org/markets/reference-rates/effr#:~:text=publishes%20the%20EFFR%20for%20the%20prior%20business%20day"
+  },
+  {
+   "n": 66,
+   "where": "The morning in four, item 1",
+   "claim": "2-year rose to 4.81%",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury yield curve",
+   "passage": "2 Yr 4.79 -> 4.81",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=2%20Yr%204.79%20-%3E%204.81"
+  },
+  {
+   "n": 67,
+   "where": "The morning in four, item 1",
+   "claim": "30-year held at 5.42%",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury yield curve",
+   "passage": "30 Yr 5.42 on 10/20 and 10/21",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=30%20Yr%205.42%20on%2010%2F20%20and%2010%2F21"
+  },
+  {
+   "n": 68,
+   "where": "The morning in four, item 1",
+   "claim": "2s10s narrowed to 32 bp",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury yield curve",
+   "passage": "5.13-4.81=32 bp, from 33",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=5.13-4.81%3D32%20bp%2C%20from%2033"
+  },
+  {
+   "n": 69,
+   "where": "The morning in four, item 1",
+   "claim": "The Fed is in its pre-meeting blackout",
+   "verdict": "confirmed",
+   "url": "https://www.federalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.pdf",
+   "source": "Federal Reserve blackout policy",
+   "passage": "begin at 12:00 a.m. Eastern Time the second Saturday before a meeting (Oct. 17 for the Oct. 27-28 meeting)",
+   "deep": "https://www.federalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.pdf#:~:text=begin%20at%2012%3A00%20a.m.%20Eastern%20Time%20the%20second"
+  },
+  {
+   "n": 70,
+   "where": "The morning in four, item 2",
+   "claim": "France's 10-year borrowing costs at 24-year highs on Wednesday",
+   "verdict": "confirmed",
+   "url": "https://www.kitco.com/news/off-the-wire/2026-10-21/dollar-holds-steady-middle-east-tensions-simmer-oil-rises",
+   "source": "Reuters via Kitco (dollar)",
+   "passage": "pushed its 10-year borrowing costs to 24-year highs",
+   "deep": "https://www.kitco.com/news/off-the-wire/2026-10-21/dollar-holds-steady-middle-east-tensions-simmer-oil-rises#:~:text=pushed%20its%2010-year%20borrowing%20costs%20to%2024-year%20highs"
+  },
+  {
+   "n": 71,
+   "where": "The morning in four, item 2",
+   "claim": "citing anti-government protests and the fiscal outlook",
+   "verdict": "confirmed",
+   "url": "https://www.kitco.com/news/off-the-wire/2026-10-21/dollar-holds-steady-middle-east-tensions-simmer-oil-rises",
+   "source": "Reuters via Kitco (dollar)",
+   "passage": "widespread anti-government protests and a worsening fiscal outlook",
+   "deep": "https://www.kitco.com/news/off-the-wire/2026-10-21/dollar-holds-steady-middle-east-tensions-simmer-oil-rises#:~:text=widespread%20anti-government%20protests%20and%20a%20worsening%20fiscal%20outlook"
+  },
+  {
+   "n": 72,
+   "where": "The morning in four, item 2",
+   "claim": "euro slipped 0.1% to $1.122",
+   "verdict": "confirmed",
+   "url": "https://www.kitco.com/news/off-the-wire/2026-10-21/dollar-holds-steady-middle-east-tensions-simmer-oil-rises",
+   "source": "Reuters via Kitco (dollar)",
+   "passage": "The euro slipped 0.1% to $1.122",
+   "deep": "https://www.kitco.com/news/off-the-wire/2026-10-21/dollar-holds-steady-middle-east-tensions-simmer-oil-rises#:~:text=The%20euro%20slipped%200.1%25%20to%20%241.122"
+  },
+  {
+   "n": 73,
+   "where": "The morning in four, item 3",
+   "claim": "EIA spot Brent fell to $115.22 on Oct. 20 from $118.82",
+   "verdict": "confirmed",
+   "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
+   "source": "EIA via FRED (Brent)",
+   "passage": "2026-10-19 118.82; 2026-10-20 115.22",
+   "deep": "https://fred.stlouisfed.org/series/DCOILBRENTEU#:~:text=2026-10-19%20118.82%3B%202026-10-20%20115.22"
+  },
+  {
+   "n": 74,
+   "where": "The morning in four, item 3",
+   "claim": "oil rose more than $2 on Wednesday",
+   "verdict": "confirmed",
+   "url": "https://www.kitco.com/news/off-the-wire/2026-10-21/dollar-holds-steady-middle-east-tensions-simmer-oil-rises",
+   "source": "Reuters via Kitco (dollar)",
+   "passage": "Oil prices gained more than $2 a barrel on Wednesday",
+   "deep": "https://www.kitco.com/news/off-the-wire/2026-10-21/dollar-holds-steady-middle-east-tensions-simmer-oil-rises#:~:text=Oil%20prices%20gained%20more%20than%20%242%20a%20barrel"
+  },
+  {
+   "n": 75,
+   "where": "The morning in four, item 3",
+   "claim": "after Iran said it saw little reason to expect progress with Washington",
+   "verdict": "confirmed",
+   "url": "https://www.kitco.com/news/off-the-wire/2026-10-21/dollar-holds-steady-middle-east-tensions-simmer-oil-rises",
+   "source": "Reuters via Kitco (dollar)",
+   "passage": "Iran said there was little reason to expect diplomatic progress with the US",
+   "deep": "https://www.kitco.com/news/off-the-wire/2026-10-21/dollar-holds-steady-middle-east-tensions-simmer-oil-rises#:~:text=Iran%20said%20there%20was%20little%20reason%20to%20expect"
+  },
+  {
+   "n": 76,
+   "where": "The morning in four, item 4",
+   "claim": "UK CPI 3.5% in the year to September, from 3.1%",
+   "verdict": "confirmed",
+   "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/september2026",
+   "source": "ONS",
+   "passage": "CPI 12-month rate 3.5% in September 2026, up from 3.1% in August",
+   "deep": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/september2026#:~:text=CPI%2012-month%20rate%203.5%25%20in%20September%202026%2C%20up"
+  },
+  {
+   "n": 77,
+   "where": "The morning in four, item 4",
+   "claim": "led by motor fuels",
+   "verdict": "confirmed",
+   "url": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/september2026",
+   "source": "ONS",
+   "passage": "The largest upward contribution came from transport, particularly motor fuels",
+   "deep": "https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/september2026#:~:text=The%20largest%20upward%20contribution%20came%20from%20transport%2C%20particularly"
+  },
+  {
+   "n": 78,
+   "where": "The morning in four, item 4",
+   "claim": "markets nearly fully price a 25 bp BoE hike in November",
+   "verdict": "confirmed",
+   "url": "https://www.kitco.com/news/off-the-wire/2026-10-21/pound-gains-against-dollar-euro-inflation-data-cements-future-rate",
+   "source": "Reuters via Kitco (sterling)",
+   "passage": "traders are nearly fully pricing in a 25-basis-point rate hike in November",
+   "deep": "https://www.kitco.com/news/off-the-wire/2026-10-21/pound-gains-against-dollar-euro-inflation-data-cements-future-rate#:~:text=traders%20are%20nearly%20fully%20pricing%20in%20a%2025-basis-point"
+  },
+  {
+   "n": 79,
+   "where": "What to watch",
+   "claim": "Thursday, Oct. 22",
+   "verdict": "confirmed",
+   "url": "https://www.dol.gov/ui/data.pdf",
+   "source": "U.S. Department of Labor",
+   "passage": "release dated Thursday, October 22, 2026",
+   "deep": "https://www.dol.gov/ui/data.pdf#:~:text=release%20dated%20Thursday%2C%20October%2022%2C%202026"
+  },
+  {
+   "n": 80,
+   "where": "What to watch, item 1",
+   "claim": "8:30 a.m. initial claims for week ending Oct. 17",
+   "verdict": "confirmed",
+   "url": "https://www.dol.gov/ui/data.pdf",
+   "source": "U.S. Department of Labor",
+   "passage": "advance initial claims, week ending October 17; embargoed until 8:30 a.m. Eastern",
+   "deep": "https://www.dol.gov/ui/data.pdf#:~:text=advance%20initial%20claims%2C%20week%20ending%20October%2017%3B%20embargoed"
+  },
+  {
+   "n": 81,
+   "where": "What to watch, item 2",
+   "claim": "$26 billion new 5-year TIPS, competitive bids close 1 p.m.",
+   "verdict": "confirmed",
+   "url": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/auctions_query?filter=cusip:eq:91282CRR4",
+   "source": "Treasury auction data (5-year TIPS)",
+   "passage": "offering_amt 26000000000; closing_time_comp 01:00 PM; auction_date 2026-10-22",
+   "deep": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/auctions_query?filter=cusip:eq:91282CRR4#:~:text=offering_amt%2026000000000%3B%20closing_time_comp%2001%3A00%20PM%3B%20auction_date%202026-10-22"
+  },
+  {
+   "n": 82,
+   "where": "What to watch, item 3",
+   "claim": "Freddie Mac weekly survey Thursday; last week's 30-year fixed 7.40%",
+   "verdict": "confirmed",
+   "url": "https://www.freddiemac.com/pmms/pmms_archives",
+   "source": "Freddie Mac PMMS",
+   "passage": "October 15, 2026: 7.40%",
+   "deep": "https://www.freddiemac.com/pmms/pmms_archives#:~:text=October%2015%2C%202026%3A%207.40%25"
+  },
+  {
+   "n": 83,
+   "where": "What to watch, item 4",
+   "claim": "blackout began 12:00 a.m. ET on Oct. 17",
+   "verdict": "confirmed",
+   "url": "https://www.federalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.pdf",
+   "source": "Federal Reserve blackout policy",
+   "passage": "begin at 12:00 a.m. Eastern Time the second Saturday before a meeting (meeting Oct. 27-28; second Saturday before = Oct. 17)",
+   "deep": "https://www.federalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.pdf#:~:text=begin%20at%2012%3A00%20a.m.%20Eastern%20Time%20the%20second"
+  },
+  {
+   "n": 84,
+   "where": "What to watch, item 4",
+   "claim": "ends 11:59 p.m. ET on Oct. 29, the day after the meeting",
+   "verdict": "confirmed",
+   "url": "https://www.federalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.pdf",
+   "source": "Federal Reserve blackout policy",
+   "passage": "end at 11:59 p.m. Eastern Time the day after a meeting",
+   "deep": "https://www.federalreserve.gov/monetarypolicy/files/FOMC_ExtCommunicationParticipants.pdf#:~:text=end%20at%2011%3A59%20p.m.%20Eastern%20Time%20the%20day"
+  },
+  {
+   "n": 85,
+   "where": "What to watch, item 4",
+   "claim": "Oct. 27-28 meeting",
+   "verdict": "confirmed",
+   "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+   "source": "Federal Reserve FOMC calendar",
+   "passage": "October 27-28",
+   "deep": ""
+  }
+ ],
+ "notes": [
+  "investingLive gives a 2.62x bid-to-cover average; the draft's 2.64 ten-auction average is attributed to RTTNews, which states it. Not an error, but the two outlets' averages differ.",
+  "The Fiscal Data page for the Oct. 21 auction still shows null results; the 5.469%/2.73/allotment figures rest on investingLive and RTTNews, which state them.",
+  "Interpretive lines ('this issue's reading is...', 'The likelier reading is conditional...') are impersonal analysis and conditional outlook, allowed on the Markets desk; no first person, no reader instruction, no position, no political opinion ('anti-government protests' is Reuters' attributed wording).",
+  "The DOL release seen is the Oct. 22 release itself; the draft uses only its scheduled time and reference week, which were public in advance."
+ ]
+}

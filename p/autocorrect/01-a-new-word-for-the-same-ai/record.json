@@ -1,0 +1,734 @@
+{
+ "issue": "https://sentfrommyagent.com/p/autocorrect/01-a-new-word-for-the-same-ai/",
+ "newsletter": "Autocorrect",
+ "number": 1,
+ "date": "2026-09-30",
+ "title": "A new word for the same AI.",
+ "stamp": "Sent from my agent. Every claim checked.",
+ "record": "https://sentfrommyagent.com/p/autocorrect/01-a-new-word-for-the-same-ai/record/",
+ "counts": {
+  "checked": 71,
+  "confirmed": 71,
+  "wrong": 0,
+  "unsupported": 0
+ },
+ "checked_at": "2026-10-24T17:45:00-04:00",
+ "checked_by": "a second agent, independent of the writer",
+ "claims": [
+  {
+   "n": 1,
+   "where": "title",
+   "claim": "The label changed. The facts didn't.",
+   "verdict": "confirmed",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/",
+   "source": "The White House",
+   "passage": "Sec. 3(a): 'Super Intelligence' and 'SI' refer to the technologies covered by 'artificial intelligence' as defined in 15 U.S.C. 9401(3)",
+   "deep": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/#:~:text=Sec.%203%28a%29%3A%20%27Super%20Intelligence%27%20and%20%27SI%27%20refer%20to"
+  },
+  {
+   "n": 2,
+   "where": "dek",
+   "claim": "A rename became an era",
+   "verdict": "confirmed",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-inaugurates-the-era-of-super-intelligence/",
+   "source": "White House fact sheet",
+   "passage": "Fact Sheet: President Donald J. Trump Inaugurates The Era of Super Intelligence ... replacing 'Artificial Intelligence' with 'Super Intelligence'",
+   "deep": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-inaugurates-the-era-of-super-intelligence/#:~:text=Fact%20Sheet%3A%20President%20Donald%20J.%20Trump%20Inaugurates%20The"
+  },
+  {
+   "n": 3,
+   "where": "dek",
+   "claim": "a cloud attack where Microsoft saw no ransom note",
+   "verdict": "confirmed",
+   "url": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/",
+   "source": "Microsoft Security",
+   "passage": "we did not observe a ransom note or confirm successful data exfiltration in the activity described here",
+   "deep": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/#:~:text=we%20did%20not%20observe%20a%20ransom%20note%20or"
+  },
+  {
+   "n": 4,
+   "where": "dek",
+   "claim": "became \"AI ransomware\"",
+   "verdict": "confirmed",
+   "url": "https://www.techtimes.com/articles/328096/20260928/ai-ransomware-wiped-100-azure-accounts-7-minutes-only-pre-configured-locks-survived.htm",
+   "source": "Tech Times",
+   "passage": "Headline: AI Ransomware Wiped 100 Azure Accounts in 7 Minutes: Only Pre-Configured Locks Survived",
+   "deep": "https://www.techtimes.com/articles/328096/20260928/ai-ransomware-wiped-100-azure-accounts-7-minutes-only-pre-configured-locks-survived.htm#:~:text=Headline%3A%20AI%20Ransomware%20Wiped%20100%20Azure%20Accounts%20in"
+  },
+  {
+   "n": 5,
+   "where": "dek",
+   "claim": "One claim held up.",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+   "source": "Anthropic",
+   "passage": "GLM-5.3 develops end-to-end exploits in 50 of 410 attempts ... Claude Mythos Preview did so at a similar rate—in 56 of 410 attempts",
+   "deep": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities#:~:text=GLM-5.3%20develops%20end-to-end%20exploits%20in%2050%20of%20410"
+  },
+  {
+   "n": 6,
+   "where": "summary",
+   "claim": "Three AI claims checked against an executive order, a Microsoft incident report and an Anthropic evaluation",
+   "verdict": "confirmed",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/",
+   "source": "The White House",
+   "passage": "Executive Order 'Inaugurating The Era Of Super Intelligence'; Microsoft Security blog Storm-3168 report; Anthropic research post on GLM-5.3",
+   "deep": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/#:~:text=Executive%20Order%20%27Inaugurating%20The%20Era%20Of%20Super%20Intelligence%27%3B"
+  },
+  {
+   "n": 7,
+   "where": "art svg/alt",
+   "claim": "Illustrative tag marked 'NEW LABEL'; no factual claim",
+   "verdict": "confirmed",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/",
+   "source": "The White House",
+   "passage": "Consistent with the order's renaming of AI to SI",
+   "deep": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/#:~:text=Consistent%20with%20the%20order%27s%20renaming%20of%20AI%20to"
+  },
+  {
+   "n": 8,
+   "where": "The story",
+   "claim": "In two the label ran ahead of the text; one held up with a caveat",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+   "source": "Anthropic",
+   "passage": "Mythos Preview did so at a similar rate; caveats: simulated environment, small samples",
+   "deep": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities#:~:text=Mythos%20Preview%20did%20so%20at%20a%20similar%20rate%3B"
+  },
+  {
+   "n": 9,
+   "where": "The correction",
+   "claim": "White House says the President \"inaugurates the era of super intelligence.\"",
+   "verdict": "confirmed",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-inaugurates-the-era-of-super-intelligence/",
+   "source": "White House fact sheet",
+   "passage": "Fact Sheet: President Donald J. Trump Inaugurates The Era of Super Intelligence",
+   "deep": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-inaugurates-the-era-of-super-intelligence/#:~:text=Fact%20Sheet%3A%20President%20Donald%20J.%20Trump%20Inaugurates%20The"
+  },
+  {
+   "n": 10,
+   "where": "The correction",
+   "claim": "White House fact sheet headline, Sept. 29",
+   "verdict": "confirmed",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-inaugurates-the-era-of-super-intelligence/",
+   "source": "White House fact sheet",
+   "passage": "The White House, September 29, 2026",
+   "deep": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-inaugurates-the-era-of-super-intelligence/#:~:text=The%20White%20House%2C%20September%2029%2C%202026"
+  },
+  {
+   "n": 11,
+   "where": "The correction",
+   "claim": "It's a vocabulary change, and the fact sheet's first point says so",
+   "verdict": "confirmed",
+   "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-inaugurates-the-era-of-super-intelligence/",
+   "source": "White House fact sheet",
+   "passage": "First bullet: The Order directs all departments and agencies to use the terms 'Super Intelligence' and 'SI' in official correspondence",
+   "deep": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-inaugurates-the-era-of-super-intelligence/#:~:text=First%20bullet%3A%20The%20Order%20directs%20all%20departments%20and"
+  },
+  {
+   "n": 12,
+   "where": "The correction",
+   "claim": "Agencies must write 'Super Intelligence' and 'SI' for 'AI' in non-statutory documents",
+   "verdict": "confirmed",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/",
+   "source": "The White House",
+   "passage": "Sec. 2: agencies must use 'Super Intelligence' and 'SI' instead of 'Artificial Intelligence' and 'AI' across official correspondence ... and other non-statutory executive branch documents",
+   "deep": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/#:~:text=Sec.%202%3A%20agencies%20must%20use%20%27Super%20Intelligence%27%20and"
+  },
+  {
+   "n": 13,
+   "where": "The correction",
+   "claim": "where the law allows",
+   "verdict": "confirmed",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/",
+   "source": "The White House",
+   "passage": "to the maximum extent permitted by law",
+   "deep": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/#:~:text=to%20the%20maximum%20extent%20permitted%20by%20law"
+  },
+  {
+   "n": 14,
+   "where": "The correction",
+   "claim": "Section 3 defines the term as technologies covered by the federal AI definition (15 U.S.C. 9401(3))",
+   "verdict": "confirmed",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/",
+   "source": "The White House",
+   "passage": "Sec. 3(a): refer to the technologies and systems covered by 'artificial intelligence' as defined in 15 U.S.C. 9401(3)",
+   "deep": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/#:~:text=Sec.%203%28a%29%3A%20refer%20to%20the%20technologies%20and%20systems"
+  },
+  {
+   "n": 15,
+   "where": "The correction",
+   "claim": "Past rules and contracts don't change",
+   "verdict": "confirmed",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/",
+   "source": "The White House",
+   "passage": "Sec. 2(b): nothing requires changing previously issued regulations, Presidential actions, contracts, grants, or other historical documents",
+   "deep": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/#:~:text=Sec.%202%28b%29%3A%20nothing%20requires%20changing%20previously%20issued%20regulations%2C"
+  },
+  {
+   "n": 16,
+   "where": "The correction",
+   "claim": "The administration says the name reflects the technology's transformative capabilities",
+   "verdict": "confirmed",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/",
+   "source": "The White House",
+   "passage": "Sec. 1: terminology 'should reflect the transformative capabilities of these technologies'",
+   "deep": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/#:~:text=Sec.%201%3A%20terminology%20%27should%20reflect%20the%20transformative%20capabilities"
+  },
+  {
+   "n": 17,
+   "where": "The correction",
+   "claim": "The order sets no capability test",
+   "verdict": "confirmed",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/",
+   "source": "The White House",
+   "passage": "Sec. 3(a) adopts the existing statutory AI definition; no capability threshold",
+   "deep": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/#:~:text=Sec.%203%28a%29%20adopts%20the%20existing%20statutory%20AI%20definition%3B"
+  },
+  {
+   "n": 18,
+   "where": "The correction",
+   "claim": "Bostrom: \"greatly exceeds the cognitive performance of humans in virtually all domains of interest\" (13 words)",
+   "verdict": "confirmed",
+   "url": "https://www.defenseone.com/technology/2026/09/super-intelligence-presidents-new-term-ai-explained/416153/",
+   "source": "Defense One",
+   "passage": "defines it as 'any intellect that greatly exceeds the cognitive performance of humans in virtually all domains of interest'",
+   "deep": "https://www.defenseone.com/technology/2026/09/super-intelligence-presidents-new-term-ai-explained/416153/#:~:text=defines%20it%20as%20%27any%20intellect%20that%20greatly%20exceeds"
+  },
+  {
+   "n": 19,
+   "where": "The correction",
+   "claim": "Defense One notes today's systems don't qualify",
+   "verdict": "confirmed",
+   "url": "https://www.defenseone.com/technology/2026/09/super-intelligence-presidents-new-term-ai-explained/416153/",
+   "source": "Defense One",
+   "passage": "today's AI isn't AGI yet, much less ASI",
+   "deep": "https://www.defenseone.com/technology/2026/09/super-intelligence-presidents-new-term-ai-explained/416153/#:~:text=today%27s%20AI%20isn%27t%20AGI%20yet%2C%20much%20less%20ASI"
+  },
+  {
+   "n": 20,
+   "where": "The correction",
+   "claim": "In federal documents, 'SI' means the tools you already use",
+   "verdict": "confirmed",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/",
+   "source": "The White House",
+   "passage": "Sec. 3(a) ties SI to the existing 15 U.S.C. 9401(3) AI definition",
+   "deep": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/#:~:text=Sec.%203%28a%29%20ties%20SI%20to%20the%20existing%2015"
+  },
+  {
+   "n": 21,
+   "where": "The correction",
+   "claim": "Same definition, new word",
+   "verdict": "confirmed",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/",
+   "source": "The White House",
+   "passage": "Sec. 3(a)",
+   "deep": ""
+  },
+  {
+   "n": 22,
+   "where": "The correction",
+   "claim": "Words in SVG: 'SI' over struck-through 'AI'",
+   "verdict": "confirmed",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/",
+   "source": "The White House",
+   "passage": "use 'Super Intelligence' and 'SI' in place of 'Artificial Intelligence' and 'AI'",
+   "deep": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/#:~:text=use%20%27Super%20Intelligence%27%20and%20%27SI%27%20in%20place%20of"
+  },
+  {
+   "n": 23,
+   "where": "The correction",
+   "claim": "Page where AI is struck through and SI written above",
+   "verdict": "confirmed",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/",
+   "source": "The White House",
+   "passage": "Sec. 1/2 replacement of terms",
+   "deep": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/#:~:text=Sec.%201%2F2%20replacement%20of%20terms"
+  },
+  {
+   "n": 24,
+   "where": "The correction",
+   "claim": "Agencies now write 'SI' where they would have written 'AI' in non-statutory documents",
+   "verdict": "confirmed",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/",
+   "source": "The White House",
+   "passage": "Sec. 2: other non-statutory executive branch documents",
+   "deep": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/#:~:text=Sec.%202%3A%20other%20non-statutory%20executive%20branch%20documents"
+  },
+  {
+   "n": 25,
+   "where": "The correction",
+   "claim": "past documents don't change",
+   "verdict": "confirmed",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/",
+   "source": "The White House",
+   "passage": "Sec. 2(b): previously issued regulations ... contracts, grants, or other historical documents",
+   "deep": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/#:~:text=Sec.%202%28b%29%3A%20previously%20issued%20regulations"
+  },
+  {
+   "n": 26,
+   "where": "The correction",
+   "claim": "Section 3 points the new term at the existing federal AI definition",
+   "verdict": "confirmed",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/",
+   "source": "The White House",
+   "passage": "Sec. 3(a) ... 15 U.S.C. 9401(3)",
+   "deep": ""
+  },
+  {
+   "n": 27,
+   "where": "The correction",
+   "claim": "AI ransomware wiped 100 Azure accounts in seven minutes",
+   "verdict": "confirmed",
+   "url": "https://www.techtimes.com/articles/328096/20260928/ai-ransomware-wiped-100-azure-accounts-7-minutes-only-pre-configured-locks-survived.htm",
+   "source": "Tech Times",
+   "passage": "Headline: AI Ransomware Wiped 100 Azure Accounts in 7 Minutes",
+   "deep": "https://www.techtimes.com/articles/328096/20260928/ai-ransomware-wiped-100-azure-accounts-7-minutes-only-pre-configured-locks-survived.htm#:~:text=Headline%3A%20AI%20Ransomware%20Wiped%20100%20Azure%20Accounts%20in"
+  },
+  {
+   "n": 28,
+   "where": "The correction",
+   "claim": "Tech Times headline, Sept. 28",
+   "verdict": "confirmed",
+   "url": "https://www.techtimes.com/articles/328096/20260928/ai-ransomware-wiped-100-azure-accounts-7-minutes-only-pre-configured-locks-survived.htm",
+   "source": "Tech Times",
+   "passage": "September 28, 2026, 10:45 AM EDT",
+   "deep": "https://www.techtimes.com/articles/328096/20260928/ai-ransomware-wiped-100-azure-accounts-7-minutes-only-pre-configured-locks-survived.htm#:~:text=September%2028%2C%202026%2C%2010%3A45%20AM%20EDT"
+  },
+  {
+   "n": 29,
+   "where": "The correction",
+   "claim": "Microsoft's Sept. 25 report",
+   "verdict": "confirmed",
+   "url": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/",
+   "source": "Microsoft Security",
+   "passage": "Microsoft Security Blog, September 25, 2026",
+   "deep": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/#:~:text=Microsoft%20Security%20Blog%2C%20September%2025%2C%202026"
+  },
+  {
+   "n": 30,
+   "where": "The correction",
+   "claim": "describes one organization's Azure tenant",
+   "verdict": "confirmed",
+   "url": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/",
+   "source": "Microsoft Security",
+   "passage": "two compromised service principals belonging to the same tenant",
+   "deep": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/#:~:text=two%20compromised%20service%20principals%20belonging%20to%20the%20same"
+  },
+  {
+   "n": 31,
+   "where": "The correction",
+   "claim": "The '100' were storage accounts inside it",
+   "verdict": "confirmed",
+   "url": "https://www.techtimes.com/articles/328096/20260928/ai-ransomware-wiped-100-azure-accounts-7-minutes-only-pre-configured-locks-survived.htm",
+   "source": "Tech Times",
+   "passage": "The headline's '100 Azure Accounts' refers to these storage accounts",
+   "deep": "https://www.techtimes.com/articles/328096/20260928/ai-ransomware-wiped-100-azure-accounts-7-minutes-only-pre-configured-locks-survived.htm#:~:text=The%20headline%27s%20%27100%20Azure%20Accounts%27%20refers%20to%20these"
+  },
+  {
+   "n": 32,
+   "where": "The correction",
+   "claim": "a seven-minute destructive run",
+   "verdict": "confirmed",
+   "url": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/",
+   "source": "Microsoft Security",
+   "passage": "The destructive sequence lasted for about 7 minutes",
+   "deep": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/#:~:text=The%20destructive%20sequence%20lasted%20for%20about%207%20minutes"
+  },
+  {
+   "n": 33,
+   "where": "The correction",
+   "claim": "made 100+ deletion attempts",
+   "verdict": "confirmed",
+   "url": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/",
+   "source": "Microsoft Security",
+   "passage": "100+ storage account deletion attempts",
+   "deep": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/#:~:text=100%2B%20storage%20account%20deletion%20attempts"
+  },
+  {
+   "n": 34,
+   "where": "The correction",
+   "claim": "most succeeded",
+   "verdict": "confirmed",
+   "url": "https://www.csoonline.com/article/4227657/autonomous-agents-attack-azure-using-compromised-identities-and-destroying-resources.html",
+   "source": "CSO Online",
+   "passage": "more than 100 attempts to delete storage accounts, most of which were successful",
+   "deep": "https://www.csoonline.com/article/4227657/autonomous-agents-attack-azure-using-compromised-identities-and-destroying-resources.html#:~:text=more%20than%20100%20attempts%20to%20delete%20storage%20accounts%2C"
+  },
+  {
+   "n": 35,
+   "where": "The correction",
+   "claim": "two compromised service principals",
+   "verdict": "confirmed",
+   "url": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/",
+   "source": "Microsoft Security",
+   "passage": "two compromised service principals belonging to the same tenant",
+   "deep": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/#:~:text=two%20compromised%20service%20principals%20belonging%20to%20the%20same"
+  },
+  {
+   "n": 36,
+   "where": "The correction",
+   "claim": "one had its secret exposed in plain text in a public GitHub issue",
+   "verdict": "confirmed",
+   "url": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/",
+   "source": "Microsoft Security",
+   "passage": "client ID, client secret, and tenant ID had previously been exposed in plaintext in a public GitHub issue",
+   "deep": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/#:~:text=client%20ID%2C%20client%20secret%2C%20and%20tenant%20ID%20had"
+  },
+  {
+   "n": 37,
+   "where": "The correction",
+   "claim": "Microsoft saw no ransom note",
+   "verdict": "confirmed",
+   "url": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/",
+   "source": "Microsoft Security",
+   "passage": "we did not observe a ransom note",
+   "deep": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/#:~:text=we%20did%20not%20observe%20a%20ransom%20note"
+  },
+  {
+   "n": 38,
+   "where": "The correction",
+   "claim": "couldn't confirm data theft",
+   "verdict": "confirmed",
+   "url": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/",
+   "source": "Microsoft Security",
+   "passage": "or confirm successful data exfiltration",
+   "deep": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/#:~:text=or%20confirm%20successful%20data%20exfiltration"
+  },
+  {
+   "n": 39,
+   "where": "The correction",
+   "claim": "consistent with tactics that can support ransomware",
+   "verdict": "confirmed",
+   "url": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/",
+   "source": "Microsoft Security",
+   "passage": "consistent with tactics that can support ransomware and extortion operations",
+   "deep": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/#:~:text=consistent%20with%20tactics%20that%20can%20support%20ransomware%20and"
+  },
+  {
+   "n": 40,
+   "where": "The correction",
+   "claim": "Microsoft ties the attack to a shift toward AI-orchestrated attacks",
+   "verdict": "confirmed",
+   "url": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/",
+   "source": "Microsoft Security",
+   "passage": "This activity highlights a broader shift toward AI-orchestrated attacks",
+   "deep": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/#:~:text=This%20activity%20highlights%20a%20broader%20shift%20toward%20AI-orchestrated"
+  },
+  {
+   "n": 41,
+   "where": "The correction",
+   "claim": "Locks set in advance saved a few accounts",
+   "verdict": "confirmed",
+   "url": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/",
+   "source": "Microsoft Security",
+   "passage": "resource locks and storage account-level deletion protection 'blocked deletion attempts for few of the storage accounts'",
+   "deep": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/#:~:text=resource%20locks%20and%20storage%20account-level%20deletion%20protection%20%27blocked"
+  },
+  {
+   "n": 42,
+   "where": "The correction",
+   "claim": "Rotate any secret that has touched a public repo",
+   "verdict": "confirmed",
+   "url": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/",
+   "source": "Microsoft Security",
+   "passage": "Rotate compromised or exposed credentials immediately ... publicly exposed secrets should be treated as compromised even after removal",
+   "deep": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/#:~:text=Rotate%20compromised%20or%20exposed%20credentials%20immediately"
+  },
+  {
+   "n": 43,
+   "where": "The correction",
+   "claim": "lock what you can't lose",
+   "verdict": "confirmed",
+   "url": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/",
+   "source": "Microsoft Security",
+   "passage": "Protect backup and recovery infrastructure as part of ransomware resilience; locks blocked deletions",
+   "deep": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/#:~:text=Protect%20backup%20and%20recovery%20infrastructure%20as%20part%20of"
+  },
+  {
+   "n": 44,
+   "where": "The correction",
+   "claim": "Two layers from the report",
+   "verdict": "confirmed",
+   "url": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/",
+   "source": "Microsoft Security",
+   "passage": "exposed secret; resource locks/deletion protection",
+   "deep": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/#:~:text=exposed%20secret%3B%20resource%20locks%2Fdeletion%20protection"
+  },
+  {
+   "n": 45,
+   "where": "The correction, item 1",
+   "claim": "Keep secrets out of public repos and issues",
+   "verdict": "confirmed",
+   "url": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/",
+   "source": "Microsoft Security",
+   "passage": "exposed in plaintext in a public GitHub issue; treat publicly exposed secrets as compromised",
+   "deep": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/#:~:text=exposed%20in%20plaintext%20in%20a%20public%20GitHub%20issue%3B"
+  },
+  {
+   "n": 46,
+   "where": "The correction, item 2",
+   "claim": "Lock what you can't lose",
+   "verdict": "confirmed",
+   "url": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/",
+   "source": "Microsoft Security",
+   "passage": "Azure resource locks ... blocked deletion attempts",
+   "deep": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/#:~:text=Azure%20resource%20locks"
+  },
+  {
+   "n": 47,
+   "where": "The correction",
+   "claim": "STORAGE",
+   "verdict": "confirmed",
+   "url": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/",
+   "source": "Microsoft Security",
+   "passage": "100+ storage account deletion attempts",
+   "deep": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/#:~:text=100%2B%20storage%20account%20deletion%20attempts"
+  },
+  {
+   "n": 48,
+   "where": "The correction",
+   "claim": "The first layer failed: a secret sat in plain text in a public GitHub issue",
+   "verdict": "confirmed",
+   "url": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/",
+   "source": "Microsoft Security",
+   "passage": "exposed in plaintext in a public GitHub issue",
+   "deep": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/#:~:text=exposed%20in%20plaintext%20in%20a%20public%20GitHub%20issue"
+  },
+  {
+   "n": 49,
+   "where": "The correction",
+   "claim": "The second held where it was set: locks set in advance saved a few accounts",
+   "verdict": "confirmed",
+   "url": "https://www.techtimes.com/articles/328096/20260928/ai-ransomware-wiped-100-azure-accounts-7-minutes-only-pre-configured-locks-survived.htm",
+   "source": "Tech Times",
+   "passage": "protections were configured before the attack began; MS: blocked deletion attempts for few of the storage accounts",
+   "deep": "https://www.techtimes.com/articles/328096/20260928/ai-ransomware-wiped-100-azure-accounts-7-minutes-only-pre-configured-locks-survived.htm#:~:text=protections%20were%20configured%20before%20the%20attack%20began%3B%20MS%3A"
+  },
+  {
+   "n": 50,
+   "where": "The correction",
+   "claim": "Z.ai's open-weight GLM-5.3 nearly matches Claude Mythos Preview at building cyber exploits",
+   "verdict": "confirmed",
+   "url": "https://the-decoder.com/anthropic-says-zhipus-open-weight-glm-5-3-nearly-matches-claude-mythos-preview-at-building-exploits/",
+   "source": "The Decoder",
+   "passage": "Headline: Anthropic says Zhipu's open-weight GLM-5.3 nearly matches Claude Mythos Preview at building exploits",
+   "deep": "https://the-decoder.com/anthropic-says-zhipus-open-weight-glm-5-3-nearly-matches-claude-mythos-preview-at-building-exploits/#:~:text=Headline%3A%20Anthropic%20says%20Zhipu%27s%20open-weight%20GLM-5.3%20nearly%20matches"
+  },
+  {
+   "n": 51,
+   "where": "The correction",
+   "claim": "The Decoder headline on Anthropic's Sept. 29 report",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+   "source": "Anthropic",
+   "passage": "Anthropic post dated September 29, 2026; Decoder published 2026-09-30T11:05:05Z",
+   "deep": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities#:~:text=Anthropic%20post%20dated%20September%2029%2C%202026%3B%20Decoder%20published"
+  },
+  {
+   "n": 52,
+   "where": "The correction",
+   "claim": "GLM-5.3 is open-weight and from Z.ai",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+   "source": "Anthropic",
+   "passage": "GLM-5.3 is released as an open-weight model ... developed by Zhipu AI (known outside of China as Z.ai)",
+   "deep": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities#:~:text=GLM-5.3%20is%20released%20as%20an%20open-weight%20model"
+  },
+  {
+   "n": 53,
+   "where": "The correction",
+   "claim": "GLM-5.3 built working V8 exploits in 50 of 410 attempts",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+   "source": "Anthropic",
+   "passage": "GLM-5.3 develops end-to-end exploits in 50 of 410 attempts",
+   "deep": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities#:~:text=GLM-5.3%20develops%20end-to-end%20exploits%20in%2050%20of%20410"
+  },
+  {
+   "n": 54,
+   "where": "The correction",
+   "claim": "against 56 for Mythos Preview",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+   "source": "Anthropic",
+   "passage": "Claude Mythos Preview did so at a similar rate—in 56 of 410 attempts",
+   "deep": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities#:~:text=Claude%20Mythos%20Preview%20did%20so%20at%20a%20similar"
+  },
+  {
+   "n": 55,
+   "where": "The correction",
+   "claim": "binary exploitation: full control-flow hijacks 4% vs 6%",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+   "source": "Anthropic",
+   "passage": "GLM-5.3 develops full control-flow hijacks in 4% of the trials; Claude Mythos Preview did so in 6%",
+   "deep": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities#:~:text=GLM-5.3%20develops%20full%20control-flow%20hijacks%20in%204%25%20of"
+  },
+  {
+   "n": 56,
+   "where": "The correction",
+   "claim": "Both fail most of the time",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+   "source": "Anthropic",
+   "passage": "50/410 (12%), 56/410 (14%), 4%, 6%",
+   "deep": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities#:~:text=50%2F410%20%2812%25%29%2C%2056%2F410%20%2814%25%29%2C%204%25%2C%206%25"
+  },
+  {
+   "n": 57,
+   "where": "The correction",
+   "claim": "a false cover story got GLM-5.3 to engage 64% of the time",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+   "source": "Anthropic",
+   "passage": "Providing a deceptive prompt, such as telling the model that it is an autonomous red-team agent ... This gets GLM-5.3 to engage 64% of the time",
+   "deep": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities#:~:text=Providing%20a%20deceptive%20prompt%2C%20such%20as%20telling%20the"
+  },
+  {
+   "n": 58,
+   "where": "The correction",
+   "claim": "an abliterated copy, with refusals stripped out, 100%",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+   "source": "Anthropic",
+   "passage": "Using an abliterated version of the model ... This gets GLM-5.3 to engage 100% of the time",
+   "deep": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities#:~:text=Using%20an%20abliterated%20version%20of%20the%20model"
+  },
+  {
+   "n": 59,
+   "where": "The correction",
+   "claim": "The wider gap was safeguards",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+   "source": "Anthropic",
+   "passage": "these attacks did not succeed against safeguarded Claude models in our testing; Claude's safeguards blocked the requests that used deceptive prompts",
+   "deep": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities#:~:text=these%20attacks%20did%20not%20succeed%20against%20safeguarded%20Claude"
+  },
+  {
+   "n": 60,
+   "where": "The correction",
+   "claim": "Refusals can be stripped from open weights",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+   "source": "Anthropic",
+   "passage": "users can reconfigure it to remove its refusals with little change in its capabilities",
+   "deep": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities#:~:text=users%20can%20reconfigure%20it%20to%20remove%20its%20refusals"
+  },
+  {
+   "n": 61,
+   "where": "The correction",
+   "claim": "security teams should assume attackers have this level of help",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+   "source": "Anthropic",
+   "passage": "Cyber defenders face attackers who will use every capable tool they can",
+   "deep": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities#:~:text=Cyber%20defenders%20face%20attackers%20who%20will%20use%20every"
+  },
+  {
+   "n": 62,
+   "where": "The correction",
+   "claim": "the test is Anthropic's, run on a rival's model",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+   "source": "Anthropic",
+   "passage": "Anthropic's own evaluations of Zhipu's GLM-5.3",
+   "deep": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities#:~:text=Anthropic%27s%20own%20evaluations%20of%20Zhipu%27s%20GLM-5.3"
+  },
+  {
+   "n": 63,
+   "where": "The correction",
+   "claim": "Close on capability. GLM-5.3's guardrails gave way.",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+   "source": "Anthropic",
+   "passage": "similar rate ... released without meaningful safeguards to limit misuse",
+   "deep": ""
+  },
+  {
+   "n": 64,
+   "where": "The correction",
+   "claim": "Anthropic's tests of Z.ai's GLM-5.3",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+   "source": "Anthropic",
+   "passage": "developed by Zhipu AI (known outside of China as Z.ai)",
+   "deep": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities#:~:text=developed%20by%20Zhipu%20AI%20%28known%20outside%20of%20China"
+  },
+  {
+   "n": 65,
+   "where": "The correction",
+   "claim": "V8 exploits share of 410 attempts: 12% vs 14%",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+   "source": "Anthropic",
+   "passage": "50 of 410 (12.2%) and 56 of 410 (13.7%), rounded",
+   "deep": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities#:~:text=50%20of%20410%20%2812.2%25%29%20and%2056%20of%20410"
+  },
+  {
+   "n": 66,
+   "where": "The correction",
+   "claim": "Control-flow hijacks: 4% vs 6%",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+   "source": "Anthropic",
+   "passage": "4% of the trials; ... 6%",
+   "deep": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities#:~:text=4%25%20of%20the%20trials%3B"
+  },
+  {
+   "n": 67,
+   "where": "The correction",
+   "claim": "Engagement: false cover story 64%, abliterated 100%",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+   "source": "Anthropic",
+   "passage": "engage 64% of the time ... engage 100% of the time",
+   "deep": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities#:~:text=engage%2064%25%20of%20the%20time"
+  },
+  {
+   "n": 68,
+   "where": "The correction",
+   "claim": "Both models fail most exploit attempts. Stripping refusals took engagement to 100%.",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+   "source": "Anthropic",
+   "passage": "50/410, 56/410; abliterated version engages 100% of the time",
+   "deep": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities#:~:text=50%2F410%2C%2056%2F410%3B%20abliterated%20version%20engages%20100%25%20of%20the"
+  },
+  {
+   "n": 69,
+   "where": "The checklist, item 1",
+   "claim": "Find the document; definitions live in the text",
+   "verdict": "confirmed",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/",
+   "source": "The White House",
+   "passage": "Definition is in Sec. 3 of the order",
+   "deep": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/#:~:text=Definition%20is%20in%20Sec.%203%20of%20the%20order"
+  },
+  {
+   "n": 70,
+   "where": "The checklist, item 2",
+   "claim": "'100 accounts' can mean one organization's storage",
+   "verdict": "confirmed",
+   "url": "https://www.techtimes.com/articles/328096/20260928/ai-ransomware-wiped-100-azure-accounts-7-minutes-only-pre-configured-locks-survived.htm",
+   "source": "Tech Times",
+   "passage": "affected one organization ... '100 Azure Accounts' refers to these storage accounts",
+   "deep": "https://www.techtimes.com/articles/328096/20260928/ai-ransomware-wiped-100-azure-accounts-7-minutes-only-pre-configured-locks-survived.htm#:~:text=affected%20one%20organization"
+  },
+  {
+   "n": 71,
+   "where": "The checklist, item 3",
+   "claim": "'Nearly matches' can mean 12% against 14%",
+   "verdict": "confirmed",
+   "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+   "source": "Anthropic",
+   "passage": "50 of 410 vs 56 of 410",
+   "deep": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities#:~:text=50%20of%20410%20vs%2056%20of%20410"
+  }
+ ],
+ "notes": [
+  "Defense One article is dated Sept. 22, 2026, exactly 8 days before D, inside the 8-day window. It predates the order and covers the UN speech; the draft cites it only for the definition and capability point, which it supports.",
+  "White House order page shows a later modified date (Oct. 2, 2026); the order itself was signed and published Sept. 29, 2026.",
+  "No compliance issues found: no market, valuation or investing content; no first-person opinion; all quotes 14 words or fewer and attributed."
+ ]
+}

@@ -1,0 +1,274 @@
+/* Sent from my Agent — print edition (US Letter PDF).
+   A reading column plus a margin column for sources and notes. Ink on white, one highlighter.
+   The edition colour and running heads are set per issue in templates/print.html. */
+@font-face{font-family:Kalnia;src:url("../fonts/kalnia-latin-700-normal.woff2") format("woff2");font-weight:700}
+@font-face{font-family:Kalnia;src:url("../fonts/kalnia-latin-300-normal.woff2") format("woff2");font-weight:300}
+@font-face{font-family:Piazzolla;src:url("../fonts/piazzolla-latin-400-normal.woff2") format("woff2");font-weight:400}
+@font-face{font-family:Piazzolla;src:url("../fonts/piazzolla-latin-600-normal.woff2") format("woff2");font-weight:600}
+@font-face{font-family:Piazzolla;src:url("../fonts/piazzolla-latin-400-italic.woff2") format("woff2");font-weight:400;font-style:italic}
+@font-face{font-family:Piazzolla;src:url("../fonts/piazzolla-latin-600-italic.woff2") format("woff2");font-weight:600;font-style:italic}
+@font-face{font-family:"Schibsted Grotesk";src:url("../fonts/schibsted-grotesk-latin-400-normal.woff2") format("woff2");font-weight:400}
+@font-face{font-family:"Schibsted Grotesk";src:url("../fonts/schibsted-grotesk-latin-500-normal.woff2") format("woff2");font-weight:500}
+@font-face{font-family:"Schibsted Grotesk";src:url("../fonts/schibsted-grotesk-latin-700-normal.woff2") format("woff2");font-weight:700}
+
+@page{
+  size:Letter;
+  margin:.72in .62in .74in .72in;
+  @top-left{font:700 6.4pt "Schibsted Grotesk",sans-serif;letter-spacing:.16em;color:#121212;vertical-align:bottom;padding-bottom:14pt}
+  @top-right{font:500 6.4pt "Schibsted Grotesk",sans-serif;letter-spacing:.06em;color:#6A6A66;vertical-align:bottom;padding-bottom:14pt}
+  @bottom-left{font:500 6.8pt "Schibsted Grotesk",sans-serif;color:#5A5A5A;vertical-align:top;padding-top:16pt}
+  @bottom-right{font:700 6.8pt "Schibsted Grotesk",sans-serif;color:#121212;vertical-align:top;padding-top:16pt}
+}
+
+:root{--ink:#121212;--sub:#5A5A5A;--line:#D6D6D0;--panel:#F5F4EF;--main:4.78in;--gap:.26in}
+*{box-sizing:border-box;margin:0;padding:0}
+html{font:400 10.3pt/1.48 "Piazzolla",Georgia,serif;color:var(--ink);background:#fff;-webkit-print-color-adjust:exact;print-color-adjust:exact;hyphens:manual;orphans:3;widows:3}
+a{color:inherit;text-decoration:underline;text-decoration-color:var(--mk);text-decoration-thickness:1.4pt;text-underline-offset:2pt}
+img,svg{display:block;max-width:100%}
+b{font-weight:600}
+.hl{background:var(--hl) center 58%/100% 84% no-repeat;padding:0 .1em;-webkit-box-decoration-break:clone;box-decoration-break:clone}
+.hl.my{font-style:italic;font-weight:600}
+.kick{font:700 6.6pt/1.3 "Schibsted Grotesk",sans-serif;letter-spacing:.14em;text-transform:uppercase;color:var(--sub)}
+.src{display:block;font:500 6.9pt/1.38 "Schibsted Grotesk",sans-serif;color:var(--sub)}
+h1,h2,h3,h4,.h4{font-family:"Kalnia",serif;font-weight:700;letter-spacing:-.025em;word-spacing:-.06em;line-height:1.04;break-after:avoid}
+h1 i,h2 i,h3 i,.h4 i{font-family:"Piazzolla",serif;font-style:italic;font-weight:600;letter-spacing:-.01em;word-spacing:normal}
+
+/* the two-column row: reading column + margin */
+.r{display:grid;grid-template-columns:var(--main) 1fr;column-gap:var(--gap);align-items:start}
+.r>.m{grid-column:1}
+.r>.n{grid-column:2}
+.r>p.m+.n.src,.r>.n.src{padding-top:2.2pt;border-top:.6pt solid var(--line);margin-top:3pt}
+.blk .r{margin-top:7pt}
+.blk .hd{margin-top:0;break-after:avoid}
+.hd,.hd .m{break-inside:avoid}
+.hd .kick{break-after:avoid}
+.blk .hd+.r,.blk .keep>.r:first-child{margin-top:0}
+.keep{break-inside:avoid}
+.blk .keep+.r,.blk .keep+.fig{margin-top:7pt}
+.essay .keep:not(:first-child){margin-top:15pt}
+
+/* masthead */
+.mast-top{display:flex;justify-content:space-between;align-items:center;padding-bottom:7pt;border-bottom:.6pt solid var(--ink)}
+.mast-top .parent{height:20pt;width:auto}
+.mast-main{display:flex;justify-content:space-between;align-items:flex-end;padding:13pt 0 11pt;border-bottom:2.4pt solid var(--ink)}
+.edname{position:relative;margin:0;line-height:0}
+.edname img{position:relative;height:40pt;width:auto}
+.edname .swipe{position:absolute;left:-5pt;right:-7pt;bottom:1pt;height:19pt;background:var(--hl) center/100% 100% no-repeat}
+.mast-no{display:grid;justify-items:end;gap:3pt;text-align:right}
+.mast-no .no{font:700 20pt/1 "Kalnia",serif;letter-spacing:-.02em}
+
+/* head */
+.head{padding:18pt 0 16pt;border-bottom:.6pt solid var(--line);margin-bottom:6pt}
+.title{font-size:36pt;line-height:.98;margin:8pt 0 12pt;letter-spacing:-.03em}
+.dek{font-size:13pt;line-height:1.42}
+.asof{font:500 7.2pt "Schibsted Grotesk",sans-serif;color:var(--sub);margin-top:11pt}
+.head .art{color:var(--ink);margin:-4pt 0 8pt}
+.head .art svg{width:100%;height:auto}
+.memo{display:grid;grid-template-columns:auto 1fr;gap:1.5pt 8pt;font:500 7pt/1.35 "Schibsted Grotesk",sans-serif;border-top:.6pt solid var(--ink);padding-top:5pt}
+.memo dt{font-weight:700;letter-spacing:.12em;text-transform:uppercase;font-size:6.2pt;color:var(--sub);padding-top:.6pt}
+.toc{margin-top:16pt;border-top:1.4pt solid var(--ink);padding-top:6pt}
+.toc ol{list-style:none;counter-reset:t;margin-top:5pt;columns:2;column-gap:16pt}
+.toc a{text-decoration:none}
+.toc li{counter-increment:t;font:500 7.8pt/1.3 "Schibsted Grotesk",sans-serif;padding-left:13pt;position:relative;break-inside:avoid;margin-bottom:3.5pt}
+.toc li:before{content:counter(t);position:absolute;left:0;font-weight:700}
+
+/* blocks */
+.blk{padding:14pt 0 12pt;border-bottom:.6pt solid var(--line)}
+.hd{margin-bottom:8pt}
+.hd+ol,.hd+ul,.hd+.corr-grid{break-before:avoid}
+.hd .kick+h2{margin-top:5pt}
+.hd h2.kick{font:700 6.6pt/1.3 "Schibsted Grotesk",sans-serif;letter-spacing:.14em;word-spacing:normal}
+.hd h2{font-size:18.5pt}
+.aside{font-style:italic;font-size:8.4pt;line-height:1.4;color:var(--sub);border-left:1.6pt solid var(--mk);padding-left:7pt}
+.lede{font-size:11.6pt;line-height:1.45}
+.box{padding:9pt 11pt;break-inside:avoid;margin-top:6pt}
+.callout{border-left:3.2pt solid var(--mk);padding-left:10pt}
+.callout p,.risks ul{margin-top:3pt}
+.risks{background:var(--panel)}
+.risks ul,.needs ul{margin-left:11pt}
+.risks li+li,.needs li+li{margin-top:3pt}
+.through{border:1.3pt solid var(--ink)}
+.through .chip{display:inline-block;background:var(--mk);font:700 6.4pt "Schibsted Grotesk",sans-serif;letter-spacing:.14em;text-transform:uppercase;padding:2.5pt 5pt}
+.through .h4{font-size:14.5pt;margin:6pt 0 5pt}
+
+.four{list-style:none;display:grid;grid-template-columns:1fr 1fr;border-top:1.4pt solid var(--ink)}
+.four li{padding:8pt 12pt 10pt 0;border-bottom:.6pt solid var(--line);break-inside:avoid}
+.four li:nth-child(even){padding:8pt 0 10pt 12pt;border-left:.6pt solid var(--line)}
+.four li:nth-last-child(-n+2){border-bottom:0}
+.four .h4,.cols3 .h4{font-size:12.2pt;margin:4pt 0 4pt;line-height:1.08}
+.four p,.cols3 p{font-size:9.2pt;line-height:1.42}
+.four .src,.cols3 .src{margin-top:4pt}
+
+.cols3{list-style:none;display:grid;grid-template-columns:repeat(3,1fr);border-top:1.4pt solid var(--ink)}
+.cols3 li{padding:8pt 11pt 6pt 0;break-inside:avoid}
+.cols3 li+li{padding-left:11pt;border-left:.6pt solid var(--line)}
+.fun p{font-style:italic;margin-top:4pt}
+
+.ahead{list-style:none;border-top:1.4pt solid var(--ink)}
+.ahead li{display:grid;grid-template-columns:1.05in 1fr;gap:12pt;padding:7pt 0;border-bottom:.6pt solid var(--line);break-inside:avoid}
+.ahead .when{font:700 7pt "Schibsted Grotesk",sans-serif;letter-spacing:.08em;text-transform:uppercase;padding-top:2pt}
+.ahead .h4{font-size:12pt}
+.ahead p{font-size:9.6pt;margin-top:2pt}
+
+.check{list-style:none;counter-reset:c;display:grid;gap:6pt}
+.check li{counter-increment:c;padding-left:22pt;position:relative;break-inside:avoid}
+.check li:before{content:counter(c);position:absolute;left:0;top:-2pt;font:700 14pt "Kalnia",serif}
+
+.quote p{font:700 19pt/1.1 "Kalnia",serif;letter-spacing:-.025em}
+.quote cite{display:block;font:500 7.4pt "Schibsted Grotesk",sans-serif;font-style:normal;color:var(--sub);margin-top:7pt}
+
+/* autocorrect */
+.corr-grid{display:grid;grid-template-columns:1fr 1fr;border-top:1.4pt solid var(--ink);break-inside:avoid}
+.corr .claim{padding:8pt 13pt 9pt 0}
+.corr .fix{padding:8pt 0 9pt 13pt;border-left:.6pt solid var(--line)}
+.corr .lbl{display:block;font:700 6.4pt "Schibsted Grotesk",sans-serif;letter-spacing:.14em;text-transform:uppercase;color:var(--sub);margin-bottom:5pt}
+.corr .said{font-weight:600;font-size:11pt;line-height:1.38;text-decoration:underline wavy #8A8A86;text-decoration-thickness:.6pt;text-underline-offset:3pt;margin-bottom:6pt}
+.corr .verdict{display:inline-block;background:var(--mk);font:700 6.6pt "Schibsted Grotesk",sans-serif;letter-spacing:.1em;text-transform:uppercase;padding:2.5pt 5pt;margin-bottom:5pt}
+.corr .fix p{font-size:9.8pt;margin-bottom:5pt}
+.why{margin-top:8pt}
+
+/* software update */
+.upd{list-style:none;border-top:1.4pt solid var(--ink)}
+.upd>li{display:grid;grid-template-columns:1.25in 1fr;column-gap:14pt;padding:8pt 0 9pt;border-bottom:.6pt solid var(--line)}
+/* Items may split across a page (a long first item otherwise leaves page 1 half empty); keep the verdict and change line with their text. */
+.upd .act,.upd>li>div>.h4{break-after:avoid}
+.upd>li:not(:has(.fig)){break-inside:avoid}
+.upd>li>div>p{orphans:3;widows:3}
+.upd .meta{display:grid;gap:2pt;align-content:start;font:500 7.4pt/1.35 "Schibsted Grotesk",sans-serif;color:var(--sub)}
+.upd .prod{font:700 7.6pt "Schibsted Grotesk",sans-serif;letter-spacing:.1em;text-transform:uppercase;color:var(--ink)}
+.upd .act{display:inline-block;background:var(--mk);font:700 6.6pt "Schibsted Grotesk",sans-serif;letter-spacing:.1em;text-transform:uppercase;padding:2.5pt 5pt;margin-bottom:4pt}
+.upd>li>div>.h4{font-size:12.4pt;line-height:1.1}
+.upd>li>div>p{font-size:9.8pt;margin-top:3pt;max-width:var(--main)}
+.upd>li>div>.src{margin-top:4pt}
+/* out of office */
+.steps{margin-top:6pt}
+.howto{list-style:none;counter-reset:h;border-top:1.4pt solid var(--ink)}
+.howto>li{counter-increment:h;display:grid;grid-template-columns:24pt 1fr;column-gap:4pt;padding:7pt 0;border-bottom:.6pt solid var(--line);break-inside:avoid}
+.howto>li:before{content:counter(h);font:700 17pt/1 "Kalnia",serif;grid-row:span 2}
+.howto>li>.h4{font-size:11.6pt;line-height:1.12}
+.howto>li>p{font-size:9.8pt;margin-top:2pt}
+.needs{background:var(--panel);padding:8pt 9pt;font-size:8.4pt;line-height:1.4;border-top:2pt solid var(--mk);break-inside:avoid}
+.needs .kick{margin-bottom:4pt}
+
+/* do not disturb */
+.essay .hd h2{font-size:15.5pt}
+.pull{margin:6pt 0 2pt;padding:4pt 0 4pt 12pt;border-left:3.2pt solid var(--mk);break-inside:avoid}
+.pull p{font:700 16pt/1.14 "Kalnia",serif;letter-spacing:-.02em}
+.further{list-style:none;border-top:1.4pt solid var(--ink)}
+.further li{display:grid;grid-template-columns:var(--main) 1fr;column-gap:var(--gap);padding:6pt 0;border-bottom:.6pt solid var(--line);break-inside:avoid}
+.further p{font-size:9.4pt;color:var(--sub);margin-top:1pt}
+.further .src{word-break:break-all;border:0;margin:0;padding-top:1.5pt}
+
+/* figures */
+.fig{margin:10pt 0 8pt;padding:10pt 12pt;background:var(--panel);break-inside:avoid}
+.fig figcaption{margin-bottom:9pt;font:700 8pt "Schibsted Grotesk",sans-serif}
+.fig figcaption span{font-weight:500;color:var(--sub)}
+.figcap{font-size:8.6pt;line-height:1.42;margin-top:8pt;max-width:var(--main)}
+.fig .figsrc{margin-top:6pt}
+/* inline drawings: picture left, caption right */
+.dw{display:grid;grid-template-columns:1.45in 1fr;column-gap:14pt;align-items:center}
+.dw-art svg{display:block;width:100%;height:auto}
+.dw .figcap{margin-top:0}
+.howto .fig{grid-column:2}
+.howto>li:has(.fig){break-inside:auto}
+.upd .fig,.howto .fig{margin:7pt 0 2pt}
+.timeline{list-style:none;display:grid;grid-template-columns:repeat(var(--n),1fr);position:relative;gap:8pt}
+.timeline:before{content:"";position:absolute;left:5pt;right:5pt;top:5pt;height:1.2pt;background:var(--ink)}
+.timeline li{position:relative;padding-top:17pt}
+.timeline li:before{content:"";position:absolute;left:0;top:0;width:11pt;height:11pt;border-radius:50%;background:#fff;border:1.3pt solid var(--ink)}
+.timeline li.alert:before{background:var(--mk)}
+.timeline .t{display:block;font:700 7.6pt "Schibsted Grotesk",sans-serif}
+.timeline .l{display:block;font-size:8.4pt;line-height:1.32;margin-top:2pt}
+.layers ol{list-style:none;counter-reset:l;display:grid;gap:3pt}
+.layers li{border:1.2pt solid var(--ink);padding:4pt 8pt;font:500 8pt "Schibsted Grotesk",sans-serif;counter-increment:l;background:#fff}
+.layers li:before{content:counter(l) "  ";font-weight:700}
+.layers li.gap{border-style:dashed;background:var(--mk)}
+.layers .core{margin-top:5pt;font:700 6.8pt "Schibsted Grotesk",sans-serif;letter-spacing:.2em;background:var(--ink);color:#fff;padding:5pt 8pt;text-align:center}
+.flow{list-style:none;display:grid;grid-template-columns:repeat(auto-fit,minmax(1.1in,1fr));gap:6pt}
+.flow li{border:1.2pt solid var(--ink);padding:6pt;display:grid;gap:3pt;font:500 8pt/1.3 "Schibsted Grotesk",sans-serif;background:#fff}
+.flow .k{font:700 12pt "Kalnia",serif}
+.bars{display:grid;grid-template-columns:1fr 1fr;gap:16pt}
+.bg .h4{font:700 7.6pt "Schibsted Grotesk",sans-serif;letter-spacing:0;margin-bottom:5pt}
+.bg{display:grid;grid-template-columns:fit-content(48%) minmax(.4in,1fr) auto;column-gap:6pt;row-gap:4pt;align-items:center;font:500 7.6pt/1.25 "Schibsted Grotesk",sans-serif}
+.bg .h4{grid-column:1/-1}
+.bar{display:contents}
+.track{height:10pt}
+.fill{display:block;height:100%;background:#8A8A86}
+.fill.me{background:var(--ink)}
+.bv{text-align:right;font-weight:700}
+
+/* sign-off and back matter */
+.signoff{padding:16pt 0 4pt;align-items:center;break-inside:avoid}
+.signoff p{font-size:15pt;line-height:1.4}
+.stamp svg{width:1.5in;height:auto;transform:rotate(-7deg)}
+.online{align-items:center;padding:10pt 0 12pt;border-bottom:1.4pt solid var(--ink);break-inside:avoid;font:400 7.8pt/1.55 "Schibsted Grotesk",sans-serif}
+.online b{font-weight:700}
+.online a{text-decoration:none;overflow-wrap:anywhere}
+.qr svg{width:.74in;height:.74in}
+.disc{color:var(--sub);margin-top:5pt;font-size:6.8pt}
+.corrections{padding:9pt 0;border-bottom:.6pt solid var(--line);font:400 7.8pt/1.45 "Schibsted Grotesk",sans-serif}
+.corrections .kick{margin-bottom:3pt}
+.back{padding-top:9pt}
+.sources{list-style:none;counter-reset:s;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));column-gap:14pt;row-gap:3pt;margin-top:5pt;font:400 6.9pt/1.4 "Schibsted Grotesk",sans-serif;color:#3A3A38}
+.sources li{counter-increment:s;break-inside:avoid;padding-left:12pt;position:relative}
+.back>.kick,.corrections>.kick{break-after:avoid}
+.back>.kick+.sources>li:nth-child(-n+3){break-before:avoid}
+.sources li:before{content:counter(s) ".";position:absolute;left:0;font-weight:700;color:var(--ink)}
+.sources a{text-decoration:none;color:var(--sub);overflow-wrap:anywhere}
+
+/* copyfit: used only when the last page would hold a few leftover lines */
+html.fit{font-size:10pt}
+.fit .blk{padding:9pt 0 8pt}
+.fit .head{padding:12pt 0 10pt}
+.fit .title{font-size:32pt}
+.fit .fig{margin:7pt 0 6pt;padding:8pt 10pt}
+.fit .fig figcaption{margin-bottom:6pt}
+.fit .dw{grid-template-columns:1.2in 1fr}
+.fit .flow li{padding:4pt 5pt}
+.fit .timeline li{padding-top:14pt}
+.fit .figcap{margin-top:5pt}
+.fit .signoff{padding-top:8pt}
+.fit .signoff p{font-size:13pt}
+.fit .stamp svg{width:1.15in}
+.fit .online{padding:6pt 0 8pt}
+.fit .qr svg{width:.6in;height:.6in}
+.fit .sources{grid-template-columns:repeat(4,minmax(0,1fr));font-size:6.8pt}
+.fit .toc{display:none}
+
+/* the Monday letter */
+.testbox{border:1.4pt solid var(--ink);background:#fff;padding:7pt 9pt 3pt;margin-top:6pt}
+.testbox .tmeta{font:500 7.8pt/1.4 "Schibsted Grotesk",sans-serif;margin-bottom:3pt}
+.testbox p,.testbox li{font-size:9pt;line-height:1.42;margin-bottom:3pt}
+.testbox ul{margin:0 0 3pt 12pt}
+.person{border-left:3pt solid var(--mk);background:#fff;padding:3pt 0 3pt 9pt;margin-top:6pt}
+.person ul{margin:3pt 0 0 12pt}
+.person li{font-size:9pt;line-height:1.42;margin-bottom:2pt}
+.box.note p{font-style:italic;font-size:11pt;line-height:1.45}
+.box.note{border-left:3pt solid var(--mk);background:#fff}
+
+/* numbers table (Markets desk) */
+.asof{font:500 8.5pt "Schibsted Grotesk",sans-serif;color:var(--sub);margin:0 0 5pt}
+.nums{width:100%;border-collapse:collapse;border-top:1pt solid var(--ink);font:400 9pt/1.3 "Schibsted Grotesk",sans-serif;margin:0 0 6pt}
+.nums th,.nums td{text-align:left;padding:3.5pt 6pt 3.5pt 0;border-bottom:.4pt solid #D0D0CC;vertical-align:top}
+.nums thead th{font-size:7pt;letter-spacing:.08em;text-transform:uppercase;color:var(--sub)}
+.nums td.src{font-size:7.5pt;color:var(--sub)}
+
+/* The approved editorial identity, carried through to the print edition. */
+.mast-top{padding-bottom:10pt;border-bottom:.6pt solid var(--ink)}
+.mast-top .parent{height:auto;width:2.6in}
+.mast-main{padding:9pt 0 9pt;border-bottom:1pt solid var(--ink);align-items:center}
+.edname{display:flex;align-items:center;gap:7pt;font:700 10pt/1.3 "Schibsted Grotesk",sans-serif;letter-spacing:.035em;text-transform:uppercase;max-width:4.4in}
+.edname .edition-marker{width:21pt;height:4pt;background:var(--mk);flex:none}
+.mast-no .no{font:700 9pt/1.2 "Schibsted Grotesk",sans-serif;letter-spacing:0}
+.mast-no .kick{font-size:6.3pt}
+h1,h2,h3,h4,.h4{font-family:Georgia,"Times New Roman",serif;word-spacing:normal;letter-spacing:-.025em}
+.title{font-size:36pt;line-height:1.02;letter-spacing:-.035em;margin-top:6pt}
+.dek{font-family:"Schibsted Grotesk",sans-serif;font-size:10.4pt;line-height:1.52;color:var(--sub)}
+.signoff p{font:700 12pt/1.5 "Schibsted Grotesk",sans-serif;letter-spacing:-.02em}
+.fit .signoff p{font-size:11pt}
+.back .credit{font:400 6.9pt/1.4 "Schibsted Grotesk",sans-serif;color:var(--sub);margin-top:5pt}
+
+.yield-plot svg{display:block;width:100%;height:auto}
+.yield-data{font-variant-numeric:tabular-nums;margin:8px 0}
+.yield-data th,.yield-data td{padding:3px 6px;border-bottom:1px solid #ddd}
+.fig-yield_curve{break-inside:avoid}

@@ -1,0 +1,730 @@
+{
+ "issue": "https://sentfrommyagent.com/p/out-of-office/01-a-brief-for-every-meeting/",
+ "newsletter": "Out of Office",
+ "number": 1,
+ "date": "2026-09-29",
+ "title": "A brief for every meeting by 6:30.",
+ "stamp": "Sent from my agent. Every claim checked.",
+ "record": "https://sentfrommyagent.com/p/out-of-office/01-a-brief-for-every-meeting/record/",
+ "counts": {
+  "checked": 71,
+  "confirmed": 68,
+  "wrong": 0,
+  "unsupported": 3
+ },
+ "checked_at": "2026-10-24T00:00:00-04:00",
+ "checked_by": "a second agent, independent of the writer",
+ "claims": [
+  {
+   "n": 1,
+   "where": "title",
+   "claim": "Briefed before breakfast. (scheduled morning brief)",
+   "verdict": "confirmed",
+   "url": "https://learn.chatgpt.com/training/walkthroughs/scheduled-tasks",
+   "source": "OpenAI training guide",
+   "passage": "Step 2 adds a schedule for every weekday ... Each run returns the same source-linked briefs",
+   "deep": "https://learn.chatgpt.com/training/walkthroughs/scheduled-tasks#:~:text=Step%202%20adds%20a%20schedule%20for%20every%20weekday"
+  },
+  {
+   "n": 2,
+   "where": "dek",
+   "claim": "A ChatGPT scheduled task can read Google Calendar and Gmail each weekday morning and leave a brief for every meeting",
+   "verdict": "confirmed",
+   "url": "https://learn.chatgpt.com/training/walkthroughs/scheduled-tasks",
+   "source": "OpenAI training guide",
+   "passage": "ChatGPT then uses calendar events and related emails to prepare source-linked meeting briefs ... schedule for every weekday",
+   "deep": "https://learn.chatgpt.com/training/walkthroughs/scheduled-tasks#:~:text=ChatGPT%20then%20uses%20calendar%20events%20and%20related%20emails"
+  },
+  {
+   "n": 3,
+   "where": "dek",
+   "claim": "One permission setting makes it ask before it changes anything",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/20001495-managing-app-permissions-in-chatgpt",
+   "source": "OpenAI permissions help",
+   "passage": "\"Allow read actions\": ChatGPT reads without asking but asks before making changes",
+   "deep": "https://help.openai.com/en/articles/20001495-managing-app-permissions-in-chatgpt#:~:text=%22Allow%20read%20actions%22%3A%20ChatGPT%20reads%20without%20asking%20but"
+  },
+  {
+   "n": 4,
+   "where": "summary",
+   "claim": "Weekday ChatGPT task reads Google Calendar and Gmail and writes a brief for each meeting",
+   "verdict": "confirmed",
+   "url": "https://learn.chatgpt.com/training/walkthroughs/scheduled-tasks",
+   "source": "OpenAI training guide",
+   "passage": "uses calendar events and related emails to prepare source-linked meeting briefs",
+   "deep": "https://learn.chatgpt.com/training/walkthroughs/scheduled-tasks#:~:text=uses%20calendar%20events%20and%20related%20emails%20to%20prepare"
+  },
+  {
+   "n": 5,
+   "where": "summary",
+   "claim": "Runs on ChatGPT Plus, $20 a month",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus",
+   "source": "OpenAI Plus help",
+   "passage": "$20/month (billed monthly)",
+   "deep": "https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus#:~:text=%2420%2Fmonth%20%28billed%20monthly%29"
+  },
+  {
+   "n": 6,
+   "where": "art svg text / art alt",
+   "claim": "6:30 AM (run time)",
+   "verdict": "confirmed",
+   "url": "",
+   "source": "the issue itself",
+   "passage": "Matches prompt in blocks[1].items[3]: 'every weekday at 6:30 a.m.'; time is the issue's own prompt choice",
+   "deep": ""
+  },
+  {
+   "n": 7,
+   "where": "The story",
+   "claim": "Each weekday morning a scheduled task reads the day's meetings from Google Calendar, looks for related email in Gmail and writes a short brief with links back to sources",
+   "verdict": "confirmed",
+   "url": "https://learn.chatgpt.com/training/walkthroughs/scheduled-tasks",
+   "source": "OpenAI training guide",
+   "passage": "uses calendar events and related emails to prepare source-linked meeting briefs",
+   "deep": "https://learn.chatgpt.com/training/walkthroughs/scheduled-tasks#:~:text=uses%20calendar%20events%20and%20related%20emails%20to%20prepare"
+  },
+  {
+   "n": 8,
+   "where": "The story",
+   "claim": "OpenAI's own training guide uses a version of this job as its example",
+   "verdict": "confirmed",
+   "url": "https://learn.chatgpt.com/training/walkthroughs/scheduled-tasks",
+   "source": "OpenAI training guide",
+   "passage": "Example workflow: Connect Gmail and Google Calendar in Plugins ... prepare source-linked meeting briefs",
+   "deep": "https://learn.chatgpt.com/training/walkthroughs/scheduled-tasks#:~:text=Example%20workflow%3A%20Connect%20Gmail%20and%20Google%20Calendar%20in"
+  },
+  {
+   "n": 9,
+   "where": "The story",
+   "claim": "Ours adds a setting that makes it ask before any change",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/20001495-managing-app-permissions-in-chatgpt",
+   "source": "OpenAI permissions help",
+   "passage": "Allow read actions: reads without asking but asks before making changes (training guide does not include this setting step)",
+   "deep": "https://help.openai.com/en/articles/20001495-managing-app-permissions-in-chatgpt#:~:text=Allow%20read%20actions%3A%20reads%20without%20asking%20but%20asks"
+  },
+  {
+   "n": 10,
+   "where": "The story",
+   "claim": "Ours adds ... a stricter prompt",
+   "verdict": "unsupported",
+   "url": "https://learn.chatgpt.com/training/walkthroughs/scheduled-tasks",
+   "source": "OpenAI training guide",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 11,
+   "where": "The story, step 1",
+   "claim": "Reads the day's meetings in Google Calendar",
+   "verdict": "confirmed",
+   "url": "https://learn.chatgpt.com/training/walkthroughs/scheduled-tasks",
+   "source": "OpenAI training guide",
+   "passage": "Step 1 asks ChatGPT to review today's meetings",
+   "deep": "https://learn.chatgpt.com/training/walkthroughs/scheduled-tasks#:~:text=Step%201%20asks%20ChatGPT%20to%20review%20today%27s%20meetings"
+  },
+  {
+   "n": 12,
+   "where": "The story, step 2",
+   "claim": "Searches Gmail for related email from the last 30 days",
+   "verdict": "confirmed",
+   "url": "https://learn.chatgpt.com/training/walkthroughs/scheduled-tasks",
+   "source": "OpenAI training guide",
+   "passage": "find related emails (30-day window is the issue's own prompt, stated in caption)",
+   "deep": "https://learn.chatgpt.com/training/walkthroughs/scheduled-tasks#:~:text=find%20related%20emails%20%2830-day%20window%20is%20the%20issue%27s"
+  },
+  {
+   "n": 13,
+   "where": "The story, step 3",
+   "claim": "Writes a short brief for each meeting, with links",
+   "verdict": "confirmed",
+   "url": "https://learn.chatgpt.com/training/walkthroughs/scheduled-tasks",
+   "source": "OpenAI training guide",
+   "passage": "source-linked meeting briefs",
+   "deep": "https://learn.chatgpt.com/training/walkthroughs/scheduled-tasks#:~:text=source-linked%20meeting%20briefs"
+  },
+  {
+   "n": 14,
+   "where": "The story, step 4",
+   "claim": "Asks before making any change",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/20001495-managing-app-permissions-in-chatgpt",
+   "source": "OpenAI permissions help",
+   "passage": "Allow read actions ... asks before making changes",
+   "deep": "https://help.openai.com/en/articles/20001495-managing-app-permissions-in-chatgpt#:~:text=Allow%20read%20actions"
+  },
+  {
+   "n": 15,
+   "where": "The story",
+   "claim": "6:30 a.m. and the 30-day window come from the prompts in steps 3 and 4",
+   "verdict": "confirmed",
+   "url": "",
+   "source": "the issue itself",
+   "passage": "Step 3 prompt: 'from the last 30 days'; step 4 prompt: 'every weekday at 6:30 a.m.'",
+   "deep": ""
+  },
+  {
+   "n": 16,
+   "where": "The steps",
+   "claim": "OpenAI says a task that only needs connected tools can run from the web",
+   "verdict": "confirmed",
+   "url": "https://learn.chatgpt.com/training/walkthroughs/scheduled-tasks",
+   "source": "OpenAI training guide",
+   "passage": "If a task only needs connected tools, you can run it on the web or choose Cloud in the desktop app",
+   "deep": "https://learn.chatgpt.com/training/walkthroughs/scheduled-tasks#:~:text=If%20a%20task%20only%20needs%20connected%20tools%2C%20you"
+  },
+  {
+   "n": 17,
+   "where": "The steps",
+   "claim": "one that needs files on your computer needs that computer on with the desktop app running",
+   "verdict": "confirmed",
+   "url": "https://learn.chatgpt.com/training/walkthroughs/scheduled-tasks",
+   "source": "OpenAI training guide",
+   "passage": "For local files or a skill saved only on your computer, keep the computer on and the desktop app running",
+   "deep": "https://learn.chatgpt.com/training/walkthroughs/scheduled-tasks#:~:text=For%20local%20files%20or%20a%20skill%20saved%20only"
+  },
+  {
+   "n": 18,
+   "where": "The steps",
+   "claim": "Plus has Work on the web",
+   "verdict": "confirmed",
+   "url": "https://chatgpt.com/pricing/",
+   "source": "ChatGPT pricing",
+   "passage": "Plus | Work: Desktop, web, and mobile",
+   "deep": ""
+  },
+  {
+   "n": 19,
+   "where": "The steps",
+   "claim": "Go has only a limited desktop version of Work",
+   "verdict": "confirmed",
+   "url": "https://chatgpt.com/pricing/",
+   "source": "ChatGPT pricing",
+   "passage": "Go | Work: Limited, desktop only",
+   "deep": ""
+  },
+  {
+   "n": 20,
+   "where": "The steps",
+   "claim": "Steps 3 and 4 need a paid plan with Work on the web",
+   "verdict": "confirmed",
+   "url": "https://chatgpt.com/pricing/",
+   "source": "ChatGPT pricing",
+   "passage": "Free and Go: Work 'Limited, desktop only'; Plus/Pro: 'Desktop, web, and mobile'. Exact delivery times need an eligible paid plan (tasks help)",
+   "deep": "https://chatgpt.com/pricing/#:~:text=Free%20and%20Go%3A%20Work%20%27Limited%2C%20desktop%20only%27%3B%20Plus%2FPro%3A"
+  },
+  {
+   "n": 21,
+   "where": "The steps",
+   "claim": "Plus, or Business/Enterprise workspace, supports scheduled tasks",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "Scheduled tasks are available to eligible Free, Go, Plus, Pro, Business, Enterprise, and Edu users",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=Scheduled%20tasks%20are%20available%20to%20eligible%20Free%2C%20Go%2C"
+  },
+  {
+   "n": 22,
+   "where": "The steps",
+   "claim": "Plus includes scheduled tasks and Work on the web",
+   "verdict": "confirmed",
+   "url": "https://chatgpt.com/pricing/",
+   "source": "ChatGPT pricing",
+   "passage": "Plus: Work desktop, web, and mobile; Scheduled tasks: Yes",
+   "deep": "https://chatgpt.com/pricing/#:~:text=Plus%3A%20Work%20desktop%2C%20web%2C%20and%20mobile%3B%20Scheduled%20tasks%3A"
+  },
+  {
+   "n": 23,
+   "where": "The steps",
+   "claim": "Google Workspace admin may need to approve ChatGPT's access first",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10408842-google-app-data-controls-faq",
+   "source": "OpenAI Google FAQ",
+   "passage": "Google Workspace admins must approve the ChatGPT/OpenAI app's OAuth scopes",
+   "deep": "https://help.openai.com/en/articles/10408842-google-app-data-controls-faq#:~:text=Google%20Workspace%20admins%20must%20approve%20the%20ChatGPT%2FOpenAI%20app%27s"
+  },
+  {
+   "n": 24,
+   "where": "The steps",
+   "claim": "Plus allows five active scheduled tasks at a time",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "Free and Go allow 3, Plus allows 5",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=Free%20and%20Go%20allow%203%2C%20Plus%20allows%205"
+  },
+  {
+   "n": 25,
+   "where": "The steps, item 1",
+   "claim": "Settings, then Plugins (some accounts show Apps instead)",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/20001495-managing-app-permissions-in-chatgpt",
+   "source": "OpenAI permissions help",
+   "passage": "Select Plugins. If Settings shows Apps instead, open Apps",
+   "deep": "https://help.openai.com/en/articles/20001495-managing-app-permissions-in-chatgpt#:~:text=Select%20Plugins.%20If%20Settings%20shows%20Apps%20instead%2C%20open"
+  },
+  {
+   "n": 26,
+   "where": "The steps, item 1",
+   "claim": "Choose Gmail, select Install plugin if it appears, then Connect, sign in",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/20001494",
+   "source": "OpenAI accounts help",
+   "passage": "Select 'Install plugin' if it appears. If prompted, select Connect ... Sign in to the provider account",
+   "deep": "https://help.openai.com/en/articles/20001494#:~:text=Select%20%27Install%20plugin%27%20if%20it%20appears.%20If%20prompted%2C"
+  },
+  {
+   "n": 27,
+   "where": "The steps, item 1",
+   "claim": "On Google's screen, review and allow the access ChatGPT asks for",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/20001494",
+   "source": "OpenAI accounts help",
+   "passage": "Review the requested services and permissions. Complete any required provider authorization",
+   "deep": "https://help.openai.com/en/articles/20001494#:~:text=Review%20the%20requested%20services%20and%20permissions.%20Complete%20any"
+  },
+  {
+   "n": 28,
+   "where": "The steps, item 1",
+   "claim": "For Gmail the access includes sending email",
+   "verdict": "confirmed",
+   "url": "https://developers.google.com/workspace/gmail/api/auth/scopes",
+   "source": "Google Gmail API docs",
+   "passage": "gmail.modify (requested per OpenAI Google FAQ): 'Read, compose, and send emails from your Gmail account.'",
+   "deep": "https://developers.google.com/workspace/gmail/api/auth/scopes#:~:text=gmail.modify%20%28requested%20per%20OpenAI%20Google%20FAQ%29%3A%20%27Read%2C%20compose%2C"
+  },
+  {
+   "n": 29,
+   "where": "The steps, item 1",
+   "claim": "For Calendar the access includes editing events",
+   "verdict": "confirmed",
+   "url": "https://developers.google.com/workspace/calendar/api/auth",
+   "source": "Google Calendar API docs",
+   "passage": "calendar.events (requested per OpenAI Google FAQ): 'View and edit events on all your calendars.'",
+   "deep": "https://developers.google.com/workspace/calendar/api/auth#:~:text=calendar.events%20%28requested%20per%20OpenAI%20Google%20FAQ%29%3A%20%27View%20and"
+  },
+  {
+   "n": 30,
+   "where": "The steps, item 1",
+   "claim": "Repeat for Google Calendar",
+   "verdict": "confirmed",
+   "url": "https://learn.chatgpt.com/training/walkthroughs/scheduled-tasks",
+   "source": "OpenAI training guide",
+   "passage": "Connect Gmail and Google Calendar in Plugins",
+   "deep": "https://learn.chatgpt.com/training/walkthroughs/scheduled-tasks#:~:text=Connect%20Gmail%20and%20Google%20Calendar%20in%20Plugins"
+  },
+  {
+   "n": 31,
+   "where": "The steps, item 2",
+   "claim": "Profile menu > Settings > Plugins > Permissions > Allow read actions (personal account)",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/20001495-managing-app-permissions-in-chatgpt",
+   "source": "OpenAI permissions help",
+   "passage": "Open your profile menu and select Settings. Select Plugins ... Open Permissions. Choose your default",
+   "deep": "https://help.openai.com/en/articles/20001495-managing-app-permissions-in-chatgpt#:~:text=Open%20your%20profile%20menu%20and%20select%20Settings.%20Select"
+  },
+  {
+   "n": 32,
+   "where": "The steps, item 2",
+   "claim": "ChatGPT can then read without asking but must ask before any change",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/20001495-managing-app-permissions-in-chatgpt",
+   "source": "OpenAI permissions help",
+   "passage": "Allow read actions: ChatGPT reads without asking but asks before making changes",
+   "deep": "https://help.openai.com/en/articles/20001495-managing-app-permissions-in-chatgpt#:~:text=Allow%20read%20actions%3A%20ChatGPT%20reads%20without%20asking%20but"
+  },
+  {
+   "n": 33,
+   "where": "The steps, item 2",
+   "claim": "Per-account setting under Connected accounts (••• menu, then Settings)",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/20001495-managing-app-permissions-in-chatgpt",
+   "source": "OpenAI permissions help",
+   "passage": "If Connected accounts appears, open that account's more options menu (•••) and select Settings",
+   "deep": "https://help.openai.com/en/articles/20001495-managing-app-permissions-in-chatgpt#:~:text=If%20Connected%20accounts%20appears%2C%20open%20that%20account%27s%20more"
+  },
+  {
+   "n": 34,
+   "where": "The steps, item 3",
+   "claim": "Open Work, start a new chat, run once by hand and refine",
+   "verdict": "confirmed",
+   "url": "https://learn.chatgpt.com/training/walkthroughs/scheduled-tasks",
+   "source": "OpenAI training guide",
+   "passage": "Run the task once in a regular chat and refine the result ... complete both steps in the same Work chat",
+   "deep": "https://learn.chatgpt.com/training/walkthroughs/scheduled-tasks#:~:text=Run%20the%20task%20once%20in%20a%20regular%20chat"
+  },
+  {
+   "n": 35,
+   "where": "The steps, item 3",
+   "claim": "Mention @Google Calendar / @Gmail in the prompt",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/11487775-connected-apps-in-chatgpt",
+   "source": "OpenAI apps help",
+   "passage": "Mention an available app with @",
+   "deep": "https://help.openai.com/en/articles/11487775-connected-apps-in-chatgpt#:~:text=Mention%20an%20available%20app%20with%20%40"
+  },
+  {
+   "n": 36,
+   "where": "The steps, item 3",
+   "claim": "No meetings today? Ask about a day that has some",
+   "verdict": "confirmed",
+   "url": "https://learn.chatgpt.com/training/walkthroughs/scheduled-tasks",
+   "source": "OpenAI training guide",
+   "passage": "If today has no meetings, change the prompt to a date that does",
+   "deep": "https://learn.chatgpt.com/training/walkthroughs/scheduled-tasks#:~:text=If%20today%20has%20no%20meetings%2C%20change%20the%20prompt"
+  },
+  {
+   "n": 37,
+   "where": "The steps, item 4",
+   "claim": "In the same chat, ask for the schedule; ChatGPT turns it into a scheduled task",
+   "verdict": "confirmed",
+   "url": "https://learn.chatgpt.com/training/walkthroughs/scheduled-tasks",
+   "source": "OpenAI training guide",
+   "passage": "stay in the same chat and tell ChatGPT when to repeat it. ChatGPT converts that request into a scheduled task",
+   "deep": "https://learn.chatgpt.com/training/walkthroughs/scheduled-tasks#:~:text=stay%20in%20the%20same%20chat%20and%20tell%20ChatGPT"
+  },
+  {
+   "n": 38,
+   "where": "The steps, item 4",
+   "claim": "An exact time like this needs a paid plan",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "Eligible paid plans support recurring tasks up to once per hour and exact delivery times",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=Eligible%20paid%20plans%20support%20recurring%20tasks%20up%20to"
+  },
+  {
+   "n": 39,
+   "where": "The steps, item 5",
+   "claim": "Settings > Notifications; Email, Push or both",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "Manage them under Settings > Notifications by choosing Push, Email, or both",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=Manage%20them%20under%20Settings%20%3E%20Notifications%20by%20choosing"
+  },
+  {
+   "n": 40,
+   "where": "The steps, item 5",
+   "claim": "Phone push alerts need the task created in the ChatGPT mobile app",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "Mobile push notifications require creating the task in a supported ChatGPT mobile app",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=Mobile%20push%20notifications%20require%20creating%20the%20task%20in"
+  },
+  {
+   "n": 41,
+   "where": "The steps, item 6",
+   "claim": "Scheduled shows the next run",
+   "verdict": "confirmed",
+   "url": "https://learn.chatgpt.com/training/walkthroughs/scheduled-tasks",
+   "source": "OpenAI training guide",
+   "passage": "shows which tasks are active or paused and when each runs next",
+   "deep": "https://learn.chatgpt.com/training/walkthroughs/scheduled-tasks#:~:text=shows%20which%20tasks%20are%20active%20or%20paused%20and"
+  },
+  {
+   "n": 42,
+   "where": "The steps, item 6",
+   "claim": "Open the task to read result and run history; edit instructions or schedule, or pause",
+   "verdict": "confirmed",
+   "url": "https://learn.chatgpt.com/training/walkthroughs/scheduled-tasks",
+   "source": "OpenAI training guide",
+   "passage": "Opening a task shows its latest result and run history, and lets you edit instructions or schedule, pause, or delete it",
+   "deep": "https://learn.chatgpt.com/training/walkthroughs/scheduled-tasks#:~:text=Opening%20a%20task%20shows%20its%20latest%20result%20and"
+  },
+  {
+   "n": 43,
+   "where": "The steps",
+   "claim": "$20 a month for ChatGPT Plus, billed monthly",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus",
+   "source": "OpenAI Plus help",
+   "passage": "$20/month (billed monthly)",
+   "deep": "https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus#:~:text=%2420%2Fmonth%20%28billed%20monthly%29"
+  },
+  {
+   "n": 44,
+   "where": "The steps",
+   "claim": "OpenAI doesn't offer annual billing for Plus",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus",
+   "source": "OpenAI Plus help",
+   "passage": "we do not support annual billing",
+   "deep": "https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus#:~:text=we%20do%20not%20support%20annual%20billing"
+  },
+  {
+   "n": 45,
+   "where": "The steps",
+   "claim": "Scheduled tasks, Work and plugins come with the plan",
+   "verdict": "confirmed",
+   "url": "https://chatgpt.com/pricing/",
+   "source": "ChatGPT pricing",
+   "passage": "Plus: Work desktop, web, and mobile; Scheduled tasks Yes; Plugins included",
+   "deep": "https://chatgpt.com/pricing/#:~:text=Plus%3A%20Work%20desktop%2C%20web%2C%20and%20mobile%3B%20Scheduled%20tasks"
+  },
+  {
+   "n": 46,
+   "where": "The steps",
+   "claim": "within its usage limits",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus",
+   "source": "OpenAI Plus help",
+   "passage": "may include usage limits such as message caps",
+   "deep": "https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus#:~:text=may%20include%20usage%20limits%20such%20as%20message%20caps"
+  },
+  {
+   "n": 47,
+   "where": "The steps",
+   "claim": "The connection can read anything in that inbox and calendar",
+   "verdict": "confirmed",
+   "url": "https://developers.google.com/workspace/gmail/api/auth/scopes",
+   "source": "Google Gmail API docs",
+   "passage": "gmail.modify: 'Read, compose, and send emails'; calendar.events: 'View and edit events on all your calendars'",
+   "deep": "https://developers.google.com/workspace/gmail/api/auth/scopes#:~:text=gmail.modify%3A%20%27Read%2C%20compose%2C%20and%20send%20emails%27%3B%20calendar.events%3A%20%27View"
+  },
+  {
+   "n": 48,
+   "where": "The steps",
+   "claim": "Google access requested covers sending email and editing events",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10408842-google-app-data-controls-faq",
+   "source": "OpenAI Google FAQ",
+   "passage": "Gmail: gmail.modify; Google Calendar: calendar.events (scope meanings per Google API docs)",
+   "deep": "https://help.openai.com/en/articles/10408842-google-app-data-controls-faq#:~:text=Gmail%3A%20gmail.modify%3B%20Google%20Calendar%3A%20calendar.events%20%28scope%20meanings%20per"
+  },
+  {
+   "n": 49,
+   "where": "The steps",
+   "claim": "With Allow read actions, any change needs approval and the task can pause until you give it",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "Actions that need approval also pause it until you review them",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=Actions%20that%20need%20approval%20also%20pause%20it%20until"
+  },
+  {
+   "n": 50,
+   "where": "The steps",
+   "claim": "It may tie a meeting to the wrong thread or fill a gap with a guess",
+   "verdict": "unsupported",
+   "url": "https://learn.chatgpt.com/training/walkthroughs/scheduled-tasks",
+   "source": "OpenAI training guide",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 51,
+   "where": "The steps",
+   "claim": "A task can pause if inactive, needs an approval or its chat is deleted",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt",
+   "source": "OpenAI tasks help",
+   "passage": "A task may pause if it is inactive, needs additional action, or its associated chat is archived or deleted",
+   "deep": "https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt#:~:text=A%20task%20may%20pause%20if%20it%20is%20inactive%2C"
+  },
+  {
+   "n": 52,
+   "where": "The steps",
+   "claim": "test.by = none (no claim the workflow was tested)",
+   "verdict": "confirmed",
+   "url": "",
+   "source": "the issue itself",
+   "passage": "No text says or implies an agent or the owner ran it; consistent with by:none",
+   "deep": ""
+  },
+  {
+   "n": 53,
+   "where": "The steps",
+   "claim": "Read freely, ask before changing / WAITS FOR YOU",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/20001495-managing-app-permissions-in-chatgpt",
+   "source": "OpenAI permissions help",
+   "passage": "Allow read actions: reads without asking but asks before making changes",
+   "deep": "https://help.openai.com/en/articles/20001495-managing-app-permissions-in-chatgpt#:~:text=Allow%20read%20actions%3A%20reads%20without%20asking%20but%20asks"
+  },
+  {
+   "n": 54,
+   "where": "The steps",
+   "claim": "Mail and calendar feed a brief; changes held at a bar labelled Waits for you",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/20001495-managing-app-permissions-in-chatgpt",
+   "source": "OpenAI permissions help",
+   "passage": "asks before making changes",
+   "deep": "https://help.openai.com/en/articles/20001495-managing-app-permissions-in-chatgpt#:~:text=asks%20before%20making%20changes"
+  },
+  {
+   "n": 55,
+   "where": "The steps",
+   "claim": "Allow read actions lets ChatGPT read without stopping; any change waits for approval",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/20001495-managing-app-permissions-in-chatgpt",
+   "source": "OpenAI permissions help",
+   "passage": "ChatGPT reads without asking but asks before making changes",
+   "deep": "https://help.openai.com/en/articles/20001495-managing-app-permissions-in-chatgpt#:~:text=ChatGPT%20reads%20without%20asking%20but%20asks%20before%20making"
+  },
+  {
+   "n": 56,
+   "where": "The story",
+   "claim": "Since Aug. 28, ChatGPT lets you connect more than one Gmail, Google Calendar and Google Contacts account",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "ChatGPT release notes",
+   "passage": "August 28, 2026: 'You can now connect multiple accounts for Gmail, Google Calendar, and Google Contacts plugins in ChatGPT'",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=August%2028%2C%202026%3A%20%27You%20can%20now%20connect%20multiple"
+  },
+  {
+   "n": 57,
+   "where": "The story",
+   "claim": "On Sept. 17 OpenAI extended multiple accounts beyond those three to more plugins",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "ChatGPT release notes",
+   "passage": "September 17, 2026: 'expanding support beyond Gmail, Google Calendar, and Google Contacts.'",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=September%2017%2C%202026%3A%20%27expanding%20support%20beyond%20Gmail%2C%20Google"
+  },
+  {
+   "n": 58,
+   "where": "The story",
+   "claim": "... on every plan",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "ChatGPT release notes",
+   "passage": "'Available on all ChatGPT plans across web, mobile, and desktop.'",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=%27Available%20on%20all%20ChatGPT%20plans%20across%20web%2C%20mobile%2C"
+  },
+  {
+   "n": 59,
+   "where": "The story",
+   "claim": "GPT-5.5 leaves ChatGPT, Work and Codex on Oct. 14",
+   "verdict": "confirmed",
+   "url": "https://learn.chatgpt.com/docs/whats-new",
+   "source": "ChatGPT what's new",
+   "passage": "'GPT-5.5 will retire from ChatGPT, ChatGPT Work, and Codex on October 14, 2026, across all plans.' (announced week of Sept 14-18; not in release notes)",
+   "deep": "https://learn.chatgpt.com/docs/whats-new#:~:text=%27GPT-5.5%20will%20retire%20from%20ChatGPT%2C%20ChatGPT%20Work%2C%20and"
+  },
+  {
+   "n": 60,
+   "where": "The story",
+   "claim": "OpenAI says to update scheduled tasks that still select it before then",
+   "verdict": "confirmed",
+   "url": "https://learn.chatgpt.com/docs/whats-new",
+   "source": "ChatGPT what's new",
+   "passage": "'Update saved model settings, workspace defaults, custom agents, scheduled tasks, and scripts that still select GPT-5.5'",
+   "deep": "https://learn.chatgpt.com/docs/whats-new#:~:text=%27Update%20saved%20model%20settings%2C%20workspace%20defaults%2C%20custom%20agents%2C"
+  },
+  {
+   "n": 61,
+   "where": "The story, step 1",
+   "claim": "Aug. 28: connect more than one Gmail, Google Calendar and Google Contacts account",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "ChatGPT release notes",
+   "passage": "August 28, 2026 'Connect multiple Google accounts to ChatGPT'",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=August%2028%2C%202026%20%27Connect%20multiple%20Google%20accounts%20to"
+  },
+  {
+   "n": 62,
+   "where": "The story, step 2",
+   "claim": "Sept. 17: multiple accounts reach more plugins, on every plan",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+   "source": "ChatGPT release notes",
+   "passage": "September 17, 2026 'Available on all ChatGPT plans'",
+   "deep": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes#:~:text=September%2017%2C%202026%20%27Available%20on%20all%20ChatGPT%20plans%27"
+  },
+  {
+   "n": 63,
+   "where": "The story, step 3",
+   "claim": "Oct. 14: GPT-5.5 leaves ChatGPT, Work and Codex; update tasks",
+   "verdict": "confirmed",
+   "url": "https://learn.chatgpt.com/docs/whats-new",
+   "source": "ChatGPT what's new",
+   "passage": "retire ... on October 14, 2026 ... Update ... scheduled tasks",
+   "deep": ""
+  },
+  {
+   "n": 64,
+   "where": "The story",
+   "claim": "Three dates for this setup; 2026",
+   "verdict": "confirmed",
+   "url": "",
+   "source": "the issue itself",
+   "passage": "Three entries, all 2026 per release notes / what's new",
+   "deep": ""
+  },
+  {
+   "n": 65,
+   "where": "The checklist, item 1",
+   "claim": "A Google Workspace admin may need to approve ChatGPT's access before it can connect",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10408842-google-app-data-controls-faq",
+   "source": "OpenAI Google FAQ",
+   "passage": "Google Workspace admins must approve the ChatGPT/OpenAI app's OAuth scopes ... users may see authorization or permission errors when connecting",
+   "deep": "https://help.openai.com/en/articles/10408842-google-app-data-controls-faq#:~:text=Google%20Workspace%20admins%20must%20approve%20the%20ChatGPT%2FOpenAI%20app%27s"
+  },
+  {
+   "n": 66,
+   "where": "The checklist, item 2",
+   "claim": "Settings > Plugins > Permissions should read Allow read actions",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/20001495-managing-app-permissions-in-chatgpt",
+   "source": "OpenAI permissions help",
+   "passage": "Select Plugins ... Open Permissions. Choose your default",
+   "deep": ""
+  },
+  {
+   "n": 67,
+   "where": "The checklist, item 3",
+   "claim": "Multiple Google accounts can be connected; check the right one was used",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/20001494",
+   "source": "OpenAI accounts help",
+   "passage": "If 'Connected accounts' appears ... When supported, you can specify which account to use in your request",
+   "deep": "https://help.openai.com/en/articles/20001494#:~:text=If%20%27Connected%20accounts%27%20appears"
+  },
+  {
+   "n": 68,
+   "where": "The checklist, item 4",
+   "claim": "OpenAI doesn't train its general models on data pulled directly from Google apps",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10408842-google-app-data-controls-faq",
+   "source": "OpenAI Google FAQ",
+   "passage": "does not train its generalized models on data directly from connected Google apps",
+   "deep": "https://help.openai.com/en/articles/10408842-google-app-data-controls-faq#:~:text=does%20not%20train%20its%20generalized%20models%20on%20data"
+  },
+  {
+   "n": 69,
+   "where": "The checklist, item 4",
+   "claim": "Exceptions include a chat rated thumbs up/down (feedback) and Google data in ChatGPT's response",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10408842-google-app-data-controls-faq",
+   "source": "OpenAI Google FAQ",
+   "passage": "Exceptions: conversations submitted as feedback (e.g., thumbs up/down) ... data included in ChatGPT's response",
+   "deep": "https://help.openai.com/en/articles/10408842-google-app-data-controls-faq#:~:text=Exceptions%3A%20conversations%20submitted%20as%20feedback%20%28e.g.%2C%20thumbs%20up%2Fdown%29"
+  },
+  {
+   "n": 70,
+   "where": "The checklist, item 4",
+   "claim": "If Memory is on, details can carry into later chats",
+   "verdict": "confirmed",
+   "url": "https://help.openai.com/en/articles/10408842-google-app-data-controls-faq",
+   "source": "OpenAI Google FAQ",
+   "passage": "With Memory enabled, eligible information from connected Google apps may personalize ChatGPT",
+   "deep": "https://help.openai.com/en/articles/10408842-google-app-data-controls-faq#:~:text=With%20Memory%20enabled%2C%20eligible%20information%20from%20connected%20Google"
+  },
+  {
+   "n": 71,
+   "where": "The checklist, item 4",
+   "claim": "Turn Memory off in Settings, then Personalization",
+   "verdict": "unsupported",
+   "url": "https://help.openai.com/en/articles/10408842-google-app-data-controls-faq",
+   "source": "OpenAI Google FAQ",
+   "passage": "",
+   "deep": ""
+  }
+ ],
+ "notes": []
+}
