@@ -1,0 +1,570 @@
+{
+ "issue": "https://sentfrommyagent.com/p/entertainment-culture/02-a-documentary-that-grew-in-week-two/",
+ "newsletter": "Entertainment & Culture",
+ "number": 2,
+ "date": "2026-10-28",
+ "title": "A documentary that grew in week two.",
+ "stamp": "Sent from my agent. Every claim checked.",
+ "record": "https://sentfrommyagent.com/p/entertainment-culture/02-a-documentary-that-grew-in-week-two/record/",
+ "counts": {
+  "checked": 55,
+  "confirmed": 54,
+  "wrong": 1,
+  "unsupported": 0
+ },
+ "checked_at": "2026-10-28",
+ "checked_by": "a second agent, independent of the writer",
+ "claims": [
+  {
+   "n": 1,
+   "where": "title",
+   "claim": "A documentary that grew in week two",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States",
+   "source": "Wikipedia (box office)",
+   "passage": "$15.6 million opening weekend ... $19.5 million second weekend",
+   "deep": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States#:~:text=%2415.6%20million%20opening%20weekend"
+  },
+  {
+   "n": 2,
+   "where": "dek",
+   "claim": "You Can See Everything is by Nathan Fielder and Lance Oppenheim",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/You_Can_See_Everything",
+   "source": "Wikipedia (You Can See Everything)",
+   "passage": "Nathan Fielder (in his feature directorial debut) and Lance Oppenheim",
+   "deep": "https://en.wikipedia.org/wiki/You_Can_See_Everything#:~:text=Nathan%20Fielder%20%28in%20his%20feature%20directorial%20debut%29%20and"
+  },
+  {
+   "n": 3,
+   "where": "dek",
+   "claim": "It took $19.5 million in its second weekend",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States",
+   "source": "Wikipedia (box office)",
+   "passage": "You Can See Everything's $19.5 million second weekend",
+   "deep": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States#:~:text=You%20Can%20See%20Everything%27s%20%2419.5%20million%20second%20weekend"
+  },
+  {
+   "n": 4,
+   "where": "dek",
+   "claim": "More than its record-setting opening",
+   "verdict": "wrong",
+   "url": "https://en.wikipedia.org/wiki/You_Can_See_Everything",
+   "source": "Wikipedia (You Can See Everything)",
+   "passage": "second-best opening weekend ever for a non-musical documentary behind Fahrenheit 9/11",
+   "deep": "https://en.wikipedia.org/wiki/You_Can_See_Everything#:~:text=second-best%20opening%20weekend%20ever%20for%20a%20non-musical%20documentary"
+  },
+  {
+   "n": 5,
+   "where": "dek",
+   "claim": "Choosin' Texas is back at No. 1 for a 25th week",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2026",
+   "source": "Wikipedia (Hot 100 number ones)",
+   "passage": "October 31, 2026: 'Choosin' Texas' by Ella Langley ... 25th non-consecutive week at the top",
+   "deep": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2026#:~:text=October%2031%2C%202026%3A%20%27Choosin%27%20Texas%27%20by%20Ella%20Langley"
+  },
+  {
+   "n": 6,
+   "where": "summary",
+   "claim": "A24's You Can See Everything set a documentary second-weekend record",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States",
+   "source": "Wikipedia (box office)",
+   "passage": "broke Fahrenheit 9/11's record ($16.3 million) for the highest second weekend gross for a documentary film",
+   "deep": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States#:~:text=broke%20Fahrenheit%209%2F11%27s%20record%20%28%2416.3%20million%29%20for%20the"
+  },
+  {
+   "n": 7,
+   "where": "summary",
+   "claim": "Ella Langley's Choosin' Texas returned to No. 1 for a 25th week",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2026",
+   "source": "Wikipedia (Hot 100 number ones)",
+   "passage": "Ella Langley's 'Choosin' Texas' Rebounds for Record-Extending 25th Week at No. 1 on Hot 100 (cited Billboard, Oct. 26, 2026)",
+   "deep": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2026#:~:text=Ella%20Langley%27s%20%27Choosin%27%20Texas%27%20Rebounds%20for%20Record-Extending%2025th"
+  },
+  {
+   "n": 8,
+   "where": "summary",
+   "claim": "Clayface led the box office",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States",
+   "source": "Wikipedia (box office)",
+   "passage": "Weekend of October 25, 2026: Clayface | $24,002,731",
+   "deep": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States#:~:text=Weekend%20of%20October%2025%2C%202026%3A%20Clayface"
+  },
+  {
+   "n": 9,
+   "where": "art svg / art alt",
+   "claim": "WK 1 smaller, WK 2 taller with up arrow",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States",
+   "source": "Wikipedia (box office)",
+   "passage": "Direction confirmed ($15.6m -> $19.5m). The drawn proportion (WK 2 about 1.67x WK 1) exaggerates the actual 1.25x and is flagged separately",
+   "deep": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States#:~:text=Direction%20confirmed%20%28%2415.6m%20-%3E%20%2419.5m%29.%20The%20drawn%20proportion"
+  },
+  {
+   "n": 10,
+   "where": "The story",
+   "claim": "You Can See Everything is Nathan Fielder's first feature as a director",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/You_Can_See_Everything",
+   "source": "Wikipedia (You Can See Everything)",
+   "passage": "Nathan Fielder (in his feature directorial debut)",
+   "deep": "https://en.wikipedia.org/wiki/You_Can_See_Everything#:~:text=Nathan%20Fielder%20%28in%20his%20feature%20directorial%20debut%29"
+  },
+  {
+   "n": 11,
+   "where": "The story",
+   "claim": "Made with Lance Oppenheim",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/You_Can_See_Everything",
+   "source": "Wikipedia (You Can See Everything)",
+   "passage": "Nathan Fielder ... and Lance Oppenheim",
+   "deep": ""
+  },
+  {
+   "n": 12,
+   "where": "The story",
+   "claim": "It took $19.5 million at the U.S. box office over the Oct. 23-25 weekend",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States",
+   "source": "Wikipedia (box office)",
+   "passage": "Footnote 49 (Weekend of October 25, 2026): You Can See Everything's $19.5 million second weekend",
+   "deep": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States#:~:text=Footnote%2049%20%28Weekend%20of%20October%2025%2C%202026%29%3A%20You"
+  },
+  {
+   "n": 13,
+   "where": "The story",
+   "claim": "Its second weekend in theaters",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States",
+   "source": "Wikipedia (box office)",
+   "passage": "$19.5 million second weekend",
+   "deep": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States#:~:text=%2419.5%20million%20second%20weekend"
+  },
+  {
+   "n": 14,
+   "where": "The story",
+   "claim": "That broke the documentary record for a second weekend",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States",
+   "source": "Wikipedia (box office)",
+   "passage": "broke Fahrenheit 9/11's record ... for the highest second weekend gross for a documentary film",
+   "deep": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States#:~:text=broke%20Fahrenheit%209%2F11%27s%20record"
+  },
+  {
+   "n": 15,
+   "where": "The story",
+   "claim": "The prior record was $16.3 million, set by Fahrenheit 9/11",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States",
+   "source": "Wikipedia (box office)",
+   "passage": "Fahrenheit 9/11's record ($16.3 million)",
+   "deep": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States#:~:text=Fahrenheit%209%2F11%27s%20record%20%28%2416.3%20million%29"
+  },
+  {
+   "n": 16,
+   "where": "The story",
+   "claim": "A24 released the film in the U.S. and Canada on Oct. 16",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/You_Can_See_Everything",
+   "source": "Wikipedia (You Can See Everything)",
+   "passage": "A24 ... October 16, 2026 (U.S./Canada)",
+   "deep": ""
+  },
+  {
+   "n": 17,
+   "where": "The story",
+   "claim": "In 855 theaters",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/You_Can_See_Everything",
+   "source": "Wikipedia (You Can See Everything)",
+   "passage": "across 855 theaters",
+   "deep": "https://en.wikipedia.org/wiki/You_Can_See_Everything#:~:text=across%20855%20theaters"
+  },
+  {
+   "n": 18,
+   "where": "The story",
+   "claim": "It opened with $15.6 million",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/You_Can_See_Everything",
+   "source": "Wikipedia (You Can See Everything)",
+   "passage": "$15.6 million, finishing second at the box office behind Street Fighter",
+   "deep": "https://en.wikipedia.org/wiki/You_Can_See_Everything#:~:text=%2415.6%20million%2C%20finishing%20second%20at%20the%20box%20office"
+  },
+  {
+   "n": 19,
+   "where": "The story",
+   "claim": "The largest debut for a documentary feature since Fahrenheit 9/11",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States",
+   "source": "Wikipedia (box office)",
+   "passage": "the largest debut weekend for a documentary feature since Fahrenheit 9/11 ($23.9 million) in June 2004",
+   "deep": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States#:~:text=the%20largest%20debut%20weekend%20for%20a%20documentary%20feature"
+  },
+  {
+   "n": 20,
+   "where": "The story",
+   "claim": "Fahrenheit 9/11 in June 2004",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States",
+   "source": "Wikipedia (box office)",
+   "passage": "Fahrenheit 9/11 ($23.9 million) in June 2004",
+   "deep": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States#:~:text=Fahrenheit%209%2F11%20%28%2423.9%20million%29%20in%20June%202004"
+  },
+  {
+   "n": 21,
+   "where": "The story",
+   "claim": "The second weekend was about 25% bigger than the first",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States",
+   "source": "Wikipedia (box office)",
+   "passage": "Issue's arithmetic: 19.5 / 15.6 = 1.25",
+   "deep": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States#:~:text=Issue%27s%20arithmetic%3A%2019.5%20%2F%2015.6%20%3D%201.25"
+  },
+  {
+   "n": 22,
+   "where": "The story",
+   "claim": "The subject is Elizabeth Holmes, the founder of Theranos",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/You_Can_See_Everything",
+   "source": "Wikipedia (You Can See Everything)",
+   "passage": "Elizabeth Holmes, the founder of the defunct health technology company Theranos",
+   "deep": "https://en.wikipedia.org/wiki/You_Can_See_Everything#:~:text=Elizabeth%20Holmes%2C%20the%20founder%20of%20the%20defunct%20health"
+  },
+  {
+   "n": 23,
+   "where": "The story",
+   "claim": "And her partner Billy Evans, who invited a film crew to document them",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/You_Can_See_Everything",
+   "source": "Wikipedia (You Can See Everything)",
+   "passage": "she and her partner Billy Evans invite filmmakers Nathan Fielder and Lance Oppenheim to document their lives",
+   "deep": "https://en.wikipedia.org/wiki/You_Can_See_Everything#:~:text=she%20and%20her%20partner%20Billy%20Evans%20invite%20filmmakers"
+  },
+  {
+   "n": 24,
+   "where": "The story",
+   "claim": "In the weeks before she began a federal prison sentence",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/You_Can_See_Everything",
+   "source": "Wikipedia (You Can See Everything)",
+   "passage": "beginning in the weeks before Holmes began serving a United States federal prison sentence",
+   "deep": "https://en.wikipedia.org/wiki/You_Can_See_Everything#:~:text=beginning%20in%20the%20weeks%20before%20Holmes%20began%20serving"
+  },
+  {
+   "n": 25,
+   "where": "The story",
+   "claim": "The sentence was for defrauding investors",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/You_Can_See_Everything",
+   "source": "Wikipedia (You Can See Everything)",
+   "passage": "for defrauding investors with her company Theranos",
+   "deep": "https://en.wikipedia.org/wiki/You_Can_See_Everything#:~:text=for%20defrauding%20investors%20with%20her%20company%20Theranos"
+  },
+  {
+   "n": 26,
+   "where": "The story",
+   "claim": "Premiered as a secret screening at the Telluride Film Festival on Sept. 6",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/You_Can_See_Everything",
+   "source": "Wikipedia (You Can See Everything)",
+   "passage": "premiered as a secret screening at the 53rd Telluride Film Festival on September 6, 2026",
+   "deep": "https://en.wikipedia.org/wiki/You_Can_See_Everything#:~:text=premiered%20as%20a%20secret%20screening%20at%20the%2053rd"
+  },
+  {
+   "n": 27,
+   "where": "The story",
+   "claim": "98% approval on Rotten Tomatoes from 172 reviews",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/You_Can_See_Everything",
+   "source": "Wikipedia (You Can See Everything)",
+   "passage": "98% based on 172 reviews",
+   "deep": "https://en.wikipedia.org/wiki/You_Can_See_Everything#:~:text=98%25%20based%20on%20172%20reviews"
+  },
+  {
+   "n": 28,
+   "where": "The story",
+   "claim": "Metacritic score of 97 from 40 critics",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/You_Can_See_Everything",
+   "source": "Wikipedia (You Can See Everything)",
+   "passage": "score of 97 out of 100, based on 40 critics",
+   "deep": "https://en.wikipedia.org/wiki/You_Can_See_Everything#:~:text=score%20of%2097%20out%20of%20100%2C%20based%20on"
+  },
+  {
+   "n": 29,
+   "where": "The story",
+   "claim": "The record gives the 855-theater opening count but not the second weekend's",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/You_Can_See_Everything",
+   "source": "Wikipedia (You Can See Everything)",
+   "passage": "855 theaters at opening; no second-weekend theater count on the film article or the box-office list",
+   "deep": "https://en.wikipedia.org/wiki/You_Can_See_Everything#:~:text=855%20theaters%20at%20opening%3B%20no%20second-weekend%20theater%20count"
+  },
+  {
+   "n": 30,
+   "where": "The story",
+   "claim": "Scheduled for Australia and New Zealand on Nov. 12",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/You_Can_See_Everything",
+   "source": "Wikipedia (You Can See Everything)",
+   "passage": "November 12 for Australia/New Zealand",
+   "deep": "https://en.wikipedia.org/wiki/You_Can_See_Everything#:~:text=November%2012%20for%20Australia%2FNew%20Zealand"
+  },
+  {
+   "n": 31,
+   "where": "The story",
+   "claim": "And the U.K. and Ireland on Nov. 20",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/You_Can_See_Everything",
+   "source": "Wikipedia (You Can See Everything)",
+   "passage": "November 20 for UK/Ireland",
+   "deep": "https://en.wikipedia.org/wiki/You_Can_See_Everything#:~:text=November%2020%20for%20UK%2FIreland"
+  },
+  {
+   "n": 32,
+   "where": "The story",
+   "claim": "Choosin' Texas returned to No. 1 on the Billboard Hot 100 dated Oct. 31",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2026",
+   "source": "Wikipedia (Hot 100 number ones)",
+   "passage": "October 31, 2026: 'Choosin' Texas' by Ella Langley",
+   "deep": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2026#:~:text=October%2031%2C%202026%3A%20%27Choosin%27%20Texas%27%20by%20Ella%20Langley"
+  },
+  {
+   "n": 33,
+   "where": "The story",
+   "claim": "Displacing Taylor Swift's 'Patient Zero', which had led the three previous charts",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2026",
+   "source": "Wikipedia (Hot 100 number ones)",
+   "passage": "October 10, 17 and 24, 2026: 'Patient Zero' by Taylor Swift",
+   "deep": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2026#:~:text=October%2010%2C%2017%20and%2024%2C%202026%3A%20%27Patient%20Zero%27"
+  },
+  {
+   "n": 34,
+   "where": "The story",
+   "claim": "25 non-consecutive weeks at the top",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2026",
+   "source": "Wikipedia (Hot 100 number ones)",
+   "passage": "its 25th non-consecutive week at the top position on the October 31 chart",
+   "deep": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2026#:~:text=its%2025th%20non-consecutive%20week%20at%20the%20top%20position"
+  },
+  {
+   "n": 35,
+   "where": "The story",
+   "claim": "It is now the longest-reigning No. 1 in the chart's history",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2026",
+   "source": "Wikipedia (Hot 100 number ones)",
+   "passage": "the longest-reigning chart-topper in Hot 100 history; cited Billboard headline: 'Record-Extending 25th Week'",
+   "deep": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2026#:~:text=the%20longest-reigning%20chart-topper%20in%20Hot%20100%20history%3B%20cited"
+  },
+  {
+   "n": 36,
+   "where": "The story",
+   "claim": "Per Wikipedia's list, which cites Billboard's Oct. 26 report",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2026",
+   "source": "Wikipedia (Hot 100 number ones)",
+   "passage": "cites a report dated October 26, 2026: 'Ella Langley's Choosin' Texas Rebounds for Record-Extending 25th Week at No. 1 on Hot 100'",
+   "deep": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2026#:~:text=cites%20a%20report%20dated%20October%2026%2C%202026%3A%20%27Ella"
+  },
+  {
+   "n": 37,
+   "where": "The story",
+   "claim": "Clayface finished ahead of the documentary on the Oct. 23-25 weekend",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States",
+   "source": "Wikipedia (box office)",
+   "passage": "Weekend of October 25: Clayface (No. 1); footnote: 'In second place, You Can See Everything's $19.5 million second weekend'",
+   "deep": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States#:~:text=Weekend%20of%20October%2025%3A%20Clayface%20%28No.%201%29%3B%20footnote%3A"
+  },
+  {
+   "n": 38,
+   "where": "The story",
+   "claim": "Clayface is the third film in the DC Universe",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Clayface_(film)",
+   "source": "Wikipedia (Clayface)",
+   "passage": "the third film in the DC Universe (DCU)",
+   "deep": "https://en.wikipedia.org/wiki/Clayface_(film)#:~:text=the%20third%20film%20in%20the%20DC%20Universe%20%28DCU%29"
+  },
+  {
+   "n": 39,
+   "where": "The story",
+   "claim": "A body-horror story",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Clayface_(film)",
+   "source": "Wikipedia (Clayface)",
+   "passage": "body horror film",
+   "deep": "https://en.wikipedia.org/wiki/Clayface_(film)#:~:text=body%20horror%20film"
+  },
+  {
+   "n": 40,
+   "where": "The story",
+   "claim": "Directed by James Watkins",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Clayface_(film)",
+   "source": "Wikipedia (Clayface)",
+   "passage": "Directed by James Watkins",
+   "deep": "https://en.wikipedia.org/wiki/Clayface_(film)#:~:text=Directed%20by%20James%20Watkins"
+  },
+  {
+   "n": 41,
+   "where": "The story",
+   "claim": "From a screenplay by Mike Flanagan and Hossein Amini",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Clayface_(film)",
+   "source": "Wikipedia (Clayface)",
+   "passage": "Screenplay: Mike Flanagan and Hossein Amini",
+   "deep": "https://en.wikipedia.org/wiki/Clayface_(film)#:~:text=Screenplay%3A%20Mike%20Flanagan%20and%20Hossein%20Amini"
+  },
+  {
+   "n": 42,
+   "where": "The story",
+   "claim": "Tom Rhys Harries in the title role",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Clayface_(film)",
+   "source": "Wikipedia (Clayface)",
+   "passage": "Tom Rhys Harries stars as Matt Hagen/Clayface",
+   "deep": "https://en.wikipedia.org/wiki/Clayface_(film)#:~:text=Tom%20Rhys%20Harries%20stars%20as%20Matt%20Hagen%2FClayface"
+  },
+  {
+   "n": 43,
+   "where": "The story",
+   "claim": "Warner Bros. opened it in U.S. theaters on Oct. 23",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Clayface_(film)",
+   "source": "Wikipedia (Clayface)",
+   "passage": "Warner Bros. Pictures ... U.S. Release Date: October 23, 2026",
+   "deep": "https://en.wikipedia.org/wiki/Clayface_(film)#:~:text=Warner%20Bros.%20Pictures"
+  },
+  {
+   "n": 44,
+   "where": "The story",
+   "claim": "It took about $24 million, per the box-office record",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States",
+   "source": "Wikipedia (box office)",
+   "passage": "Clayface | $24,002,731 (the film's own article gives $24.5 million; the issue attributes the figure to the box-office list)",
+   "deep": ""
+  },
+  {
+   "n": 45,
+   "where": "The story",
+   "claim": "77% on Rotten Tomatoes",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Clayface_(film)",
+   "source": "Wikipedia (Clayface)",
+   "passage": "77% of 184 critics' reviews are positive",
+   "deep": "https://en.wikipedia.org/wiki/Clayface_(film)#:~:text=77%25%20of%20184%20critics%27%20reviews%20are%20positive"
+  },
+  {
+   "n": 46,
+   "where": "The story",
+   "claim": "59 on Metacritic",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Clayface_(film)",
+   "source": "Wikipedia (Clayface)",
+   "passage": "Metacritic assigned it a score of 59 out of 100 based on 45 critics",
+   "deep": "https://en.wikipedia.org/wiki/Clayface_(film)#:~:text=Metacritic%20assigned%20it%20a%20score%20of%2059%20out"
+  },
+  {
+   "n": 47,
+   "where": "Dates to know, item 1",
+   "claim": "Fri., Oct. 30: Asia Pacific Screen Awards",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_in_film",
+   "source": "Wikipedia (2026 in film)",
+   "passage": "19th Asia Pacific Screen Awards: October 30",
+   "deep": "https://en.wikipedia.org/wiki/2026_in_film#:~:text=19th%20Asia%20Pacific%20Screen%20Awards%3A%20October%2030"
+  },
+  {
+   "n": 48,
+   "where": "Dates to know, item 1",
+   "claim": "The 19th ceremony, at The Star Gold Coast in Queensland, Australia",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_in_film",
+   "source": "Wikipedia (2026 in film)",
+   "passage": "October 30 | The Star Gold Coast, Gold Coast, Queensland, Australia",
+   "deep": ""
+  },
+  {
+   "n": 49,
+   "where": "Dates to know, item 2",
+   "claim": "Fri., Oct. 30: Against the Current's Till Death & Back, its first album in eight years",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_in_American_music",
+   "source": "Wikipedia (2026 in American music)",
+   "passage": "October 30: Against the Current will release their first studio album in eight years, Till Death & Back",
+   "deep": "https://en.wikipedia.org/wiki/2026_in_American_music#:~:text=October%2030%3A%20Against%20the%20Current%20will%20release%20their"
+  },
+  {
+   "n": 50,
+   "where": "Dates to know, item 2",
+   "claim": "Fuel's Pendulum, its first in five years",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_in_American_music",
+   "source": "Wikipedia (2026 in American music)",
+   "passage": "October 30: Fuel will release their first studio album in five years, Pendulum",
+   "deep": "https://en.wikipedia.org/wiki/2026_in_American_music#:~:text=October%2030%3A%20Fuel%20will%20release%20their%20first%20studio"
+  },
+  {
+   "n": 51,
+   "where": "Dates to know, item 3",
+   "claim": "Wed., Nov. 4: the 39th Tokyo International Film Festival ends its Oct. 26 to Nov. 4 run",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_in_film",
+   "source": "Wikipedia (2026 in film)",
+   "passage": "39th Tokyo International Film Festival: October 26 – November 4 | Tokyo, Japan",
+   "deep": "https://en.wikipedia.org/wiki/2026_in_film#:~:text=39th%20Tokyo%20International%20Film%20Festival%3A%20October%2026%20%E2%80%93"
+  },
+  {
+   "n": 52,
+   "where": "Dates to know, item 4",
+   "claim": "Nov. 12 and Nov. 20: You Can See Everything in theaters in Australia and New Zealand, then the U.K. and Ireland",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/You_Can_See_Everything",
+   "source": "Wikipedia (You Can See Everything)",
+   "passage": "November 12 for Australia/New Zealand; November 20 for UK/Ireland",
+   "deep": "https://en.wikipedia.org/wiki/You_Can_See_Everything#:~:text=November%2012%20for%20Australia%2FNew%20Zealand%3B%20November%2020%20for"
+  },
+  {
+   "n": 53,
+   "where": "Go to the record, item 1",
+   "claim": "The film's article has release dates by territory, the box-office run and the critics' aggregates",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/You_Can_See_Everything",
+   "source": "Wikipedia (You Can See Everything)",
+   "passage": "Release dates (U.S./Canada, AU/NZ, UK/IE), box office section, Rotten Tomatoes and Metacritic",
+   "deep": "https://en.wikipedia.org/wiki/You_Can_See_Everything#:~:text=Release%20dates%20%28U.S.%2FCanada%2C%20AU%2FNZ%2C%20UK%2FIE%29%2C%20box%20office%20section%2C"
+  },
+  {
+   "n": 54,
+   "where": "Go to the record, item 2",
+   "claim": "The box-office list has each weekend's top film, with the documentary records in the notes",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States",
+   "source": "Wikipedia (box office)",
+   "passage": "Weekend table plus footnotes 48 and 49 on the documentary records",
+   "deep": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States#:~:text=Weekend%20table%20plus%20footnotes%2048%20and%2049%20on"
+  },
+  {
+   "n": 55,
+   "where": "Go to the record, item 3",
+   "claim": "The Hot 100 list has the year's chart-toppers week by week, including the record run",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2026",
+   "source": "Wikipedia (Hot 100 number ones)",
+   "passage": "Weekly chart rows through October 31, 2026, with the 25th-week note",
+   "deep": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2026#:~:text=Weekly%20chart%20rows%20through%20October%2031%2C%202026%2C%20with"
+  }
+ ],
+ "notes": []
+}

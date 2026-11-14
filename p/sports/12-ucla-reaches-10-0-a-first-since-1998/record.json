@@ -1,0 +1,790 @@
+{
+ "issue": "https://sentfrommyagent.com/p/sports/12-ucla-reaches-10-0-a-first-since-1998/",
+ "newsletter": "Sports",
+ "number": 12,
+ "date": "2026-11-14",
+ "title": "UCLA reaches 10–0, a first since 1998.",
+ "stamp": "Sent from my agent. Every claim checked.",
+ "record": "https://sentfrommyagent.com/p/sports/12-ucla-reaches-10-0-a-first-since-1998/record/",
+ "counts": {
+  "checked": 77,
+  "confirmed": 75,
+  "wrong": 0,
+  "unsupported": 2
+ },
+ "checked_at": "2026-11-14T06:50:00-05:00",
+ "checked_by": "a second agent, independent of the writer",
+ "claims": [
+  {
+   "n": 1,
+   "where": "title",
+   "claim": "UCLA reaches 10–0, a first since 1998.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team",
+   "source": "Wikipedia (UCLA season)",
+   "passage": "\"UCLA won 22–14 over Illinois for their third 10–0 start in program history and first since 1998\"",
+   "deep": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team#:~:text=%22UCLA%20won%2022%E2%80%9314%20over%20Illinois%20for%20their%20third"
+  },
+  {
+   "n": 2,
+   "where": "dek",
+   "claim": "Three interceptions (UCLA defense)",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team",
+   "source": "Wikipedia (UCLA season)",
+   "passage": "\"UCLA's defense had three interceptions, including two by Scooter Jackson\"",
+   "deep": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team#:~:text=%22UCLA%27s%20defense%20had%20three%20interceptions%2C%20including%20two%20by"
+  },
+  {
+   "n": 3,
+   "where": "dek",
+   "claim": "No. 4 UCLA past Illinois 22–14 on Friday",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team",
+   "source": "Wikipedia (UCLA season)",
+   "passage": "Page states: Nov. 13, 2026, No. 4 UCLA (9–0) vs. Illinois (6–3), Rose Bowl, final UCLA 22, Illinois 14",
+   "deep": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team#:~:text=Page%20states%3A%20Nov.%2013%2C%202026%2C%20No.%204%20UCLA"
+  },
+  {
+   "n": 4,
+   "where": "dek",
+   "claim": "In the NBA Cup, San Antonio beat Golden State by 38",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NBA_Cup",
+   "source": "Wikipedia (NBA Cup)",
+   "passage": "Page states: Nov. 13 results include San Antonio Spurs defeating Golden State Warriors 123–85 (margin 38)",
+   "deep": "https://en.wikipedia.org/wiki/2026_NBA_Cup#:~:text=Page%20states%3A%20Nov.%2013%20results%20include%20San%20Antonio"
+  },
+  {
+   "n": 5,
+   "where": "dek",
+   "claim": "Oklahoma City lost a third straight",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Oklahoma_City_Thunder_season",
+   "source": "Wikipedia (Thunder season)",
+   "passage": "Game log: Nov. 10 @ Portland L 103–123; Nov. 11 @ Portland L 108–118; Nov. 13 @ L.A. Clippers L 112–113",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Oklahoma_City_Thunder_season#:~:text=Game%20log%3A%20Nov.%2010%20%40%20Portland%20L%20103%E2%80%93123%3B"
+  },
+  {
+   "n": 6,
+   "where": "dek",
+   "claim": "Detroit and New England play in Munich on Sunday morning",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Detroit_Lions_season",
+   "source": "Wikipedia (Lions season)",
+   "passage": "Page states (schedule): November 15, 9:30 a.m., vs. New England, Allianz Arena, Munich, Fox",
+   "deep": "https://en.wikipedia.org/wiki/2026_Detroit_Lions_season#:~:text=Page%20states%20%28schedule%29%3A%20November%2015%2C%209%3A30%20a.m.%2C%20vs."
+  },
+  {
+   "n": 7,
+   "where": "summary",
+   "claim": "Spurs 123, Warriors 85",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_San_Antonio_Spurs_season",
+   "source": "Wikipedia (Spurs season)",
+   "passage": "Game log Nov. 13 vs Golden State: \"W 123–85\"",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_San_Antonio_Spurs_season#:~:text=Game%20log%20Nov.%2013%20vs%20Golden%20State%3A%20%22W"
+  },
+  {
+   "n": 8,
+   "where": "summary",
+   "claim": "Clippers 113, Thunder 112",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Los_Angeles_Clippers_season",
+   "source": "Wikipedia (Clippers season)",
+   "passage": "Game log Nov. 13 vs Oklahoma City: \"W 113–112\"",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Los_Angeles_Clippers_season#:~:text=Game%20log%20Nov.%2013%20vs%20Oklahoma%20City%3A%20%22W"
+  },
+  {
+   "n": 9,
+   "where": "summary",
+   "claim": "Georgia hosts Missouri Saturday",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Georgia_Bulldogs_football_team",
+   "source": "Wikipedia (Georgia season)",
+   "passage": "\"November 14 | 3:30 p.m. | No. 22 Missouri | No. 1 | Sanford Stadium, Athens, GA | ABC\"",
+   "deep": ""
+  },
+  {
+   "n": 10,
+   "where": "The story",
+   "claim": "No. 4 UCLA beat Illinois 22–14 at the Rose Bowl on Friday, Nov. 13",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team",
+   "source": "Wikipedia (UCLA season)",
+   "passage": "Page states: No. 4 UCLA vs Illinois, Rose Bowl, Pasadena, Nov. 13, 2026, final 22–14; box score \"Fighting Illini: 0, 0, 7, 7 = 14\", \"No. 4 Bruins: 7, 3, 2, 10 = 22\"",
+   "deep": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team#:~:text=Page%20states%3A%20No.%204%20UCLA%20vs%20Illinois%2C%20Rose"
+  },
+  {
+   "n": 11,
+   "where": "The story",
+   "claim": "10–0 for the third time in program history and the first since 1998",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team",
+   "source": "Wikipedia (UCLA season)",
+   "passage": "\"their third 10–0 start in program history and first since 1998\"",
+   "deep": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team#:~:text=%22their%20third%2010%E2%80%930%20start%20in%20program%20history%20and"
+  },
+  {
+   "n": 12,
+   "where": "The story",
+   "claim": "Ty Dieffenbach, back from a left shoulder injury",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team",
+   "source": "Wikipedia (UCLA season)",
+   "passage": "\"Dieffenbach came back from a left shoulder injury ... He left the game with 35 seconds remaining in the first half after falling on his shoulder ... Dieffenbach returned with 55 seconds left in the third quarter\"…",
+   "deep": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team#:~:text=%22Dieffenbach%20came%20back%20from%20a%20left%20shoulder%20injury"
+  },
+  {
+   "n": 13,
+   "where": "The story",
+   "claim": "passed for 232 yards and two touchdowns",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team",
+   "source": "Wikipedia (UCLA season)",
+   "passage": "\"passed for 232 yards and two touchdowns\"",
+   "deep": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team#:~:text=%22passed%20for%20232%20yards%20and%20two%20touchdowns%22"
+  },
+  {
+   "n": 14,
+   "where": "The story",
+   "claim": "Aidan Mizell caught six passes for 176 yards and a score",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team",
+   "source": "Wikipedia (UCLA season)",
+   "passage": "\"Mizell had six receptions for 176 yards and a touchdown\"",
+   "deep": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team#:~:text=%22Mizell%20had%20six%20receptions%20for%20176%20yards%20and"
+  },
+  {
+   "n": 15,
+   "where": "The story",
+   "claim": "UCLA intercepted three passes, two of them by Scooter Jackson",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team",
+   "source": "Wikipedia (UCLA season)",
+   "passage": "\"UCLA's defense had three interceptions, including two by Scooter Jackson\"",
+   "deep": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team#:~:text=%22UCLA%27s%20defense%20had%20three%20interceptions%2C%20including%20two%20by"
+  },
+  {
+   "n": 16,
+   "where": "The story",
+   "claim": "recovered a fumble",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team",
+   "source": "Wikipedia (UCLA season)",
+   "passage": "\"and they recovered a fumble\"",
+   "deep": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team#:~:text=%22and%20they%20recovered%20a%20fumble%22"
+  },
+  {
+   "n": 17,
+   "where": "The story",
+   "claim": "scored a safety",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team",
+   "source": "Wikipedia (UCLA season)",
+   "passage": "\"and recorded a safety\"",
+   "deep": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team#:~:text=%22and%20recorded%20a%20safety%22"
+  },
+  {
+   "n": 18,
+   "where": "The story",
+   "claim": "Illinois completed 16 of 37 passes",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team",
+   "source": "Wikipedia (UCLA season)",
+   "passage": "Page states (game statistics): Illinois passing 16 of 37",
+   "deep": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team#:~:text=Page%20states%20%28game%20statistics%29%3A%20Illinois%20passing%2016%20of"
+  },
+  {
+   "n": 19,
+   "where": "The story",
+   "claim": "Illinois ran 30 times for 64 yards",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team",
+   "source": "Wikipedia (UCLA season)",
+   "passage": "Page states (game statistics): Illinois rushing 30 carries, 64 yards",
+   "deep": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team#:~:text=Page%20states%20%28game%20statistics%29%3A%20Illinois%20rushing%2030%20carries%2C"
+  },
+  {
+   "n": 20,
+   "where": "The story",
+   "claim": "240 yards of offense in all (Illinois)",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team",
+   "source": "Wikipedia (UCLA season)",
+   "passage": "Page states (game statistics): Illinois total yards 240",
+   "deep": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team#:~:text=Page%20states%20%28game%20statistics%29%3A%20Illinois%20total%20yards%20240"
+  },
+  {
+   "n": 21,
+   "where": "The story",
+   "claim": "The Bruins led 10–0 at halftime",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team",
+   "source": "Wikipedia (UCLA season)",
+   "passage": "Box score: \"Fighting Illini: 0, 0, 7, 7\" and \"No. 4 Bruins: 7, 3, 2, 10\" — 10–0 after two quarters",
+   "deep": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team#:~:text=Box%20score%3A%20%22Fighting%20Illini%3A%200%2C%200%2C%207%2C%207%22"
+  },
+  {
+   "n": 22,
+   "where": "The story",
+   "claim": "Dieffenbach's 26-yard touchdown pass to Semaj Morgan made it 19–7",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team",
+   "source": "Wikipedia (UCLA season)",
+   "passage": "\"led the Bruins on an eight-play, 75-yard drive culminating in a 26-yard touchdown pass to Morgan for a 19–7 lead\"; roster lists \"Semaj Morgan\"",
+   "deep": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team#:~:text=%22led%20the%20Bruins%20on%20an%20eight-play%2C%2075-yard%20drive"
+  },
+  {
+   "n": 23,
+   "where": "The story",
+   "claim": "(19–7) in the fourth quarter",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team",
+   "source": "Wikipedia (UCLA season)",
+   "passage": "Derived from the box score: UCLA had 12 points after three quarters (7+3+2), so its 19th point came in the fourth. This fits the drive starting after Dieffenbach \"returned with 55 seconds left in the third quarter\".…",
+   "deep": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team#:~:text=Derived%20from%20the%20box%20score%3A%20UCLA%20had%2012"
+  },
+  {
+   "n": 24,
+   "where": "The story",
+   "claim": "UCLA is 7–0 in the Big Ten",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team",
+   "source": "Wikipedia (UCLA season)",
+   "passage": "Page states: record after the game 10–0 (7–0 Big Ten)",
+   "deep": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team#:~:text=Page%20states%3A%20record%20after%20the%20game%2010%E2%80%930%20%287%E2%80%930"
+  },
+  {
+   "n": 25,
+   "where": "The story",
+   "claim": "in Bob Chesney's first season",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team",
+   "source": "Wikipedia (UCLA season)",
+   "passage": "Page states: head coach Bob Chesney (1st season)",
+   "deep": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team#:~:text=Page%20states%3A%20head%20coach%20Bob%20Chesney%20%281st%20season%29"
+  },
+  {
+   "n": 26,
+   "where": "The story",
+   "claim": "plays at Michigan on Nov. 21; the kickoff time is not yet set",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team",
+   "source": "Wikipedia (UCLA season)",
+   "passage": "\"November 21 | TBD | at Michigan | Michigan Stadium • Ann Arbor, MI\"",
+   "deep": ""
+  },
+  {
+   "n": 27,
+   "where": "The story",
+   "claim": "Utah, 9–0 and No. 2",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings",
+   "source": "Wikipedia (FBS rankings)",
+   "passage": "Page states: CFP ranking Nov. 10: 2. Utah (9–0)",
+   "deep": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings#:~:text=Page%20states%3A%20CFP%20ranking%20Nov.%2010%3A%202.%20Utah"
+  },
+  {
+   "n": 28,
+   "where": "The story",
+   "claim": "Utah was the only other unbeaten team in the committee's Nov. 10 top 12",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings",
+   "source": "Wikipedia (FBS rankings)",
+   "passage": "Page states: Nov. 10 CFP top 12 is Georgia 8–1, Utah 9–0, Alabama 7–2, UCLA 9–0, Notre Dame 8–1, Texas 7–2, Miami (FL) 8–1, Tennessee 7–2, Indiana 8–1, BYU 7–2, Kentucky 7–2, Texas Tech 8–1. Only Utah and UCLA are…",
+   "deep": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings#:~:text=Page%20states%3A%20Nov.%2010%20CFP%20top%2012%20is"
+  },
+  {
+   "n": 29,
+   "where": "The story",
+   "claim": "Utah plays at No. 23 Arizona on Saturday",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Utah_Utes_football_team",
+   "source": "Wikipedia (Utah season)",
+   "passage": "Schedule: November 14, \"at No. 23 Arizona Wildcats\", Casino Del Sol Stadium, Tucson, AZ; FBS rankings page shows Arizona 23rd in the Nov. 10 CFP",
+   "deep": "https://en.wikipedia.org/wiki/2026_Utah_Utes_football_team#:~:text=Schedule%3A%20November%2014%2C%20%22at%20No.%2023%20Arizona%20Wildcats%22%2C"
+  },
+  {
+   "n": 30,
+   "where": "The story",
+   "claim": "No. 1 Georgia, 8–1",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings",
+   "source": "Wikipedia (FBS rankings)",
+   "passage": "Page states: CFP Nov. 10: 1. Georgia (8–1)",
+   "deep": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings#:~:text=Page%20states%3A%20CFP%20Nov.%2010%3A%201.%20Georgia%20%288%E2%80%931%29"
+  },
+  {
+   "n": 31,
+   "where": "The story",
+   "claim": "Georgia hosts No. 22 Missouri at 3:30 p.m. ET on ABC",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Georgia_Bulldogs_football_team",
+   "source": "Wikipedia (Georgia season)",
+   "passage": "\"November 14 | 3:30 p.m. | No. 22 Missouri | No. 1 | Sanford Stadium, Athens, GA | ABC\"; \"All times are in Eastern time\"; rankings \"from AP Poll (and CFP Rankings, after November 3)\"; Missouri is 22 in the Nov. 10 CFP",
+   "deep": ""
+  },
+  {
+   "n": 32,
+   "where": "The story",
+   "claim": "In the Nov. 10 ranking, UCLA at 9–0 sat behind Georgia (one loss), Alabama (two losses) and unbeaten Utah",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings",
+   "source": "Wikipedia (FBS rankings)",
+   "passage": "Page states: 1. Georgia (8–1), 2. Utah (9–0), 3. Alabama (7–2), 4. UCLA (9–0)",
+   "deep": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings#:~:text=Page%20states%3A%201.%20Georgia%20%288%E2%80%931%29%2C%202.%20Utah%20%289%E2%80%930%29%2C"
+  },
+  {
+   "n": 33,
+   "where": "The story",
+   "claim": "Illinois arrived 6–3",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team",
+   "source": "Wikipedia (UCLA season)",
+   "passage": "Page states: No. 4 UCLA (9–0) vs Illinois (6–3)",
+   "deep": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team#:~:text=Page%20states%3A%20No.%204%20UCLA%20%289%E2%80%930%29%20vs%20Illinois"
+  },
+  {
+   "n": 34,
+   "where": "The story",
+   "claim": "Nov. 21 at Michigan",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team",
+   "source": "Wikipedia (UCLA season)",
+   "passage": "\"November 21 | TBD | at Michigan | Michigan Stadium\"",
+   "deep": ""
+  },
+  {
+   "n": 35,
+   "where": "The story",
+   "claim": "Tuesday's (next) ranking",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings",
+   "source": "Wikipedia (FBS rankings)",
+   "passage": "Next CFP column header: \"Week 11 Nov 17\" (Tuesday)",
+   "deep": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings#:~:text=Next%20CFP%20column%20header%3A%20%22Week%2011%20Nov%2017%22"
+  },
+  {
+   "n": 36,
+   "where": "The story",
+   "claim": "The Spurs beat Golden State 123–85 at home on Friday",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_San_Antonio_Spurs_season",
+   "source": "Wikipedia (Spurs season)",
+   "passage": "Game log Nov. 13 vs Golden State: \"W 123–85\", home (Frost Bank Center)",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_San_Antonio_Spurs_season#:~:text=Game%20log%20Nov.%2013%20vs%20Golden%20State%3A%20%22W"
+  },
+  {
+   "n": 37,
+   "where": "The story",
+   "claim": "in an NBA Cup group game",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_San_Antonio_Spurs_season",
+   "source": "Wikipedia (Spurs season)",
+   "passage": "Page states: the game log row links \"2026 NBA Cup#West_group_C\"",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_San_Antonio_Spurs_season#:~:text=Page%20states%3A%20the%20game%20log%20row%20links%20%222026"
+  },
+  {
+   "n": 38,
+   "where": "The story",
+   "claim": "Stephon Castle scored 32",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_San_Antonio_Spurs_season",
+   "source": "Wikipedia (Spurs season)",
+   "passage": "Page states (game log): high points Stephon Castle (32)",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_San_Antonio_Spurs_season#:~:text=Page%20states%20%28game%20log%29%3A%20high%20points%20Stephon%20Castle"
+  },
+  {
+   "n": 39,
+   "where": "The story",
+   "claim": "Victor Wembanyama had 12 rebounds",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_San_Antonio_Spurs_season",
+   "source": "Wikipedia (Spurs season)",
+   "passage": "Page states (game log): high rebounds Victor Wembanyama (12)",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_San_Antonio_Spurs_season#:~:text=Page%20states%20%28game%20log%29%3A%20high%20rebounds%20Victor%20Wembanyama"
+  },
+  {
+   "n": 40,
+   "where": "The story",
+   "claim": "San Antonio is 11–2, tied with the Lakers for the best record in the West",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_NBA_season",
+   "source": "Wikipedia (NBA season)",
+   "passage": "Western Conference standings: San Antonio Spurs \"11–2 .846\", Los Angeles Lakers \"11–2 .846\" (tied for 1st); \"Statistics accurate as of November 13, 2026.\"",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_NBA_season#:~:text=Western%20Conference%20standings%3A%20San%20Antonio%20Spurs%20%2211%E2%80%932%20.846%22%2C"
+  },
+  {
+   "n": 41,
+   "where": "The story",
+   "claim": "San Antonio is 2–0 in West Group C",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NBA_Cup",
+   "source": "Wikipedia (NBA Cup)",
+   "passage": "Page states: West Group C, San Antonio Spurs 2–0, +53 point differential",
+   "deep": "https://en.wikipedia.org/wiki/2026_NBA_Cup#:~:text=Page%20states%3A%20West%20Group%20C%2C%20San%20Antonio%20Spurs"
+  },
+  {
+   "n": 42,
+   "where": "The story",
+   "claim": "Oklahoma City lost 113–112 at the Clippers",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Oklahoma_City_Thunder_season",
+   "source": "Wikipedia (Thunder season)",
+   "passage": "Game log Nov. 13: \"@ L.A. Clippers L 112–113\"",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Oklahoma_City_Thunder_season#:~:text=Game%20log%20Nov.%2013%3A%20%22%40%20L.A.%20Clippers%20L"
+  },
+  {
+   "n": 43,
+   "where": "The story",
+   "claim": "despite 40 points from Shai Gilgeous-Alexander",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Oklahoma_City_Thunder_season",
+   "source": "Wikipedia (Thunder season)",
+   "passage": "Page states (game log Nov. 13): high points Shai Gilgeous-Alexander (40)",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Oklahoma_City_Thunder_season#:~:text=Page%20states%20%28game%20log%20Nov.%2013%29%3A%20high%20points"
+  },
+  {
+   "n": 44,
+   "where": "The story",
+   "claim": "Brook Lopez scored 26 for Los Angeles",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Los_Angeles_Clippers_season",
+   "source": "Wikipedia (Clippers season)",
+   "passage": "Game log Nov. 13: high points \"Brook Lopez (26)\"",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Los_Angeles_Clippers_season#:~:text=Game%20log%20Nov.%2013%3A%20high%20points%20%22Brook%20Lopez"
+  },
+  {
+   "n": 45,
+   "where": "The story",
+   "claim": "Los Angeles (Clippers), now 3–8",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Los_Angeles_Clippers_season",
+   "source": "Wikipedia (Clippers season)",
+   "passage": "Page states (game log Nov. 13): record after 3–8",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Los_Angeles_Clippers_season#:~:text=Page%20states%20%28game%20log%20Nov.%2013%29%3A%20record%20after"
+  },
+  {
+   "n": 46,
+   "where": "The story",
+   "claim": "The Thunder, 8–5",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Oklahoma_City_Thunder_season",
+   "source": "Wikipedia (Thunder season)",
+   "passage": "Page states (game log Nov. 13): record 8–5",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Oklahoma_City_Thunder_season#:~:text=Page%20states%20%28game%20log%20Nov.%2013%29%3A%20record%208%E2%80%935"
+  },
+  {
+   "n": 47,
+   "where": "The story",
+   "claim": "have lost three straight, after two defeats at Portland on Nov. 10 and 11",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Oklahoma_City_Thunder_season",
+   "source": "Wikipedia (Thunder season)",
+   "passage": "Game log: \"@ Portland L 103–123\" (Nov. 10, 8–3); \"@ Portland L 108–118\" (Nov. 11, 8–4); \"@ L.A. Clippers L 112–113\" (Nov. 13, 8–5)",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Oklahoma_City_Thunder_season#:~:text=Game%20log%3A%20%22%40%20Portland%20L%20103%E2%80%93123%22%20%28Nov.%2010%2C"
+  },
+  {
+   "n": 48,
+   "where": "The story",
+   "claim": "Miami beat Cleveland 133–121",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NBA_Cup",
+   "source": "Wikipedia (NBA Cup)",
+   "passage": "Page states (Nov. 13 results): Miami Heat defeated Cleveland Cavaliers 133–121",
+   "deep": "https://en.wikipedia.org/wiki/2026_NBA_Cup#:~:text=Page%20states%20%28Nov.%2013%20results%29%3A%20Miami%20Heat%20defeated"
+  },
+  {
+   "n": 49,
+   "where": "The story",
+   "claim": "Miami 2–0 in East Group B",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NBA_Cup",
+   "source": "Wikipedia (NBA Cup)",
+   "passage": "Page states: East Group B, Miami Heat 2–0, +32",
+   "deep": "https://en.wikipedia.org/wiki/2026_NBA_Cup#:~:text=Page%20states%3A%20East%20Group%20B%2C%20Miami%20Heat%202%E2%80%930%2C"
+  },
+  {
+   "n": 50,
+   "where": "The story",
+   "claim": "Memphis beat New Orleans 142–111",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NBA_Cup",
+   "source": "Wikipedia (NBA Cup)",
+   "passage": "Page states (Nov. 13 results): Memphis Grizzlies defeated New Orleans Pelicans 142–111",
+   "deep": "https://en.wikipedia.org/wiki/2026_NBA_Cup#:~:text=Page%20states%20%28Nov.%2013%20results%29%3A%20Memphis%20Grizzlies%20defeated"
+  },
+  {
+   "n": 51,
+   "where": "The story",
+   "claim": "Chicago beat Atlanta 125–117 in overtime",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NBA_Cup",
+   "source": "Wikipedia (NBA Cup)",
+   "passage": "Page states (Nov. 13 results): Chicago Bulls defeated Atlanta Hawks 125–117 in overtime",
+   "deep": "https://en.wikipedia.org/wiki/2026_NBA_Cup#:~:text=Page%20states%20%28Nov.%2013%20results%29%3A%20Chicago%20Bulls%20defeated"
+  },
+  {
+   "n": 52,
+   "where": "The story",
+   "claim": "The group stage resumes Nov. 20",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NBA_Cup",
+   "source": "Wikipedia (NBA Cup)",
+   "passage": "Page states: group-stage game dates Oct. 30, Nov. 6, Nov. 13, Nov. 20, Nov. 24, Nov. 25, Nov. 27; none listed for Nov. 17",
+   "deep": "https://en.wikipedia.org/wiki/2026_NBA_Cup#:~:text=Page%20states%3A%20group-stage%20game%20dates%20Oct.%2030%2C%20Nov."
+  },
+  {
+   "n": 53,
+   "where": "The story",
+   "claim": "quarterfinals are Dec. 4 and 5 in team markets",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NBA_Cup",
+   "source": "Wikipedia (NBA Cup)",
+   "passage": "Page states: quarterfinals December 4–5 in local NBA markets",
+   "deep": "https://en.wikipedia.org/wiki/2026_NBA_Cup#:~:text=Page%20states%3A%20quarterfinals%20December%204%E2%80%935%20in%20local%20NBA"
+  },
+  {
+   "n": 54,
+   "where": "The story",
+   "claim": "the final is Dec. 11 at Hinkle Fieldhouse in Indianapolis",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NBA_Cup",
+   "source": "Wikipedia (NBA Cup)",
+   "passage": "Championship December 11 at \"Hinkle Fieldhouse in Indianapolis, Indiana\"",
+   "deep": "https://en.wikipedia.org/wiki/2026_NBA_Cup#:~:text=Championship%20December%2011%20at%20%22Hinkle%20Fieldhouse%20in%20Indianapolis%2C"
+  },
+  {
+   "n": 55,
+   "where": "The story",
+   "claim": "No NFL games were played on Friday",
+   "verdict": "unsupported",
+   "url": "https://en.wikipedia.org/wiki/2026_NFL_season",
+   "source": "Wikipedia (NFL season)",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 56,
+   "where": "The story",
+   "claim": "the league's season page lists no transactions or announcements dated Nov. 11 to 14",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NFL_season",
+   "source": "Wikipedia (NFL season)",
+   "passage": "Page states: trades are listed through Nov. 9–10; nothing is dated Nov. 11–14. The page is Wikipedia's '2026 NFL season', not the league's; see the editorial flag on attribution",
+   "deep": "https://en.wikipedia.org/wiki/2026_NFL_season#:~:text=Page%20states%3A%20trades%20are%20listed%20through%20Nov.%209%E2%80%9310%3B"
+  },
+  {
+   "n": 57,
+   "where": "The story",
+   "claim": "Week 10: Lions and Patriots at Allianz Arena in Munich on Sunday",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NFL_season",
+   "source": "Wikipedia (NFL season)",
+   "passage": "International Series table: \"November 15 | New England at Detroit | Allianz Arena | Munich, Germany\"; the Lions page lists it as Week 10",
+   "deep": "https://en.wikipedia.org/wiki/2026_NFL_season#:~:text=International%20Series%20table%3A%20%22November%2015"
+  },
+  {
+   "n": 58,
+   "where": "The story",
+   "claim": "the Munich game opens Week 10's Sunday slate",
+   "verdict": "unsupported",
+   "url": "https://en.wikipedia.org/wiki/2026_NFL_season",
+   "source": "Wikipedia (NFL season)",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 59,
+   "where": "The story",
+   "claim": "kick off at 9:30 a.m. ET",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Detroit_Lions_season",
+   "source": "Wikipedia (Lions season)",
+   "passage": "Schedule time cell \"9:30 a.m.\" in a time column given in Eastern elsewhere (e.g. \"1:00 p.m. EDT\"; Week 5 \"4:25 p.m. EDT/1:25 p.m. MST\"); the Patriots page also shows \"9:30 a.m.\"",
+   "deep": "https://en.wikipedia.org/wiki/2026_Detroit_Lions_season#:~:text=Schedule%20time%20cell%20%229%3A30%20a.m.%22%20in%20a%20time"
+  },
+  {
+   "n": 60,
+   "where": "The story",
+   "claim": "on Fox",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_New_England_Patriots_season",
+   "source": "Wikipedia (Patriots season)",
+   "passage": "\"November 15 | 9:30 a.m. | at Detroit Lions | Allianz Arena (Munich) | Fox\"",
+   "deep": ""
+  },
+  {
+   "n": 61,
+   "where": "The story",
+   "claim": "Detroit is 6–2",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Detroit_Lions_season",
+   "source": "Wikipedia (Lions season)",
+   "passage": "Page states: Week 9 at Miami \"W 19–9\", record 6–2",
+   "deep": "https://en.wikipedia.org/wiki/2026_Detroit_Lions_season#:~:text=Page%20states%3A%20Week%209%20at%20Miami%20%22W%2019%E2%80%939%22%2C"
+  },
+  {
+   "n": 62,
+   "where": "The story",
+   "claim": "second in the NFC North",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Detroit_Lions_season",
+   "source": "Wikipedia (Lions season)",
+   "passage": "\"2nd NFC North\"",
+   "deep": "https://en.wikipedia.org/wiki/2026_Detroit_Lions_season#:~:text=%222nd%20NFC%20North%22"
+  },
+  {
+   "n": 63,
+   "where": "The story",
+   "claim": "after a 19–9 win at Miami on Nov. 8",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Detroit_Lions_season",
+   "source": "Wikipedia (Lions season)",
+   "passage": "Page states: Week 9, Nov. 8, at Miami Dolphins, Hard Rock Stadium, \"W 19–9\"",
+   "deep": "https://en.wikipedia.org/wiki/2026_Detroit_Lions_season#:~:text=Page%20states%3A%20Week%209%2C%20Nov.%208%2C%20at%20Miami"
+  },
+  {
+   "n": 64,
+   "where": "The story",
+   "claim": "New England, 5–4",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_New_England_Patriots_season",
+   "source": "Wikipedia (Patriots season)",
+   "passage": "Page states: Week 9 record after the game 5–4",
+   "deep": "https://en.wikipedia.org/wiki/2026_New_England_Patriots_season#:~:text=Page%20states%3A%20Week%209%20record%20after%20the%20game"
+  },
+  {
+   "n": 65,
+   "where": "The story",
+   "claim": "in Mike Vrabel's second season",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_New_England_Patriots_season",
+   "source": "Wikipedia (Patriots season)",
+   "passage": "Page states: Mike Vrabel is in his second season as head coach, having taken over in 2025",
+   "deep": "https://en.wikipedia.org/wiki/2026_New_England_Patriots_season#:~:text=Page%20states%3A%20Mike%20Vrabel%20is%20in%20his%20second"
+  },
+  {
+   "n": 66,
+   "where": "The story",
+   "claim": "lost 45–27 at home to Green Bay that day (Nov. 8)",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_New_England_Patriots_season",
+   "source": "Wikipedia (Patriots season)",
+   "passage": "\"9 | November 8 | 4:25 p.m. | Green Bay Packers | L 27–45\" (home, Gillette Stadium)",
+   "deep": ""
+  },
+  {
+   "n": 67,
+   "where": "The story",
+   "claim": "The Patriots have their bye in Week 11",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_New_England_Patriots_season",
+   "source": "Wikipedia (Patriots season)",
+   "passage": "Page states: Week 11 bye",
+   "deep": "https://en.wikipedia.org/wiki/2026_New_England_Patriots_season#:~:text=Page%20states%3A%20Week%2011%20bye"
+  },
+  {
+   "n": 68,
+   "where": "The story",
+   "claim": "the Lions host Tampa Bay on Nov. 22",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Detroit_Lions_season",
+   "source": "Wikipedia (Lions season)",
+   "passage": "Page states: Week 11, Nov. 22, Tampa Bay Buccaneers at Ford Field, 1:00 p.m., Fox",
+   "deep": "https://en.wikipedia.org/wiki/2026_Detroit_Lions_season#:~:text=Page%20states%3A%20Week%2011%2C%20Nov.%2022%2C%20Tampa%20Bay"
+  },
+  {
+   "n": 69,
+   "where": "The story",
+   "claim": "the Lions host Chicago on Thanksgiving, Nov. 26",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Detroit_Lions_season",
+   "source": "Wikipedia (Lions season)",
+   "passage": "Page states: Week 12 (Thanksgiving), Nov. 26, Chicago Bears at Ford Field, 1:00 p.m., CBS",
+   "deep": "https://en.wikipedia.org/wiki/2026_Detroit_Lions_season#:~:text=Page%20states%3A%20Week%2012%20%28Thanksgiving%29%2C%20Nov.%2026%2C%20Chicago"
+  },
+  {
+   "n": 70,
+   "where": "What comes next, item 1",
+   "claim": "Sat., Nov. 14, 3:30 p.m. ET: No. 22 Missouri at No. 1 Georgia, Sanford Stadium, Athens, on ABC",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Georgia_Bulldogs_football_team",
+   "source": "Wikipedia (Georgia season)",
+   "passage": "\"November 14 | 3:30 p.m. | No. 22 Missouri | No. 1 | Sanford Stadium, Athens, GA | ABC\"; \"All times are in Eastern time\"",
+   "deep": ""
+  },
+  {
+   "n": 71,
+   "where": "What comes next, item 2",
+   "claim": "Sat., Nov. 14: No. 2 Utah at No. 23 Arizona, Casino Del Sol Stadium in Tucson, on Fox",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Utah_Utes_football_team",
+   "source": "Wikipedia (Utah season)",
+   "passage": "Schedule: November 14, at No. 23 Arizona, \"Casino Del Sol Stadium • Tucson, AZ (Big Noon Kickoff)\", FOX; Utah No. 2 (AP and CFP)",
+   "deep": "https://en.wikipedia.org/wiki/2026_Utah_Utes_football_team#:~:text=Schedule%3A%20November%2014%2C%20at%20No.%2023%20Arizona%2C%20%22Casino"
+  },
+  {
+   "n": 72,
+   "where": "What comes next, item 2",
+   "claim": "The pages checked do not settle the kickoff time",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Utah_Utes_football_team",
+   "source": "Wikipedia (Utah season)",
+   "passage": "The Time cell reads \"8:30 p.m.\" under \"All times are in Mountain time\", while the same row tags the game \"(Big Noon Kickoff)\", a noon broadcast window. The page contradicts itself, so the draft's caveat is accurate",
+   "deep": "https://en.wikipedia.org/wiki/2026_Utah_Utes_football_team#:~:text=The%20Time%20cell%20reads%20%228%3A30%20p.m.%22%20under%20%22All"
+  },
+  {
+   "n": 73,
+   "where": "What comes next, item 3",
+   "claim": "Sun., Nov. 15, 9:30 a.m. ET: Lions and Patriots at Allianz Arena, on Fox",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_New_England_Patriots_season",
+   "source": "Wikipedia (Patriots season)",
+   "passage": "\"November 15 | 9:30 a.m. | at Detroit Lions | Allianz Arena (Munich) | Fox\"",
+   "deep": ""
+  },
+  {
+   "n": 74,
+   "where": "What comes next, item 3",
+   "claim": "3:30 p.m. in Germany",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Detroit_Lions_season",
+   "source": "Wikipedia (Lions season)",
+   "passage": "Derived conversion: 9:30 a.m. Eastern on Nov. 15 is EST (UTC−5, after U.S. DST ended Nov. 1, 2026), and Munich is on CET (UTC+1), so it is 3:30 p.m. local on the same date",
+   "deep": "https://en.wikipedia.org/wiki/2026_Detroit_Lions_season#:~:text=Derived%20conversion%3A%209%3A30%20a.m.%20Eastern%20on%20Nov.%2015"
+  },
+  {
+   "n": 75,
+   "where": "What comes next, item 4",
+   "claim": "Tue., Nov. 17: next CFP ranking",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings",
+   "source": "Wikipedia (FBS rankings)",
+   "passage": "Next CFP column header \"Week 11 Nov 17\"",
+   "deep": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings#:~:text=Next%20CFP%20column%20header%20%22Week%2011%20Nov%2017%22"
+  },
+  {
+   "n": 76,
+   "where": "What comes next, item 5",
+   "claim": "Fri., Nov. 20: NBA Cup group stage resumes, first of four remaining group nights, with Nov. 24, 25 and 27 to follow",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NBA_Cup",
+   "source": "Wikipedia (NBA Cup)",
+   "passage": "Page states: the group-stage dates after Nov. 13 are November 20, November 24, November 25 and November 27",
+   "deep": "https://en.wikipedia.org/wiki/2026_NBA_Cup#:~:text=Page%20states%3A%20the%20group-stage%20dates%20after%20Nov.%2013"
+  },
+  {
+   "n": 77,
+   "where": "What comes next, item 6",
+   "claim": "Sat., Nov. 21: No. 4 UCLA at Michigan, Michigan Stadium, Ann Arbor; time and network not yet set",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team",
+   "source": "Wikipedia (UCLA season)",
+   "passage": "\"November 21 | TBD | at Michigan | Michigan Stadium • Ann Arbor, MI\"; time and network listed as TBD",
+   "deep": ""
+  }
+ ],
+ "notes": []
+}

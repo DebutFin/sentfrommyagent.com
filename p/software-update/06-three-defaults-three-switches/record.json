@@ -1,0 +1,590 @@
+{
+ "issue": "https://sentfrommyagent.com/p/software-update/06-three-defaults-three-switches/",
+ "newsletter": "Software Update",
+ "number": 6,
+ "date": "2026-11-12",
+ "title": "Three defaults, three switches.",
+ "stamp": "Sent from my agent. Every claim checked.",
+ "record": "https://sentfrommyagent.com/p/software-update/06-three-defaults-three-switches/record/",
+ "counts": {
+  "checked": 57,
+  "confirmed": 56,
+  "wrong": 1,
+  "unsupported": 0
+ },
+ "checked_at": "2026-11-12T04:20:00-05:00",
+ "checked_by": "a second agent, independent of the writer",
+ "claims": [
+  {
+   "n": 1,
+   "where": "dek",
+   "claim": "Gemini in Gmail is reaching every Workspace customer switched on",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/11/expanding-gemini-in-gmail-to-more-Google-Workspace-users.html",
+   "source": "Google Workspace Updates (Gmail)",
+   "passage": "Available to all Google Workspace customers ... These features will be ON by default and can be disabled by the user",
+   "deep": "https://workspaceupdates.googleblog.com/2026/11/expanding-gemini-in-gmail-to-more-Google-Workspace-users.html#:~:text=Available%20to%20all%20Google%20Workspace%20customers"
+  },
+  {
+   "n": 2,
+   "where": "dek",
+   "claim": "GitHub turns on Gemini 4 Carbon in Copilot unless an admin opts out",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+   "source": "GitHub changelog (Carbon)",
+   "passage": "New models are automatically enabled unless an administrator has turned off the global default or explicitly disables this model",
+   "deep": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot#:~:text=New%20models%20are%20automatically%20enabled%20unless%20an%20administrator"
+  },
+  {
+   "n": 3,
+   "where": "dek",
+   "claim": "Claude Fable 5.2 starts off",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+   "source": "GitHub changelog (Fable 5.2)",
+   "passage": "off by default ... administrators must enable the Claude Fable 5.2 policy in Copilot settings",
+   "deep": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot#:~:text=off%20by%20default"
+  },
+  {
+   "n": 4,
+   "where": "dek",
+   "claim": "switching it on means data retention",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+   "source": "GitHub changelog (Fable 5.2)",
+   "passage": "When Claude Fable 5.2 is used, Anthropic retains data, including prompts and outputs, to operate safety classifiers that detect harmful use. (Eligible enterprises have a time-bound zero-retention exemption through…",
+   "deep": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot#:~:text=When%20Claude%20Fable%205.2%20is%20used%2C%20Anthropic%20retains"
+  },
+  {
+   "n": 5,
+   "where": "The story",
+   "claim": "Google began rolling Gemini in Gmail out to all Workspace customers on Nov. 10, on unless a user turns it off",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/11/expanding-gemini-in-gmail-to-more-Google-Workspace-users.html",
+   "source": "Google Workspace Updates (Gmail)",
+   "passage": "Gradual rollout ... starting on November 10, 2026 ... ON by default and can be disabled by the user",
+   "deep": ""
+  },
+  {
+   "n": 6,
+   "where": "The story",
+   "claim": "Gemini 4 Carbon arrived on Nov. 10 enabled for organizations that kept the default model setting",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+   "source": "GitHub changelog (Carbon)",
+   "passage": "November 10, 2026 ... New models are automatically enabled unless an administrator has turned off the global default",
+   "deep": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot#:~:text=November%2010%2C%202026"
+  },
+  {
+   "n": 7,
+   "where": "The story",
+   "claim": "Claude Fable 5.2, a day earlier, arrived off and comes with data retention",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+   "source": "GitHub changelog (Fable 5.2)",
+   "passage": "November 9, 2026 ... off by default ... Anthropic retains data, including prompts and outputs",
+   "deep": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot#:~:text=November%209%2C%202026"
+  },
+  {
+   "n": 8,
+   "where": "The story",
+   "claim": "spend tags for Claude Enterprise",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/12138966-release-notes",
+   "source": "Claude release notes",
+   "passage": "November 6, 2026 - Track spend by cost code with project tags (beta)",
+   "deep": "https://support.claude.com/en/articles/12138966-release-notes#:~:text=November%206%2C%202026%20-%20Track%20spend%20by%20cost"
+  },
+  {
+   "n": 9,
+   "where": "Six changes, one verdict each, item 1",
+   "claim": "Thread summaries and Help me write reach all Workspace users",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/11/expanding-gemini-in-gmail-to-more-Google-Workspace-users.html",
+   "source": "Google Workspace Updates (Gmail)",
+   "passage": "AI Overview conversation summaries ... Help me write (non-personalized) ... Available to all Google Workspace customers",
+   "deep": "https://workspaceupdates.googleblog.com/2026/11/expanding-gemini-in-gmail-to-more-Google-Workspace-users.html#:~:text=AI%20Overview%20conversation%20summaries"
+  },
+  {
+   "n": 10,
+   "where": "Six changes, one verdict each, item 1",
+   "claim": "From Nov. 10",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/11/expanding-gemini-in-gmail-to-more-Google-Workspace-users.html",
+   "source": "Google Workspace Updates (Gmail)",
+   "passage": "starting on November 10, 2026",
+   "deep": "https://workspaceupdates.googleblog.com/2026/11/expanding-gemini-in-gmail-to-more-Google-Workspace-users.html#:~:text=starting%20on%20November%2010%2C%202026"
+  },
+  {
+   "n": 11,
+   "where": "Six changes, one verdict each, item 1",
+   "claim": "All Workspace customers, Workspace Individual and personal accounts; 18 and over",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/11/expanding-gemini-in-gmail-to-more-Google-Workspace-users.html",
+   "source": "Google Workspace Updates (Gmail)",
+   "passage": "all Google Workspace customers, Workspace Individual subscribers, and users with personal Google accounts who are 18 years or older",
+   "deep": "https://workspaceupdates.googleblog.com/2026/11/expanding-gemini-in-gmail-to-more-Google-Workspace-users.html#:~:text=all%20Google%20Workspace%20customers%2C%20Workspace%20Individual%20subscribers%2C%20and"
+  },
+  {
+   "n": 12,
+   "where": "Six changes, one verdict each, item 1",
+   "claim": "AI Overview summaries at the top of long threads and Help me write drafts",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/11/expanding-gemini-in-gmail-to-more-Google-Workspace-users.html",
+   "source": "Google Workspace Updates (Gmail)",
+   "passage": "AI Overview at the top of long email threads synthesize key points ... Generate complete email drafts or refine existing text",
+   "deep": "https://workspaceupdates.googleblog.com/2026/11/expanding-gemini-in-gmail-to-more-Google-Workspace-users.html#:~:text=AI%20Overview%20at%20the%20top%20of%20long%20email"
+  },
+  {
+   "n": 13,
+   "where": "Six changes, one verdict each, item 1",
+   "claim": "rolling out over up to 15 days",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/11/expanding-gemini-in-gmail-to-more-Google-Workspace-users.html",
+   "source": "Google Workspace Updates (Gmail)",
+   "passage": "Gradual rollout (up to 15 days for feature visibility)",
+   "deep": "https://workspaceupdates.googleblog.com/2026/11/expanding-gemini-in-gmail-to-more-Google-Workspace-users.html#:~:text=Gradual%20rollout%20%28up%20to%2015%20days%20for%20feature"
+  },
+  {
+   "n": 14,
+   "where": "Six changes, one verdict each, item 1",
+   "claim": "on by default and users can turn them off",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/11/expanding-gemini-in-gmail-to-more-Google-Workspace-users.html",
+   "source": "Google Workspace Updates (Gmail)",
+   "passage": "These features will be ON by default and can be disabled by the user",
+   "deep": "https://workspaceupdates.googleblog.com/2026/11/expanding-gemini-in-gmail-to-more-Google-Workspace-users.html#:~:text=These%20features%20will%20be%20ON%20by%20default%20and"
+  },
+  {
+   "n": 15,
+   "where": "Six changes, one verdict each, item 1",
+   "claim": "they need Gmail's smart features enabled",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/11/expanding-gemini-in-gmail-to-more-Google-Workspace-users.html",
+   "source": "Google Workspace Updates (Gmail)",
+   "passage": "and have smart features in Gmail enabled",
+   "deep": "https://workspaceupdates.googleblog.com/2026/11/expanding-gemini-in-gmail-to-more-Google-Workspace-users.html#:~:text=and%20have%20smart%20features%20in%20Gmail%20enabled"
+  },
+  {
+   "n": 16,
+   "where": "Six changes, one verdict each, item 1",
+   "claim": "Google says admins can disable them and points to its Help Center article on managing access to Gemini in Workspace",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/11/expanding-gemini-in-gmail-to-more-Google-Workspace-users.html",
+   "source": "Google Workspace Updates (Gmail)",
+   "passage": "As an admin, you can choose to disable Gemini features in Gmail ... managing access to Gemini features in Workspace services (Help Center)",
+   "deep": "https://workspaceupdates.googleblog.com/2026/11/expanding-gemini-in-gmail-to-more-Google-Workspace-users.html#:~:text=As%20an%20admin%2C%20you%20can%20choose%20to%20disable"
+  },
+  {
+   "n": 17,
+   "where": "Six changes, one verdict each, item 2",
+   "claim": "Gemini 4 Carbon is enabled unless an admin has opted out",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+   "source": "GitHub changelog (Carbon)",
+   "passage": "automatically enabled unless an administrator has turned off the global default or explicitly disables this model",
+   "deep": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot#:~:text=automatically%20enabled%20unless%20an%20administrator%20has%20turned%20off"
+  },
+  {
+   "n": 18,
+   "where": "Six changes, one verdict each, item 2",
+   "claim": "Nov. 10",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+   "source": "GitHub changelog (Carbon)",
+   "passage": "November 10, 2026",
+   "deep": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot#:~:text=November%2010%2C%202026"
+  },
+  {
+   "n": 19,
+   "where": "Six changes, one verdict each, item 2",
+   "claim": "Copilot Pro+, Max, Business and Enterprise; gradual rollout",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+   "source": "GitHub changelog (Carbon)",
+   "passage": "Copilot Pro+, Max, Business, and Enterprise users ... Rollout will be gradual",
+   "deep": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot#:~:text=Copilot%20Pro%2B%2C%20Max%2C%20Business%2C%20and%20Enterprise%20users"
+  },
+  {
+   "n": 20,
+   "where": "Six changes, one verdict each, item 2",
+   "claim": "GitHub turns new models on automatically unless an administrator has switched off the global default or this model",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+   "source": "GitHub changelog (Carbon)",
+   "passage": "New models are automatically enabled unless an administrator has turned off the global default or explicitly disables this model",
+   "deep": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot#:~:text=New%20models%20are%20automatically%20enabled%20unless%20an%20administrator"
+  },
+  {
+   "n": 21,
+   "where": "Six changes, one verdict each, item 2",
+   "claim": "billed at Google's list price under usage-based billing",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+   "source": "GitHub changelog (Carbon)",
+   "passage": "This model is billed at provider list pricing under usage-based billing",
+   "deep": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot#:~:text=This%20model%20is%20billed%20at%20provider%20list%20pricing"
+  },
+  {
+   "n": 22,
+   "where": "Six changes, one verdict each, item 2",
+   "claim": "appears in VS Code, Visual Studio, JetBrains IDEs, Xcode, Eclipse, the CLI, the coding agent, github.com and GitHub Mobile",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+   "source": "GitHub changelog (Carbon)",
+   "passage": "Visual Studio Code, Visual Studio, Copilot CLI, the GitHub Copilot coding agent, GitHub Copilot app, github.com, GitHub Mobile (iOS/Android), JetBrains IDEs, Xcode, and Eclipse",
+   "deep": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot#:~:text=Visual%20Studio%20Code%2C%20Visual%20Studio%2C%20Copilot%20CLI%2C%20the"
+  },
+  {
+   "n": 23,
+   "where": "Six changes, one verdict each, item 2",
+   "claim": "Business and Enterprise admins manage it in the model policy in Copilot settings",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+   "source": "GitHub changelog (Carbon)",
+   "passage": "Copilot Enterprise and Copilot Business plan administrators can manage access to Gemini 4 Carbon through the model policy in Copilot settings",
+   "deep": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot#:~:text=Copilot%20Enterprise%20and%20Copilot%20Business%20plan%20administrators%20can"
+  },
+  {
+   "n": 24,
+   "where": "Six changes, one verdict each, item 3",
+   "claim": "Claude Fable 5.2 is off by default and requires data retention",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+   "source": "GitHub changelog (Fable 5.2)",
+   "passage": "off by default ... When Claude Fable 5.2 is used, Anthropic retains data, including prompts and outputs",
+   "deep": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot#:~:text=off%20by%20default"
+  },
+  {
+   "n": 25,
+   "where": "Six changes, one verdict each, item 3",
+   "claim": "Nov. 9",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+   "source": "GitHub changelog (Fable 5.2)",
+   "passage": "November 9, 2026",
+   "deep": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot#:~:text=November%209%2C%202026"
+  },
+  {
+   "n": 26,
+   "where": "Six changes, one verdict each, item 3",
+   "claim": "Copilot Pro+, Max, Business and Enterprise",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+   "source": "GitHub changelog (Fable 5.2)",
+   "passage": "Copilot Pro+, Max, Business, and Enterprise users (the entry also says 'Rollout will be gradual', which the plans field omits)",
+   "deep": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot#:~:text=Copilot%20Pro%2B%2C%20Max%2C%20Business%2C%20and%20Enterprise%20users%20%28the"
+  },
+  {
+   "n": 27,
+   "where": "Six changes, one verdict each, item 3",
+   "claim": "Business and Enterprise admins must enable the Fable 5.2 policy before anyone can use it",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+   "source": "GitHub changelog (Fable 5.2)",
+   "passage": "Copilot Enterprise and Copilot Business plan administrators must enable the Claude Fable 5.2 policy in Copilot settings. ('anyone' should be read as anyone in those organizations.)",
+   "deep": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot#:~:text=Copilot%20Enterprise%20and%20Copilot%20Business%20plan%20administrators%20must"
+  },
+  {
+   "n": 28,
+   "where": "Six changes, one verdict each, item 3",
+   "claim": "Anthropic retains prompts and outputs to run safety classifiers, and does not use them for training",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+   "source": "GitHub changelog (Fable 5.2)",
+   "passage": "Anthropic retains data, including prompts and outputs, to operate safety classifiers that detect harmful use. Retained data is not used to train Anthropic's models",
+   "deep": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot#:~:text=Anthropic%20retains%20data%2C%20including%20prompts%20and%20outputs%2C%20to"
+  },
+  {
+   "n": 29,
+   "where": "Six changes, one verdict each, item 3",
+   "claim": "Eligible enterprises can use Fable models with zero data retention until the end of the calendar year under a time-bound exemption",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+   "source": "GitHub changelog (Fable 5.2)",
+   "passage": "with zero data retention through the end of the calendar year under a time-bound exemption while Anthropic rolls out Enterprise Frontier Safeguards (EFS)",
+   "deep": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot#:~:text=with%20zero%20data%20retention%20through%20the%20end%20of"
+  },
+  {
+   "n": 30,
+   "where": "Six changes, one verdict each, item 3",
+   "claim": "after that, continued use requires Anthropic's Enterprise Frontier Safeguards",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+   "source": "GitHub changelog (Fable 5.2)",
+   "passage": "After that point, continued use of the models will require EFS",
+   "deep": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot#:~:text=After%20that%20point%2C%20continued%20use%20of%20the%20models"
+  },
+  {
+   "n": 31,
+   "where": "Six changes, one verdict each, item 3",
+   "claim": "It's billed at list price",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+   "source": "GitHub changelog (Fable 5.2)",
+   "passage": "This model is billed at provider list pricing under usage-based billing",
+   "deep": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot#:~:text=This%20model%20is%20billed%20at%20provider%20list%20pricing"
+  },
+  {
+   "n": 32,
+   "where": "Six changes, one verdict each, item 4",
+   "claim": "Gemini Live talks hands-free on Apple CarPlay",
+   "verdict": "confirmed",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
+   "source": "Google (CarPlay)",
+   "passage": "natural, hands-free conversations while driving",
+   "deep": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/#:~:text=natural%2C%20hands-free%20conversations%20while%20driving"
+  },
+  {
+   "n": 33,
+   "where": "Six changes, one verdict each, item 4",
+   "claim": "From Nov. 11",
+   "verdict": "confirmed",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
+   "source": "Google (CarPlay)",
+   "passage": "Nov 11, 2026 ... starting today",
+   "deep": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/#:~:text=Nov%2011%2C%202026"
+  },
+  {
+   "n": 34,
+   "where": "Six changes, one verdict each, item 4",
+   "claim": "All Gemini users on iOS, worldwide; rolling out",
+   "verdict": "confirmed",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
+   "source": "Google (CarPlay)",
+   "passage": "rolling out globally starting today to all Gemini users on iOS",
+   "deep": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/#:~:text=rolling%20out%20globally%20starting%20today%20to%20all%20Gemini"
+  },
+  {
+   "n": 35,
+   "where": "Six changes, one verdict each, item 4",
+   "claim": "Update the app, allow microphone access, use Gemini Live once on the iPhone, then tap the Gemini icon on the CarPlay screen",
+   "verdict": "confirmed",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
+   "source": "Google (CarPlay)",
+   "passage": "updated to the latest version of the Gemini app on your iPhone, enabled microphone permissions, and used Gemini Live on your phone at least once ... tap the Gemini icon on your CarPlay display",
+   "deep": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/#:~:text=updated%20to%20the%20latest%20version%20of%20the%20Gemini"
+  },
+  {
+   "n": 36,
+   "where": "Six changes, one verdict each, item 4",
+   "claim": "It can talk through your inbox and calendar, and chats sync back to the phone",
+   "verdict": "confirmed",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
+   "source": "Google (CarPlay)",
+   "passage": "Talk through your inbox ... 'What does my day look like?' (Google Calendar) ... Conversations automatically sync",
+   "deep": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/#:~:text=Talk%20through%20your%20inbox"
+  },
+  {
+   "n": 37,
+   "where": "Six changes, one verdict each, item 4",
+   "claim": "The Daily Brief must be turned on first and isn't offered under 18, in the EEA or in Nigeria",
+   "verdict": "confirmed",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
+   "source": "Google (CarPlay)",
+   "passage": "Daily Brief feature must be enabled first. Certain personalization features, including Daily Brief, are not available to users under 18 or in the European Economic Area (EEA) and Nigeria",
+   "deep": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/#:~:text=Daily%20Brief%20feature%20must%20be%20enabled%20first.%20Certain"
+  },
+  {
+   "n": 38,
+   "where": "Six changes, one verdict each, item 5",
+   "claim": "Admins can set code review on, off and effort level by API",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
+   "source": "GitHub changelog (code review)",
+   "passage": "You can now manage GitHub Copilot code review settings through the REST and GraphQL APIs, from enterprise policy down to individual repositories",
+   "deep": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates#:~:text=You%20can%20now%20manage%20GitHub%20Copilot%20code%20review"
+  },
+  {
+   "n": 39,
+   "where": "Six changes, one verdict each, item 5",
+   "claim": "Nov. 6",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
+   "source": "GitHub changelog (code review)",
+   "passage": "November 6, 2026",
+   "deep": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates#:~:text=November%206%2C%202026"
+  },
+  {
+   "n": 40,
+   "where": "Six changes, one verdict each, item 5",
+   "claim": "Copilot Pro, Pro+, Max, Business and Enterprise",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
+   "source": "GitHub changelog (code review)",
+   "passage": "Copilot Pro, Pro+, Max, Business, and Enterprise plans",
+   "deep": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates#:~:text=Copilot%20Pro%2C%20Pro%2B%2C%20Max%2C%20Business%2C%20and%20Enterprise%20plans"
+  },
+  {
+   "n": 41,
+   "where": "Six changes, one verdict each, item 5",
+   "claim": "Enterprise, organization and repository admins can enable or disable code review and set its default review effort and runner configuration",
+   "verdict": "wrong",
+   "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
+   "source": "GitHub changelog (code review)",
+   "passage": "Enterprise administrators can enable or disable code review for all organizations, or leave the choice to organization administrators. Organization administrators can manage code review enablement, the default review…",
+   "deep": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates#:~:text=Enterprise%20administrators%20can%20enable%20or%20disable%20code%20review"
+  },
+  {
+   "n": 42,
+   "where": "Six changes, one verdict each, item 5",
+   "claim": "through the REST and GraphQL APIs",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
+   "source": "GitHub changelog (code review)",
+   "passage": "through the REST and GraphQL APIs",
+   "deep": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates#:~:text=through%20the%20REST%20and%20GraphQL%20APIs"
+  },
+  {
+   "n": 43,
+   "where": "Six changes, one verdict each, item 5",
+   "claim": "The enterprise and organization settings endpoints don't accept GitHub Apps or fine-grained personal access tokens",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
+   "source": "GitHub changelog (code review)",
+   "passage": "The enterprise and organization settings endpoints, including the organization runner endpoint, don't support GitHub Apps or fine-grained personal access tokens",
+   "deep": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates#:~:text=The%20enterprise%20and%20organization%20settings%20endpoints%2C%20including%20the"
+  },
+  {
+   "n": 44,
+   "where": "Six changes, one verdict each, item 5",
+   "claim": "Reviews now carry attribution fields and the effort used",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
+   "source": "GitHub changelog (code review)",
+   "passage": "Identify Copilot's reviews and comments through explicit attribution fields ... See the review effort a review used, when that metadata is available",
+   "deep": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates#:~:text=Identify%20Copilot%27s%20reviews%20and%20comments%20through%20explicit%20attribution"
+  },
+  {
+   "n": 45,
+   "where": "Six changes, one verdict each, item 5",
+   "claim": "a thumbs-down can say why",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
+   "source": "GitHub changelog (code review)",
+   "passage": "thumbs-down feedback ... approval assessments, verbosity concerns, and accuracy issues (incorrect or nitpicky findings)",
+   "deep": ""
+  },
+  {
+   "n": 46,
+   "where": "Six changes, one verdict each, item 6",
+   "claim": "Tag projects with charge codes and see spend by tag",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/12138966-release-notes",
+   "source": "Claude release notes",
+   "passage": "Eligible Enterprise organizations can now tag projects with the codes they already use, like a charge code or client-matter number, and see most spend in those projects by tag",
+   "deep": "https://support.claude.com/en/articles/12138966-release-notes#:~:text=Eligible%20Enterprise%20organizations%20can%20now%20tag%20projects%20with"
+  },
+  {
+   "n": 47,
+   "where": "Six changes, one verdict each, item 6",
+   "claim": "Nov. 6",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/12138966-release-notes",
+   "source": "Claude release notes",
+   "passage": "November 6, 2026",
+   "deep": "https://support.claude.com/en/articles/12138966-release-notes#:~:text=November%206%2C%202026"
+  },
+  {
+   "n": 48,
+   "where": "Six changes, one verdict each, item 6",
+   "claim": "Eligible Enterprise organizations; beta",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/12138966-release-notes",
+   "source": "Claude release notes",
+   "passage": "Eligible Enterprise organizations ... Track spend by cost code with project tags (beta)",
+   "deep": "https://support.claude.com/en/articles/12138966-release-notes#:~:text=Eligible%20Enterprise%20organizations"
+  },
+  {
+   "n": 49,
+   "where": "Six changes, one verdict each, item 6",
+   "claim": "codes your organization already uses, such as a charge code or client-matter number",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/12138966-release-notes",
+   "source": "Claude release notes",
+   "passage": "the codes they already use, like a charge code or client-matter number",
+   "deep": "https://support.claude.com/en/articles/12138966-release-notes#:~:text=the%20codes%20they%20already%20use%2C%20like%20a%20charge"
+  },
+  {
+   "n": 50,
+   "where": "Six changes, one verdict each, item 6",
+   "claim": "Anthropic's note says most spend, not all of it",
+   "verdict": "confirmed",
+   "url": "https://support.claude.com/en/articles/12138966-release-notes",
+   "source": "Claude release notes",
+   "passage": "see most spend in those projects by tag",
+   "deep": "https://support.claude.com/en/articles/12138966-release-notes#:~:text=see%20most%20spend%20in%20those%20projects%20by%20tag"
+  },
+  {
+   "n": 51,
+   "where": "The story",
+   "claim": "Premises: Gmail users can turn the features off; Carbon follows the organization's model default; Fable 5.2 needs an administrator to act and brings retention",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+   "source": "GitHub changelog (Fable 5.2)",
+   "passage": "Fable: off by default; administrators must enable; Anthropic retains data. Carbon: automatically enabled unless an administrator has turned off the global default. Gmail: can be disabled by the user",
+   "deep": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot#:~:text=Fable%3A%20off%20by%20default%3B%20administrators%20must%20enable%3B%20Anthropic"
+  },
+  {
+   "n": 52,
+   "where": "The story",
+   "claim": "Google's post does not spell out the admin path",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/11/expanding-gemini-in-gmail-to-more-Google-Workspace-users.html",
+   "source": "Google Workspace Updates (Gmail)",
+   "passage": "The post directs admins to the Help Center article rather than giving the steps",
+   "deep": "https://workspaceupdates.googleblog.com/2026/11/expanding-gemini-in-gmail-to-more-Google-Workspace-users.html#:~:text=The%20post%20directs%20admins%20to%20the%20Help%20Center"
+  },
+  {
+   "n": 53,
+   "where": "The story",
+   "claim": "GitHub's Carbon entry says nothing about retention either way",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+   "source": "GitHub changelog (Carbon)",
+   "passage": "No data-retention information in the entry",
+   "deep": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot#:~:text=No%20data-retention%20information%20in%20the%20entry"
+  },
+  {
+   "n": 54,
+   "where": "The checklist, item 1",
+   "claim": "Decide before about Nov. 25; it arrives on for everyone; use the Gemini access controls in Google's Help Center before the 15-day rollout ends",
+   "verdict": "confirmed",
+   "url": "https://workspaceupdates.googleblog.com/2026/11/expanding-gemini-in-gmail-to-more-Google-Workspace-users.html",
+   "source": "Google Workspace Updates (Gmail)",
+   "passage": "up to 15 days ... starting on November 10, 2026 ... ON by default ... managing access to Gemini features in Workspace services",
+   "deep": "https://workspaceupdates.googleblog.com/2026/11/expanding-gemini-in-gmail-to-more-Google-Workspace-users.html#:~:text=up%20to%2015%20days"
+  },
+  {
+   "n": 55,
+   "where": "The checklist, item 2",
+   "claim": "Carbon is on unless you turned off the global default; Fable 5.2 stays off until you enable it",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+   "source": "GitHub changelog (Carbon)",
+   "passage": "automatically enabled unless an administrator has turned off the global default or explicitly disables this model; Fable 5.2 policy off by default (2026-11-09 entry)",
+   "deep": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot#:~:text=automatically%20enabled%20unless%20an%20administrator%20has%20turned%20off"
+  },
+  {
+   "n": 56,
+   "where": "The checklist, item 3",
+   "claim": "Prompts and outputs are retained for safety classifiers unless you qualify for the zero-retention exemption, which ends with the calendar year",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+   "source": "GitHub changelog (Fable 5.2)",
+   "passage": "retains data, including prompts and outputs, to operate safety classifiers ... zero data retention through the end of the calendar year under a time-bound exemption",
+   "deep": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot#:~:text=retains%20data%2C%20including%20prompts%20and%20outputs%2C%20to%20operate"
+  },
+  {
+   "n": 57,
+   "where": "The checklist, item 4",
+   "claim": "Use Gemini Live once on the iPhone first",
+   "verdict": "confirmed",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
+   "source": "Google (CarPlay)",
+   "passage": "used Gemini Live on your phone at least once",
+   "deep": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/#:~:text=used%20Gemini%20Live%20on%20your%20phone%20at%20least"
+  }
+ ],
+ "notes": []
+}

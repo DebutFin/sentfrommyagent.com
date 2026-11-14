@@ -1,0 +1,800 @@
+{
+ "issue": "https://sentfrommyagent.com/p/sports/04-dallas-ends-two-perfect-starts/",
+ "newsletter": "Sports",
+ "number": 4,
+ "date": "2026-10-31",
+ "title": "Dallas ends two perfect starts.",
+ "stamp": "Sent from my agent. Every claim checked.",
+ "record": "https://sentfrommyagent.com/p/sports/04-dallas-ends-two-perfect-starts/record/",
+ "counts": {
+  "checked": 78,
+  "confirmed": 77,
+  "wrong": 0,
+  "unsupported": 1
+ },
+ "checked_at": "2026-10-31",
+ "checked_by": "a second agent, independent of the writer",
+ "claims": [
+  {
+   "n": 1,
+   "where": "title",
+   "claim": "Dallas ends two perfect starts.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Dallas_Mavericks_season",
+   "source": "Wikipedia (Mavericks season)",
+   "passage": "Game 5, Oct 28, Oklahoma City Thunder, W 120–96 (Thunder were 4–0, then 4–1); Game 6, Oct 30, Houston Rockets, W 116–111 (Rockets were 5–0, then 5–1)",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Dallas_Mavericks_season#:~:text=Game%205%2C%20Oct%2028%2C%20Oklahoma%20City%20Thunder%2C%20W"
+  },
+  {
+   "n": 2,
+   "where": "dek",
+   "claim": "The Mavericks beat Houston 116–111",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Dallas_Mavericks_season",
+   "source": "Wikipedia (Mavericks season)",
+   "passage": "Game 6, October 30 (NBA Cup), Houston Rockets, W 116–111, record 4–2",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Dallas_Mavericks_season#:~:text=Game%206%2C%20October%2030%20%28NBA%20Cup%29%2C%20Houston%20Rockets%2C"
+  },
+  {
+   "n": 3,
+   "where": "dek",
+   "claim": "on the NBA Cup's opening night",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NBA_Cup",
+   "source": "Wikipedia (2026 NBA Cup)",
+   "passage": "Games on Tuesdays and Fridays between October 30 and November 27; October 30 group games include Houston Rockets 111, Dallas Mavericks 116",
+   "deep": "https://en.wikipedia.org/wiki/2026_NBA_Cup#:~:text=Games%20on%20Tuesdays%20and%20Fridays%20between%20October%2030"
+  },
+  {
+   "n": 4,
+   "where": "dek",
+   "claim": "two days after handing Oklahoma City its first loss",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Oklahoma_City_Thunder_season",
+   "source": "Wikipedia (Thunder season)",
+   "passage": "Game 5, Oct 28, @ Dallas, L 96–120, record 4–1 (after 4–0)",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Oklahoma_City_Thunder_season#:~:text=Game%205%2C%20Oct%2028%2C%20%40%20Dallas%2C%20L%2096%E2%80%93120%2C"
+  },
+  {
+   "n": 5,
+   "where": "dek",
+   "claim": "Memphis is the NBA's last unbeaten team",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_NBA_season",
+   "source": "Wikipedia (2026–27 NBA season)",
+   "passage": "Standings: Memphis Grizzlies 5–0; every other team has at least one loss",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_NBA_season#:~:text=Standings%3A%20Memphis%20Grizzlies%205%E2%80%930%3B%20every%20other%20team%20has"
+  },
+  {
+   "n": 6,
+   "where": "dek",
+   "claim": "Minnesota takes the NFL's [last unbeaten record] to Detroit on Sunday",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Minnesota_Vikings_season",
+   "source": "Wikipedia (Vikings season)",
+   "passage": "The Vikings started the season 6–0 for the first time since 2009, and became the last undefeated team in the league. / 8 | November 1 | 12:00 p.m. | at Detroit Lions | Ford Field | Fox",
+   "deep": "https://en.wikipedia.org/wiki/2026_Minnesota_Vikings_season#:~:text=The%20Vikings%20started%20the%20season%206%E2%80%930%20for%20the"
+  },
+  {
+   "n": 7,
+   "where": "summary",
+   "claim": "Miami, Utah and UCLA put 7–0 records on the line",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings",
+   "source": "Wikipedia (FBS rankings)",
+   "passage": "AP Week 8 (Oct 25): 1. Miami (FL) (7–0) … 6. Utah (7–0) 7. UCLA (7–0); all three scheduled Oct 31 on their team pages",
+   "deep": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings#:~:text=AP%20Week%208%20%28Oct%2025%29%3A%201.%20Miami%20%28FL%29"
+  },
+  {
+   "n": 8,
+   "where": "art svg / art alt",
+   "claim": "OKC 4–0, ENDED OCT. 28",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Oklahoma_City_Thunder_season",
+   "source": "Wikipedia (Thunder season)",
+   "passage": "Game 4, Oct 26, Phoenix, W 125–114, 4–0; Game 5, Oct 28, @ Dallas, L 96–120, 4–1",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Oklahoma_City_Thunder_season#:~:text=Game%204%2C%20Oct%2026%2C%20Phoenix%2C%20W%20125%E2%80%93114%2C%204%E2%80%930%3B"
+  },
+  {
+   "n": 9,
+   "where": "art svg / art alt",
+   "claim": "HOU 5–0, ENDED OCT. 30",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Houston_Rockets_season",
+   "source": "Wikipedia (Rockets season)",
+   "passage": "Game 5, October 28 @ Milwaukee, W 132–100, 5–0; Game 6, October 30 @ Dallas (NBA Cup), L 111–116, 5–1",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Houston_Rockets_season#:~:text=Game%205%2C%20October%2028%20%40%20Milwaukee%2C%20W%20132%E2%80%93100%2C"
+  },
+  {
+   "n": 10,
+   "where": "art svg / art alt",
+   "claim": "DAL as the one spoiler of both unbeaten starts",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Dallas_Mavericks_season",
+   "source": "Wikipedia (Mavericks season)",
+   "passage": "Game 5 Oct 28 Oklahoma City W 120–96; Game 6 Oct 30 Houston W 116–111",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Dallas_Mavericks_season#:~:text=Game%205%20Oct%2028%20Oklahoma%20City%20W%20120%E2%80%9396%3B"
+  },
+  {
+   "n": 11,
+   "where": "The story",
+   "claim": "Dallas beat Houston 116–111 at American Airlines Center on Friday, Oct. 30",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Dallas_Mavericks_season",
+   "source": "Wikipedia (Mavericks season)",
+   "passage": "Game 6 - October 30 (NBA Cup), Houston Rockets, W 116–111, American Airlines Center, 18,832",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Dallas_Mavericks_season#:~:text=Game%206%20-%20October%2030%20%28NBA%20Cup%29%2C%20Houston"
+  },
+  {
+   "n": 12,
+   "where": "The story",
+   "claim": "ending the Rockets' 5–0 start",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Houston_Rockets_season",
+   "source": "Wikipedia (Rockets season)",
+   "passage": "Game 5 … Record: 5–0; Game 6 October 30 @ Dallas (NBA Cup) L 111–116, Record: 5–1",
+   "deep": ""
+  },
+  {
+   "n": 13,
+   "where": "The story",
+   "claim": "Kyrie Irving scored 35 points with nine assists for the Mavericks",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Dallas_Mavericks_season",
+   "source": "Wikipedia (Mavericks season)",
+   "passage": "Game 6: High Points: Kyrie Irving (35); High Assists: Kyrie Irving (9)",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Dallas_Mavericks_season#:~:text=Game%206%3A%20High%20Points%3A%20Kyrie%20Irving%20%2835%29%3B%20High"
+  },
+  {
+   "n": 14,
+   "where": "The story",
+   "claim": "Kevin Durant led Houston with 28",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Houston_Rockets_season",
+   "source": "Wikipedia (Rockets season)",
+   "passage": "Game 6, October 30 @ Dallas: High points: Durant (28)",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Houston_Rockets_season#:~:text=Game%206%2C%20October%2030%20%40%20Dallas%3A%20High%20points%3A"
+  },
+  {
+   "n": 15,
+   "where": "The story",
+   "claim": "It was the NBA Cup's opening night, so the final also counts in West Group A",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NBA_Cup",
+   "source": "Wikipedia (2026 NBA Cup)",
+   "passage": "Regular season games played on Tuesdays and Fridays between October 30 and November 27 counted in the regular season standings and the NBA Cup standings",
+   "deep": "https://en.wikipedia.org/wiki/2026_NBA_Cup#:~:text=Regular%20season%20games%20played%20on%20Tuesdays%20and%20Fridays"
+  },
+  {
+   "n": 16,
+   "where": "The story",
+   "claim": "West Group A: Dallas and Houston with Denver, Phoenix and Utah",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NBA_Cup",
+   "source": "Wikipedia (2026 NBA Cup)",
+   "passage": "West Group A: Denver Nuggets (3), Houston Rockets (5), Phoenix Suns (7), Dallas Mavericks (12), Utah Jazz (15)",
+   "deep": "https://en.wikipedia.org/wiki/2026_NBA_Cup#:~:text=West%20Group%20A%3A%20Denver%20Nuggets%20%283%29%2C%20Houston%20Rockets"
+  },
+  {
+   "n": 17,
+   "where": "The story",
+   "claim": "On Wednesday, Oct. 28, at American Airlines Center, the Mavericks beat Oklahoma City 120–96",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Dallas_Mavericks_season",
+   "source": "Wikipedia (Mavericks season)",
+   "passage": "Game 5 - October 28, Oklahoma City Thunder, W 120–96, American Airlines Center, 18,111",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Dallas_Mavericks_season#:~:text=Game%205%20-%20October%2028%2C%20Oklahoma%20City%20Thunder%2C"
+  },
+  {
+   "n": 18,
+   "where": "The story",
+   "claim": "for the Thunder's first loss",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Oklahoma_City_Thunder_season",
+   "source": "Wikipedia (Thunder season)",
+   "passage": "Games 1–4 W (4–0); Game 5, Oct 28, @ Dallas, L 96–120, 4–1",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Oklahoma_City_Thunder_season#:~:text=Games%201%E2%80%934%20W%20%284%E2%80%930%29%3B%20Game%205%2C%20Oct%2028%2C"
+  },
+  {
+   "n": 19,
+   "where": "The story",
+   "claim": "Cooper Flagg scoring 26",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Dallas_Mavericks_season",
+   "source": "Wikipedia (Mavericks season)",
+   "passage": "Game 5: High Points: Cooper Flagg (26)",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Dallas_Mavericks_season#:~:text=Game%205%3A%20High%20Points%3A%20Cooper%20Flagg%20%2826%29"
+  },
+  {
+   "n": 20,
+   "where": "The story",
+   "claim": "Dallas was beaten at Houston in its opener",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Dallas_Mavericks_season",
+   "source": "Wikipedia (Mavericks season)",
+   "passage": "Game 1 - October 21, @ Houston Rockets, L 110–128, Toyota Center, 0–1",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Dallas_Mavericks_season#:~:text=Game%201%20-%20October%2021%2C%20%40%20Houston%20Rockets%2C"
+  },
+  {
+   "n": 21,
+   "where": "The story",
+   "claim": "and at home by San Antonio",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Dallas_Mavericks_season",
+   "source": "Wikipedia (Mavericks season)",
+   "passage": "Game 3 - October 24, San Antonio Spurs, L 106–122, American Airlines Center, 1–2",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Dallas_Mavericks_season#:~:text=Game%203%20-%20October%2024%2C%20San%20Antonio%20Spurs%2C"
+  },
+  {
+   "n": 22,
+   "where": "The story",
+   "claim": "Dallas is now 4–2",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Dallas_Mavericks_season",
+   "source": "Wikipedia (Mavericks season)",
+   "passage": "Game 6 … Record: 4–2",
+   "deep": ""
+  },
+  {
+   "n": 23,
+   "where": "The story",
+   "claim": "Memphis, at 5–0, the league's only unbeaten team in Wikipedia's season standings",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_NBA_season",
+   "source": "Wikipedia (2026–27 NBA season)",
+   "passage": "Western Conference standings: Memphis Grizzlies 5 W 0 L; all other teams have one or more losses",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_NBA_season#:~:text=Western%20Conference%20standings%3A%20Memphis%20Grizzlies%205%20W%200"
+  },
+  {
+   "n": 24,
+   "where": "The story",
+   "claim": "Memphis's first 5–0 start since 2014–15",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Memphis_Grizzlies_season",
+   "source": "Wikipedia (Grizzlies season)",
+   "passage": "The Grizzlies opened the season with a 5–0 start for the first time since 2014–15",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Memphis_Grizzlies_season#:~:text=The%20Grizzlies%20opened%20the%20season%20with%20a%205%E2%80%930"
+  },
+  {
+   "n": 25,
+   "where": "The story",
+   "claim": "Brooklyn 0–5, has yet to win",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_NBA_season",
+   "source": "Wikipedia (2026–27 NBA season)",
+   "passage": "Brooklyn Nets 0 W 5 L",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_NBA_season#:~:text=Brooklyn%20Nets%200%20W%205%20L"
+  },
+  {
+   "n": 26,
+   "where": "The story",
+   "claim": "Sacramento 0–5, has yet to win",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_NBA_season",
+   "source": "Wikipedia (2026–27 NBA season)",
+   "passage": "Sacramento Kings 0 W 5 L",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_NBA_season#:~:text=Sacramento%20Kings%200%20W%205%20L"
+  },
+  {
+   "n": 27,
+   "where": "The story",
+   "claim": "the Nets lost their Cup opener to Detroit 110–94",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NBA_Cup",
+   "source": "Wikipedia (2026 NBA Cup)",
+   "passage": "October 30: Detroit Pistons 110, Brooklyn Nets 94",
+   "deep": "https://en.wikipedia.org/wiki/2026_NBA_Cup#:~:text=October%2030%3A%20Detroit%20Pistons%20110%2C%20Brooklyn%20Nets%2094"
+  },
+  {
+   "n": 28,
+   "where": "The story",
+   "claim": "Friday's 10 Cup games",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NBA_Cup",
+   "source": "Wikipedia (2026 NBA Cup)",
+   "passage": "October 30 group games: six Eastern (DET–BKN, ORL–TOR, NYK–PHI, IND–MIA, CHA–WAS, CHI–BOS) and four Western (HOU–DAL, DEN–PHX, LAC–MIN, LAL–GSW); 10 games",
+   "deep": "https://en.wikipedia.org/wiki/2026_NBA_Cup#:~:text=October%2030%20group%20games%3A%20six%20Eastern%20%28DET%E2%80%93BKN%2C%20ORL%E2%80%93TOR%2C"
+  },
+  {
+   "n": 29,
+   "where": "The story",
+   "claim": "Cup games count in the regular-season standings",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NBA_Cup",
+   "source": "Wikipedia (2026 NBA Cup)",
+   "passage": "…counted in the regular season standings and the NBA Cup standings",
+   "deep": ""
+  },
+  {
+   "n": 30,
+   "where": "The story",
+   "claim": "five-team groups where each team plays only four group games, two at home and two away",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NBA_Cup",
+   "source": "Wikipedia (2026 NBA Cup)",
+   "passage": "Each team played one game against each of the other teams in its group, for a total of four games (two at home and two on the road)",
+   "deep": "https://en.wikipedia.org/wiki/2026_NBA_Cup#:~:text=Each%20team%20played%20one%20game%20against%20each%20of"
+  },
+  {
+   "n": 31,
+   "where": "The story",
+   "claim": "on Tuesdays and Fridays through Nov. 27",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NBA_Cup",
+   "source": "Wikipedia (2026 NBA Cup)",
+   "passage": "Regular season games played on Tuesdays and Fridays between October 30 and November 27…",
+   "deep": "https://en.wikipedia.org/wiki/2026_NBA_Cup#:~:text=Regular%20season%20games%20played%20on%20Tuesdays%20and%20Fridays"
+  },
+  {
+   "n": 32,
+   "where": "The story",
+   "claim": "the Rockets have three group games left",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NBA_Cup",
+   "source": "Wikipedia (2026 NBA Cup)",
+   "passage": "four group games each; Houston has played one (Oct 30 at Dallas), so three remain (arithmetic from the cited format)",
+   "deep": "https://en.wikipedia.org/wiki/2026_NBA_Cup#:~:text=four%20group%20games%20each%3B%20Houston%20has%20played%20one"
+  },
+  {
+   "n": 33,
+   "where": "The story",
+   "claim": "the quarterfinals on Dec. 4–5",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NBA_Cup",
+   "source": "Wikipedia (2026 NBA Cup)",
+   "passage": "Quarterfinals occurred on December 4–5, with semifinals on December 8–9",
+   "deep": "https://en.wikipedia.org/wiki/2026_NBA_Cup#:~:text=Quarterfinals%20occurred%20on%20December%204%E2%80%935%2C%20with%20semifinals%20on"
+  },
+  {
+   "n": 34,
+   "where": "The story",
+   "claim": "Dallas has itself lost twice",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Dallas_Mavericks_season",
+   "source": "Wikipedia (Mavericks season)",
+   "passage": "Record 4–2 (losses Oct 21 @ Houston, Oct 24 vs San Antonio)",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Dallas_Mavericks_season#:~:text=Record%204%E2%80%932%20%28losses%20Oct%2021%20%40%20Houston%2C%20Oct"
+  },
+  {
+   "n": 35,
+   "where": "The story",
+   "claim": "two of the West's unbeaten starts ended in the same building, against the same opponent",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Dallas_Mavericks_season",
+   "source": "Wikipedia (Mavericks season)",
+   "passage": "Oct 28 vs Oklahoma City (4–0) and Oct 30 vs Houston (5–0), both W, both at American Airlines Center",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Dallas_Mavericks_season#:~:text=Oct%2028%20vs%20Oklahoma%20City%20%284%E2%80%930%29%20and%20Oct"
+  },
+  {
+   "n": 36,
+   "where": "The story",
+   "claim": "Minnesota, 6–0 and the NFL's last unbeaten team",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Minnesota_Vikings_season",
+   "source": "Wikipedia (Vikings season)",
+   "passage": "The Vikings started the season 6–0 for the first time since 2009, and became the last undefeated team in the league",
+   "deep": "https://en.wikipedia.org/wiki/2026_Minnesota_Vikings_season#:~:text=The%20Vikings%20started%20the%20season%206%E2%80%930%20for%20the"
+  },
+  {
+   "n": 37,
+   "where": "The story",
+   "claim": "plays at Detroit on Sunday, Nov. 1, at 1 p.m. ET on Fox",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Detroit_Lions_season",
+   "source": "Wikipedia (Lions season)",
+   "passage": "Nov 1: Minnesota Vikings, 1:00 p.m. EST, Ford Field, Fox (Vikings page: 8 | November 1 | 12:00 p.m. [CT] | at Detroit Lions | Ford Field | Fox)",
+   "deep": "https://en.wikipedia.org/wiki/2026_Detroit_Lions_season#:~:text=Nov%201%3A%20Minnesota%20Vikings%2C%201%3A00%20p.m.%20EST%2C%20Ford"
+  },
+  {
+   "n": 38,
+   "where": "The story",
+   "claim": "the Vikings' first 6–0 start since 2009",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Minnesota_Vikings_season",
+   "source": "Wikipedia (Vikings season)",
+   "passage": "The Vikings started the season 6–0 for the first time since 2009",
+   "deep": "https://en.wikipedia.org/wiki/2026_Minnesota_Vikings_season#:~:text=The%20Vikings%20started%20the%20season%206%E2%80%930%20for%20the"
+  },
+  {
+   "n": 39,
+   "where": "The story",
+   "claim": "no opponent has scored more than 22 points against them",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Minnesota_Vikings_season",
+   "source": "Wikipedia (Vikings season)",
+   "passage": "Results: W 39–22 GB, W 9–3 CHI, W 23–16 TB, W 15–10 MIA, W 23–13 NO, W 16–10 IND; highest points allowed 22",
+   "deep": "https://en.wikipedia.org/wiki/2026_Minnesota_Vikings_season#:~:text=Results%3A%20W%2039%E2%80%9322%20GB%2C%20W%209%E2%80%933%20CHI%2C%20W"
+  },
+  {
+   "n": 40,
+   "where": "The story",
+   "claim": "first team since the 1934 Lions to start 4–0 without an offensive touchdown in two of those games",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Minnesota_Vikings_season",
+   "source": "Wikipedia (Vikings season)",
+   "passage": "…a 4–0 start despite not scoring an offensive touchdown in two of their first four games, making them the first team to accomplish this feat since the 1934 Lions",
+   "deep": ""
+  },
+  {
+   "n": 41,
+   "where": "The story",
+   "claim": "Chicago is 5–2",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Chicago_Bears_season",
+   "source": "Wikipedia (Bears season)",
+   "passage": "Week 7 vs New England W 30–24, record 5–2",
+   "deep": "https://en.wikipedia.org/wiki/2026_Chicago_Bears_season#:~:text=Week%207%20vs%20New%20England%20W%2030%E2%80%9324%2C%20record"
+  },
+  {
+   "n": 42,
+   "where": "The story",
+   "claim": "Detroit 4–2",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Detroit_Lions_season",
+   "source": "Wikipedia (Lions season)",
+   "passage": "Week 7 (Oct 25) W 20–17 vs Green Bay, Record: 4–2",
+   "deep": "https://en.wikipedia.org/wiki/2026_Detroit_Lions_season#:~:text=Week%207%20%28Oct%2025%29%20W%2020%E2%80%9317%20vs%20Green"
+  },
+  {
+   "n": 43,
+   "where": "The story",
+   "claim": "Green Bay 5–3 after Thursday's win over Carolina",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Green_Bay_Packers_season",
+   "source": "Wikipedia (Packers season)",
+   "passage": "Week 8 (Oct 29): Carolina Panthers - Win 27–19; current record 5–3 (Oct 29, 2026 is a Thursday)",
+   "deep": "https://en.wikipedia.org/wiki/2026_Green_Bay_Packers_season#:~:text=Week%208%20%28Oct%2029%29%3A%20Carolina%20Panthers%20-%20Win"
+  },
+  {
+   "n": 44,
+   "where": "The story",
+   "claim": "every NFC North team has a winning record",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Minnesota_Vikings_season",
+   "source": "Wikipedia (Vikings season)",
+   "passage": "MIN 6–0, CHI 5–2, DET 4–2, GB 5–3 per the four cited team pages",
+   "deep": "https://en.wikipedia.org/wiki/2026_Minnesota_Vikings_season#:~:text=MIN%206%E2%80%930%2C%20CHI%205%E2%80%932%2C%20DET%204%E2%80%932%2C%20GB%205%E2%80%933"
+  },
+  {
+   "n": 45,
+   "where": "The story",
+   "claim": "The Lions are coming off a 20–17 home win over the Packers on Oct. 25",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Detroit_Lions_season",
+   "source": "Wikipedia (Lions season)",
+   "passage": "Week 7 (Oct 25): W 20–17 vs Green Bay Packers at Ford Field on Fox",
+   "deep": "https://en.wikipedia.org/wiki/2026_Detroit_Lions_season#:~:text=Week%207%20%28Oct%2025%29%3A%20W%2020%E2%80%9317%20vs%20Green"
+  },
+  {
+   "n": 46,
+   "where": "The story",
+   "claim": "the Lions can pull within a game of Minnesota in the loss column",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Detroit_Lions_season",
+   "source": "Wikipedia (Lions season)",
+   "passage": "DET 4–2 (2 losses), MIN 6–0 (0 losses); a Detroit win makes it 2 losses to 1 (arithmetic from cited records)",
+   "deep": "https://en.wikipedia.org/wiki/2026_Detroit_Lions_season#:~:text=DET%204%E2%80%932%20%282%20losses%29%2C%20MIN%206%E2%80%930%20%280%20losses%29%3B"
+  },
+  {
+   "n": 47,
+   "where": "The story",
+   "claim": "Baltimore, 4–3",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Baltimore_Ravens_season",
+   "source": "Wikipedia (Ravens season)",
+   "passage": "Week 7: L 13–35 vs Cincinnati (4–3)",
+   "deep": "https://en.wikipedia.org/wiki/2026_Baltimore_Ravens_season#:~:text=Week%207%3A%20L%2013%E2%80%9335%20vs%20Cincinnati%20%284%E2%80%933%29"
+  },
+  {
+   "n": 48,
+   "where": "The story",
+   "claim": "plays at Buffalo at 1 p.m. ET on Sunday",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Baltimore_Ravens_season",
+   "source": "Wikipedia (Ravens season)",
+   "passage": "Week 8 on November 1 at 1:00 p.m. EST against Buffalo Bills on CBS",
+   "deep": "https://en.wikipedia.org/wiki/2026_Baltimore_Ravens_season#:~:text=Week%208%20on%20November%201%20at%201%3A00%20p.m."
+  },
+  {
+   "n": 49,
+   "where": "The story",
+   "claim": "Lamar Jackson was ruled out of the last three games, citing a left ankle sprain for the first two",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Baltimore_Ravens_season",
+   "source": "Wikipedia (Ravens season)",
+   "passage": "Week 5: ruled out … due to a left ankle sprain. Week 6: once again ruled out … due to a left ankle sprain. Week 7: once again ruled out of the game earlier in the week",
+   "deep": "https://en.wikipedia.org/wiki/2026_Baltimore_Ravens_season#:~:text=Week%205%3A%20ruled%20out"
+  },
+  {
+   "n": 50,
+   "where": "The story",
+   "claim": "they went 1–2 without him",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Baltimore_Ravens_season",
+   "source": "Wikipedia (Ravens season)",
+   "passage": "Week 5 W 30–23 (OT) vs Atlanta; Week 6 L 10–13 vs Cleveland; Week 7 L 13–35 vs Cincinnati",
+   "deep": "https://en.wikipedia.org/wiki/2026_Baltimore_Ravens_season#:~:text=Week%205%20W%2030%E2%80%9323%20%28OT%29%20vs%20Atlanta%3B%20Week"
+  },
+  {
+   "n": 51,
+   "where": "The story",
+   "claim": "Tulane won 38–31 in overtime at Charlotte on Friday, Oct. 30",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Tulane_Green_Wave_football_team",
+   "source": "Wikipedia (Tulane season)",
+   "passage": "October 30 | 6:00 p.m. | at Charlotte | W 38–31 OT | 8,106",
+   "deep": ""
+  },
+  {
+   "n": 52,
+   "where": "The story",
+   "claim": "to get back to 4–4",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Tulane_Green_Wave_football_team",
+   "source": "Wikipedia (Tulane season)",
+   "passage": "Tulane 3–4 before Charlotte, 4–4 after",
+   "deep": "https://en.wikipedia.org/wiki/2026_Tulane_Green_Wave_football_team#:~:text=Tulane%203%E2%80%934%20before%20Charlotte%2C%204%E2%80%934%20after"
+  },
+  {
+   "n": 53,
+   "where": "The story",
+   "claim": "Charlotte fell to 1–7",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Tulane_Green_Wave_football_team",
+   "source": "Wikipedia (Tulane season)",
+   "passage": "Conference standings table: Charlotte 1–7 overall",
+   "deep": "https://en.wikipedia.org/wiki/2026_Tulane_Green_Wave_football_team#:~:text=Conference%20standings%20table%3A%20Charlotte%201%E2%80%937%20overall"
+  },
+  {
+   "n": 54,
+   "where": "The story",
+   "claim": "The AP poll of Oct. 25 has three unbeaten teams, all 7–0",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings",
+   "source": "Wikipedia (FBS rankings)",
+   "passage": "Week 8 (Oct 25) AP top 25: only Miami (FL) (7–0), Utah (7–0) and UCLA (7–0) have no losses",
+   "deep": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings#:~:text=Week%208%20%28Oct%2025%29%20AP%20top%2025%3A%20only"
+  },
+  {
+   "n": 55,
+   "where": "The story",
+   "claim": "all three play on Saturday, Oct. 31",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Miami_Hurricanes_football_team",
+   "source": "Wikipedia (Miami season)",
+   "passage": "No. 1 Miami Hurricanes (7–0) at North Carolina Tar Heels (4–3), October 31; Utah at Cincinnati Oct 31; UCLA vs Nevada Oct 31 (their team pages)",
+   "deep": "https://en.wikipedia.org/wiki/2026_Miami_Hurricanes_football_team#:~:text=No.%201%20Miami%20Hurricanes%20%287%E2%80%930%29%20at%20North%20Carolina"
+  },
+  {
+   "n": 56,
+   "where": "The story",
+   "claim": "No. 6 Utah",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings",
+   "source": "Wikipedia (FBS rankings)",
+   "passage": "6. Utah (7–0)",
+   "deep": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings#:~:text=6.%20Utah%20%287%E2%80%930%29"
+  },
+  {
+   "n": 57,
+   "where": "The story",
+   "claim": "Utah, in Morgan Scalley's first season",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Utah_Utes_football_team",
+   "source": "Wikipedia (Utah season)",
+   "passage": "Morgan Scalley in his first season, taking over after Kyle Whittingham stepped down",
+   "deep": "https://en.wikipedia.org/wiki/2026_Utah_Utes_football_team#:~:text=Morgan%20Scalley%20in%20his%20first%20season%2C%20taking%20over"
+  },
+  {
+   "n": 58,
+   "where": "The story",
+   "claim": "plays at Cincinnati (5–2)",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Utah_Utes_football_team",
+   "source": "Wikipedia (Utah season)",
+   "passage": "October 31 … Nippert Stadium in Cincinnati. No. 6 Utah faces Cincinnati (5–2 record)",
+   "deep": ""
+  },
+  {
+   "n": 59,
+   "where": "The story",
+   "claim": "at 3:45 p.m. ET on ESPN",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Utah_Utes_football_team",
+   "source": "Wikipedia (Utah season)",
+   "passage": "October 31 at 1:45 p.m. Mountain Time … airs on ESPN (1:45 p.m. MDT on Oct 31, before DST ends Nov 1, is 3:45 p.m. EDT)",
+   "deep": "https://en.wikipedia.org/wiki/2026_Utah_Utes_football_team#:~:text=October%2031%20at%201%3A45%20p.m.%20Mountain%20Time"
+  },
+  {
+   "n": 60,
+   "where": "The story",
+   "claim": "a week after beating the Houston Cougars 21–13",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Utah_Utes_football_team",
+   "source": "Wikipedia (Utah season)",
+   "passage": "Utah defeated No. 14 Houston 21–13 on October 24 at Rice–Eccles Stadium",
+   "deep": "https://en.wikipedia.org/wiki/2026_Utah_Utes_football_team#:~:text=Utah%20defeated%20No.%2014%20Houston%2021%E2%80%9313%20on%20October"
+  },
+  {
+   "n": 61,
+   "where": "The story",
+   "claim": "No. 7 UCLA",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings",
+   "source": "Wikipedia (FBS rankings)",
+   "passage": "7. UCLA (7–0)",
+   "deep": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings#:~:text=7.%20UCLA%20%287%E2%80%930%29"
+  },
+  {
+   "n": 62,
+   "where": "The story",
+   "claim": "UCLA, in Bob Chesney's first season",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team",
+   "source": "Wikipedia (UCLA season)",
+   "passage": "Bob Chesney is in his first season leading UCLA",
+   "deep": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team#:~:text=Bob%20Chesney%20is%20in%20his%20first%20season%20leading"
+  },
+  {
+   "n": 63,
+   "where": "The story",
+   "claim": "hosts Nevada (3–4) at the Rose Bowl",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team",
+   "source": "Wikipedia (UCLA season)",
+   "passage": "Nevada Game (October 31) … Venue: Rose Bowl, Pasadena, California; Nevada's Record: 3–4",
+   "deep": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team#:~:text=Nevada%20Game%20%28October%2031%29"
+  },
+  {
+   "n": 64,
+   "where": "The story",
+   "claim": "at 4:15 p.m. ET on the Big Ten Network",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team",
+   "source": "Wikipedia (UCLA season)",
+   "passage": "Time: 1:15 p.m. [Pacific]; TV Network: BTN (1:15 p.m. PDT on Oct 31 is 4:15 p.m. EDT)",
+   "deep": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team#:~:text=Time%3A%201%3A15%20p.m.%20%5BPacific%5D%3B%20TV%20Network%3A%20BTN%20%281%3A15"
+  },
+  {
+   "n": 65,
+   "where": "The story",
+   "claim": "No. 1 Miami, which beat Pittsburgh 52–23 last week",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Miami_Hurricanes_football_team",
+   "source": "Wikipedia (Miami season)",
+   "passage": "Pittsburgh Panthers (5–2) at No. 1 Miami Hurricanes (6–0), October 24, W 52–23, 65,991",
+   "deep": "https://en.wikipedia.org/wiki/2026_Miami_Hurricanes_football_team#:~:text=Pittsburgh%20Panthers%20%285%E2%80%932%29%20at%20No.%201%20Miami%20Hurricanes"
+  },
+  {
+   "n": 66,
+   "where": "The story",
+   "claim": "plays at North Carolina at 7:30 p.m. ET on ABC",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Miami_Hurricanes_football_team",
+   "source": "Wikipedia (Miami season)",
+   "passage": "at North Carolina … 7:30 p.m. EDT … ABC; All times are in Eastern time",
+   "deep": "https://en.wikipedia.org/wiki/2026_Miami_Hurricanes_football_team#:~:text=at%20North%20Carolina"
+  },
+  {
+   "n": 67,
+   "where": "The story",
+   "claim": "The CFP selection committee publishes its first rankings on Tuesday, Nov. 3",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings",
+   "source": "Wikipedia (FBS rankings)",
+   "passage": "CFP rankings table columns: Week 10 Nov 3, Week 11 Nov 10, … Week 15 (Final) Dec 6 (Nov 3, 2026 is a Tuesday)",
+   "deep": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings#:~:text=CFP%20rankings%20table%20columns%3A%20Week%2010%20Nov%203%2C"
+  },
+  {
+   "n": 68,
+   "where": "The story",
+   "claim": "so Saturday's results are the last before it",
+   "verdict": "unsupported",
+   "url": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings",
+   "source": "Wikipedia (FBS rankings)",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 69,
+   "where": "Games that can change the picture, item 1",
+   "claim": "Sat., Oct. 31: Thunder at Rockets",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Houston_Rockets_season",
+   "source": "Wikipedia (Rockets season)",
+   "passage": "| 7 | October 31 | Oklahoma City | Toyota Center | – |",
+   "deep": ""
+  },
+  {
+   "n": 70,
+   "where": "Games that can change the picture, item 1",
+   "claim": "Sat., Oct. 31: Kings at Grizzlies, Memphis's 5–0 start at home to winless Sacramento",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Memphis_Grizzlies_season",
+   "source": "Wikipedia (Grizzlies season)",
+   "passage": "| 6 | October 31 | Sacramento | FedExForum | – | (Sacramento 0–5 in season standings)",
+   "deep": ""
+  },
+  {
+   "n": 71,
+   "where": "Games that can change the picture, item 1",
+   "claim": "Houston's first game after its first loss, against the other team Dallas just beat",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Houston_Rockets_season",
+   "source": "Wikipedia (Rockets season)",
+   "passage": "Game 6 Oct 30 L 111–116 (first loss, 5–1); Game 7 Oct 31 vs Oklahoma City",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Houston_Rockets_season#:~:text=Game%206%20Oct%2030%20L%20111%E2%80%93116%20%28first%20loss%2C"
+  },
+  {
+   "n": 72,
+   "where": "Games that can change the picture, item 1",
+   "claim": "Tip times are not listed in the cited records",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Memphis_Grizzlies_season",
+   "source": "Wikipedia (Grizzlies season)",
+   "passage": "Both Oct 31 rows (Rockets and Grizzlies pages) show game number, date, opponent, venue and '–', with no time",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Memphis_Grizzlies_season#:~:text=Both%20Oct%2031%20rows%20%28Rockets%20and%20Grizzlies%20pages%29"
+  },
+  {
+   "n": 73,
+   "where": "Games that can change the picture, item 2",
+   "claim": "Mon., Nov. 2, 8:15 p.m. ET, Bears at Seahawks, Chicago 5–2, at Lumen Field, on ESPN",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Chicago_Bears_season",
+   "source": "Wikipedia (Bears season)",
+   "passage": "8 | November 2 | 7:15 p.m. | at Seattle Seahawks | Lumen Field | ESPN; column header 'Time (CT)' (7:15 p.m. CST = 8:15 p.m. EST; Nov 2, 2026 is a Monday)",
+   "deep": ""
+  },
+  {
+   "n": 74,
+   "where": "Games that can change the picture, item 3",
+   "claim": "Tue., Nov. 3: First CFP rankings, the committee's first ranking of the season",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings",
+   "source": "Wikipedia (FBS rankings)",
+   "passage": "CFP rankings table columns begin 'Week 10 Nov 3'",
+   "deep": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings#:~:text=CFP%20rankings%20table%20columns%20begin%20%27Week%2010%20Nov"
+  },
+  {
+   "n": 75,
+   "where": "Games that can change the picture, item 4",
+   "claim": "Fri., Nov. 6: Grizzlies vs. Thunder, Memphis's first NBA Cup game, in West Group B",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Memphis_Grizzlies_season",
+   "source": "Wikipedia (Grizzlies season)",
+   "passage": "Game 9 - November 6: Oklahoma City at FedExForum (NBA Cup); West Group B, 0 games played as of October 30; no Memphis game on Oct 30 or Nov 3. Cup page: West Group B includes Oklahoma City Thunder and Memphis Grizzlies",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Memphis_Grizzlies_season#:~:text=Game%209%20-%20November%206%3A%20Oklahoma%20City%20at"
+  },
+  {
+   "n": 76,
+   "where": "Go to the record, item 1",
+   "claim": "2026 NBA Cup: all six groups, the opening-night results and the knockout dates",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NBA_Cup",
+   "source": "Wikipedia (2026 NBA Cup)",
+   "passage": "Page lists three five-team groups per conference, the October 30 results and the quarterfinal/semifinal dates",
+   "deep": "https://en.wikipedia.org/wiki/2026_NBA_Cup#:~:text=Page%20lists%20three%20five-team%20groups%20per%20conference%2C%20the"
+  },
+  {
+   "n": 77,
+   "where": "Go to the record, item 2",
+   "claim": "2026 Minnesota Vikings season: every score of the 6–0 start, game by game",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Minnesota_Vikings_season",
+   "source": "Wikipedia (Vikings season)",
+   "passage": "Schedule lists all six wins with scores (Weeks 1–5 and 7)",
+   "deep": "https://en.wikipedia.org/wiki/2026_Minnesota_Vikings_season#:~:text=Schedule%20lists%20all%20six%20wins%20with%20scores%20%28Weeks"
+  },
+  {
+   "n": 78,
+   "where": "Go to the record, item 3",
+   "claim": "2026 FBS rankings: the AP and coaches' polls, and the CFP ranking dates",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings",
+   "source": "Wikipedia (FBS rankings)",
+   "passage": "AP poll weekly tables; CFP rankings columns Nov 3 – Dec 6",
+   "deep": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings#:~:text=AP%20poll%20weekly%20tables%3B%20CFP%20rankings%20columns%20Nov"
+  }
+ ],
+ "notes": []
+}

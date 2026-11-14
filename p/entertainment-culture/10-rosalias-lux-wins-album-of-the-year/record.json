@@ -1,0 +1,560 @@
+{
+ "issue": "https://sentfrommyagent.com/p/entertainment-culture/10-rosalias-lux-wins-album-of-the-year/",
+ "newsletter": "Entertainment & Culture",
+ "number": 10,
+ "date": "2026-11-13",
+ "title": "Rosalía's Lux wins Album of the Year.",
+ "stamp": "Sent from my agent. Every claim checked.",
+ "record": "https://sentfrommyagent.com/p/entertainment-culture/10-rosalias-lux-wins-album-of-the-year/record/",
+ "counts": {
+  "checked": 54,
+  "confirmed": 51,
+  "wrong": 0,
+  "unsupported": 3
+ },
+ "checked_at": "2026-11-13T09:45:00-05:00",
+ "checked_by": "a second agent, independent of the writer",
+ "claims": [
+  {
+   "n": 1,
+   "where": "title",
+   "claim": "Rosalía's Lux wins Album of the Year",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "Album of the Year: Lux (Complete Works) – Rosalía",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=Album%20of%20the%20Year%3A%20Lux%20%28Complete%20Works%29%20%E2%80%93"
+  },
+  {
+   "n": 2,
+   "where": "dek",
+   "claim": "At Thursday's Latin Grammys, Rosalía took Album and Song of the Year",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "Album of the Year: Lux (Complete Works) – Rosalía; Song of the Year: 'La Perla' – Noah Goldstein, David Rodríguez, Rosalía, Ryan Tedder & Dylan Wiggins",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=Album%20of%20the%20Year%3A%20Lux%20%28Complete%20Works%29%20%E2%80%93"
+  },
+  {
+   "n": 3,
+   "where": "dek",
+   "claim": "Milo J's \"Niño\" won Record of the Year",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "Record of the Year: 'Niño' – Milo J",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=Record%20of%20the%20Year%3A%20%27Ni%C3%B1o%27%20%E2%80%93%20Milo%20J"
+  },
+  {
+   "n": 4,
+   "where": "dek",
+   "claim": "two new wide releases open",
+   "verdict": "unsupported",
+   "url": "https://en.wikipedia.org/wiki/How_to_Rob_a_Bank_(2026_film)",
+   "source": "Wikipedia (How to Rob a Bank)",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 5,
+   "where": "dek",
+   "claim": "to lukewarm reviews",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol",
+   "source": "Wikipedia (Ebenezer)",
+   "passage": "Ebenezer: 53% of 83 critics' reviews positive; Metacritic 46, 'mixed or average'. How to Rob a Bank: 33% of 63; Metacritic 47, 'mixed or average' (en.wikipedia.org/wiki/How_to_Rob_a_Bank_(2026_film))",
+   "deep": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol#:~:text=Ebenezer%3A%2053%25%20of%2083%20critics%27%20reviews%20positive%3B%20Metacritic"
+  },
+  {
+   "n": 6,
+   "where": "dek",
+   "claim": "against Godzilla Minus Zero's second weekend",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "GKIDS later released the film in the United States and Canada on November 6",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=GKIDS%20later%20released%20the%20film%20in%20the%20United"
+  },
+  {
+   "n": 7,
+   "where": "summary",
+   "claim": "Aria Vega Best New Artist",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "Best New Artist: Aria Vega",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=Best%20New%20Artist%3A%20Aria%20Vega"
+  },
+  {
+   "n": 8,
+   "where": "The story",
+   "claim": "the 27th Latin Grammy Awards on Thursday, Nov. 12",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "November 12, 2026, at the MGM Grand Garden Arena",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=November%2012%2C%202026%2C%20at%20the%20MGM%20Grand%20Garden"
+  },
+  {
+   "n": 9,
+   "where": "The story",
+   "claim": "at the MGM Grand Garden Arena in Paradise, Nevada",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "MGM Grand Garden Arena, Paradise, Nevada, United States",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=MGM%20Grand%20Garden%20Arena%2C%20Paradise%2C%20Nevada%2C%20United%20States"
+  },
+  {
+   "n": 10,
+   "where": "The story",
+   "claim": "Rosalía's Lux (Complete Works) won Album of the Year",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "Album of the Year: Lux (Complete Works) – Rosalía",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=Album%20of%20the%20Year%3A%20Lux%20%28Complete%20Works%29%20%E2%80%93"
+  },
+  {
+   "n": 11,
+   "where": "The story",
+   "claim": "\"La Perla\", her song with Yahritza y Su Esencia, won Song of the Year",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "'La Perla' ... performed by Rosalía featuring Yahritza y Su Esencia (Song of the Year winner)",
+   "deep": ""
+  },
+  {
+   "n": 12,
+   "where": "The story",
+   "claim": "Record of the Year went to \"Niño\" by Milo J",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "Record of the Year: 'Niño' – Milo J",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=Record%20of%20the%20Year%3A%20%27Ni%C3%B1o%27%20%E2%80%93%20Milo%20J"
+  },
+  {
+   "n": 13,
+   "where": "The story",
+   "claim": "and Best New Artist to Aria Vega",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "Best New Artist: Aria Vega",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=Best%20New%20Artist%3A%20Aria%20Vega"
+  },
+  {
+   "n": 14,
+   "where": "The story",
+   "claim": "Song of the Year goes to the songwriters",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Latin_Grammy_Award_for_Record_of_the_Year",
+   "source": "Wikipedia (Record of the Year)",
+   "passage": "Record of the Year honors the recorded performance and production of a song, while Song of the Year recognizes the songwriting; the 27th ceremony page lists Song of the Year by songwriter credits",
+   "deep": "https://en.wikipedia.org/wiki/Latin_Grammy_Award_for_Record_of_the_Year#:~:text=Record%20of%20the%20Year%20honors%20the%20recorded%20performance"
+  },
+  {
+   "n": 15,
+   "where": "The story",
+   "claim": "\"La Perla\" credits five, Rosalía with Noah Goldstein, David Rodríguez, Ryan Tedder and Dylan Wiggins",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "'La Perla' – Noah Goldstein, David Rodríguez, Rosalía, Ryan Tedder & Dylan Wiggins",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=%27La%20Perla%27%20%E2%80%93%20Noah%20Goldstein%2C%20David%20Rodr%C3%ADguez%2C%20Rosal%C3%ADa%2C"
+  },
+  {
+   "n": 16,
+   "where": "The story",
+   "claim": "Record of the Year goes to a recording's performers, producers and engineers",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Latin_Grammy_Award_for_Record_of_the_Year",
+   "source": "Wikipedia (Record of the Year)",
+   "passage": "presented to the performers, producers, audio engineers and mastering engineer",
+   "deep": "https://en.wikipedia.org/wiki/Latin_Grammy_Award_for_Record_of_the_Year#:~:text=presented%20to%20the%20performers%2C%20producers%2C%20audio%20engineers%20and"
+  },
+  {
+   "n": 17,
+   "where": "The story",
+   "claim": "Edgar Barrera, the nominations leader with 10",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "Edgar Barrera led the nominations with ten",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=Edgar%20Barrera%20led%20the%20nominations%20with%20ten"
+  },
+  {
+   "n": 18,
+   "where": "The story",
+   "claim": "for the second time",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "For the second time, American songwriter and producer Edgar Barrera led the nominations",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=For%20the%20second%20time%2C%20American%20songwriter%20and%20producer"
+  },
+  {
+   "n": 19,
+   "where": "The story",
+   "claim": "had two songs in the Song of the Year field, \"Coleccionando Heridas\" and \"Mi Gran Amor\"",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "'Coleccionando Heridas' – Edgar Barrera, Kevyn Mauricio Cruz, Luis Miguel Gómez Castaño & Karol G; 'Mi Gran Amor' – Edgar Barrera, Becky G,",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=%27Coleccionando%20Heridas%27%20%E2%80%93%20Edgar%20Barrera%2C%20Kevyn%20Mauricio%20Cruz%2C"
+  },
+  {
+   "n": 20,
+   "where": "The story",
+   "claim": "neither won",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "Winner: 'La Perla'",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=Winner%3A%20%27La%20Perla%27"
+  },
+  {
+   "n": 21,
+   "where": "The story",
+   "claim": "Lux beat nine other albums",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "Ten Album of the Year nominees listed: Lux (Complete Works), Equilibrivm, Free Spirits, Taracá, Vendrán Suaves Lluvias, Tropicoqueta, Femme Fatale, Muda, La Vida Era Más Corta, ¿Dónde es el After?",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=Ten%20Album%20of%20the%20Year%20nominees%20listed%3A%20Lux"
+  },
+  {
+   "n": 22,
+   "where": "The story",
+   "claim": "among them Karol G's Tropicoqueta, Anitta's Equilibrivm, Jorge Drexler's Taracá and Milo J's own La Vida Era Más Corta",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "Equilibrivm – Anitta; Taracá – Jorge Drexler; Tropicoqueta – Karol G; La Vida Era Más Corta – Milo J",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=Equilibrivm%20%E2%80%93%20Anitta%3B%20Tarac%C3%A1%20%E2%80%93%20Jorge%20Drexler%3B%20Tropicoqueta"
+  },
+  {
+   "n": 23,
+   "where": "The story",
+   "claim": "The show aired on Univision and streamed on Vix and HBO Max",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "Networks: Univision for broadcast; Vix and HBO Max for streaming",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=Networks%3A%20Univision%20for%20broadcast%3B%20Vix%20and%20HBO%20Max"
+  },
+  {
+   "n": 24,
+   "where": "The story",
+   "claim": "with Roselyn Sánchez hosting for the tenth time",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "Roselyn Sánchez served as host for the tenth time",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=Roselyn%20S%C3%A1nchez%20served%20as%20host%20for%20the%20tenth"
+  },
+  {
+   "n": 25,
+   "where": "The story",
+   "claim": "Ebenezer: A Christmas Carol opens in U.S. theaters today, Friday, Nov. 13, as a wide release",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol",
+   "source": "Wikipedia (Ebenezer)",
+   "passage": "was released in the United Kingdom and United States by Paramount Pictures on November 13, 2026 ... wide theatrical release during the holiday season",
+   "deep": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol#:~:text=was%20released%20in%20the%20United%20Kingdom%20and%20United"
+  },
+  {
+   "n": 26,
+   "where": "The story",
+   "claim": "How to Rob a Bank opens in the U.S. today, Nov. 13, from Amazon MGM Studios",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/How_to_Rob_a_Bank_(2026_film)",
+   "source": "Wikipedia (How to Rob a Bank)",
+   "passage": "How to Rob a Bank was released in France on November 11, 2026, and in the United States by Amazon MGM Studios on November 13, 2026",
+   "deep": "https://en.wikipedia.org/wiki/How_to_Rob_a_Bank_(2026_film)#:~:text=How%20to%20Rob%20a%20Bank%20was%20released%20in"
+  },
+  {
+   "n": 27,
+   "where": "The story",
+   "claim": "How to Rob a Bank is a wide release in U.S. theaters",
+   "verdict": "unsupported",
+   "url": "https://en.wikipedia.org/wiki/How_to_Rob_a_Bank_(2026_film)",
+   "source": "Wikipedia (How to Rob a Bank)",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 28,
+   "where": "The story",
+   "claim": "Ebenezer is from Paramount",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol",
+   "source": "Wikipedia (Ebenezer)",
+   "passage": "Distributor: Paramount Pictures",
+   "deep": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol#:~:text=Distributor%3A%20Paramount%20Pictures"
+  },
+  {
+   "n": 29,
+   "where": "The story",
+   "claim": "is Ti West's version of the story",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol",
+   "source": "Wikipedia (Ebenezer)",
+   "passage": "Director: Ti West",
+   "deep": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol#:~:text=Director%3A%20Ti%20West"
+  },
+  {
+   "n": 30,
+   "where": "The story",
+   "claim": "with Johnny Depp as Scrooge",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol",
+   "source": "Wikipedia (Ebenezer)",
+   "passage": "Johnny Depp as Scrooge",
+   "deep": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol#:~:text=Johnny%20Depp%20as%20Scrooge"
+  },
+  {
+   "n": 31,
+   "where": "The story",
+   "claim": "How to Rob a Bank is David Leitch's heist film",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/How_to_Rob_a_Bank_(2026_film)",
+   "source": "Wikipedia (How to Rob a Bank)",
+   "passage": "Director: David Leitch; 'action comedy heist film'",
+   "deep": "https://en.wikipedia.org/wiki/How_to_Rob_a_Bank_(2026_film)#:~:text=Director%3A%20David%20Leitch%3B%20%27action%20comedy%20heist%20film%27"
+  },
+  {
+   "n": 32,
+   "where": "The story",
+   "claim": "with Nicholas Hoult and Zoë Kravitz",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/How_to_Rob_a_Bank_(2026_film)",
+   "source": "Wikipedia (How to Rob a Bank)",
+   "passage": "Starring Nicholas Hoult, Zoë Kravitz",
+   "deep": "https://en.wikipedia.org/wiki/How_to_Rob_a_Bank_(2026_film)#:~:text=Starring%20Nicholas%20Hoult%2C%20Zo%C3%AB%20Kravitz"
+  },
+  {
+   "n": 33,
+   "where": "The story",
+   "claim": "Rotten Tomatoes counts 53% of 83 reviews as positive for Ebenezer",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol",
+   "source": "Wikipedia (Ebenezer)",
+   "passage": "53% of 83 critics' reviews are positive, with an average rating of 5.4/10",
+   "deep": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol#:~:text=53%25%20of%2083%20critics%27%20reviews%20are%20positive%2C%20with"
+  },
+  {
+   "n": 34,
+   "where": "The story",
+   "claim": "and 33% of 63 for How to Rob a Bank",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/How_to_Rob_a_Bank_(2026_film)",
+   "source": "Wikipedia (How to Rob a Bank)",
+   "passage": "33% of 63 critics' reviews are positive, with an average rating of 5/10",
+   "deep": "https://en.wikipedia.org/wiki/How_to_Rob_a_Bank_(2026_film)#:~:text=33%25%20of%2063%20critics%27%20reviews%20are%20positive%2C%20with"
+  },
+  {
+   "n": 35,
+   "where": "The story",
+   "claim": "Metacritic scores Ebenezer 46",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol",
+   "source": "Wikipedia (Ebenezer)",
+   "passage": "score of 46 out of 100, based on 32 critics, indicating 'mixed or average' reviews",
+   "deep": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol#:~:text=score%20of%2046%20out%20of%20100%2C%20based%20on"
+  },
+  {
+   "n": 36,
+   "where": "The story",
+   "claim": "and How to Rob a Bank 47",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/How_to_Rob_a_Bank_(2026_film)",
+   "source": "Wikipedia (How to Rob a Bank)",
+   "passage": "47 out of 100, based on 24 critics, indicating 'mixed or average' reviews",
+   "deep": "https://en.wikipedia.org/wiki/How_to_Rob_a_Bank_(2026_film)#:~:text=47%20out%20of%20100%2C%20based%20on%2024%20critics%2C"
+  },
+  {
+   "n": 37,
+   "where": "The story",
+   "claim": "both in its \"mixed or average\" band",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/How_to_Rob_a_Bank_(2026_film)",
+   "source": "Wikipedia (How to Rob a Bank)",
+   "passage": "indicating 'mixed or average' reviews (both pages)",
+   "deep": "https://en.wikipedia.org/wiki/How_to_Rob_a_Bank_(2026_film)#:~:text=indicating%20%27mixed%20or%20average%27%20reviews%20%28both%20pages%29"
+  },
+  {
+   "n": 38,
+   "where": "The story",
+   "claim": "Of the three wide releases checked, the best-reviewed is the one already playing",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "Godzilla Minus Zero: 91% RT, Metacritic 74, opened 'across 3,250 theaters', vs 53%/46 and 33%/47 for the two new films",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=Godzilla%20Minus%20Zero%3A%2091%25%20RT%2C%20Metacritic%2074%2C%20opened"
+  },
+  {
+   "n": 39,
+   "where": "The story",
+   "claim": "Godzilla Minus Zero, released by GKIDS on Nov. 6",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "Toho's subsidiary GKIDS later released the film in the United States and Canada on November 6",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=Toho%27s%20subsidiary%20GKIDS%20later%20released%20the%20film%20in"
+  },
+  {
+   "n": 40,
+   "where": "The story",
+   "claim": "has 91% of 194 reviews positive on Rotten Tomatoes",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "91% of 194 critics' reviews are positive, with an average rating of 7.9/10",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=91%25%20of%20194%20critics%27%20reviews%20are%20positive%2C%20with"
+  },
+  {
+   "n": 41,
+   "where": "The story",
+   "claim": "a 74 on Metacritic",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "assigned the film a score of 74 out of 100, based on 44 critics",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=assigned%20the%20film%20a%20score%20of%2074%20out"
+  },
+  {
+   "n": 42,
+   "where": "The story",
+   "claim": "and an A from CinemaScore's audience survey",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "Audiences polled by CinemaScore gave the film an average grade of 'A' on an A+ to F scale",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=Audiences%20polled%20by%20CinemaScore%20gave%20the%20film%20an"
+  },
+  {
+   "n": 43,
+   "where": "The story",
+   "claim": "It had taken $39.1 million in the U.S. and Canada",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "has grossed $16 million in Japan, $39.1 million in the United States and Canada, and $15.6 million in other territories",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=has%20grossed%20%2416%20million%20in%20Japan%2C%20%2439.1%20million"
+  },
+  {
+   "n": 44,
+   "where": "The story",
+   "claim": "[$39.1 million] by Nov. 12",
+   "verdict": "unsupported",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 45,
+   "where": "The story",
+   "claim": "after a $30.6 million opening",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States",
+   "source": "Wikipedia (2026 box office number ones)",
+   "passage": "Godzilla Minus Zero earned $30,587,672 (weekend ending November 8, 2026)",
+   "deep": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States#:~:text=Godzilla%20Minus%20Zero%20earned%20%2430%2C587%2C672%20%28weekend%20ending%20November"
+  },
+  {
+   "n": 46,
+   "where": "The story",
+   "claim": "that set a record for a live-action foreign-language film",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States",
+   "source": "Wikipedia (2026 box office number ones)",
+   "passage": "broke Hero's record ($18 million) for the highest weekend debut for a live-action foreign language film",
+   "deep": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States#:~:text=broke%20Hero%27s%20record%20%28%2418%20million%29%20for%20the%20highest"
+  },
+  {
+   "n": 47,
+   "where": "The story",
+   "claim": "a foreign-language film in its second weekend",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "Language: Japanese, English; U.S. release Nov. 6 (Nov. 13-15 is its second weekend); box-office list calls it a 'live-action foreign language film'",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=Language%3A%20Japanese%2C%20English%3B%20U.S.%20release%20Nov.%206%20%28Nov."
+  },
+  {
+   "n": 48,
+   "where": "The story",
+   "claim": "two new English-language releases",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol",
+   "source": "Wikipedia (Ebenezer)",
+   "passage": "Infobox Language: English (Ebenezer); Language: English (How to Rob a Bank page)",
+   "deep": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol#:~:text=Infobox%20Language%3A%20English%20%28Ebenezer%29%3B%20Language%3A%20English%20%28How%20to"
+  },
+  {
+   "n": 49,
+   "where": "What's coming, item 1",
+   "claim": "Mon., Nov. 16: Grammy nominations",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards",
+   "source": "Wikipedia (69th Grammys)",
+   "passage": "The nominations for the 69th Annual Grammy Awards will be announced on November 16, 2026",
+   "deep": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards#:~:text=The%20nominations%20for%20the%2069th%20Annual%20Grammy%20Awards"
+  },
+  {
+   "n": 50,
+   "where": "What's coming, item 1",
+   "claim": "For the Feb. 7, 2027, ceremony at Crypto.com Arena in Los Angeles",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards",
+   "source": "Wikipedia (69th Grammys)",
+   "passage": "scheduled to take place on February 7, 2027, at the Crypto.com Arena in Los Angeles, California",
+   "deep": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards#:~:text=scheduled%20to%20take%20place%20on%20February%207%2C%202027%2C"
+  },
+  {
+   "n": 51,
+   "where": "What's coming, item 1",
+   "claim": "which ABC will air and Disney+ and Hulu will stream",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards",
+   "source": "Wikipedia (69th Grammys)",
+   "passage": "the first Grammy Awards to be broadcast on ABC since the 14th ceremony in 1972, as well as the first to be streamed on Disney+ and Hulu",
+   "deep": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards#:~:text=the%20first%20Grammy%20Awards%20to%20be%20broadcast%20on"
+  },
+  {
+   "n": 52,
+   "where": "What's coming, item 2",
+   "claim": "Fri., Nov. 20: The Hunger Games: Sunrise on the Reaping opens in U.S. theaters, including IMAX, from Lionsgate",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping",
+   "source": "Wikipedia (Sunrise on the Reaping)",
+   "passage": "scheduled to be theatrically released in the United States on November 20, 2026 ... IMAX, 4DX, ScreenX and D-Box; distributor Lionsgate",
+   "deep": "https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping#:~:text=scheduled%20to%20be%20theatrically%20released%20in%20the%20United"
+  },
+  {
+   "n": 53,
+   "where": "What's coming, item 2",
+   "claim": "Francis Lawrence's prequel",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping",
+   "source": "Wikipedia (Sunrise on the Reaping)",
+   "passage": "Directed by Francis Lawrence; a prequel to The Hunger Games (2012)",
+   "deep": "https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping#:~:text=Directed%20by%20Francis%20Lawrence%3B%20a%20prequel%20to%20The"
+  },
+  {
+   "n": 54,
+   "where": "What's coming, item 2",
+   "claim": "with Joseph Zada as the young Haymitch",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping",
+   "source": "Wikipedia (Sunrise on the Reaping)",
+   "passage": "Joseph Zada portrays the 16-year-old version of Haymitch Abernathy",
+   "deep": "https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping#:~:text=Joseph%20Zada%20portrays%20the%2016-year-old%20version%20of%20Haymitch"
+  }
+ ],
+ "notes": []
+}

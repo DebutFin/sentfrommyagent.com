@@ -1,0 +1,510 @@
+{
+ "issue": "https://sentfrommyagent.com/p/entertainment-culture/01-tokyo-opens-its-film-festival/",
+ "newsletter": "Entertainment & Culture",
+ "number": 1,
+ "date": "2026-10-27",
+ "title": "Tokyo opens its film festival.",
+ "stamp": "Sent from my agent. Every claim checked.",
+ "record": "https://sentfrommyagent.com/p/entertainment-culture/01-tokyo-opens-its-film-festival/record/",
+ "counts": {
+  "checked": 49,
+  "confirmed": 48,
+  "wrong": 0,
+  "unsupported": 1
+ },
+ "checked_at": "2026-10-27T11:00:00-04:00",
+ "checked_by": "a second agent, independent of the writer",
+ "claims": [
+  {
+   "n": 1,
+   "where": "dek",
+   "claim": "The 39th Tokyo International Film Festival opened on Oct. 26",
+   "verdict": "confirmed",
+   "url": "https://2026.tiff-jp.net/news/en/?p=20984",
+   "source": "TIFF (opening report)",
+   "passage": "39th Tokyo International Film Festival ... opening, October 26, 2026",
+   "deep": "https://2026.tiff-jp.net/news/en/?p=20984#:~:text=39th%20Tokyo%20International%20Film%20Festival"
+  },
+  {
+   "n": 2,
+   "where": "dek",
+   "claim": "It opened under steady rain",
+   "verdict": "confirmed",
+   "url": "https://2026.tiff-jp.net/news/en/?p=20984",
+   "source": "TIFF (opening report)",
+   "passage": "Headline: \"Cascading Red Carpet Glistens Under a Steady Rain as TIFF Kicks Off Dynamic 39th Edition\" (the body says \"a (mostly) light rain\")",
+   "deep": "https://2026.tiff-jp.net/news/en/?p=20984#:~:text=Headline%3A%20%22Cascading%20Red%20Carpet%20Glistens%20Under%20a%20Steady"
+  },
+  {
+   "n": 3,
+   "where": "dek",
+   "claim": "Runs through Nov. 4",
+   "verdict": "confirmed",
+   "url": "https://2026.tiff-jp.net/en/",
+   "source": "TIFF (official site)",
+   "passage": "10.26 MON - 11.4 WED, 2026",
+   "deep": "https://2026.tiff-jp.net/en/#:~:text=10.26%20MON%20-%2011.4%20WED%2C%202026"
+  },
+  {
+   "n": 4,
+   "where": "dek",
+   "claim": "Fifteen films compete for the Tokyo Grand Prix",
+   "verdict": "confirmed",
+   "url": "https://2026.tiff-jp.net/news/en/?p=20984",
+   "source": "TIFF (opening report)",
+   "passage": "15 titles competing for the Tokyo Grand Prix",
+   "deep": "https://2026.tiff-jp.net/news/en/?p=20984#:~:text=15%20titles%20competing%20for%20the%20Tokyo%20Grand%20Prix"
+  },
+  {
+   "n": 5,
+   "where": "dek",
+   "claim": "Picked from 1,892 submissions",
+   "verdict": "confirmed",
+   "url": "https://2026.tiff-jp.net/news/en/?p=20984",
+   "source": "TIFF (opening report)",
+   "passage": "1,892 submissions from 112 countries and regions",
+   "deep": "https://2026.tiff-jp.net/news/en/?p=20984#:~:text=1%2C892%20submissions%20from%20112%20countries%20and%20regions"
+  },
+  {
+   "n": 6,
+   "where": "summary",
+   "claim": "The festival runs Oct. 26 to Nov. 4 with 204 films",
+   "verdict": "confirmed",
+   "url": "https://2026.tiff-jp.net/news/en/?p=20984",
+   "source": "TIFF (opening report)",
+   "passage": "204 films across 11 sections",
+   "deep": "https://2026.tiff-jp.net/news/en/?p=20984#:~:text=204%20films%20across%2011%20sections"
+  },
+  {
+   "n": 7,
+   "where": "summary",
+   "claim": "Dictionary.com picked maxxing",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_26",
+   "source": "Wikipedia (current events, Oct. 26)",
+   "passage": "maxxing has been named its word of the year for 2026 following a surge in its use across social media",
+   "deep": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_26#:~:text=maxxing%20has%20been%20named%20its%20word%20of%20the"
+  },
+  {
+   "n": 8,
+   "where": "The story",
+   "claim": "Opened Monday, Oct. 26, and runs through Wednesday, Nov. 4",
+   "verdict": "confirmed",
+   "url": "https://2026.tiff-jp.net/en/",
+   "source": "TIFF (official site)",
+   "passage": "10.26 MON - 11.4 WED, 2026",
+   "deep": "https://2026.tiff-jp.net/en/#:~:text=10.26%20MON%20-%2011.4%20WED%2C%202026"
+  },
+  {
+   "n": 9,
+   "where": "The story",
+   "claim": "In Tokyo's Hibiya, Yurakucho, Marunouchi and Ginza area",
+   "verdict": "confirmed",
+   "url": "https://2026.tiff-jp.net/en/",
+   "source": "TIFF (official site)",
+   "passage": "Hibiya-Yurakucho-Marunouchi-Ginza area",
+   "deep": ""
+  },
+  {
+   "n": 10,
+   "where": "The story",
+   "claim": "The festival lists 204 films across 11 sections",
+   "verdict": "confirmed",
+   "url": "https://2026.tiff-jp.net/news/en/?p=20984",
+   "source": "TIFF (opening report)",
+   "passage": "204 films across 11 sections",
+   "deep": "https://2026.tiff-jp.net/news/en/?p=20984#:~:text=204%20films%20across%2011%20sections"
+  },
+  {
+   "n": 11,
+   "where": "The story",
+   "claim": "Opened with Sukiyaki, directed by Zeze Takahisa",
+   "verdict": "confirmed",
+   "url": "https://2026.tiff-jp.net/news/en/?p=20984",
+   "source": "TIFF (opening report)",
+   "passage": "Opening film Sukiyaki, director Zeze Takahisa; official site: \"SUKIYAKI (2026/Japan)\"",
+   "deep": "https://2026.tiff-jp.net/news/en/?p=20984#:~:text=Opening%20film%20Sukiyaki%2C%20director%20Zeze%20Takahisa%3B%20official%20site%3A"
+  },
+  {
+   "n": 12,
+   "where": "The story",
+   "claim": "Closes with Colony, from Korea",
+   "verdict": "confirmed",
+   "url": "https://2026.tiff-jp.net/en/",
+   "source": "TIFF (official site)",
+   "passage": "Closing Film: Colony (2026/Korea)",
+   "deep": "https://2026.tiff-jp.net/en/#:~:text=Closing%20Film%3A%20Colony%20%282026%2FKorea%29"
+  },
+  {
+   "n": 13,
+   "where": "The story",
+   "claim": "Fifteen titles compete for the Tokyo Grand Prix in the International Competition",
+   "verdict": "confirmed",
+   "url": "https://2026.tiff-jp.net/news/en/?p=20984",
+   "source": "TIFF (opening report)",
+   "passage": "International Competition: 15 titles competing for the Tokyo Grand Prix",
+   "deep": "https://2026.tiff-jp.net/news/en/?p=20984#:~:text=International%20Competition%3A%2015%20titles%20competing%20for%20the%20Tokyo"
+  },
+  {
+   "n": 14,
+   "where": "The story",
+   "claim": "Drawn from 1,892 submissions from 112 countries and regions",
+   "verdict": "confirmed",
+   "url": "https://2026.tiff-jp.net/news/en/?p=20984",
+   "source": "TIFF (opening report)",
+   "passage": "1,892 submissions from 112 countries and regions",
+   "deep": "https://2026.tiff-jp.net/news/en/?p=20984#:~:text=1%2C892%20submissions%20from%20112%20countries%20and%20regions"
+  },
+  {
+   "n": 15,
+   "where": "The story",
+   "claim": "Jury led by the Australian filmmaker Rolf de Heer",
+   "verdict": "confirmed",
+   "url": "https://2026.tiff-jp.net/news/en/?p=20989",
+   "source": "TIFF (jury report)",
+   "passage": "Rolf de Heer – President, Australian writer/director/producer",
+   "deep": "https://2026.tiff-jp.net/news/en/?p=20989#:~:text=Rolf%20de%20Heer%20%E2%80%93%20President%2C%20Australian%20writer%2Fdirector%2Fproducer"
+  },
+  {
+   "n": 16,
+   "where": "The story",
+   "claim": "With the producers Alex Lo and Oh Jungwan",
+   "verdict": "confirmed",
+   "url": "https://2026.tiff-jp.net/news/en/?p=20989",
+   "source": "TIFF (jury report)",
+   "passage": "Alex Lo – Producer; Oh Jungwan – Producer",
+   "deep": "https://2026.tiff-jp.net/news/en/?p=20989#:~:text=Alex%20Lo%20%E2%80%93%20Producer%3B%20Oh%20Jungwan%20%E2%80%93%20Producer"
+  },
+  {
+   "n": 17,
+   "where": "The story",
+   "claim": "The actor Watanabe Makiko",
+   "verdict": "confirmed",
+   "url": "https://2026.tiff-jp.net/news/en/?p=20989",
+   "source": "TIFF (jury report)",
+   "passage": "Watanabe Makiko – Actor",
+   "deep": "https://2026.tiff-jp.net/news/en/?p=20989#:~:text=Watanabe%20Makiko%20%E2%80%93%20Actor"
+  },
+  {
+   "n": 18,
+   "where": "The story",
+   "claim": "The colorist Yov Moor",
+   "verdict": "confirmed",
+   "url": "https://2026.tiff-jp.net/news/en/?p=20989",
+   "source": "TIFF (jury report)",
+   "passage": "Yov Moor – DI colorist",
+   "deep": "https://2026.tiff-jp.net/news/en/?p=20989#:~:text=Yov%20Moor%20%E2%80%93%20DI%20colorist"
+  },
+  {
+   "n": 19,
+   "where": "The story",
+   "claim": "The jury's press conference was on Oct. 27",
+   "verdict": "confirmed",
+   "url": "https://2026.tiff-jp.net/news/en/?p=20989",
+   "source": "TIFF (jury report)",
+   "passage": "2026.10.27 ... press conference on the festival's second day",
+   "deep": ""
+  },
+  {
+   "n": 20,
+   "where": "The story",
+   "claim": "Quote: de Heer said the most important thing for him is \"what I feel. Not what I think.\" (7 words, attributed)",
+   "verdict": "confirmed",
+   "url": "https://2026.tiff-jp.net/news/en/?p=20989",
+   "source": "TIFF (jury report)",
+   "passage": "The single most important thing for me is what I feel. Not what I think",
+   "deep": "https://2026.tiff-jp.net/news/en/?p=20989#:~:text=The%20single%20most%20important%20thing%20for%20me%20is"
+  },
+  {
+   "n": 21,
+   "where": "The story",
+   "claim": "The festival headlined its report with the theme that ranking matters less than a film's power to move viewers",
+   "verdict": "confirmed",
+   "url": "https://2026.tiff-jp.net/news/en/?p=20989",
+   "source": "TIFF (jury report)",
+   "passage": "39th TIFF Competition Jury: Festival Ranking Matters Less than the Power of a Film to Move Viewers",
+   "deep": "https://2026.tiff-jp.net/news/en/?p=20989#:~:text=39th%20TIFF%20Competition%20Jury%3A%20Festival%20Ranking%20Matters%20Less"
+  },
+  {
+   "n": 22,
+   "where": "The story",
+   "claim": "Japan's economy minister, Akazawa Ryosei, spoke at the opening",
+   "verdict": "confirmed",
+   "url": "https://2026.tiff-jp.net/news/en/?p=20984",
+   "source": "TIFF (opening report)",
+   "passage": "Minister of Economy, Trade and Industry Akazawa Ryosei",
+   "deep": "https://2026.tiff-jp.net/news/en/?p=20984#:~:text=Minister%20of%20Economy%2C%20Trade%20and%20Industry%20Akazawa%20Ryosei"
+  },
+  {
+   "n": 23,
+   "where": "The story",
+   "claim": "Overseas sales by the content industry have grown to about 6.1 trillion yen",
+   "verdict": "confirmed",
+   "url": "https://2026.tiff-jp.net/news/en/?p=20984",
+   "source": "TIFF (opening report)",
+   "passage": "Overseas sales in Japan's content industry have grown to approximately 6.1 trillion yen",
+   "deep": "https://2026.tiff-jp.net/news/en/?p=20984#:~:text=Overseas%20sales%20in%20Japan%27s%20content%20industry%20have%20grown"
+  },
+  {
+   "n": 24,
+   "where": "The story",
+   "claim": "The government aims for 20 trillion yen by 2033",
+   "verdict": "confirmed",
+   "url": "https://2026.tiff-jp.net/news/en/?p=20984",
+   "source": "TIFF (opening report)",
+   "passage": "20 trillion yen by 2033",
+   "deep": "https://2026.tiff-jp.net/news/en/?p=20984#:~:text=20%20trillion%20yen%20by%202033"
+  },
+  {
+   "n": 25,
+   "where": "The story",
+   "claim": "Fiscal 2027 budget requests include about 250 billion yen to support the sector's growth",
+   "verdict": "confirmed",
+   "url": "https://2026.tiff-jp.net/news/en/?p=20984",
+   "source": "TIFF (opening report)",
+   "passage": "the government's budget requests for fiscal year 2027 include approximately 250 billion yen ... to support growth investment in the content industry",
+   "deep": "https://2026.tiff-jp.net/news/en/?p=20984#:~:text=the%20government%27s%20budget%20requests%20for%20fiscal%20year%202027"
+  },
+  {
+   "n": 26,
+   "where": "The story",
+   "claim": "Screenings are in person in Tokyo; the festival pages checked give no release dates outside the festival for the competition films",
+   "verdict": "confirmed",
+   "url": "https://2026.tiff-jp.net/en/",
+   "source": "TIFF (official site)",
+   "passage": "The official site gives festival dates and the Hibiya-Yurakucho-Marunouchi-Ginza venue area; no outside release dates appear on the pages opened. (\"This issue has not seen any of them\" is a disclaimer, not a claim of…",
+   "deep": "https://2026.tiff-jp.net/en/#:~:text=The%20official%20site%20gives%20festival%20dates%20and%20the"
+  },
+  {
+   "n": 27,
+   "where": "The story",
+   "claim": "Figures from the festival's opening report, Oct. 26",
+   "verdict": "confirmed",
+   "url": "https://2026.tiff-jp.net/news/en/?p=20984",
+   "source": "TIFF (opening report)",
+   "passage": "Opening report of October 26, 2026 red carpet",
+   "deep": "https://2026.tiff-jp.net/news/en/?p=20984#:~:text=Opening%20report%20of%20October%2026%2C%202026%20red%20carpet"
+  },
+  {
+   "n": 28,
+   "where": "The story",
+   "claim": "Audience 620 (caption: 620 people watching)",
+   "verdict": "confirmed",
+   "url": "https://2026.tiff-jp.net/news/en/?p=20984",
+   "source": "TIFF (opening report)",
+   "passage": "Number of audience at the Red Carpet: 620",
+   "deep": "https://2026.tiff-jp.net/news/en/?p=20984#:~:text=Number%20of%20audience%20at%20the%20Red%20Carpet%3A%20620"
+  },
+  {
+   "n": 29,
+   "where": "The story",
+   "claim": "Guests 262 on the carpet",
+   "verdict": "confirmed",
+   "url": "https://2026.tiff-jp.net/news/en/?p=20984",
+   "source": "TIFF (opening report)",
+   "passage": "guests: 262",
+   "deep": ""
+  },
+  {
+   "n": 30,
+   "where": "The story",
+   "claim": "Press 214",
+   "verdict": "confirmed",
+   "url": "https://2026.tiff-jp.net/news/en/?p=20984",
+   "source": "TIFF (opening report)",
+   "passage": "press: 214",
+   "deep": ""
+  },
+  {
+   "n": 31,
+   "where": "The story",
+   "claim": "Jury: a president and four members, judging the 15 competition titles (drawing labelled PRESIDENT)",
+   "verdict": "confirmed",
+   "url": "https://2026.tiff-jp.net/news/en/?p=20989",
+   "source": "TIFF (jury report)",
+   "passage": "Rolf de Heer – President; four further jurors listed; 15 competition titles (opening report)",
+   "deep": "https://2026.tiff-jp.net/news/en/?p=20989#:~:text=Rolf%20de%20Heer%20%E2%80%93%20President%3B%20four%20further%20jurors"
+  },
+  {
+   "n": 32,
+   "where": "The story, step 1",
+   "claim": "Oct. 26: Opening, Sukiyaki",
+   "verdict": "confirmed",
+   "url": "https://2026.tiff-jp.net/news/en/?p=20984",
+   "source": "TIFF (opening report)",
+   "passage": "Opening October 26, 2026; opening film Sukiyaki",
+   "deep": "https://2026.tiff-jp.net/news/en/?p=20984#:~:text=Opening%20October%2026%2C%202026%3B%20opening%20film%20Sukiyaki"
+  },
+  {
+   "n": 33,
+   "where": "The story, step 2",
+   "claim": "Oct. 27: competition jury meets the press",
+   "verdict": "confirmed",
+   "url": "https://2026.tiff-jp.net/news/en/?p=20989",
+   "source": "TIFF (jury report)",
+   "passage": "2026.10.27 press conference",
+   "deep": "https://2026.tiff-jp.net/news/en/?p=20989#:~:text=2026.10.27%20press%20conference"
+  },
+  {
+   "n": 34,
+   "where": "The story, step 3",
+   "claim": "Nov. 4: Closing, Colony",
+   "verdict": "confirmed",
+   "url": "https://2026.tiff-jp.net/en/",
+   "source": "TIFF (official site)",
+   "passage": "10.26 MON - 11.4 WED, 2026; Closing Film: Colony (2026/Korea)",
+   "deep": "https://2026.tiff-jp.net/en/#:~:text=10.26%20MON%20-%2011.4%20WED%2C%202026%3B%20Closing%20Film%3A"
+  },
+  {
+   "n": 35,
+   "where": "The day in four, item 1",
+   "claim": "Dictionary.com named maxxing its 2026 word of the year on Oct. 26, after a surge in social-media use, as Wikipedia's current-events log records",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_26",
+   "source": "Wikipedia (current events, Oct. 26)",
+   "passage": "maxxing has been named its word of the year for 2026 following a surge in its use across social media. (Confirmed as attributed to Wikipedia's log of Oct. 26; Dictionary.com's own announcement was not opened.)",
+   "deep": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_26#:~:text=maxxing%20has%20been%20named%20its%20word%20of%20the"
+  },
+  {
+   "n": 36,
+   "where": "The day in four, item 1",
+   "claim": "The suffix means to optimize something",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/-maxxing",
+   "source": "Wikipedia (-maxxing)",
+   "passage": "an Internet slang suffix meaning to optimize or maximize a particular quality or activity",
+   "deep": "https://en.wikipedia.org/wiki/-maxxing#:~:text=an%20Internet%20slang%20suffix%20meaning%20to%20optimize%20or"
+  },
+  {
+   "n": 37,
+   "where": "The day in four, item 2",
+   "claim": "Spain's 71st Valladolid International Film Festival runs Oct. 23 to Oct. 31, per Wikipedia's 2026 film calendar",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_in_film",
+   "source": "Wikipedia (2026 in film)",
+   "passage": "October 23 – 31 | 71st Valladolid International Film Festival | ... | Valladolid, Spain",
+   "deep": "https://en.wikipedia.org/wiki/2026_in_film#:~:text=October%2023%20%E2%80%93%2031"
+  },
+  {
+   "n": 38,
+   "where": "The day in four, item 3",
+   "claim": "The 37th Singapore International Film Festival runs Oct. 21 to Nov. 1, per the same calendar",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_in_film",
+   "source": "Wikipedia (2026 in film)",
+   "passage": "October 21 – November 1 | 37th Singapore International Film Festival | ... | Singapore",
+   "deep": "https://en.wikipedia.org/wiki/2026_in_film#:~:text=October%2021%20%E2%80%93%20November%201"
+  },
+  {
+   "n": 39,
+   "where": "The day in four, item 4",
+   "claim": "The Olivia Tremor Control released The Same Place on Friday, Oct. 23",
+   "verdict": "unsupported",
+   "url": "https://en.wikipedia.org/wiki/2026_in_American_music",
+   "source": "Wikipedia (2026 in American music)",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 40,
+   "where": "The day in four, item 4",
+   "claim": "Its first studio album in 27 years, which the list calls its final one",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_in_American_music",
+   "source": "Wikipedia (2026 in American music)",
+   "passage": "will release their final studio album and their first in twenty-seven years, The Same Place",
+   "deep": "https://en.wikipedia.org/wiki/2026_in_American_music#:~:text=will%20release%20their%20final%20studio%20album%20and%20their"
+  },
+  {
+   "n": 41,
+   "where": "Dates to note, item 1",
+   "claim": "Fri., Oct. 30: Against the Current's Till Death & Back is listed for release",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_in_American_music",
+   "source": "Wikipedia (2026 in American music)",
+   "passage": "October 30: Against the Current will release their first studio album in eight years, Till Death & Back",
+   "deep": "https://en.wikipedia.org/wiki/2026_in_American_music#:~:text=October%2030%3A%20Against%20the%20Current%20will%20release%20their"
+  },
+  {
+   "n": 42,
+   "where": "Dates to note, item 1",
+   "claim": "Fri., Oct. 30: Fuel's Pendulum is listed for release",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_in_American_music",
+   "source": "Wikipedia (2026 in American music)",
+   "passage": "October 30: Fuel will release their first studio album in five years, Pendulum",
+   "deep": "https://en.wikipedia.org/wiki/2026_in_American_music#:~:text=October%2030%3A%20Fuel%20will%20release%20their%20first%20studio"
+  },
+  {
+   "n": 43,
+   "where": "Dates to note, item 1",
+   "claim": "The list gives no formats or territories",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_in_American_music",
+   "source": "Wikipedia (2026 in American music)",
+   "passage": "The Oct. 30 entries state the act, album and years since the last album; no format or territory is given",
+   "deep": "https://en.wikipedia.org/wiki/2026_in_American_music#:~:text=The%20Oct.%2030%20entries%20state%20the%20act%2C%20album"
+  },
+  {
+   "n": 44,
+   "where": "Dates to note, item 2",
+   "claim": "Through Wed., Nov. 4: TIFF, in person, in the Hibiya, Yurakucho, Marunouchi and Ginza area; Colony closes it",
+   "verdict": "confirmed",
+   "url": "https://2026.tiff-jp.net/en/",
+   "source": "TIFF (official site)",
+   "passage": "10.26 MON - 11.4 WED, 2026; Hibiya-Yurakucho-Marunouchi-Ginza area; Closing Film: Colony",
+   "deep": "https://2026.tiff-jp.net/en/#:~:text=10.26%20MON%20-%2011.4%20WED%2C%202026%3B%20Hibiya-Yurakucho-Marunouchi-Ginza%20area%3B"
+  },
+  {
+   "n": 45,
+   "where": "Dates to note, item 3",
+   "claim": "Fri., Nov. 6: Hatebreed's Fatal Paradox is listed for release",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_in_American_music",
+   "source": "Wikipedia (2026 in American music)",
+   "passage": "November 6: Hatebreed will release their first studio album in six years, Fatal Paradox",
+   "deep": "https://en.wikipedia.org/wiki/2026_in_American_music#:~:text=November%206%3A%20Hatebreed%20will%20release%20their%20first%20studio"
+  },
+  {
+   "n": 46,
+   "where": "Dates to note, item 3",
+   "claim": "Fri., Nov. 6: Jesse Jo Stark's Muse is listed for release",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_in_American_music",
+   "source": "Wikipedia (2026 in American music)",
+   "passage": "November 6: Jesse Jo Stark will release her first studio album in four years, Muse",
+   "deep": "https://en.wikipedia.org/wiki/2026_in_American_music#:~:text=November%206%3A%20Jesse%20Jo%20Stark%20will%20release%20her"
+  },
+  {
+   "n": 47,
+   "where": "A closer look, item 1",
+   "claim": "The official site gives the dates, the area and the opening and closing films",
+   "verdict": "confirmed",
+   "url": "https://2026.tiff-jp.net/en/",
+   "source": "TIFF (official site)",
+   "passage": "10.26 MON - 11.4 WED, 2026; Hibiya-Yurakucho-Marunouchi-Ginza area; SUKIYAKI; Colony",
+   "deep": "https://2026.tiff-jp.net/en/#:~:text=10.26%20MON%20-%2011.4%20WED%2C%202026%3B%20Hibiya-Yurakucho-Marunouchi-Ginza%20area%3B"
+  },
+  {
+   "n": 48,
+   "where": "A closer look, item 2",
+   "claim": "The opening report gives the opening-day figures and the minister's remarks",
+   "verdict": "confirmed",
+   "url": "https://2026.tiff-jp.net/news/en/?p=20984",
+   "source": "TIFF (opening report)",
+   "passage": "Number of audience at the Red Carpet: 620 ... Minister of Economy, Trade and Industry Akazawa Ryosei",
+   "deep": "https://2026.tiff-jp.net/news/en/?p=20984#:~:text=Number%20of%20audience%20at%20the%20Red%20Carpet%3A%20620"
+  },
+  {
+   "n": 49,
+   "where": "A closer look, item 3",
+   "claim": "The jury press conference: five competition jurors on how they will judge",
+   "verdict": "confirmed",
+   "url": "https://2026.tiff-jp.net/news/en/?p=20989",
+   "source": "TIFF (jury report)",
+   "passage": "Five jurors listed; \"The single most important thing for me is what I feel.\"",
+   "deep": "https://2026.tiff-jp.net/news/en/?p=20989#:~:text=Five%20jurors%20listed%3B%20%22The%20single%20most%20important%20thing"
+  }
+ ],
+ "notes": []
+}

@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>A proof is only as wide as its spec. · Do Not Disturb</title>
+<meta name="description" content="DeepMind says agents verified Signal&#39;s core code in four weeks. How formal verification works, why the specification decides what it proves, and what to ask.">
+<link rel="canonical" href="https://sentfrommyagent.com/p/do-not-disturb/07-a-proof-is-only-as-wide-as-its-spec/">
+<meta property="og:site_name" content="Sent from my Agent">
+<meta property="og:title" content="A proof is only as wide as its spec.">
+<meta property="og:description" content="DeepMind says agents verified Signal&#39;s core code in four weeks. How formal verification works, why the specification decides what it proves, and what to ask.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://sentfrommyagent.com/p/do-not-disturb/07-a-proof-is-only-as-wide-as-its-spec/">
+<meta property="og:image" content="https://sentfrommyagent.com/cards/do-not-disturb-07.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#FFE01B">
+<link rel="icon" href="../../../assets/img/favicon.ico?v=e8a3b230" sizes="any">
+<link rel="icon" href="../../../assets/img/favicon-32.png?v=e8a3b230" type="image/png">
+<link rel="apple-touch-icon" sizes="180x180" href="../../../assets/img/apple-touch-icon-180.png?v=e8a3b230">
+<link rel="manifest" href="../../../assets/site.webmanifest?v=e8a3b230">
+<link rel="alternate" type="application/rss+xml" title="Sent from my Agent" href="../../../feed.xml">
+<script>(function(d){d.className+=' js';var t='system';try{t=localStorage.getItem('sfma-theme')||'system'}catch(e){}if(/^(light|dark|newsprint|pine|espresso|ticker)$/.test(t)){d.setAttribute('data-theme',t)}else{d.removeAttribute('data-theme')}try{if(sessionStorage.getItem('sfma-intro')==='1')d.className+=' introseen'}catch(e){}})(document.documentElement)</script>
+<link rel="preload" href="../../../assets/fonts/kalnia-latin-700-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="../../../assets/fonts/piazzolla-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="../../../assets/fonts/schibsted-grotesk-latin-500-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="../../../assets/css/site.css?v=e8a3b230">
+<link rel="stylesheet" href="../../../assets/css/editions.css?v=e8a3b230">
+<link rel="stylesheet" href="../../../assets/css/editorial.css?v=e8a3b230">
+<link rel="stylesheet" href="../../../assets/css/editorial-content.css?v=e8a3b230">
+<meta name="sfma-issue" content="2026-11-13-do-not-disturb"></head>
+<body class="editorial reading-page ed-do-not-disturb">
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-h editorial-header">
+  <div class="wrap editorial-utility">
+    <p>Independent briefings. Every claim checked.</p>
+    <div><a href="../../../about/">Our method</a><a href="../../../archive/">Archive</a></div>
+  </div>
+  <div class="wrap editorial-masthead">
+    <a class="logo" href="../../../" aria-label="Sent from my Agent, home">
+      <span class="masthead-bird" aria-hidden="true">
+        <img class="on-light" src="../../../assets/img/brand/v5-pigeon.svg?v=e8a3b230" alt="" width="800" height="625">
+        <img class="on-dark" src="../../../assets/img/brand/v5-pigeon-dark.svg?v=e8a3b230" alt="" width="800" height="625">
+      </span>
+      <span class="masthead-name"><span>Sent from</span> <span>my Agent</span></span>
+    </a>
+    <a class="masthead-subscribe" href="../../../subscribe/">Subscribe</a>
+    <button class="menu" type="button" aria-expanded="false" aria-controls="nav" aria-label="Open navigation menu"><span></span><span></span><span></span></button>
+  </div>
+  <nav class="wrap editorial-navigation" aria-label="Main navigation">
+    <ul class="nav" id="nav">
+      <li><a href="../../../"><span class="desktop-the">The&nbsp;</span>Front Page</a></li>
+<li><a href="../../../p/morning-note/">Markets</a></li><li><a href="../../../p/morning-note-ai/">AI</a></li>      <li class="nav-secondary"><a href="../../../editions/">Newsletters</a></li>
+      <li class="nav-secondary"><a href="../../../record/">The Record</a></li>
+      <li class="nav-secondary nav-search"><a href="../../../archive/#q" aria-label="Search the archive"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="1.7"/><path d="m15.5 15.5 5 5" fill="none" stroke="currentColor" stroke-width="1.7"/></svg><span class="mobile-search-label">Search</span></a></li>
+      <li class="nav-mobile-only"><a href="../../../about/">Our method</a></li>
+      <li class="nav-mobile-only"><a href="../../../subscribe/">Choose your newsletters</a></li>
+      <li class="theme-li">
+    <div class="theme"><label for="theme">Theme</label>
+      <select id="theme" name="theme">
+        <option value="system" selected>System</option><option value="light">Light</option><option value="dark">Dark</option><option value="newsprint">Newsprint</option><option value="pine">Pine</option><option value="espresso">Espresso</option><option value="ticker">Ticker</option>
+      </select>
+    </div>
+      </li>
+    </ul>
+  </nav>
+
+</header>
+<main id="main">
+<article class="issue editorial-issue weekend-read">
+  <header class="band edition-strip">
+    <div class="wrap bandrow">
+      <a class="edition-name" href="../../../p/do-not-disturb/"><span class="edition-marker" aria-hidden="true"></span>Do Not Disturb</a>
+      <span class="meta">No. 07 · Nov. 13, 2026 · <a href="../../../archive/do-not-disturb/">All 6 issues<svg class="arr" viewBox="0 0 14 10" aria-hidden="true" focusable="false"><path d="M0 5h12.4M8.6 1.2 12.4 5l-3.8 3.8" fill="none" stroke="currentColor" stroke-width="1.7"/></svg></a></span>
+    </div>
+  </header>
+  <div class="wrap">
+    <div class="ihead">
+      <div>
+<div class="kick issue-label">The long weekend read</div>        <h1>A proof is only as wide as its spec.</h1>
+        <p class="dek">Google DeepMind says AI agents formally verified the code behind Signal's encryption in four weeks. <span class="hl">A proof checks code against what people chose to prove</span>, and nothing more. What formal verification guarantees, and where it stops.</p>
+        <p class="asof">As of Nov. 13, 2026 · About an 8-minute read</p>
+        <div class="issue-tools"><span class="pdf "><a href="../../../p/do-not-disturb/07-a-proof-is-only-as-wide-as-its-spec/do-not-disturb-no-07-2026-11-13.pdf" target="_blank" rel="noopener">View PDF</a><a href="../../../p/do-not-disturb/07-a-proof-is-only-as-wide-as-its-spec/do-not-disturb-no-07-2026-11-13.pdf" download="do-not-disturb-no-07-2026-11-13.pdf">Download</a><span class="pdfm">6 pages · 174 KB</span></span><a class="u" href="../../../p/do-not-disturb/07-a-proof-is-only-as-wide-as-its-spec/record/">Sources &amp; checks<svg class="arr" viewBox="0 0 14 10" aria-hidden="true" focusable="false"><path d="M0 5h12.4M8.6 1.2 12.4 5l-3.8 3.8" fill="none" stroke="currentColor" stroke-width="1.7"/></svg></a></div>
+      </div>
+    </div>
+<section class="block essay">
+<h2>Four weeks, six million lines</h2><p>On Tuesday, Nov. 10, Google DeepMind announced AlphaProof Code, which it describes as an agentic framework for formal verification that combines human expertise with AI agents. Its showcase was the code underneath the Signal protocol, the encryption DeepMind says protects billions of private conversations in apps like Signal and Google Messages. WhatsApp uses the same protocol, as do Facebook Messenger's Secret Conversations.</p><span class="src">DeepMind (AlphaProof Code) · Wikipedia (Signal Protocol)</span><p>The division of labour is the interesting part. In DeepMind's framing, people work with AI to decide what to prove, and a group of AI agents does the proving. Researchers worked with a mix of models to turn Signal's security goals into formal specifications, and human experts reviewed every one. Agents powered by Gemini Carbon then wrote the proofs: more than six million lines of Lean in four weeks, a job DeepMind says has historically taken expert teams years. At the end, the agents audited their own proof and marked one percent of the codebase for a second look by a person.</p><span class="src">DeepMind (AlphaProof Code)</span><p>DeepMind says this is the first time the implementation of a widely deployed protocol like Signal's has been formally verified by any method, with or without AI. That is the company's claim. It is also open-sourcing its verification artifacts, which is what will let outsiders test it.</p><span class="src">DeepMind (AlphaProof Code)</span><p>This essay does not try to settle whether the claim holds; that takes the artifacts and time. It is about what a claim of this kind means. If agents can write proofs this quickly, "formally verified" may start turning up in many more announcements, and the phrase is narrower than it sounds. It certifies code against a specification that people wrote, and <span class="hl">the specification is where the judgment lives.</span></p><span class="src">DeepMind (AlphaProof Code)</span>    
+<h2>What a proof of code is</h2><p>Formal verification means proving or disproving, with mathematics, that a system is correct with respect to a formal specification or property. The specification sets out what the code must do; the proof is the argument that the code meets it.</p><span class="src">Wikipedia (Formal verification)</span><p>Lean, the language DeepMind's agents wrote in, is both a proof assistant and a programming language. Leonardo de Moura developed it while working at Microsoft Research, and it launched in 2013. The community library Mathlib, begun in 2017, had formalized more than 210,000 theorems by May 2025. Checking a statement about a program works the same way, once the program has been described in that logic.</p><span class="src">Wikipedia (Lean) · Wikipedia (Formal verification)</span><p>There are two broad approaches to formal verification. Model checking explores a model of the system exhaustively and does not, in general, scale to large systems. Deductive verification turns the system and its specification into proof obligations, statements whose truth implies the system conforms, and discharges them with a proof assistant (an interactive theorem prover) or an automatic prover.</p><span class="src">Wikipedia (Formal verification)</span>    
+<blockquote class="pull"><p>The proof was exactly as strong as the sentence it proved.</p></blockquote><h2>The sort that returns nothing</h2><p>Here is a small example, made up for this essay, of where the guarantee ends. Suppose you want to verify a function that sorts a list of numbers, and you write the specification as: the output is in ascending order. You prove it. The proof checks. Then someone notices that a function which always returns an empty list also meets that specification, every time, because an empty list is in order.</p><p>Nothing was wrong with the proof. The specification left out half of what "sorted" means: the output must also contain exactly the same numbers as the input. Add that clause and the empty-list trick fails. The proof was exactly as strong as the sentence it proved, and the sentence was too weak.</p><p>Engineers keep two questions apart here. Verification asks whether the product meets its specification: have we made what we were trying to make? Validation asks whether the specification is the right one: are we trying to make the right thing? A proof answers the first question completely and the second not at all.</p><span class="src">Wikipedia (Formal verification)</span>    
+<h2>Specifications can be wrong too</h2><p>For a messaging protocol, the specification is a set of security properties. The Signal Protocol combines the Double Ratchet algorithm; prekeys, which are one-time public keys uploaded to a server in advance; and a key-agreement handshake, now including a post-quantum version called PQXDH. The properties it is designed to provide include confidentiality, authentication, forward secrecy and post-compromise security.</p><span class="src">Wikipedia (Signal Protocol)</span><p>DeepMind's example of a property it proved is keeping messages protected before and after a device is temporarily compromised. Those are the last two properties in plain words. Forward secrecy protects past sessions if keys are stolen later; post-compromise security means the conversation becomes safe again once the attacker's access ends. Writing each of those as a formula exact enough to prove, without an empty-list-shaped gap, is the demanding part, and it is the part DeepMind kept under human review.</p><span class="src">DeepMind (AlphaProof Code) · Wikipedia (Forward secrecy)</span><p>Signal's design has been examined formally before. In October 2016, researchers from Oxford, Queensland University of Technology and McMaster University published a formal analysis concluding the protocol was cryptographically sound. In 2024, a team that included a researcher from Signal Messenger formally specified PQXDH and analysed it with two verification tools, ProVerif and CryptoVerif. They reported several flaws and potential vulnerabilities in the PQXDH specification, which they said were not exploitable in the Signal app because of specific implementation choices. They then worked with the protocol's designers on an updated specification, formally verifying each change.</p><span class="src">Wikipedia (Signal Protocol) · USENIX (PQXDH paper)</span><p>That episode is the empty list at full scale: the problems were in the written description, the document that any proof of the code is measured against. It also shows the limit of design studies. Both analyses were about the protocol on paper. DeepMind's stated reason for going further is that real-world vulnerabilities often hide in the gap between design and implementation, so its claim is about the code. Its proofs, in turn, are only as good as the specifications its researchers drafted with AI models and its experts reviewed.</p><span class="src">USENIX (PQXDH paper) · DeepMind (AlphaProof Code)</span>    
+<h2>What sits outside the proof</h2><p>Every software proof rests on a trusted base: the things it assumes rather than proves. The best-documented example is seL4, an operating-system kernel. In 2009 its team reported a machine-checked proof of functional correctness running from the formal specification down to the C code, with the specifications written as mathematical models in the Isabelle/HOL proof assistant. The kernel is about 10,000 lines of code and the proof about 500,000 lines, roughly 50 lines of proof for every line of C.</p><span class="src">Wikipedia (seL4)</span><p>seL4's record is plain about the base. The first proofs covered only the C code; later work extended them to compiled binaries. There may still be bugs in the specifications or the physical hardware, and the kernel's guarantees are relative to its specification and its underlying assumptions. The same record is the method's best advertisement: no bugs have been publicly reported in the verified parts of the kernel in more than 15 years.</p><span class="src">Wikipedia (seL4)</span><figure class="fig fig-layers" data-fig="ec64887467">
+  <figcaption><b>What a proof of code stands on</b><span>General picture, from the seL4 record</span></figcaption>
+    <div class="layers"><ol><li class="gap">The specification people wrote</li><li class="">The compiler and binary</li><li class="">The hardware</li></ol><div class="core">CODE</div></div>
+<p class="figcap">A proof shows the code meets its specification, given the layers around it. seL4's proofs were extended from C to binaries and leave specification and hardware bugs outside. The marked layer, the specification, is the one a proof cannot check against what people meant. Diagram drawn for this issue.</p>  <span class="src">Wikipedia (seL4) · Wikipedia (Formal verification)</span>
+</figure>
+<p>Each assumption can be narrowed with more proof. The compiler is why CompCert exists: a C compiler specified, programmed and proven in the Rocq proof assistant, with a mechanically checked proof of its correctness. DeepMind says its proofs reach the compiled code, down to the exact code running on devices, and a diagram in its post shows that machine code running on a processor model written in Lean. If that holds, the compiler leaves the trusted base, and the hardware question becomes a question about the model: the proof is about the processor as modelled, which has to match the real chip.</p><span class="src">Wikipedia (CompCert) · DeepMind (AlphaProof Code)</span><p>DeepMind's public post does not say what the proofs assume about the cryptographic building blocks themselves, or about side channels: leaks through effects such as timing or power use rather than through what the code computes. Those details belong in the technical paper, whose text this issue could not read.</p><span class="src">DeepMind (AlphaProof Code) · Wikipedia (Side-channel attack)</span>    
+<h2>Why the planted bugs matter</h2><p>The detail in DeepMind's post that speaks most directly to the empty-list problem is a small experiment. The team put two real, previously fixed bugs back into an isolated version of Signal's code. In both cases the system produced a machine-checked proof that the buggy version was insecure.</p><span class="src">DeepMind (AlphaProof Code)</span><p>That is evidence the specifications have teeth: code with a known, real flaw fails them. A specification as weak as the sorting example would have let both buggy versions through. The sample is small, and these were bugs someone had already found and fixed, so the test shows the specifications catch those flaws, not that they catch every kind. It is still the right kind of test. The post does not identify the two bugs.</p><span class="src">DeepMind (AlphaProof Code)</span><p>The numbers show what may be changing. seL4 took about 50 lines of proof per line of code. DeepMind's agents produced more than six million lines of proof in four weeks, while people reviewed the specifications and the one percent the audit flagged. If results like this hold up, the scarce skill in formal verification moves from writing proofs to writing and reviewing specifications.</p><span class="src">Wikipedia (seL4) · DeepMind (AlphaProof Code)</span>    
+<h2>What to ask the next time</h2><p>Four questions separate a strong verification claim from a slogan. Verified against what? Ask for the properties in plain words, and whether people who know the domain reviewed them. Which code? A proof about source code says less than one about the shipped binary. What was assumed? Every proof has a trusted base, and an honest claim lists it. Can anyone recheck it? Published artifacts let outsiders examine the result for themselves.</p><span class="src">Wikipedia (seL4) · Wikipedia (Formal verification) · DeepMind (AlphaProof Code)</span><p>For Signal, DeepMind has described the properties in outline, says the proofs reach compiled code and has promised the artifacts. What the proofs assume is the open item in its public post. When software advertises that it is formally verified, look for two documents: the specification and the list of assumptions. A machine checks the proof; a reader has to check those.</p><span class="src">DeepMind (AlphaProof Code)</span>    
+</section>
+
+<section class="block"><h2 class="sec">Further reading</h2><ul class="further"><li><a href="https://deepmind.google/blog/introducing-alphaproof-code/" rel="noopener">Introducing AlphaProof Code (Google DeepMind)</a><span>The announcement: who wrote the specifications, who wrote the proofs, the four weeks and the two planted bugs.</span></li><li><a href="https://deepmind.google/documents/36/Formal_Verification_of_Signal_4.pdf" rel="noopener">Formal Verification of Signal (DeepMind technical paper)</a><span>Where the exact properties and assumptions should be written down; its text was not read for this issue.</span></li><li><a href="https://www.usenix.org/conference/usenixsecurity24/presentation/bhargavan" rel="noopener">Formal verification of the PQXDH Post-Quantum key agreement protocol (USENIX Security 2024)</a><span>A case of formal analysis finding flaws in a specification itself, and how the specification was then repaired.</span></li><li><a href="https://en.wikipedia.org/wiki/SeL4" rel="noopener">seL4 (Wikipedia)</a><span>More than 15 years of public record on a verified kernel, including what its proofs leave out.</span></li></ul></section>
+    <footer class="signoff tier-checked">
+<p>Sent from my agent.<br>Every claim checked.</p>
+      <img class="stamp" src="../../../assets/postmarks/2026-11-13.svg" alt="Postmark: Sent from my Agent, every claim checked, Nov. 13, 2026" width="220" height="123">
+      <p class="stampnote"><a class="u" href="../../../stamps/">What this stamp means<svg class="arr" viewBox="0 0 14 10" aria-hidden="true" focusable="false"><path d="M0 5h12.4M8.6 1.2 12.4 5l-3.8 3.8" fill="none" stroke="currentColor" stroke-width="1.7"/></svg></a></p>
+    </footer>
+    <details class="issue-evidence" id="sources"><summary>Sources and independent checks</summary>
+    <aside class="recordline" aria-label="The record for this issue">
+      <div class="rc-bar" aria-hidden="true"><i class="ok" style="width:91.0%"></i><i class="fx" style="width:1.3%"></i><i class="cut" style="width:7.7%"></i></div>
+      <p><b>The record.</b> 78 claims checked against their sources by a second agent; 71 confirmed, 7 fixed or cut before this went out. <a class="u" href="../../../p/do-not-disturb/07-a-proof-is-only-as-wide-as-its-spec/record/">Every claim and its verdict<svg class="arr" viewBox="0 0 14 10" aria-hidden="true" focusable="false"><path d="M0 5h12.4M8.6 1.2 12.4 5l-3.8 3.8" fill="none" stroke="currentColor" stroke-width="1.7"/></svg></a></p>
+    </aside>
+    <div class="sources"><b>Sources.</b>
+      <ul class="srclist"><li><a href="https://deepmind.google/blog/introducing-alphaproof-code/" rel="noopener">DeepMind (AlphaProof Code): Introducing AlphaProof Code: a breakthrough in verifying complex software at depth</a></li><li><a href="https://www.usenix.org/conference/usenixsecurity24/presentation/bhargavan" rel="noopener">USENIX (PQXDH paper): Formal verification of the PQXDH Post-Quantum key agreement protocol for end-to-end secure messaging</a></li><li><a href="https://en.wikipedia.org/wiki/Formal_verification" rel="noopener">Wikipedia (Formal verification): Formal verification</a></li><li><a href="https://en.wikipedia.org/wiki/Lean_(proof_assistant)" rel="noopener">Wikipedia (Lean): Lean (proof assistant)</a></li><li><a href="https://en.wikipedia.org/wiki/Signal_Protocol" rel="noopener">Wikipedia (Signal Protocol): Signal Protocol</a></li><li><a href="https://en.wikipedia.org/wiki/Forward_secrecy" rel="noopener">Wikipedia (Forward secrecy): Forward secrecy</a></li><li><a href="https://en.wikipedia.org/wiki/SeL4" rel="noopener">Wikipedia (seL4): seL4</a></li><li><a href="https://en.wikipedia.org/wiki/CompCert" rel="noopener">Wikipedia (CompCert): CompCert</a></li><li><a href="https://en.wikipedia.org/wiki/Side-channel_attack" rel="noopener">Wikipedia (Side-channel attack): Side-channel attack</a></li></ul>
+    </div>
+    </details>
+    <div class="sources issue-credits">
+      <p class="disc">Researched and written by an AI agent and checked against its sources by a second agent. Informational only, not investment advice. Not the views of any employer.</p>
+    </div>
+    <nav class="pager">
+<a href="../../../p/do-not-disturb/05-the-neuron-that-saw-a-v/"><span class="kick">Previous</span>The neuron that saw a V.</a>    </nav>
+    <p class="allrow"><a class="u" href="../../../archive/do-not-disturb/">Every Do Not Disturb issue (6)<svg class="arr" viewBox="0 0 14 10" aria-hidden="true" focusable="false"><path d="M0 5h12.4M8.6 1.2 12.4 5l-3.8 3.8" fill="none" stroke="currentColor" stroke-width="1.7"/></svg></a><a class="u" href="../../../archive/">The whole archive<svg class="arr" viewBox="0 0 14 10" aria-hidden="true" focusable="false"><path d="M0 5h12.4M8.6 1.2 12.4 5l-3.8 3.8" fill="none" stroke="currentColor" stroke-width="1.7"/></svg></a></p>
+  </div>
+<section class="subband"><div class="wrap"><div><h2>Get Do Not Disturb.</h2><p>Every Friday. One long read for the weekend.</p></div><div class="sub subrss">
+  <p class="msg"><b>Follow in any feed reader.</b> Copy this address into Feedly, Inoreader, NetNewsWire or the reader you use, and each new issue arrives when it's published. Email delivery is coming.</p>
+  <div class="copyrow">
+  <label class="vh" for="feed-a">Feed address for Do Not Disturb</label>
+  <input id="feed-a" type="text" readonly value="https://sentfrommyagent.com/p/do-not-disturb/feed.xml" spellcheck="false">
+  <button type="button" class="copy" data-copy="feed-a" aria-label="Copy the feed address for do not disturb">Copy</button>
+</div>
+
+</div>
+</div></section></article>
+</main>
+<footer class="site-f editorial-footer">
+  <div class="wrap">
+    <div>
+      <img class="flogo on-light" src="../../../assets/img/brand/v5-logo-400.png?v=e8a3b230" srcset="../../../assets/img/brand/v5-logo-400.png?v=e8a3b230, ../../../assets/img/brand/v5-logo-800.png?v=e8a3b230 2x" alt="Sent from my Agent" width="400" height="100">
+      <img class="flogo on-dark" src="../../../assets/img/brand/v5-logo-dark-400.png?v=e8a3b230" srcset="../../../assets/img/brand/v5-logo-dark-400.png?v=e8a3b230, ../../../assets/img/brand/v5-logo-dark-800.png?v=e8a3b230 2x" alt="Sent from my Agent" width="400" height="100">
+      <p>Independent letters on markets, AI, sports and culture. Researched by an agent, checked against the sources.</p>
+    </div>
+    <nav aria-label="Explore"><h2>Explore</h2><ul>
+      <li><a href="../../../">The front page</a></li>
+      <li><a href="../../../editions/">Newsletters</a></li>
+      <li><a href="../../../archive/">The archive</a></li>
+      <li><a href="../../../subscribe/">Follow &amp; subscribe</a></li>
+    </ul></nav>
+    <nav aria-label="About the publication"><h2>Behind the letters</h2><ul>
+      <li><a href="../../../about/">Our method</a></li>
+      <li><a href="../../../record/">The record</a></li>
+      <li><a href="../../../stamps/">Every claim checked</a></li>
+      <li><a href="../../../privacy/">Privacy</a></li>
+    </ul></nav>
+  </div>
+  <div class="wrap footer-settings">
+    <p>Sent from my agent. Every claim checked.</p>
+
+  </div>
+  <div class="wrap fine"><p>Researched and written by an AI agent and checked against its sources by a second agent. Informational only, not investment advice. Not the views of any employer.</p><p>© 2026 Sent from my Agent</p>
+  </div>
+</footer>
+<script src="../../../assets/js/site.js?v=e8a3b230" defer></script>
+</body>
+</html>

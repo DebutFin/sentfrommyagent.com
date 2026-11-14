@@ -1,0 +1,800 @@
+{
+ "issue": "https://sentfrommyagent.com/p/do-not-disturb/07-a-proof-is-only-as-wide-as-its-spec/",
+ "newsletter": "Do Not Disturb",
+ "number": 7,
+ "date": "2026-11-13",
+ "title": "A proof is only as wide as its spec.",
+ "stamp": "Sent from my agent. Every claim checked.",
+ "record": "https://sentfrommyagent.com/p/do-not-disturb/07-a-proof-is-only-as-wide-as-its-spec/record/",
+ "counts": {
+  "checked": 78,
+  "confirmed": 71,
+  "wrong": 1,
+  "unsupported": 6
+ },
+ "checked_at": "2026-11-13",
+ "checked_by": "a second agent, independent of the writer",
+ "claims": [
+  {
+   "n": 1,
+   "where": "dek",
+   "claim": "Google DeepMind says AI agents formally verified the code behind Signal's encryption",
+   "verdict": "confirmed",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "DeepMind (AlphaProof Code)",
+   "passage": "mathematically prove key security properties of the actual code underlying the Signal protocol ... It's also the first time the implementation of a widely deployed protocol like this has been formally verified by any…",
+   "deep": "https://deepmind.google/blog/introducing-alphaproof-code/#:~:text=mathematically%20prove%20key%20security%20properties%20of%20the%20actual"
+  },
+  {
+   "n": 2,
+   "where": "dek",
+   "claim": "in four weeks",
+   "verdict": "confirmed",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "DeepMind (AlphaProof Code)",
+   "passage": "our verification process took just four weeks",
+   "deep": "https://deepmind.google/blog/introducing-alphaproof-code/#:~:text=our%20verification%20process%20took%20just%20four%20weeks"
+  },
+  {
+   "n": 3,
+   "where": "summary",
+   "claim": "DeepMind says agents verified Signal's core code in four weeks",
+   "verdict": "confirmed",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "DeepMind (AlphaProof Code)",
+   "passage": "the actual code underlying the Signal protocol ... our verification process took just four weeks",
+   "deep": "https://deepmind.google/blog/introducing-alphaproof-code/#:~:text=the%20actual%20code%20underlying%20the%20Signal%20protocol"
+  },
+  {
+   "n": 4,
+   "where": "The essay, section 1",
+   "claim": "On Tuesday, Nov. 10, Google DeepMind announced AlphaProof Code",
+   "verdict": "confirmed",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "DeepMind (AlphaProof Code)",
+   "passage": "November 10, 2026",
+   "deep": "https://deepmind.google/blog/introducing-alphaproof-code/#:~:text=November%2010%2C%202026"
+  },
+  {
+   "n": 5,
+   "where": "The essay, section 1",
+   "claim": "described as an agentic framework for formal verification that combines human expertise with AI agents",
+   "verdict": "confirmed",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "DeepMind (AlphaProof Code)",
+   "passage": "AlphaProof Code, a novel agentic framework for formal verification ... combines human expertise with AI agents",
+   "deep": "https://deepmind.google/blog/introducing-alphaproof-code/#:~:text=AlphaProof%20Code%2C%20a%20novel%20agentic%20framework%20for%20formal"
+  },
+  {
+   "n": 6,
+   "where": "The essay, section 1",
+   "claim": "the code underneath the Signal protocol, which DeepMind says protects billions of private conversations in apps like Signal and Google Messages",
+   "verdict": "confirmed",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "DeepMind (AlphaProof Code)",
+   "passage": "the actual code underlying the Signal protocol, the technology that protects billions of private conversations in apps like Signal and Google Messages",
+   "deep": "https://deepmind.google/blog/introducing-alphaproof-code/#:~:text=the%20actual%20code%20underlying%20the%20Signal%20protocol%2C%20the"
+  },
+  {
+   "n": 7,
+   "where": "The essay, section 1",
+   "claim": "WhatsApp uses the same protocol",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Signal_Protocol",
+   "source": "Wikipedia (Signal Protocol)",
+   "passage": "Open Whisper Systems announced a partnership with WhatsApp to provide end-to-end encryption by incorporating the Signal Protocol into each WhatsApp client platform",
+   "deep": "https://en.wikipedia.org/wiki/Signal_Protocol#:~:text=Open%20Whisper%20Systems%20announced%20a%20partnership%20with%20WhatsApp"
+  },
+  {
+   "n": 8,
+   "where": "The essay, section 1",
+   "claim": "as do Facebook Messenger's Secret Conversations",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Signal_Protocol",
+   "source": "Wikipedia (Signal Protocol)",
+   "passage": "Facebook Messenger also say they offer the protocol for optional 'Secret Conversations'",
+   "deep": "https://en.wikipedia.org/wiki/Signal_Protocol#:~:text=Facebook%20Messenger%20also%20say%20they%20offer%20the%20protocol"
+  },
+  {
+   "n": 9,
+   "where": "The essay, section 1",
+   "claim": "people work with AI to decide what to prove, and a group of AI agents does the proving",
+   "verdict": "confirmed",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "DeepMind (AlphaProof Code)",
+   "passage": "human experts work with AI to decide what to prove, and a group of AI agents does it",
+   "deep": "https://deepmind.google/blog/introducing-alphaproof-code/#:~:text=human%20experts%20work%20with%20AI%20to%20decide%20what"
+  },
+  {
+   "n": 10,
+   "where": "The essay, section 1",
+   "claim": "Researchers worked with a mix of models to turn Signal's security goals into formal specifications",
+   "verdict": "confirmed",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "DeepMind (AlphaProof Code)",
+   "passage": "our researchers collaborated with a mix of models to translate Signal's security goals into formal mathematical specifications",
+   "deep": "https://deepmind.google/blog/introducing-alphaproof-code/#:~:text=our%20researchers%20collaborated%20with%20a%20mix%20of%20models"
+  },
+  {
+   "n": 11,
+   "where": "The essay, section 1",
+   "claim": "human experts reviewed every one [specification]",
+   "verdict": "confirmed",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "DeepMind (AlphaProof Code)",
+   "passage": "human experts reviewing every one",
+   "deep": "https://deepmind.google/blog/introducing-alphaproof-code/#:~:text=human%20experts%20reviewing%20every%20one"
+  },
+  {
+   "n": 12,
+   "where": "The essay, section 1",
+   "claim": "Agents powered by Gemini Carbon then wrote the proofs",
+   "verdict": "confirmed",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "DeepMind (AlphaProof Code)",
+   "passage": "agents powered by Gemini Carbon did the proofs",
+   "deep": "https://deepmind.google/blog/introducing-alphaproof-code/#:~:text=agents%20powered%20by%20Gemini%20Carbon%20did%20the%20proofs"
+  },
+  {
+   "n": 13,
+   "where": "The essay, section 1",
+   "claim": "more than six million lines of Lean",
+   "verdict": "confirmed",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "DeepMind (AlphaProof Code)",
+   "passage": "generating over six million lines of Lean",
+   "deep": "https://deepmind.google/blog/introducing-alphaproof-code/#:~:text=generating%20over%20six%20million%20lines%20of%20Lean"
+  },
+  {
+   "n": 14,
+   "where": "The essay, section 1",
+   "claim": "in four weeks, a job DeepMind says has historically taken expert teams years",
+   "verdict": "confirmed",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "DeepMind (AlphaProof Code)",
+   "passage": "our verification process took just four weeks – a task that historically takes expert teams years",
+   "deep": "https://deepmind.google/blog/introducing-alphaproof-code/#:~:text=our%20verification%20process%20took%20just%20four%20weeks%20%E2%80%93"
+  },
+  {
+   "n": 15,
+   "where": "The essay, section 1",
+   "claim": "the agents audited their own proof and marked one percent of the codebase for a second look by a person",
+   "verdict": "confirmed",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "DeepMind (AlphaProof Code)",
+   "passage": "the agents audited the proof and highlighted areas that needed a second look by a human – just one percent of the codebase",
+   "deep": "https://deepmind.google/blog/introducing-alphaproof-code/#:~:text=the%20agents%20audited%20the%20proof%20and%20highlighted%20areas"
+  },
+  {
+   "n": 16,
+   "where": "The essay, section 1",
+   "claim": "DeepMind says this is the first time the implementation of a widely deployed protocol like Signal's has been formally verified by any method, with or without AI",
+   "verdict": "confirmed",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "DeepMind (AlphaProof Code)",
+   "passage": "It's also the first time the implementation of a widely deployed protocol like this has been formally verified by any method, with or without AI",
+   "deep": "https://deepmind.google/blog/introducing-alphaproof-code/#:~:text=It%27s%20also%20the%20first%20time%20the%20implementation%20of"
+  },
+  {
+   "n": 17,
+   "where": "The essay, section 1",
+   "claim": "It is also open-sourcing its verification artifacts",
+   "verdict": "confirmed",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "DeepMind (AlphaProof Code)",
+   "passage": "We are open-sourcing our formal verification artifacts for community use",
+   "deep": "https://deepmind.google/blog/introducing-alphaproof-code/#:~:text=We%20are%20open-sourcing%20our%20formal%20verification%20artifacts%20for"
+  },
+  {
+   "n": 18,
+   "where": "The essay, section 1",
+   "claim": "'Formally verified' certifies code against a specification",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Formal_verification",
+   "source": "Wikipedia (Formal verification)",
+   "passage": "proving or disproving the correctness of a system with respect to a certain formal specification or property, using formal methods of mathematics",
+   "deep": "https://en.wikipedia.org/wiki/Formal_verification#:~:text=proving%20or%20disproving%20the%20correctness%20of%20a%20system"
+  },
+  {
+   "n": 19,
+   "where": "The essay, section 2",
+   "claim": "Formal verification means proving or disproving, with mathematics, that a system is correct with respect to a formal specification or property",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Formal_verification",
+   "source": "Wikipedia (Formal verification)",
+   "passage": "proving or disproving the correctness of a system with respect to a certain formal specification or property, using formal methods of mathematics",
+   "deep": "https://en.wikipedia.org/wiki/Formal_verification#:~:text=proving%20or%20disproving%20the%20correctness%20of%20a%20system"
+  },
+  {
+   "n": 20,
+   "where": "The essay, section 2",
+   "claim": "The specification is a precise statement of what the code must do, written in a logic a computer can read",
+   "verdict": "unsupported",
+   "url": "https://en.wikipedia.org/wiki/Formal_verification",
+   "source": "Wikipedia (Formal verification)",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 21,
+   "where": "The essay, section 2",
+   "claim": "A proof assistant, a program that checks proofs, examines each step mechanically, so a wrong step is rejected instead of skimmed over",
+   "verdict": "unsupported",
+   "url": "https://en.wikipedia.org/wiki/Formal_verification",
+   "source": "Wikipedia (Formal verification)",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 22,
+   "where": "The essay, section 2",
+   "claim": "Lean is the language DeepMind's agents wrote in",
+   "verdict": "confirmed",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "DeepMind (AlphaProof Code)",
+   "passage": "generating over six million lines of Lean, a computer language that mathematically proves the accuracy of code",
+   "deep": "https://deepmind.google/blog/introducing-alphaproof-code/#:~:text=generating%20over%20six%20million%20lines%20of%20Lean%2C%20a"
+  },
+  {
+   "n": 23,
+   "where": "The essay, section 2",
+   "claim": "Lean is both a proof assistant and a programming language",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Lean_(proof_assistant)",
+   "source": "Wikipedia (Lean)",
+   "passage": "Lean is a proof assistant and a functional programming language",
+   "deep": "https://en.wikipedia.org/wiki/Lean_(proof_assistant)#:~:text=Lean%20is%20a%20proof%20assistant%20and%20a%20functional"
+  },
+  {
+   "n": 24,
+   "where": "The essay, section 2",
+   "claim": "Leonardo de Moura developed it while working at Microsoft Research",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Lean_(proof_assistant)",
+   "source": "Wikipedia (Lean)",
+   "passage": "Lean was developed primarily by Brazilian computer scientist Leonardo de Moura while employed by Microsoft Research",
+   "deep": "https://en.wikipedia.org/wiki/Lean_(proof_assistant)#:~:text=Lean%20was%20developed%20primarily%20by%20Brazilian%20computer%20scientist"
+  },
+  {
+   "n": 25,
+   "where": "The essay, section 2",
+   "claim": "it launched in 2013",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Lean_(proof_assistant)",
+   "source": "Wikipedia (Lean)",
+   "passage": "Launched in 2013, initial versions of the language, later known as Lean 1 and 2, were experimental",
+   "deep": "https://en.wikipedia.org/wiki/Lean_(proof_assistant)#:~:text=Launched%20in%202013%2C%20initial%20versions%20of%20the%20language%2C"
+  },
+  {
+   "n": 26,
+   "where": "The essay, section 2",
+   "claim": "It is best known in mathematics",
+   "verdict": "unsupported",
+   "url": "https://en.wikipedia.org/wiki/Lean_(proof_assistant)",
+   "source": "Wikipedia (Lean)",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 27,
+   "where": "The essay, section 2",
+   "claim": "the community library Mathlib, begun in 2017",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Lean_(proof_assistant)",
+   "source": "Wikipedia (Lean)",
+   "passage": "In 2017, a community-maintained project to develop a Lean library mathlib began",
+   "deep": "https://en.wikipedia.org/wiki/Lean_(proof_assistant)#:~:text=In%202017%2C%20a%20community-maintained%20project%20to%20develop%20a"
+  },
+  {
+   "n": 28,
+   "where": "The essay, section 2",
+   "claim": "Mathlib had formalized more than 210,000 theorems by May 2025",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Lean_(proof_assistant)",
+   "source": "Wikipedia (Lean)",
+   "passage": "As of May 2025, mathlib had formalized over 210,000 theorems and 100,000 definitions in Lean",
+   "deep": "https://en.wikipedia.org/wiki/Lean_(proof_assistant)#:~:text=As%20of%20May%202025%2C%20mathlib%20had%20formalized%20over"
+  },
+  {
+   "n": 29,
+   "where": "The essay, section 2",
+   "claim": "A test runs the code on chosen inputs and shows it behaves on those inputs; a proof covers every input the specification describes, which is how it can catch the rare case a test suite never tries",
+   "verdict": "unsupported",
+   "url": "https://en.wikipedia.org/wiki/Formal_verification",
+   "source": "Wikipedia (Formal verification)",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 30,
+   "where": "The essay, section 2",
+   "claim": "Model checking explores a model of the system exhaustively and does not, in general, scale to large systems",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Formal_verification",
+   "source": "Wikipedia (Formal verification)",
+   "passage": "Model checking involves a systematic and exhaustive exploration of the mathematical model ... it does not in general scale to large systems",
+   "deep": "https://en.wikipedia.org/wiki/Formal_verification#:~:text=Model%20checking%20involves%20a%20systematic%20and%20exhaustive%20exploration"
+  },
+  {
+   "n": 31,
+   "where": "The essay, section 2",
+   "claim": "Deductive verification turns the system and its specification into proof obligations whose truth implies conformance, discharged with a proof assistant or an automatic prover",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Formal_verification",
+   "source": "Wikipedia (Formal verification)",
+   "passage": "Deductive verification consists of generating from the system and its specifications a collection of mathematical proof obligations, the truth of which imply conformance of the system to its specification, and…",
+   "deep": "https://en.wikipedia.org/wiki/Formal_verification#:~:text=Deductive%20verification%20consists%20of%20generating%20from%20the%20system"
+  },
+  {
+   "n": 32,
+   "where": "The essay, section 3",
+   "claim": "Verification asks 'have we made what we were trying to make?'; validation asks 'are we trying to make the right thing?'",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Formal_verification",
+   "source": "Wikipedia (Formal verification)",
+   "passage": "Validation: 'Are we trying to make the right thing?' ... Verification: 'Have we made what we were trying to make?'",
+   "deep": "https://en.wikipedia.org/wiki/Formal_verification#:~:text=Validation%3A%20%27Are%20we%20trying%20to%20make%20the%20right"
+  },
+  {
+   "n": 33,
+   "where": "The essay, section 4",
+   "claim": "The Signal Protocol combines the Double Ratchet algorithm, prekeys and a key-agreement handshake, now including the post-quantum PQXDH",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Signal_Protocol",
+   "source": "Wikipedia (Signal Protocol)",
+   "passage": "The protocol combines the Double Ratchet Algorithm, prekeys (...), and key agreement protocols including the original triple elliptic-curve Diffie–Hellman (3-DH) handshake and the post-quantum PQXDH protocol",
+   "deep": "https://en.wikipedia.org/wiki/Signal_Protocol#:~:text=The%20protocol%20combines%20the%20Double%20Ratchet%20Algorithm%2C%20prekeys"
+  },
+  {
+   "n": 34,
+   "where": "The essay, section 4",
+   "claim": "prekeys are one-time public keys uploaded to a server in advance",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Signal_Protocol",
+   "source": "Wikipedia (Signal Protocol)",
+   "passage": "prekeys (i.e., one-time ephemeral public keys that have been uploaded in advance to a central server)",
+   "deep": "https://en.wikipedia.org/wiki/Signal_Protocol#:~:text=prekeys%20%28i.e.%2C%20one-time%20ephemeral%20public%20keys%20that%20have"
+  },
+  {
+   "n": 35,
+   "where": "The essay, section 4",
+   "claim": "properties include confidentiality, authentication, forward secrecy and post-compromise security",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Signal_Protocol",
+   "source": "Wikipedia (Signal Protocol)",
+   "passage": "The protocol provides confidentiality, integrity, authentication, participant consistency, destination validation, forward secrecy, post-compromise security (aka future secrecy),",
+   "deep": "https://en.wikipedia.org/wiki/Signal_Protocol#:~:text=The%20protocol%20provides%20confidentiality%2C%20integrity%2C%20authentication%2C%20participant%20consistency%2C"
+  },
+  {
+   "n": 36,
+   "where": "The essay, section 4",
+   "claim": "DeepMind's example property is keeping messages protected before and after a device is temporarily compromised",
+   "verdict": "confirmed",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "DeepMind (AlphaProof Code)",
+   "passage": "such as keeping messages protected before and after a device is temporarily compromised",
+   "deep": "https://deepmind.google/blog/introducing-alphaproof-code/#:~:text=such%20as%20keeping%20messages%20protected%20before%20and%20after"
+  },
+  {
+   "n": 37,
+   "where": "The essay, section 4",
+   "claim": "Forward secrecy protects past sessions if keys are stolen later",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Forward_secrecy",
+   "source": "Wikipedia (Forward secrecy)",
+   "passage": "Forward secrecy protects past sessions against future compromises of keys or passwords",
+   "deep": "https://en.wikipedia.org/wiki/Forward_secrecy#:~:text=Forward%20secrecy%20protects%20past%20sessions%20against%20future%20compromises"
+  },
+  {
+   "n": 38,
+   "where": "The essay, section 4",
+   "claim": "post-compromise security means the conversation becomes safe again once the attacker's access ends",
+   "verdict": "confirmed",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "DeepMind (AlphaProof Code)",
+   "passage": "keeping messages protected before and after a device is temporarily compromised",
+   "deep": "https://deepmind.google/blog/introducing-alphaproof-code/#:~:text=keeping%20messages%20protected%20before%20and%20after%20a%20device"
+  },
+  {
+   "n": 39,
+   "where": "The essay, section 4",
+   "claim": "the specification-writing is the part DeepMind kept under human review",
+   "verdict": "confirmed",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "DeepMind (AlphaProof Code)",
+   "passage": "human experts reviewing every one",
+   "deep": "https://deepmind.google/blog/introducing-alphaproof-code/#:~:text=human%20experts%20reviewing%20every%20one"
+  },
+  {
+   "n": 40,
+   "where": "The essay, section 4",
+   "claim": "In October 2016, researchers from Oxford, Queensland University of Technology and McMaster University published a formal analysis concluding the protocol was cryptographically sound",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Signal_Protocol",
+   "source": "Wikipedia (Signal Protocol)",
+   "passage": "In October 2016, researchers from the UK's University of Oxford, Australia's Queensland University of Technology, and Canada's McMaster University published a formal analysis of the protocol, concluding that the…",
+   "deep": "https://en.wikipedia.org/wiki/Signal_Protocol#:~:text=In%20October%202016%2C%20researchers%20from%20the%20UK%27s%20University"
+  },
+  {
+   "n": 41,
+   "where": "The essay, section 4",
+   "claim": "In 2024, a team that included a researcher from Signal Messenger",
+   "verdict": "confirmed",
+   "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/bhargavan",
+   "source": "USENIX (PQXDH paper)",
+   "passage": "Rolfe Schmidt, Signal Messenger (author list, USENIX Security 2024)",
+   "deep": "https://www.usenix.org/conference/usenixsecurity24/presentation/bhargavan#:~:text=Rolfe%20Schmidt%2C%20Signal%20Messenger%20%28author%20list%2C%20USENIX%20Security"
+  },
+  {
+   "n": 42,
+   "where": "The essay, section 4",
+   "claim": "formally specified PQXDH and analysed it with ProVerif and CryptoVerif",
+   "verdict": "confirmed",
+   "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/bhargavan",
+   "source": "USENIX (PQXDH paper)",
+   "passage": "formally specifies and analyzes PQXDH's security using PROVERIF and CRYPTOVERIF (abstract)",
+   "deep": "https://www.usenix.org/conference/usenixsecurity24/presentation/bhargavan#:~:text=formally%20specifies%20and%20analyzes%20PQXDH%27s%20security%20using%20PROVERIF"
+  },
+  {
+   "n": 43,
+   "where": "The essay, section 4",
+   "claim": "They reported several flaws and potential vulnerabilities in the PQXDH specification",
+   "verdict": "confirmed",
+   "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/bhargavan",
+   "source": "USENIX (PQXDH paper)",
+   "passage": "identifying several flaws and potential vulnerabilities (abstract)",
+   "deep": "https://www.usenix.org/conference/usenixsecurity24/presentation/bhargavan#:~:text=identifying%20several%20flaws%20and%20potential%20vulnerabilities%20%28abstract%29"
+  },
+  {
+   "n": 44,
+   "where": "The essay, section 4",
+   "claim": "which they said were not exploitable in the Signal app because of specific implementation choices",
+   "verdict": "confirmed",
+   "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/bhargavan",
+   "source": "USENIX (PQXDH paper)",
+   "passage": "these vulnerabilities are not exploitable in the Signal application, thanks to specific implementation choices",
+   "deep": "https://www.usenix.org/conference/usenixsecurity24/presentation/bhargavan#:~:text=these%20vulnerabilities%20are%20not%20exploitable%20in%20the%20Signal"
+  },
+  {
+   "n": 45,
+   "where": "The essay, section 4",
+   "claim": "They then worked with the protocol's designers on an updated specification, formally verifying each change",
+   "verdict": "confirmed",
+   "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/bhargavan",
+   "source": "USENIX (PQXDH paper)",
+   "passage": "We collaborated with the protocol designers to develop an updated protocol specification based on our findings, where each change was formally verified and validated with a security proof",
+   "deep": "https://www.usenix.org/conference/usenixsecurity24/presentation/bhargavan#:~:text=We%20collaborated%20with%20the%20protocol%20designers%20to%20develop"
+  },
+  {
+   "n": 46,
+   "where": "The essay, section 4",
+   "claim": "DeepMind's stated reason: real-world vulnerabilities often hide in the gap between design and implementation",
+   "verdict": "confirmed",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "DeepMind (AlphaProof Code)",
+   "passage": "Because real-world vulnerabilities often hide in the gap between design and implementation, bridging this gap makes these proofs vastly more complex",
+   "deep": "https://deepmind.google/blog/introducing-alphaproof-code/#:~:text=Because%20real-world%20vulnerabilities%20often%20hide%20in%20the%20gap"
+  },
+  {
+   "n": 47,
+   "where": "The essay, section 4",
+   "claim": "its claim is about the code",
+   "verdict": "confirmed",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "DeepMind (AlphaProof Code)",
+   "passage": "proving that the compiled code fulfills the key security properties",
+   "deep": "https://deepmind.google/blog/introducing-alphaproof-code/#:~:text=proving%20that%20the%20compiled%20code%20fulfills%20the%20key"
+  },
+  {
+   "n": 48,
+   "where": "The essay, section 4",
+   "claim": "the specifications its experts wrote and reviewed",
+   "verdict": "wrong",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "DeepMind (AlphaProof Code)",
+   "passage": "our researchers collaborated with a mix of models to translate Signal's security goals into formal mathematical specifications ... human experts reviewing every one",
+   "deep": "https://deepmind.google/blog/introducing-alphaproof-code/#:~:text=our%20researchers%20collaborated%20with%20a%20mix%20of%20models"
+  },
+  {
+   "n": 49,
+   "where": "The essay, section 5",
+   "claim": "seL4 is an operating-system kernel",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/SeL4",
+   "source": "Wikipedia (seL4)",
+   "passage": "seL4 (security enhanced L4) is an open-source, high-assurance, capability-based microkernel",
+   "deep": "https://en.wikipedia.org/wiki/SeL4#:~:text=seL4%20%28security%20enhanced%20L4%29%20is%20an%20open-source%2C%20high-assurance%2C"
+  },
+  {
+   "n": 50,
+   "where": "The essay, section 5",
+   "claim": "In 2009 its team reported a machine-checked proof of functional correctness from the formal specification down to the C code",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/SeL4",
+   "source": "Wikipedia (seL4)",
+   "passage": "In 2009, the seL4 project reported a machine-checked proof of functional correctness spanning from formal specification to C implementation",
+   "deep": "https://en.wikipedia.org/wiki/SeL4#:~:text=In%202009%2C%20the%20seL4%20project%20reported%20a%20machine-checked"
+  },
+  {
+   "n": 51,
+   "where": "The essay, section 5",
+   "claim": "specifications written as mathematical models in the Isabelle/HOL proof assistant",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/SeL4",
+   "source": "Wikipedia (seL4)",
+   "passage": "seL4 uses specifications written as mathematical models in Isabelle/HOL",
+   "deep": "https://en.wikipedia.org/wiki/SeL4#:~:text=seL4%20uses%20specifications%20written%20as%20mathematical%20models%20in"
+  },
+  {
+   "n": 52,
+   "where": "The essay, section 5",
+   "claim": "The kernel is about 10,000 lines of code",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/SeL4",
+   "source": "Wikipedia (seL4)",
+   "passage": "At ~10k LoC and ~500k LoP, it is one of the largest verification products ever produced",
+   "deep": "https://en.wikipedia.org/wiki/SeL4#:~:text=At%20~10k%20LoC%20and%20~500k%20LoP%2C%20it%20is"
+  },
+  {
+   "n": 53,
+   "where": "The essay, section 5",
+   "claim": "the proof about 500,000 lines",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/SeL4",
+   "source": "Wikipedia (seL4)",
+   "passage": "At ~10k LoC and ~500k LoP",
+   "deep": "https://en.wikipedia.org/wiki/SeL4#:~:text=At%20~10k%20LoC%20and%20~500k%20LoP"
+  },
+  {
+   "n": 54,
+   "where": "The essay, section 5",
+   "claim": "roughly 50 lines of proof for every line of C",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/SeL4",
+   "source": "Wikipedia (seL4)",
+   "passage": "50 lines of proof per 1 line of C code",
+   "deep": "https://en.wikipedia.org/wiki/SeL4#:~:text=50%20lines%20of%20proof%20per%201%20line%20of"
+  },
+  {
+   "n": 55,
+   "where": "The essay, section 5",
+   "claim": "The first proofs covered only the C code; later work extended them to compiled binaries",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/SeL4",
+   "source": "Wikipedia (seL4)",
+   "passage": "The initial proofs (for example) only pertained to the C code base, but later work extended the proofs to compiled binaries",
+   "deep": "https://en.wikipedia.org/wiki/SeL4#:~:text=The%20initial%20proofs%20%28for%20example%29%20only%20pertained%20to"
+  },
+  {
+   "n": 56,
+   "where": "The essay, section 5",
+   "claim": "There may still be bugs in the specifications or the physical hardware",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/SeL4",
+   "source": "Wikipedia (seL4)",
+   "passage": "there may be bugs in the specifications or the physical hardware",
+   "deep": "https://en.wikipedia.org/wiki/SeL4#:~:text=there%20may%20be%20bugs%20in%20the%20specifications%20or"
+  },
+  {
+   "n": 57,
+   "where": "The essay, section 5",
+   "claim": "the kernel's guarantees are relative to its specification and its underlying assumptions",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/SeL4",
+   "source": "Wikipedia (seL4)",
+   "passage": "Like other formally verified systems, seL4's guarantees are relative to its specification and underlying assumptions",
+   "deep": "https://en.wikipedia.org/wiki/SeL4#:~:text=Like%20other%20formally%20verified%20systems%2C%20seL4%27s%20guarantees%20are"
+  },
+  {
+   "n": 58,
+   "where": "The essay, section 5",
+   "claim": "no bugs have been publicly reported in the verified parts of the kernel in more than 15 years",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/SeL4",
+   "source": "Wikipedia (seL4)",
+   "passage": "However, no bugs have been publicly reported in the verified portions of the kernel in over 15 years",
+   "deep": "https://en.wikipedia.org/wiki/SeL4#:~:text=However%2C%20no%20bugs%20have%20been%20publicly%20reported%20in"
+  },
+  {
+   "n": 59,
+   "where": "The essay, section 5",
+   "claim": "CompCert is a C compiler specified, programmed and proven in the Rocq proof assistant",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/CompCert",
+   "source": "Wikipedia (CompCert)",
+   "passage": "The compiler is specified, programmed and proven in the proof assistant Rocq",
+   "deep": "https://en.wikipedia.org/wiki/CompCert#:~:text=The%20compiler%20is%20specified%2C%20programmed%20and%20proven%20in"
+  },
+  {
+   "n": 60,
+   "where": "The essay, section 5",
+   "claim": "with a mechanically checked proof of its correctness",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/CompCert",
+   "source": "Wikipedia (CompCert)",
+   "passage": "has a complete, mechanically checked proof of its correctness",
+   "deep": "https://en.wikipedia.org/wiki/CompCert#:~:text=has%20a%20complete%2C%20mechanically%20checked%20proof%20of%20its"
+  },
+  {
+   "n": 61,
+   "where": "The essay, section 5",
+   "claim": "DeepMind says its proofs reach the compiled code, down to the exact code running on devices",
+   "verdict": "confirmed",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "DeepMind (AlphaProof Code)",
+   "passage": "proving that the compiled code fulfills the key security properties ... down to the exact code running on devices",
+   "deep": "https://deepmind.google/blog/introducing-alphaproof-code/#:~:text=proving%20that%20the%20compiled%20code%20fulfills%20the%20key"
+  },
+  {
+   "n": 62,
+   "where": "The essay, section 5",
+   "claim": "a diagram in its post shows machine code running on a processor model written in Lean",
+   "verdict": "confirmed",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "DeepMind (AlphaProof Code)",
+   "passage": "Diagram label: 'compiled machine code runs on a Lean processor model'",
+   "deep": "https://deepmind.google/blog/introducing-alphaproof-code/#:~:text=Diagram%20label%3A%20%27compiled%20machine%20code%20runs%20on%20a"
+  },
+  {
+   "n": 63,
+   "where": "The essay, section 5",
+   "claim": "DeepMind's public post does not say what the proofs assume about the cryptographic building blocks or about side channels",
+   "verdict": "confirmed",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "DeepMind (AlphaProof Code)",
+   "passage": "No passage on assumptions about cryptographic primitives, side channels or timing was found in the post as read (searched 2026-11-13)",
+   "deep": "https://deepmind.google/blog/introducing-alphaproof-code/#:~:text=No%20passage%20on%20assumptions%20about%20cryptographic%20primitives%2C%20side"
+  },
+  {
+   "n": 64,
+   "where": "The essay, section 5",
+   "claim": "side channels: leaks through effects such as timing or power use",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Side-channel_attack",
+   "source": "Wikipedia (Side-channel attack)",
+   "passage": "uses information inadvertently leaked by a system—such as timing, power consumption, or electromagnetic or acoustic emissions",
+   "deep": "https://en.wikipedia.org/wiki/Side-channel_attack#:~:text=uses%20information%20inadvertently%20leaked%20by%20a%20system%E2%80%94such%20as"
+  },
+  {
+   "n": 65,
+   "where": "The essay, section 5",
+   "claim": "seL4's proofs were extended from C to binaries",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/SeL4",
+   "source": "Wikipedia (seL4)",
+   "passage": "later work extended the proofs to compiled binaries",
+   "deep": "https://en.wikipedia.org/wiki/SeL4#:~:text=later%20work%20extended%20the%20proofs%20to%20compiled%20binaries"
+  },
+  {
+   "n": 66,
+   "where": "The essay, section 5",
+   "claim": "[seL4's proofs] leave specification and hardware bugs outside",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/SeL4",
+   "source": "Wikipedia (seL4)",
+   "passage": "there may be bugs in the specifications or the physical hardware",
+   "deep": "https://en.wikipedia.org/wiki/SeL4#:~:text=there%20may%20be%20bugs%20in%20the%20specifications%20or"
+  },
+  {
+   "n": 67,
+   "where": "The essay, section 5",
+   "claim": "Layers a proof of code stands on: the specification people wrote; the compiler and binary; the hardware (general picture, from the seL4 record)",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/SeL4",
+   "source": "Wikipedia (seL4)",
+   "passage": "The initial proofs ... only pertained to the C code base, but later work extended the proofs to compiled binaries ... there may be bugs in the specifications or the physical hardware ... guarantees are relative to…",
+   "deep": "https://en.wikipedia.org/wiki/SeL4#:~:text=The%20initial%20proofs"
+  },
+  {
+   "n": 68,
+   "where": "The essay, section 6",
+   "claim": "The team put two real, previously fixed bugs back into an isolated version of Signal's code",
+   "verdict": "confirmed",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "DeepMind (AlphaProof Code)",
+   "passage": "we reintroduced two real, previously fixed bugs into an isolated version of Signal's code",
+   "deep": "https://deepmind.google/blog/introducing-alphaproof-code/#:~:text=we%20reintroduced%20two%20real%2C%20previously%20fixed%20bugs%20into"
+  },
+  {
+   "n": 69,
+   "where": "The essay, section 6",
+   "claim": "In both cases the system produced a machine-checked proof that the buggy version was insecure",
+   "verdict": "confirmed",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "DeepMind (AlphaProof Code)",
+   "passage": "In both cases, the system produced a machine-checked proof that the buggy version was insecure",
+   "deep": "https://deepmind.google/blog/introducing-alphaproof-code/#:~:text=In%20both%20cases%2C%20the%20system%20produced%20a%20machine-checked"
+  },
+  {
+   "n": 70,
+   "where": "The essay, section 6",
+   "claim": "The post does not identify the two bugs",
+   "verdict": "confirmed",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "DeepMind (AlphaProof Code)",
+   "passage": "No name, CVE or description identifying the two bugs was found in the post as read",
+   "deep": "https://deepmind.google/blog/introducing-alphaproof-code/#:~:text=No%20name%2C%20CVE%20or%20description%20identifying%20the%20two"
+  },
+  {
+   "n": 71,
+   "where": "The essay, section 6",
+   "claim": "seL4 took about 50 lines of proof per line of code, written by people",
+   "verdict": "unsupported",
+   "url": "https://en.wikipedia.org/wiki/SeL4",
+   "source": "Wikipedia (seL4)",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 72,
+   "where": "The essay, section 6",
+   "claim": "DeepMind's agents produced more than six million lines of proof in four weeks, while people reviewed the specifications and the one percent the audit flagged",
+   "verdict": "confirmed",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "DeepMind (AlphaProof Code)",
+   "passage": "generating over six million lines of Lean ... took just four weeks ... human experts reviewing every one ... highlighted areas that needed a second look by a human – just one percent of the codebase",
+   "deep": "https://deepmind.google/blog/introducing-alphaproof-code/#:~:text=generating%20over%20six%20million%20lines%20of%20Lean"
+  },
+  {
+   "n": 73,
+   "where": "The essay, section 7",
+   "claim": "Checking a finished proof is mechanical",
+   "verdict": "unsupported",
+   "url": "https://en.wikipedia.org/wiki/Formal_verification",
+   "source": "Wikipedia (Formal verification)",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 74,
+   "where": "The essay, section 7",
+   "claim": "DeepMind has described the properties in outline, says the proofs reach compiled code and has promised the artifacts",
+   "verdict": "confirmed",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "DeepMind (AlphaProof Code)",
+   "passage": "such as keeping messages protected before and after a device is temporarily compromised ... proving that the compiled code fulfills the key security properties ... We are open-sourcing our formal verification…",
+   "deep": "https://deepmind.google/blog/introducing-alphaproof-code/#:~:text=such%20as%20keeping%20messages%20protected%20before%20and%20after"
+  },
+  {
+   "n": 75,
+   "where": "Further reading, item 1",
+   "claim": "The announcement covers who wrote the specifications, who wrote the proofs, the four weeks and the two planted bugs",
+   "verdict": "confirmed",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "DeepMind (AlphaProof Code)",
+   "passage": "our researchers collaborated with a mix of models ... agents powered by Gemini Carbon did the proofs ... just four weeks ... we reintroduced two real, previously fixed bugs",
+   "deep": "https://deepmind.google/blog/introducing-alphaproof-code/#:~:text=our%20researchers%20collaborated%20with%20a%20mix%20of%20models"
+  },
+  {
+   "n": 76,
+   "where": "Further reading, item 2",
+   "claim": "DeepMind technical paper at https://deepmind.google/documents/36/Formal_Verification_of_Signal_4.pdf",
+   "verdict": "confirmed",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "source": "DeepMind (AlphaProof Code)",
+   "passage": "'Read the technical paper' links to /documents/36/Formal_Verification_of_Signal_4.pdf",
+   "deep": "https://deepmind.google/blog/introducing-alphaproof-code/#:~:text=%27Read%20the%20technical%20paper%27%20links%20to%20%2Fdocuments%2F36%2FFormal_Verification_of_Signal_4.pdf"
+  },
+  {
+   "n": 77,
+   "where": "Further reading, item 3",
+   "claim": "Formal verification of the PQXDH Post-Quantum key agreement protocol, USENIX Security 2024",
+   "verdict": "confirmed",
+   "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/bhargavan",
+   "source": "USENIX (PQXDH paper)",
+   "passage": "Formal verification of the PQXDH Post-Quantum key agreement protocol for end-to-end secure messaging (USENIX Security '24 presentation page)",
+   "deep": "https://www.usenix.org/conference/usenixsecurity24/presentation/bhargavan#:~:text=Formal%20verification%20of%20the%20PQXDH%20Post-Quantum%20key%20agreement"
+  },
+  {
+   "n": 78,
+   "where": "Further reading, item 4",
+   "claim": "More than 15 years of public record on a verified kernel",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/SeL4",
+   "source": "Wikipedia (seL4)",
+   "passage": "no bugs have been publicly reported in the verified portions of the kernel in over 15 years",
+   "deep": "https://en.wikipedia.org/wiki/SeL4#:~:text=no%20bugs%20have%20been%20publicly%20reported%20in%20the"
+  }
+ ],
+ "notes": []
+}

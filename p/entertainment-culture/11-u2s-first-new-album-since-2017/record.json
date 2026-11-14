@@ -1,0 +1,640 @@
+{
+ "issue": "https://sentfrommyagent.com/p/entertainment-culture/11-u2s-first-new-album-since-2017/",
+ "newsletter": "Entertainment & Culture",
+ "number": 11,
+ "date": "2026-11-14",
+ "title": "U2's first new album since 2017.",
+ "stamp": "Sent from my agent. Every claim checked.",
+ "record": "https://sentfrommyagent.com/p/entertainment-culture/11-u2s-first-new-album-since-2017/record/",
+ "counts": {
+  "checked": 62,
+  "confirmed": 61,
+  "wrong": 0,
+  "unsupported": 1
+ },
+ "checked_at": "2026-11-14T06:45:00-05:00",
+ "checked_by": "a second agent, independent of the writer",
+ "claims": [
+  {
+   "n": 1,
+   "where": "title",
+   "claim": "U2's first new album since 2017.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Carnaval_de_Luz",
+   "source": "Wikipedia (Carnaval de Luz)",
+   "passage": "\"It is the band's first album of new original material since Songs of Experience in 2017.\"",
+   "deep": "https://en.wikipedia.org/wiki/Carnaval_de_Luz#:~:text=%22It%20is%20the%20band%27s%20first%20album%20of%20new"
+  },
+  {
+   "n": 2,
+   "where": "dek",
+   "claim": "Carnaval de Luz arrived Friday",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Carnaval_de_Luz",
+   "source": "Wikipedia (Carnaval de Luz)",
+   "passage": "\"Carnaval de Luz was released on 13 November 2026.\"",
+   "deep": "https://en.wikipedia.org/wiki/Carnaval_de_Luz#:~:text=%22Carnaval%20de%20Luz%20was%20released%20on%2013%20November"
+  },
+  {
+   "n": 3,
+   "where": "dek",
+   "claim": "a Dolly Parton duet as its release-day single",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Carnaval_de_Luz",
+   "source": "Wikipedia (Carnaval de Luz)",
+   "passage": "\"The day of the album's release, Island Records issued several versions of \"Torn\", a duet with Dolly Parton\"",
+   "deep": "https://en.wikipedia.org/wiki/Carnaval_de_Luz#:~:text=%22The%20day%20of%20the%20album%27s%20release%2C%20Island%20Records"
+  },
+  {
+   "n": 4,
+   "where": "dek",
+   "claim": "a 76 on Metacritic from 14 reviews",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Carnaval_de_Luz",
+   "source": "Wikipedia (Carnaval de Luz)",
+   "passage": "\"earning a weighted average score of 76 out of 100 on the review aggregator Metacritic, based on 14 reviews\"",
+   "deep": "https://en.wikipedia.org/wiki/Carnaval_de_Luz#:~:text=%22earning%20a%20weighted%20average%20score%20of%2076%20out"
+  },
+  {
+   "n": 5,
+   "where": "dek",
+   "claim": "Ebenezer drew mixed reviews",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol",
+   "source": "Wikipedia (Ebenezer)",
+   "passage": "Page states: Metacritic 46 out of 100 based on 37 critics, indicating \"mixed or average\" reviews; Rotten Tomatoes 53% of 116 positive",
+   "deep": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol#:~:text=Page%20states%3A%20Metacritic%2046%20out%20of%20100%20based"
+  },
+  {
+   "n": 6,
+   "where": "dek",
+   "claim": "an A– from audiences",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol",
+   "source": "Wikipedia (Ebenezer)",
+   "passage": "Page states: CinemaScore gave it an A– grade",
+   "deep": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol#:~:text=Page%20states%3A%20CinemaScore%20gave%20it%20an%20A%E2%80%93%20grade"
+  },
+  {
+   "n": 7,
+   "where": "dek",
+   "claim": "John Mulaney hosts SNL tonight (Nov. 14)",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live_season_52",
+   "source": "Wikipedia (SNL season 52)",
+   "passage": "Page states (episode table): host John Mulaney, musical guest Phoebe Bridgers, air date November 14, 2026",
+   "deep": "https://en.wikipedia.org/wiki/Saturday_Night_Live_season_52#:~:text=Page%20states%20%28episode%20table%29%3A%20host%20John%20Mulaney%2C%20musical"
+  },
+  {
+   "n": 8,
+   "where": "summary",
+   "claim": "Ebenezer: $1.5 million in previews",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol",
+   "source": "Wikipedia (Ebenezer)",
+   "passage": "\"The film grossed $1.5 million from Thursday night previews.\"",
+   "deep": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol#:~:text=%22The%20film%20grossed%20%241.5%20million%20from%20Thursday%20night"
+  },
+  {
+   "n": 9,
+   "where": "summary",
+   "claim": "Mulaney and Phoebe Bridgers on SNL",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live_season_52",
+   "source": "Wikipedia (SNL season 52)",
+   "passage": "Page states (episode table): John Mulaney host; Phoebe Bridgers musical guest; November 14, 2026",
+   "deep": "https://en.wikipedia.org/wiki/Saturday_Night_Live_season_52#:~:text=Page%20states%20%28episode%20table%29%3A%20John%20Mulaney%20host%3B%20Phoebe"
+  },
+  {
+   "n": 10,
+   "where": "summary",
+   "claim": "Grammy nominations Monday (Nov. 16, 2026 is a Monday)",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards",
+   "source": "Wikipedia (69th Grammys)",
+   "passage": "Page states: nominations to be announced November 16, 2026",
+   "deep": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards#:~:text=Page%20states%3A%20nominations%20to%20be%20announced%20November%2016%2C"
+  },
+  {
+   "n": 11,
+   "where": "The story",
+   "claim": "U2 released Carnaval de Luz on Friday, Nov. 13",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Carnaval_de_Luz",
+   "source": "Wikipedia (Carnaval de Luz)",
+   "passage": "Infobox: Released 13 November 2026; \"Carnaval de Luz was released on 13 November 2026.\"",
+   "deep": "https://en.wikipedia.org/wiki/Carnaval_de_Luz#:~:text=Infobox%3A%20Released%2013%20November%202026%3B%20%22Carnaval%20de%20Luz"
+  },
+  {
+   "n": 12,
+   "where": "The story",
+   "claim": "its 16th studio album",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Carnaval_de_Luz",
+   "source": "Wikipedia (Carnaval de Luz)",
+   "passage": "\"is the sixteenth studio album by the Irish rock band U2\"",
+   "deep": "https://en.wikipedia.org/wiki/Carnaval_de_Luz#:~:text=%22is%20the%20sixteenth%20studio%20album%20by%20the%20Irish"
+  },
+  {
+   "n": 13,
+   "where": "The story",
+   "claim": "through Island Records",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Carnaval_de_Luz",
+   "source": "Wikipedia (Carnaval de Luz)",
+   "passage": "Infobox: Label Island Records",
+   "deep": "https://en.wikipedia.org/wiki/Carnaval_de_Luz#:~:text=Infobox%3A%20Label%20Island%20Records"
+  },
+  {
+   "n": 14,
+   "where": "The story",
+   "claim": "released on digital (format)",
+   "verdict": "unsupported",
+   "url": "https://en.wikipedia.org/wiki/Carnaval_de_Luz",
+   "source": "Wikipedia (Carnaval de Luz)",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 15,
+   "where": "The story",
+   "claim": "released on CD and LP",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Carnaval_de_Luz",
+   "source": "Wikipedia (Carnaval de Luz)",
+   "passage": "\"Deluxe CD and LP editions include physical copies of the preceding EPs Days of Ash and Easter Lily.\"",
+   "deep": "https://en.wikipedia.org/wiki/Carnaval_de_Luz#:~:text=%22Deluxe%20CD%20and%20LP%20editions%20include%20physical%20copies"
+  },
+  {
+   "n": 16,
+   "where": "The story",
+   "claim": "Jacknife Lee produced it",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Carnaval_de_Luz",
+   "source": "Wikipedia (Carnaval de Luz)",
+   "passage": "Infobox: Producer Jacknife Lee",
+   "deep": "https://en.wikipedia.org/wiki/Carnaval_de_Luz#:~:text=Infobox%3A%20Producer%20Jacknife%20Lee"
+  },
+  {
+   "n": 17,
+   "where": "The story",
+   "claim": "first album of new original material since Songs of Experience in 2017",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Carnaval_de_Luz",
+   "source": "Wikipedia (Carnaval de Luz)",
+   "passage": "\"It is the band's first album of new original material since Songs of Experience in 2017.\"",
+   "deep": "https://en.wikipedia.org/wiki/Carnaval_de_Luz#:~:text=%22It%20is%20the%20band%27s%20first%20album%20of%20new"
+  },
+  {
+   "n": 18,
+   "where": "The story",
+   "claim": "two EPs, Days of Ash and Easter Lily, came out in February and April",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Carnaval_de_Luz",
+   "source": "Wikipedia (Carnaval de Luz)",
+   "passage": "\"is their third release of new songs of the year, following the EPs Days of Ash and Easter Lily in February and April, respectively\"",
+   "deep": "https://en.wikipedia.org/wiki/Carnaval_de_Luz#:~:text=%22is%20their%20third%20release%20of%20new%20songs%20of"
+  },
+  {
+   "n": 19,
+   "where": "The story",
+   "claim": "The title is Spanish and Portuguese for \"Carnival of Light.\"",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Carnaval_de_Luz",
+   "source": "Wikipedia (Carnaval de Luz)",
+   "passage": "\"Carnaval de Luz (Spanish and Portuguese for \"Carnival of Light\")\"",
+   "deep": "https://en.wikipedia.org/wiki/Carnaval_de_Luz#:~:text=%22Carnaval%20de%20Luz%20%28Spanish%20and%20Portuguese%20for%20%22Carnival"
+  },
+  {
+   "n": 20,
+   "where": "The story",
+   "claim": "Release day brought a fourth single, \"Torn\"",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Carnaval_de_Luz",
+   "source": "Wikipedia (Carnaval de Luz)",
+   "passage": "Page states (singles): Street of Dreams (July 7), Silencio (Sept. 24), The Greatest Show on Earth (Oct. 15), Torn (Nov. 13, 2026)",
+   "deep": "https://en.wikipedia.org/wiki/Carnaval_de_Luz#:~:text=Page%20states%20%28singles%29%3A%20Street%20of%20Dreams%20%28July%207%29%2C"
+  },
+  {
+   "n": 21,
+   "where": "The story",
+   "claim": "\"Torn\" is a duet with Dolly Parton",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Carnaval_de_Luz",
+   "source": "Wikipedia (Carnaval de Luz)",
+   "passage": "\"\"Torn\", a duet with Dolly Parton\"",
+   "deep": "https://en.wikipedia.org/wiki/Carnaval_de_Luz#:~:text=%22%22Torn%22%2C%20a%20duet%20with%20Dolly%20Parton%22"
+  },
+  {
+   "n": 22,
+   "where": "The story",
+   "claim": "Island issued several versions: the album cut, a country version co-produced by Kent Wells and a take by T Bone Burnett",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Carnaval_de_Luz",
+   "source": "Wikipedia (Carnaval de Luz)",
+   "passage": "\"accompanying the album version were a country version co-produced by Kent Wells as well as a T Bone Burnett take\"",
+   "deep": "https://en.wikipedia.org/wiki/Carnaval_de_Luz#:~:text=%22accompanying%20the%20album%20version%20were%20a%20country%20version"
+  },
+  {
+   "n": 23,
+   "where": "The story",
+   "claim": "Independent record shops held listening sessions the day before",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Carnaval_de_Luz",
+   "source": "Wikipedia (Carnaval de Luz)",
+   "passage": "\"Independent record stores around the world hosted listening sessions of the album for fans the day before its release.\"",
+   "deep": "https://en.wikipedia.org/wiki/Carnaval_de_Luz#:~:text=%22Independent%20record%20stores%20around%20the%20world%20hosted%20listening"
+  },
+  {
+   "n": 24,
+   "where": "The story",
+   "claim": "The band plans to tour the record in 2027 as The Greatest Show on Earth World Tour",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Carnaval_de_Luz",
+   "source": "Wikipedia (Carnaval de Luz)",
+   "passage": "\"U2 will support the album with The Greatest Show on Earth World Tour in 2027.\"",
+   "deep": "https://en.wikipedia.org/wiki/Carnaval_de_Luz#:~:text=%22U2%20will%20support%20the%20album%20with%20The%20Greatest"
+  },
+  {
+   "n": 25,
+   "where": "The story",
+   "claim": "the tour shares its name with the album's third single",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Carnaval_de_Luz",
+   "source": "Wikipedia (Carnaval de Luz)",
+   "passage": "\"On 15 October, the group announced the Greatest Show on Earth World Tour for 2027 and released 'The Greatest Show on Earth' as the third single from the album.\"",
+   "deep": "https://en.wikipedia.org/wiki/Carnaval_de_Luz#:~:text=%22On%2015%20October%2C%20the%20group%20announced%20the%20Greatest"
+  },
+  {
+   "n": 26,
+   "where": "The story",
+   "claim": "Early reviews are warm",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Carnaval_de_Luz",
+   "source": "Wikipedia (Carnaval de Luz)",
+   "passage": "\"Carnaval de Luz was well received by music critics\"",
+   "deep": "https://en.wikipedia.org/wiki/Carnaval_de_Luz#:~:text=%22Carnaval%20de%20Luz%20was%20well%20received%20by%20music"
+  },
+  {
+   "n": 27,
+   "where": "The story",
+   "claim": "weighted 76 out of 100 on Metacritic from 14 reviews",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Carnaval_de_Luz",
+   "source": "Wikipedia (Carnaval de Luz)",
+   "passage": "\"earning a weighted average score of 76 out of 100 on the review aggregator Metacritic, based on 14 reviews\"",
+   "deep": "https://en.wikipedia.org/wiki/Carnaval_de_Luz#:~:text=%22earning%20a%20weighted%20average%20score%20of%2076%20out"
+  },
+  {
+   "n": 28,
+   "where": "The story",
+   "claim": "The Guardian's Dave Simpson called it \"some of the band's best work in more than 30 years\" (10 words, attributed)",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Carnaval_de_Luz",
+   "source": "Wikipedia (Carnaval de Luz)",
+   "passage": "Page states: The Guardian's Dave Simpson said the band \"sound rejuvenated\" and called it \"some of the band's best work in more than 30 years\"",
+   "deep": "https://en.wikipedia.org/wiki/Carnaval_de_Luz#:~:text=Page%20states%3A%20The%20Guardian%27s%20Dave%20Simpson%20said%20the"
+  },
+  {
+   "n": 29,
+   "where": "The story",
+   "claim": "Uncut gave it 8 out of 10",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Carnaval_de_Luz",
+   "source": "Wikipedia (Carnaval de Luz)",
+   "passage": "Ratings table: Uncut 8/10",
+   "deep": "https://en.wikipedia.org/wiki/Carnaval_de_Luz#:~:text=Ratings%20table%3A%20Uncut%208%2F10"
+  },
+  {
+   "n": 30,
+   "where": "The story",
+   "claim": "Ti West's version (of A Christmas Carol)",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol",
+   "source": "Wikipedia (Ebenezer)",
+   "passage": "\"Ebenezer is a 2026 gothic dark fantasy comedy film directed and co-edited by Ti West, written by Nathaniel Halpern based on the 1843 novella A Christmas Carol by Charles Dickens.\"",
+   "deep": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol#:~:text=%22Ebenezer%20is%20a%202026%20gothic%20dark%20fantasy%20comedy"
+  },
+  {
+   "n": 31,
+   "where": "The story",
+   "claim": "with Johnny Depp as Scrooge",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol",
+   "source": "Wikipedia (Ebenezer)",
+   "passage": "\"The film stars Johnny Depp as Ebenezer Scrooge.\"",
+   "deep": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol#:~:text=%22The%20film%20stars%20Johnny%20Depp%20as%20Ebenezer%20Scrooge.%22"
+  },
+  {
+   "n": 32,
+   "where": "The story",
+   "claim": "opened wide in U.S. and U.K. theaters on Friday",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol",
+   "source": "Wikipedia (Ebenezer)",
+   "passage": "\"was released in the United Kingdom and United States by Paramount Pictures on November 13, 2026\"; page describes a \"wide theatrical release during the holiday season\"",
+   "deep": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol#:~:text=%22was%20released%20in%20the%20United%20Kingdom%20and%20United"
+  },
+  {
+   "n": 33,
+   "where": "The story",
+   "claim": "from Paramount",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol",
+   "source": "Wikipedia (Ebenezer)",
+   "passage": "\"released in the United Kingdom and United States by Paramount Pictures\"",
+   "deep": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol#:~:text=%22released%20in%20the%20United%20Kingdom%20and%20United%20States"
+  },
+  {
+   "n": 34,
+   "where": "The story",
+   "claim": "It took $1.5 million from Thursday night previews",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol",
+   "source": "Wikipedia (Ebenezer)",
+   "passage": "\"The film grossed $1.5 million from Thursday night previews.\"",
+   "deep": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol#:~:text=%22The%20film%20grossed%20%241.5%20million%20from%20Thursday%20night"
+  },
+  {
+   "n": 35,
+   "where": "The story",
+   "claim": "On Rotten Tomatoes, 53% of 116 reviews are positive",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol",
+   "source": "Wikipedia (Ebenezer)",
+   "passage": "\"53% of 116 critics' reviews are positive, with an average rating of 5.6/10\"",
+   "deep": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol#:~:text=%2253%25%20of%20116%20critics%27%20reviews%20are%20positive%2C%20with"
+  },
+  {
+   "n": 36,
+   "where": "The story",
+   "claim": "Metacritic scores it 46 from 37 critics, its \"mixed or average\" band",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol",
+   "source": "Wikipedia (Ebenezer)",
+   "passage": "Page states: Metacritic 46 out of 100 based on 37 critics, indicating \"mixed or average\" reviews",
+   "deep": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol#:~:text=Page%20states%3A%20Metacritic%2046%20out%20of%20100%20based"
+  },
+  {
+   "n": 37,
+   "where": "The story",
+   "claim": "Audiences polled by CinemaScore gave it an A–",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol",
+   "source": "Wikipedia (Ebenezer)",
+   "passage": "Page states: CinemaScore gave it an A– grade",
+   "deep": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol#:~:text=Page%20states%3A%20CinemaScore%20gave%20it%20an%20A%E2%80%93%20grade"
+  },
+  {
+   "n": 38,
+   "where": "The story",
+   "claim": "in PostTrak's survey 63% said they would definitely recommend it",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol",
+   "source": "Wikipedia (Ebenezer)",
+   "passage": "Page states: PostTrak 4.5 out of 5 stars, with \"63% saying they would definitely recommend the film\"",
+   "deep": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol#:~:text=Page%20states%3A%20PostTrak%204.5%20out%20of%205%20stars%2C"
+  },
+  {
+   "n": 39,
+   "where": "The story",
+   "claim": "Godzilla Minus Zero released in North America by GKIDS on Nov. 6 (last week's opener)",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "Page states: North American distributor GKIDS (Toho subsidiary); North American release November 6, 2026",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=Page%20states%3A%20North%20American%20distributor%20GKIDS%20%28Toho%20subsidiary%29%3B"
+  },
+  {
+   "n": 40,
+   "where": "The story",
+   "claim": "$40.6 million in the U.S. and Canada",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "Page states: U.S. and Canada $40.6 million, as of November 13, 2026",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=Page%20states%3A%20U.S.%20and%20Canada%20%2440.6%20million%2C%20as"
+  },
+  {
+   "n": 41,
+   "where": "The story",
+   "claim": "$72 million worldwide",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "Page states: worldwide $72 million, as of November 13, 2026",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=Page%20states%3A%20worldwide%20%2472%20million%2C%20as%20of%20November"
+  },
+  {
+   "n": 42,
+   "where": "The story",
+   "claim": "U2's 76 rests on 14 reviews",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Carnaval_de_Luz",
+   "source": "Wikipedia (Carnaval de Luz)",
+   "passage": "\"76 out of 100 on the review aggregator Metacritic, based on 14 reviews\"",
+   "deep": "https://en.wikipedia.org/wiki/Carnaval_de_Luz#:~:text=%2276%20out%20of%20100%20on%20the%20review%20aggregator"
+  },
+  {
+   "n": 43,
+   "where": "The story",
+   "claim": "Ebenezer: A– from polled audiences against the critics' 46",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol",
+   "source": "Wikipedia (Ebenezer)",
+   "passage": "Page states: CinemaScore A–; Metacritic 46 out of 100 based on 37 critics",
+   "deep": "https://en.wikipedia.org/wiki/Ebenezer:_A_Christmas_Carol#:~:text=Page%20states%3A%20CinemaScore%20A%E2%80%93%3B%20Metacritic%2046%20out%20of"
+  },
+  {
+   "n": 44,
+   "where": "The story",
+   "claim": "Grammy nominations on Monday",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards",
+   "source": "Wikipedia (69th Grammys)",
+   "passage": "Page states: nominations to be announced November 16, 2026 (a Monday)",
+   "deep": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards#:~:text=Page%20states%3A%20nominations%20to%20be%20announced%20November%2016%2C"
+  },
+  {
+   "n": 45,
+   "where": "The story",
+   "claim": "the 69th Grammys cover releases from Aug. 31, 2025, to Aug. 28, 2026",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards",
+   "source": "Wikipedia (69th Grammys)",
+   "passage": "Eligibility: music released \"from August 31, 2025, to August 28, 2026\"",
+   "deep": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards#:~:text=Eligibility%3A%20music%20released%20%22from%20August%2031%2C%202025%2C%20to"
+  },
+  {
+   "n": 46,
+   "where": "The story",
+   "claim": "Carnaval de Luz (Nov. 13) is outside this cycle's window",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Carnaval_de_Luz",
+   "source": "Wikipedia (Carnaval de Luz)",
+   "passage": "Derived from both pages: released 13 November 2026, after the August 28, 2026 eligibility end on the 69th Grammys page",
+   "deep": "https://en.wikipedia.org/wiki/Carnaval_de_Luz#:~:text=Derived%20from%20both%20pages%3A%20released%2013%20November%202026%2C"
+  },
+  {
+   "n": 47,
+   "where": "The story",
+   "claim": "the February and April releases fall inside it",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Carnaval_de_Luz",
+   "source": "Wikipedia (Carnaval de Luz)",
+   "passage": "Derived from both pages: the EPs came out \"in February and April\" 2026, inside August 31, 2025 to August 28, 2026",
+   "deep": "https://en.wikipedia.org/wiki/Carnaval_de_Luz#:~:text=Derived%20from%20both%20pages%3A%20the%20EPs%20came%20out"
+  },
+  {
+   "n": 48,
+   "where": "What's coming, item 1",
+   "claim": "Sat., Nov. 14: John Mulaney hosts Saturday Night Live",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live_season_52",
+   "source": "Wikipedia (SNL season 52)",
+   "passage": "Page states (episode table): \"John Mulaney\" host, air date \"November 14, 2026\"",
+   "deep": "https://en.wikipedia.org/wiki/Saturday_Night_Live_season_52#:~:text=Page%20states%20%28episode%20table%29%3A%20%22John%20Mulaney%22%20host%2C%20air"
+  },
+  {
+   "n": 49,
+   "where": "What's coming, item 1",
+   "claim": "Phoebe Bridgers is the musical guest",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live_season_52",
+   "source": "Wikipedia (SNL season 52)",
+   "passage": "Page states (episode table): musical guest \"Phoebe Bridgers\", November 14, 2026",
+   "deep": "https://en.wikipedia.org/wiki/Saturday_Night_Live_season_52#:~:text=Page%20states%20%28episode%20table%29%3A%20musical%20guest%20%22Phoebe%20Bridgers%22%2C"
+  },
+  {
+   "n": 50,
+   "where": "What's coming, item 1",
+   "claim": "Bridgers' album Lost Weekend came out Aug. 14",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Phoebe_Bridgers",
+   "source": "Wikipedia (Phoebe Bridgers)",
+   "passage": "\"Bridgers' third album, Lost Weekend, was released on August 14, 2026.\"",
+   "deep": "https://en.wikipedia.org/wiki/Phoebe_Bridgers#:~:text=%22Bridgers%27%20third%20album%2C%20Lost%20Weekend%2C%20was%20released%20on"
+  },
+  {
+   "n": 51,
+   "where": "What's coming, item 1",
+   "claim": "On NBC and Peacock",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live_season_52",
+   "source": "Wikipedia (SNL season 52)",
+   "passage": "Page states: network \"NBC\"; \"Peacock (streaming service)\"",
+   "deep": "https://en.wikipedia.org/wiki/Saturday_Night_Live_season_52#:~:text=Page%20states%3A%20network%20%22NBC%22%3B%20%22Peacock%20%28streaming%20service%29%22"
+  },
+  {
+   "n": 52,
+   "where": "What's coming, item 1",
+   "claim": "the season page checked does not list a start time",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live_season_52",
+   "source": "Wikipedia (SNL season 52)",
+   "passage": "Page states: the Nov. 14 row gives the air date and viewership \"TBD\"; no start time is listed",
+   "deep": "https://en.wikipedia.org/wiki/Saturday_Night_Live_season_52#:~:text=Page%20states%3A%20the%20Nov.%2014%20row%20gives%20the"
+  },
+  {
+   "n": 53,
+   "where": "What's coming, item 2",
+   "claim": "Mon., Nov. 16: Grammy nominations",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards",
+   "source": "Wikipedia (69th Grammys)",
+   "passage": "Page states: nominations to be announced November 16, 2026",
+   "deep": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards#:~:text=Page%20states%3A%20nominations%20to%20be%20announced%20November%2016%2C"
+  },
+  {
+   "n": 54,
+   "where": "What's coming, item 2",
+   "claim": "Feb. 7, 2027, ceremony at Crypto.com Arena in Los Angeles",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards",
+   "source": "Wikipedia (69th Grammys)",
+   "passage": "\"February 7, 2027, at the Crypto.com Arena in Los Angeles, California\"",
+   "deep": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards#:~:text=%22February%207%2C%202027%2C%20at%20the%20Crypto.com%20Arena%20in"
+  },
+  {
+   "n": 55,
+   "where": "What's coming, item 2",
+   "claim": "ABC will air and Disney+ and Hulu will stream",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards",
+   "source": "Wikipedia (69th Grammys)",
+   "passage": "Page states: ceremony carried by \"ABC, Disney+, and Hulu\", ABC's first Grammys broadcast since 1972 and the first streaming on Disney+ and Hulu",
+   "deep": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards#:~:text=Page%20states%3A%20ceremony%20carried%20by%20%22ABC%2C%20Disney%2B%2C%20and"
+  },
+  {
+   "n": 56,
+   "where": "What's coming, item 2",
+   "claim": "No host has been named",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards",
+   "source": "Wikipedia (69th Grammys)",
+   "passage": "\"a host has yet to be announced\"",
+   "deep": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards#:~:text=%22a%20host%20has%20yet%20to%20be%20announced%22"
+  },
+  {
+   "n": 57,
+   "where": "What's coming, item 3",
+   "claim": "Fri., Nov. 20: Sunrise on the Reaping opens in U.S. theaters from Lionsgate, including IMAX",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping",
+   "source": "Wikipedia (Sunrise on the Reaping)",
+   "passage": "Page states: U.S. release \"November 20, 2026\" by Lionsgate in \"IMAX, 4DX, ScreenX and D-Box\"",
+   "deep": "https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping#:~:text=Page%20states%3A%20U.S.%20release%20%22November%2020%2C%202026%22%20by"
+  },
+  {
+   "n": 58,
+   "where": "What's coming, item 3",
+   "claim": "Francis Lawrence's film",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping",
+   "source": "Wikipedia (Sunrise on the Reaping)",
+   "passage": "Page states: director \"Francis Lawrence\"",
+   "deep": "https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping#:~:text=Page%20states%3A%20director%20%22Francis%20Lawrence%22"
+  },
+  {
+   "n": 59,
+   "where": "What's coming, item 3",
+   "claim": "158 minutes",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping",
+   "source": "Wikipedia (Sunrise on the Reaping)",
+   "passage": "Page states: running time 158 minutes",
+   "deep": "https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping#:~:text=Page%20states%3A%20running%20time%20158%20minutes"
+  },
+  {
+   "n": 60,
+   "where": "What's coming, item 3",
+   "claim": "prequel",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping",
+   "source": "Wikipedia (Sunrise on the Reaping)",
+   "passage": "\"serves as both a sequel to The Hunger Games: The Ballad of Songbirds & Snakes (2023) and a prequel to The Hunger Games (2012)\"",
+   "deep": "https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping#:~:text=%22serves%20as%20both%20a%20sequel%20to%20The%20Hunger"
+  },
+  {
+   "n": 61,
+   "where": "What's coming, item 3",
+   "claim": "Joseph Zada as the young Haymitch",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping",
+   "source": "Wikipedia (Sunrise on the Reaping)",
+   "passage": "Page states: young Haymitch played by \"Joseph Zada\"",
+   "deep": "https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping#:~:text=Page%20states%3A%20young%20Haymitch%20played%20by%20%22Joseph%20Zada%22"
+  },
+  {
+   "n": 62,
+   "where": "What's coming, item 3",
+   "claim": "It premiered in London on Oct. 28",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping",
+   "source": "Wikipedia (Sunrise on the Reaping)",
+   "passage": "\"premiered in London on October 28, 2026\"",
+   "deep": "https://en.wikipedia.org/wiki/The_Hunger_Games:_Sunrise_on_the_Reaping#:~:text=%22premiered%20in%20London%20on%20October%2028%2C%202026%22"
+  }
+ ],
+ "notes": []
+}

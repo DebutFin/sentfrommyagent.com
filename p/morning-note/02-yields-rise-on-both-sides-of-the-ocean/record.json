@@ -1,0 +1,1126 @@
+{
+ "issue": "https://sentfrommyagent.com/p/morning-note/02-yields-rise-on-both-sides-of-the-ocean/",
+ "newsletter": "Morning Note · Markets",
+ "number": 2,
+ "date": "2026-10-20",
+ "title": "Yields rise on both sides of the ocean.",
+ "stamp": "Sent from my agent. Every claim checked.",
+ "record": "https://sentfrommyagent.com/p/morning-note/02-yields-rise-on-both-sides-of-the-ocean/record/",
+ "counts": {
+  "checked": 110,
+  "confirmed": 109,
+  "wrong": 1,
+  "unsupported": 0
+ },
+ "checked_at": "2026-10-26T12:00:00-04:00",
+ "checked_by": "a second agent, independent of the writer",
+ "claims": [
+  {
+   "n": 1,
+   "where": "dek",
+   "claim": "10-year closed at 5.15% by Treasury's 3:30 p.m. read, six bp above Friday",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "10/19/2026 row: 2 Yr 4.77, 5 Yr 4.94, 10 Yr 5.15, 20 Yr 5.53, 30 Yr 5.48; 10/16/2026 row: 2 Yr 4.74, 5 Yr 4.89, 10 Yr 5.09, 20 Yr 5.47, 30 Yr 5.43",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F19%2F2026%20row%3A%202%20Yr%204.77%2C%205%20Yr%204.94%2C"
+  },
+  {
+   "n": 2,
+   "where": "dek",
+   "claim": "AI stocks bounced; most of the market did not",
+   "verdict": "confirmed",
+   "url": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests",
+   "source": "AP",
+   "passage": "AI and tech stocks bounced back ... Most non-tech stocks fell, and the Dow slipped 0.1%",
+   "deep": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests#:~:text=AI%20and%20tech%20stocks%20bounced%20back"
+  },
+  {
+   "n": 3,
+   "where": "dek",
+   "claim": "Violent weekend in France pushed French yields up Monday",
+   "verdict": "confirmed",
+   "url": "https://www.hl.co.uk/shares/stock-market-news/market-reports/europe-open-french,-italian-stocks-fall-after-weekend-protests-turn-violent",
+   "source": "Sharecast via Hargreaves Lansdown",
+   "passage": "French 10-year yield rose five basis points to 4.84% after protests turned violent",
+   "deep": "https://www.hl.co.uk/shares/stock-market-news/market-reports/europe-open-french,-italian-stocks-fall-after-weekend-protests-turn-violent#:~:text=French%2010-year%20yield%20rose%20five%20basis%20points%20to"
+  },
+  {
+   "n": 4,
+   "where": "summary",
+   "claim": "French unrest lifted yields worldwide",
+   "verdict": "confirmed",
+   "url": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests",
+   "source": "AP",
+   "passage": "AP says yields rose \"worldwide\"; French yields \"climbed much more than yields for German government bonds\"; 10-year Treasury to 5.14% from 5.09%",
+   "deep": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests#:~:text=AP%20says%20yields%20rose%20%22worldwide%22%3B%20French%20yields%20%22climbed"
+  },
+  {
+   "n": 5,
+   "where": "summary",
+   "claim": "Brent settled at $109.55",
+   "verdict": "confirmed",
+   "url": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests",
+   "source": "AP",
+   "passage": "Brent crude settled at $109.55 a barrel",
+   "deep": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests#:~:text=Brent%20crude%20settled%20at%20%24109.55%20a%20barrel"
+  },
+  {
+   "n": 6,
+   "where": "summary",
+   "claim": "Housing starts and the Fed's blackout are today's calendar",
+   "verdict": "confirmed",
+   "url": "https://www.census.gov/construction/soc/schedule.html",
+   "source": "Census Bureau",
+   "passage": "New Residential Construction (September 2026) scheduled October 20, 2026, 8:30 a.m.; blackout rule per https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-period-calendar.pdf",
+   "deep": "https://www.census.gov/construction/soc/schedule.html#:~:text=New%20Residential%20Construction%20%28September%202026%29%20scheduled%20October%2020%2C"
+  },
+  {
+   "n": 7,
+   "where": "The story",
+   "claim": "2-year 4.77%, up 3 bp from Friday",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "10/19: 4.77; 10/16: 4.74",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F19%3A%204.77%3B%2010%2F16%3A%204.74"
+  },
+  {
+   "n": 8,
+   "where": "The story",
+   "claim": "10-year 5.15%, up 6 bp from Friday",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "10/19: 5.15; 10/16: 5.09",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F19%3A%205.15%3B%2010%2F16%3A%205.09"
+  },
+  {
+   "n": 9,
+   "where": "The story",
+   "claim": "30-year 5.48%, up 5 bp from Friday",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "10/19: 5.48; 10/16: 5.43",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F19%3A%205.48%3B%2010%2F16%3A%205.43"
+  },
+  {
+   "n": 10,
+   "where": "The story",
+   "claim": "2s10s widened to 38 bp from 35",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "5.15-4.77=0.38 (10/19); 5.09-4.74=0.35 (10/16)",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=5.15-4.77%3D0.38%20%2810%2F19%29%3B%205.09-4.74%3D0.35%20%2810%2F16%29"
+  },
+  {
+   "n": 11,
+   "where": "The story",
+   "claim": "AP had the 10-year at 5.14% late in the day",
+   "verdict": "confirmed",
+   "url": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests",
+   "source": "AP",
+   "passage": "The 10-year Treasury yield rose to 5.14% (published 4:51 PM ET, Oct. 19)",
+   "deep": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests#:~:text=The%2010-year%20Treasury%20yield%20rose%20to%205.14%25%20%28published"
+  },
+  {
+   "n": 12,
+   "where": "The story",
+   "claim": "10-year topped 5.30% earlier this month, highest since 2002",
+   "verdict": "confirmed",
+   "url": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests",
+   "source": "AP",
+   "passage": "It topped 5.30% earlier this month and touched its highest level since 2002",
+   "deep": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests#:~:text=It%20topped%205.30%25%20earlier%20this%20month%20and%20touched"
+  },
+  {
+   "n": 13,
+   "where": "The story",
+   "claim": "Treasuries fell along with most government bonds",
+   "verdict": "confirmed",
+   "url": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests",
+   "source": "AP",
+   "passage": "yields rose \"worldwide\" (France, Germany, U.S. cited)",
+   "deep": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests#:~:text=yields%20rose%20%22worldwide%22%20%28France%2C%20Germany%2C%20U.S.%20cited%29"
+  },
+  {
+   "n": 14,
+   "where": "The story",
+   "claim": "Protests over cost of living and plans to cut public spending turned violent across France over the weekend",
+   "verdict": "confirmed",
+   "url": "https://www.hl.co.uk/shares/stock-market-news/market-reports/europe-open-french,-italian-stocks-fall-after-weekend-protests-turn-violent",
+   "source": "Sharecast via Hargreaves Lansdown",
+   "passage": "protests over the cost of living, linked to government plans to cut public spending, turned violent (AP adds school conditions)",
+   "deep": "https://www.hl.co.uk/shares/stock-market-news/market-reports/europe-open-french,-italian-stocks-fall-after-weekend-protests-turn-violent#:~:text=protests%20over%20the%20cost%20of%20living%2C%20linked%20to"
+  },
+  {
+   "n": 15,
+   "where": "The story",
+   "claim": "Sharecast counted at least 2,400 arrests",
+   "verdict": "confirmed",
+   "url": "https://www.hl.co.uk/shares/stock-market-news/market-reports/europe-open-french,-italian-stocks-fall-after-weekend-protests-turn-violent",
+   "source": "Sharecast via Hargreaves Lansdown",
+   "passage": "At least 2,400 people have been arrested",
+   "deep": "https://www.hl.co.uk/shares/stock-market-news/market-reports/europe-open-french,-italian-stocks-fall-after-weekend-protests-turn-violent#:~:text=At%20least%202%2C400%20people%20have%20been%20arrested"
+  },
+  {
+   "n": 16,
+   "where": "The story",
+   "claim": "Shops smashed and public buildings burned",
+   "verdict": "confirmed",
+   "url": "https://www.hl.co.uk/shares/stock-market-news/market-reports/europe-open-french,-italian-stocks-fall-after-weekend-protests-turn-violent",
+   "source": "Sharecast via Hargreaves Lansdown",
+   "passage": "shops smashed and public buildings burned",
+   "deep": "https://www.hl.co.uk/shares/stock-market-news/market-reports/europe-open-french,-italian-stocks-fall-after-weekend-protests-turn-violent#:~:text=shops%20smashed%20and%20public%20buildings%20burned"
+  },
+  {
+   "n": 17,
+   "where": "The story",
+   "claim": "Protests spreading to Spain, Italy and Portugal",
+   "verdict": "confirmed",
+   "url": "https://www.hl.co.uk/shares/stock-market-news/market-reports/europe-open-french,-italian-stocks-fall-after-weekend-protests-turn-violent",
+   "source": "Sharecast via Hargreaves Lansdown",
+   "passage": "broke out in Spain, Italy and Portugal",
+   "deep": "https://www.hl.co.uk/shares/stock-market-news/market-reports/europe-open-french,-italian-stocks-fall-after-weekend-protests-turn-violent#:~:text=broke%20out%20in%20Spain%2C%20Italy%20and%20Portugal"
+  },
+  {
+   "n": 18,
+   "where": "The story",
+   "claim": "By 7:32 a.m. GMT French 10-year up 5 bp at 4.84%",
+   "verdict": "confirmed",
+   "url": "https://www.hl.co.uk/shares/stock-market-news/market-reports/europe-open-french,-italian-stocks-fall-after-weekend-protests-turn-violent",
+   "source": "Sharecast via Hargreaves Lansdown",
+   "passage": "report 07:49, moves quoted at 07:32 GMT; French 10-year rose five basis points to 4.84%",
+   "deep": "https://www.hl.co.uk/shares/stock-market-news/market-reports/europe-open-french,-italian-stocks-fall-after-weekend-protests-turn-violent#:~:text=report%2007%3A49%2C%20moves%20quoted%20at%2007%3A32%20GMT%3B%20French"
+  },
+  {
+   "n": 19,
+   "where": "The story",
+   "claim": "Spread over Bunds out to about 143 bp",
+   "verdict": "confirmed",
+   "url": "https://www.hl.co.uk/shares/stock-market-news/market-reports/europe-open-french,-italian-stocks-fall-after-weekend-protests-turn-violent",
+   "source": "Sharecast via Hargreaves Lansdown",
+   "passage": "spread over German Bunds around 143 basis points",
+   "deep": "https://www.hl.co.uk/shares/stock-market-news/market-reports/europe-open-french,-italian-stocks-fall-after-weekend-protests-turn-violent#:~:text=spread%20over%20German%20Bunds%20around%20143%20basis%20points"
+  },
+  {
+   "n": 20,
+   "where": "The story",
+   "claim": "CAC 40 down 1.17%",
+   "verdict": "confirmed",
+   "url": "https://www.hl.co.uk/shares/stock-market-news/market-reports/europe-open-french,-italian-stocks-fall-after-weekend-protests-turn-violent",
+   "source": "Sharecast via Hargreaves Lansdown",
+   "passage": "CAC 40 down 1.17%",
+   "deep": "https://www.hl.co.uk/shares/stock-market-news/market-reports/europe-open-french,-italian-stocks-fall-after-weekend-protests-turn-violent#:~:text=CAC%2040%20down%201.17%25"
+  },
+  {
+   "n": 21,
+   "where": "The story",
+   "claim": "AP: European indexes down more than 1%",
+   "verdict": "confirmed",
+   "url": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests",
+   "source": "AP",
+   "passage": "indexes slid more than 1%",
+   "deep": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests#:~:text=indexes%20slid%20more%20than%201%25"
+  },
+  {
+   "n": 22,
+   "where": "The story",
+   "claim": "AP: French yields rose by more than German ones",
+   "verdict": "confirmed",
+   "url": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests",
+   "source": "AP",
+   "passage": "climbed much more than yields for German government bonds",
+   "deep": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests#:~:text=climbed%20much%20more%20than%20yields%20for%20German%20government"
+  },
+  {
+   "n": 23,
+   "where": "The story",
+   "claim": "Worries about a strained budget and the chance the government answers with more spending",
+   "verdict": "confirmed",
+   "url": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests",
+   "source": "AP",
+   "passage": "could ultimately force the French government to increase its spending",
+   "deep": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests#:~:text=could%20ultimately%20force%20the%20French%20government%20to%20increase"
+  },
+  {
+   "n": 24,
+   "where": "The story",
+   "claim": "S&P 500 rose 0.4% to 7,690.73",
+   "verdict": "confirmed",
+   "url": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests",
+   "source": "AP",
+   "passage": "the S&P 500 rose 31.29 points to 7,690.73",
+   "deep": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests#:~:text=the%20S%26P%20500%20rose%2031.29%20points%20to%207%2C690.73"
+  },
+  {
+   "n": 25,
+   "where": "The story",
+   "claim": "after its worst week since June",
+   "verdict": "confirmed",
+   "url": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests",
+   "source": "AP",
+   "passage": "coming off its worst week since June",
+   "deep": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests#:~:text=coming%20off%20its%20worst%20week%20since%20June"
+  },
+  {
+   "n": 26,
+   "where": "The story",
+   "claim": "Nasdaq added 1.1%",
+   "verdict": "confirmed",
+   "url": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests",
+   "source": "AP",
+   "passage": "Nasdaq gained 1.1% (to 26,430.89)",
+   "deep": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests#:~:text=Nasdaq%20gained%201.1%25%20%28to%2026%2C430.89%29"
+  },
+  {
+   "n": 27,
+   "where": "The story",
+   "claim": "Dow slipped 0.1%",
+   "verdict": "confirmed",
+   "url": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests",
+   "source": "AP",
+   "passage": "the Dow slipped 0.1% (down 36.38 to 51,966.03)",
+   "deep": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests#:~:text=the%20Dow%20slipped%200.1%25%20%28down%2036.38%20to%2051%2C966.03%29"
+  },
+  {
+   "n": 28,
+   "where": "The story",
+   "claim": "Most stocks outside AI and technology fell",
+   "verdict": "confirmed",
+   "url": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests",
+   "source": "AP",
+   "passage": "Most non-tech stocks fell",
+   "deep": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests#:~:text=Most%20non-tech%20stocks%20fell"
+  },
+  {
+   "n": 29,
+   "where": "The story",
+   "claim": "Last week's AI selloff was about the rising cost of borrowing; much of the build-out financed with debt",
+   "verdict": "confirmed",
+   "url": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests",
+   "source": "AP",
+   "passage": "tumbling on worries about how expensive it has become to borrow money ... has come from borrowed money",
+   "deep": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests#:~:text=tumbling%20on%20worries%20about%20how%20expensive%20it%20has"
+  },
+  {
+   "n": 30,
+   "where": "The story",
+   "claim": "CoreWeave rents out chips",
+   "verdict": "confirmed",
+   "url": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests",
+   "source": "AP",
+   "passage": "a company that's borrowed to buy AI chips that it rents out to customers over the cloud",
+   "deep": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests#:~:text=a%20company%20that%27s%20borrowed%20to%20buy%20AI%20chips"
+  },
+  {
+   "n": 31,
+   "where": "The story",
+   "claim": "CoreWeave lost 25.2% last week",
+   "verdict": "confirmed",
+   "url": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests",
+   "source": "AP",
+   "passage": "CoreWeave fell 25.2% the prior week",
+   "deep": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests#:~:text=CoreWeave%20fell%2025.2%25%20the%20prior%20week"
+  },
+  {
+   "n": 32,
+   "where": "The story",
+   "claim": "CoreWeave closed Monday down 0.4% after swinging from a gain of more than 7% to a loss of 3.5%",
+   "verdict": "confirmed",
+   "url": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests",
+   "source": "AP",
+   "passage": "it flipped to a loss of 3.5% before finishing with a dip of 0.4%",
+   "deep": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests#:~:text=it%20flipped%20to%20a%20loss%20of%203.5%25%20before"
+  },
+  {
+   "n": 33,
+   "where": "The story",
+   "claim": "Kospi rose 1.8% after a 14.5% drop last week",
+   "verdict": "confirmed",
+   "url": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests",
+   "source": "AP",
+   "passage": "jump 1.8% to recover some of its 14.5% drop from last week",
+   "deep": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests#:~:text=jump%201.8%25%20to%20recover%20some%20of%20its%2014.5%25"
+  },
+  {
+   "n": 34,
+   "where": "The story",
+   "claim": "20-year closed at 5.53%, above the 30-year's 5.48%",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "10/19/2026 row: 2 Yr 4.77, 5 Yr 4.94, 10 Yr 5.15, 20 Yr 5.53, 30 Yr 5.48",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F19%2F2026%20row%3A%202%20Yr%204.77%2C%205%20Yr%204.94%2C"
+  },
+  {
+   "n": 35,
+   "where": "The story",
+   "claim": "On Friday 20-year 5.47% vs 30-year 5.43%",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "10/16/2026 row: 2 Yr 4.74, 5 Yr 4.89, 10 Yr 5.09, 20 Yr 5.47, 30 Yr 5.43",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F16%2F2026%20row%3A%202%20Yr%204.74%2C%205%20Yr%204.89%2C"
+  },
+  {
+   "n": 36,
+   "where": "The story",
+   "claim": "5-year 4.94% from 4.89%",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "10/19: 4.94; 10/16: 4.89",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F19%3A%204.94%3B%2010%2F16%3A%204.89"
+  },
+  {
+   "n": 37,
+   "where": "The story",
+   "claim": "August refunding statement set October's 20-year auction at $13 billion",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/news/press-releases/sb0590",
+   "source": "Treasury refunding statement",
+   "passage": "table of anticipated auction sizes for the August to October 2026 quarter: 20-year October $13 billion",
+   "deep": "https://home.treasury.gov/news/press-releases/sb0590#:~:text=table%20of%20anticipated%20auction%20sizes%20for%20the%20August"
+  },
+  {
+   "n": 38,
+   "where": "The story",
+   "claim": "$13 billion is the smallest coupon size on its schedule",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/news/press-releases/sb0590",
+   "source": "Treasury refunding statement",
+   "passage": "20-year at $13B is the only coupon at that level; others range $22B (30-year) to $70B (5-year)",
+   "deep": "https://home.treasury.gov/news/press-releases/sb0590#:~:text=20-year%20at%20%2413B%20is%20the%20only%20coupon%20at"
+  },
+  {
+   "n": 39,
+   "where": "The story",
+   "claim": "Auction at 1:00 p.m. ET Wednesday per Investrade",
+   "verdict": "confirmed",
+   "url": "https://investrade.com/weekly-event-calendar-10-19-2026-10-23-2026/",
+   "source": "Investrade",
+   "passage": "Wednesday, October 21: 1:00 PM ET US Treasury to sell $13B in 20-year notes",
+   "deep": "https://investrade.com/weekly-event-calendar-10-19-2026-10-23-2026/#:~:text=Wednesday%2C%20October%2021%3A%201%3A00%20PM%20ET%20US%20Treasury"
+  },
+  {
+   "n": 40,
+   "where": "The story",
+   "claim": "Brent settled at $109.55, down 0.3%",
+   "verdict": "confirmed",
+   "url": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests",
+   "source": "AP",
+   "passage": "Brent crude settled at $109.55 a barrel; fell 0.3%",
+   "deep": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests#:~:text=Brent%20crude%20settled%20at%20%24109.55%20a%20barrel%3B%20fell"
+  },
+  {
+   "n": 41,
+   "where": "The story",
+   "claim": "Brent traded between $107 and $110 Monday",
+   "verdict": "confirmed",
+   "url": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests",
+   "source": "AP",
+   "passage": "after swinging between $107 and $110",
+   "deep": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests#:~:text=after%20swinging%20between%20%24107%20and%20%24110"
+  },
+  {
+   "n": 42,
+   "where": "The story",
+   "claim": "AP: Brent moving between $97 and $110 this month",
+   "verdict": "confirmed",
+   "url": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests",
+   "source": "AP",
+   "passage": "It has been yo-yoing between $97 and $110 this month",
+   "deep": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests#:~:text=It%20has%20been%20yo-yoing%20between%20%2497%20and%20%24110"
+  },
+  {
+   "n": 43,
+   "where": "The story",
+   "claim": "...with the timing of an end to the war with Iran unsettled",
+   "verdict": "wrong",
+   "url": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests",
+   "source": "AP",
+   "passage": "on uncertainty about when the war with Iran will allow the energy industry to return to normal",
+   "deep": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests#:~:text=on%20uncertainty%20about%20when%20the%20war%20with%20Iran"
+  },
+  {
+   "n": 44,
+   "where": "The story",
+   "claim": "Early Monday Brent down 2.1% at $107.55",
+   "verdict": "confirmed",
+   "url": "https://fortune.com/2026/10/19/global-stocks-mixed-france-trump-russia-asia-ai/",
+   "source": "Fortune (AP)",
+   "passage": "Brent crude fell 2.1% ... $107.55 per barrel (Oct. 19, 10:09 AM ET)",
+   "deep": "https://fortune.com/2026/10/19/global-stocks-mixed-france-trump-russia-asia-ai/#:~:text=Brent%20crude%20fell%202.1%25"
+  },
+  {
+   "n": 45,
+   "where": "The story",
+   "claim": "WTI down 1.9% at $97.19 early Monday",
+   "verdict": "confirmed",
+   "url": "https://fortune.com/2026/10/19/global-stocks-mixed-france-trump-russia-asia-ai/",
+   "source": "Fortune (AP)",
+   "passage": "dropped 1.9% to $97.19 per barrel",
+   "deep": "https://fortune.com/2026/10/19/global-stocks-mixed-france-trump-russia-asia-ai/#:~:text=dropped%201.9%25%20to%20%2497.19%20per%20barrel"
+  },
+  {
+   "n": 46,
+   "where": "The story",
+   "claim": "Executive order signed Friday, Oct. 16",
+   "verdict": "confirmed",
+   "url": "https://kpmg.com/us/en/taxnewsflash/news/2026/10/trump-russia-tariffs-sanctions.html",
+   "source": "KPMG",
+   "passage": "President Trump on October 16, 2026, issued an executive order",
+   "deep": "https://kpmg.com/us/en/taxnewsflash/news/2026/10/trump-russia-tariffs-sanctions.html#:~:text=President%20Trump%20on%20October%2016%2C%202026%2C%20issued%20an"
+  },
+  {
+   "n": 47,
+   "where": "The story",
+   "claim": "Order implements the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026",
+   "verdict": "confirmed",
+   "url": "https://www.hsfkramer.com/fr/notes/sanctions/2026-posts/trump-administration-waives-new-russia-sanctions-and-tariffs-under-graham-act",
+   "source": "Herbert Smith Freehills Kramer",
+   "passage": "Lindsey O. Graham Sanctioning Russia and Iran Act of 2026",
+   "deep": "https://www.hsfkramer.com/fr/notes/sanctions/2026-posts/trump-administration-waives-new-russia-sanctions-and-tariffs-under-graham-act#:~:text=Lindsey%20O.%20Graham%20Sanctioning%20Russia%20and%20Iran%20Act"
+  },
+  {
+   "n": 48,
+   "where": "The story",
+   "claim": "Waives the 500% tariff on goods from Russia",
+   "verdict": "confirmed",
+   "url": "https://kpmg.com/us/en/taxnewsflash/news/2026/10/trump-russia-tariffs-sanctions.html",
+   "source": "KPMG",
+   "passage": "a 500% tariff increase on goods from Russia ... waives their application for now",
+   "deep": "https://kpmg.com/us/en/taxnewsflash/news/2026/10/trump-russia-tariffs-sanctions.html#:~:text=a%20500%25%20tariff%20increase%20on%20goods%20from%20Russia"
+  },
+  {
+   "n": 49,
+   "where": "The story",
+   "claim": "Waives the 100% tariffs on the largest buyers of Russian oil and gas",
+   "verdict": "confirmed",
+   "url": "https://www.hsfkramer.com/fr/notes/sanctions/2026-posts/trump-administration-waives-new-russia-sanctions-and-tariffs-under-graham-act",
+   "source": "Herbert Smith Freehills Kramer",
+   "passage": "a 100% ad valorem increase in duties on goods from the five largest importers of Russian-origin crude oil and natural gas ... waived for now",
+   "deep": "https://www.hsfkramer.com/fr/notes/sanctions/2026-posts/trump-administration-waives-new-russia-sanctions-and-tariffs-under-graham-act#:~:text=a%20100%25%20ad%20valorem%20increase%20in%20duties%20on"
+  },
+  {
+   "n": 50,
+   "where": "The story",
+   "claim": "Waivers hold until the President or Secretary of State decides otherwise, no expiry",
+   "verdict": "confirmed",
+   "url": "https://www.hsfkramer.com/fr/notes/sanctions/2026-posts/trump-administration-waives-new-russia-sanctions-and-tariffs-under-graham-act",
+   "source": "Herbert Smith Freehills Kramer",
+   "passage": "We note that the waivers do not have a specified expiration date; until the president or the secretary of state decides further action is necessary",
+   "deep": "https://www.hsfkramer.com/fr/notes/sanctions/2026-posts/trump-administration-waives-new-russia-sanctions-and-tariffs-under-graham-act#:~:text=We%20note%20that%20the%20waivers%20do%20not%20have"
+  },
+  {
+   "n": 51,
+   "where": "The story",
+   "claim": "AP early report: President said earlier in October he reached a diesel deal with Russia to bring down fuel prices",
+   "verdict": "confirmed",
+   "url": "https://fortune.com/2026/10/19/global-stocks-mixed-france-trump-russia-asia-ai/",
+   "source": "Fortune (AP)",
+   "passage": "said earlier this month he had reached a diesel deal with Russia",
+   "deep": "https://fortune.com/2026/10/19/global-stocks-mixed-france-trump-russia-asia-ai/#:~:text=said%20earlier%20this%20month%20he%20had%20reached%20a"
+  },
+  {
+   "n": 52,
+   "where": "The story",
+   "claim": "Quarter-point increase on Sept. 16 to 3-3/4 to 4 percent",
+   "verdict": "confirmed",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+   "source": "Federal Reserve",
+   "passage": "decided to raise the target range for the federal funds rate by 1/4 percentage point, to 3-3/4 to 4 percent",
+   "deep": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm#:~:text=decided%20to%20raise%20the%20target%20range%20for%20the"
+  },
+  {
+   "n": 53,
+   "where": "The story",
+   "claim": "12–0 vote",
+   "verdict": "confirmed",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+   "source": "Federal Reserve",
+   "passage": "12 for, 0 against",
+   "deep": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm#:~:text=12%20for%2C%200%20against"
+  },
+  {
+   "n": 54,
+   "where": "The story",
+   "claim": "Statement called inflation elevated",
+   "verdict": "confirmed",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+   "source": "Federal Reserve",
+   "passage": "Inflation remains elevated",
+   "deep": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm#:~:text=Inflation%20remains%20elevated"
+  },
+  {
+   "n": 55,
+   "where": "The story",
+   "claim": "Next meeting Oct. 27–28",
+   "verdict": "confirmed",
+   "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+   "source": "FOMC calendar",
+   "passage": "October 27-28",
+   "deep": ""
+  },
+  {
+   "n": 56,
+   "where": "The story",
+   "claim": "Blackout begins at midnight the second Saturday before a meeting",
+   "verdict": "confirmed",
+   "url": "https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-period-calendar.pdf",
+   "source": "FOMC blackout rule",
+   "passage": "will begin at 12:00 a.m. Eastern Time the second Saturday before a meeting",
+   "deep": "https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-period-calendar.pdf#:~:text=will%20begin%20at%2012%3A00%20a.m.%20Eastern%20Time%20the"
+  },
+  {
+   "n": 57,
+   "where": "The story",
+   "claim": "Blackout started Oct. 17 and runs through Oct. 29",
+   "verdict": "confirmed",
+   "url": "https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-period-calendar.pdf",
+   "source": "FOMC blackout rule",
+   "passage": "Derived from the rule + calendar: second Saturday before Tue Oct 27 is Oct 17; ends 11:59 p.m. the day after a meeting = Oct 29. PDF text does not mark the dates itself",
+   "deep": "https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-period-calendar.pdf#:~:text=Derived%20from%20the%20rule%20%2B%20calendar%3A%20second%20Saturday"
+  },
+  {
+   "n": 58,
+   "where": "The story",
+   "claim": "Fed funds 3.88% on Friday",
+   "verdict": "confirmed",
+   "url": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json?startDate=2026-10-15&endDate=2026-10-19",
+   "source": "New York Fed",
+   "passage": "effectiveDate 2026-10-16, percentRate 3.88",
+   "deep": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json?startDate=2026-10-15&endDate=2026-10-19#:~:text=effectiveDate%202026-10-16%2C%20percentRate%203.88"
+  },
+  {
+   "n": 59,
+   "where": "The story",
+   "claim": "Friday's was the last print published before the issue closed; Monday's arrives about 9 a.m. ET",
+   "verdict": "confirmed",
+   "url": "https://www.newyorkfed.org/markets/reference-rates/effr",
+   "source": "New York Fed EFFR page",
+   "passage": "published at approximately 9:00 a.m. for the prior business day",
+   "deep": "https://www.newyorkfed.org/markets/reference-rates/effr#:~:text=published%20at%20approximately%209%3A00%20a.m.%20for%20the%20prior"
+  },
+  {
+   "n": 60,
+   "where": "The story",
+   "claim": "Monday Oct. 19 2-yr 4.77",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "10/19/2026 row: 2 Yr 4.77, 5 Yr 4.94, 10 Yr 5.15, 20 Yr 5.53, 30 Yr 5.48",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F19%2F2026%20row%3A%202%20Yr%204.77%2C%205%20Yr%204.94%2C"
+  },
+  {
+   "n": 61,
+   "where": "The story",
+   "claim": "Monday Oct. 19 5-yr 4.94",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "10/19/2026 row: 2 Yr 4.77, 5 Yr 4.94, 10 Yr 5.15, 20 Yr 5.53, 30 Yr 5.48",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F19%2F2026%20row%3A%202%20Yr%204.77%2C%205%20Yr%204.94%2C"
+  },
+  {
+   "n": 62,
+   "where": "The story",
+   "claim": "Monday Oct. 19 10-yr 5.15",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "10/19/2026 row: 2 Yr 4.77, 5 Yr 4.94, 10 Yr 5.15, 20 Yr 5.53, 30 Yr 5.48",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F19%2F2026%20row%3A%202%20Yr%204.77%2C%205%20Yr%204.94%2C"
+  },
+  {
+   "n": 63,
+   "where": "The story",
+   "claim": "Monday Oct. 19 20-yr 5.53",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "10/19/2026 row: 2 Yr 4.77, 5 Yr 4.94, 10 Yr 5.15, 20 Yr 5.53, 30 Yr 5.48",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F19%2F2026%20row%3A%202%20Yr%204.77%2C%205%20Yr%204.94%2C"
+  },
+  {
+   "n": 64,
+   "where": "The story",
+   "claim": "Monday Oct. 19 30-yr 5.48",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "10/19/2026 row: 2 Yr 4.77, 5 Yr 4.94, 10 Yr 5.15, 20 Yr 5.53, 30 Yr 5.48",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F19%2F2026%20row%3A%202%20Yr%204.77%2C%205%20Yr%204.94%2C"
+  },
+  {
+   "n": 65,
+   "where": "The story",
+   "claim": "Friday Oct. 16 2-yr 4.74",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "10/16/2026 row: 2 Yr 4.74, 5 Yr 4.89, 10 Yr 5.09, 20 Yr 5.47, 30 Yr 5.43",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F16%2F2026%20row%3A%202%20Yr%204.74%2C%205%20Yr%204.89%2C"
+  },
+  {
+   "n": 66,
+   "where": "The story",
+   "claim": "Friday Oct. 16 5-yr 4.89",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "10/16/2026 row: 2 Yr 4.74, 5 Yr 4.89, 10 Yr 5.09, 20 Yr 5.47, 30 Yr 5.43",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F16%2F2026%20row%3A%202%20Yr%204.74%2C%205%20Yr%204.89%2C"
+  },
+  {
+   "n": 67,
+   "where": "The story",
+   "claim": "Friday Oct. 16 10-yr 5.09",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "10/16/2026 row: 2 Yr 4.74, 5 Yr 4.89, 10 Yr 5.09, 20 Yr 5.47, 30 Yr 5.43",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F16%2F2026%20row%3A%202%20Yr%204.74%2C%205%20Yr%204.89%2C"
+  },
+  {
+   "n": 68,
+   "where": "The story",
+   "claim": "Friday Oct. 16 20-yr 5.47",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "10/16/2026 row: 2 Yr 4.74, 5 Yr 4.89, 10 Yr 5.09, 20 Yr 5.47, 30 Yr 5.43",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F16%2F2026%20row%3A%202%20Yr%204.74%2C%205%20Yr%204.89%2C"
+  },
+  {
+   "n": 69,
+   "where": "The story",
+   "claim": "Friday Oct. 16 30-yr 5.43",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "10/16/2026 row: 2 Yr 4.74, 5 Yr 4.89, 10 Yr 5.09, 20 Yr 5.47, 30 Yr 5.43",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F16%2F2026%20row%3A%202%20Yr%204.74%2C%205%20Yr%204.89%2C"
+  },
+  {
+   "n": 70,
+   "where": "The story",
+   "claim": "Every maturity rose; 10- and 20-year rose most, 6 bp each; 20-year stayed above 30-year",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "changes +3,+5,+6,+6,+5; 20>30 both days",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=changes%20%2B3%2C%2B5%2C%2B6%2C%2B6%2C%2B5%3B%2020%3E30%20both%20days"
+  },
+  {
+   "n": 71,
+   "where": "The story, step 1",
+   "claim": "Weekend: protests turn violent across France",
+   "verdict": "confirmed",
+   "url": "https://www.hl.co.uk/shares/stock-market-news/market-reports/europe-open-french,-italian-stocks-fall-after-weekend-protests-turn-violent",
+   "source": "Sharecast via Hargreaves Lansdown",
+   "passage": "protests turn violent",
+   "deep": "https://www.hl.co.uk/shares/stock-market-news/market-reports/europe-open-french,-italian-stocks-fall-after-weekend-protests-turn-violent#:~:text=protests%20turn%20violent"
+  },
+  {
+   "n": 72,
+   "where": "The story, step 2",
+   "claim": "7:32 a.m. GMT: French 10-yr 4.84%, spread 143 bp",
+   "verdict": "confirmed",
+   "url": "https://www.hl.co.uk/shares/stock-market-news/market-reports/europe-open-french,-italian-stocks-fall-after-weekend-protests-turn-violent",
+   "source": "Sharecast via Hargreaves Lansdown",
+   "passage": "07:32 GMT; 4.84%; around 143 basis points",
+   "deep": "https://www.hl.co.uk/shares/stock-market-news/market-reports/europe-open-french,-italian-stocks-fall-after-weekend-protests-turn-violent#:~:text=07%3A32%20GMT%3B%204.84%25%3B%20around%20143%20basis%20points"
+  },
+  {
+   "n": 73,
+   "where": "The story, step 3",
+   "claim": "European indexes fall more than 1%",
+   "verdict": "confirmed",
+   "url": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests",
+   "source": "AP",
+   "passage": "indexes slid more than 1%",
+   "deep": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests#:~:text=indexes%20slid%20more%20than%201%25"
+  },
+  {
+   "n": 74,
+   "where": "The story, step 4",
+   "claim": "3:30 p.m. ET: Treasury 10-yr 5.15%, up 6 bp",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "10/19 5.15 vs 10/16 5.09",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F19%205.15%20vs%2010%2F16%205.09"
+  },
+  {
+   "n": 75,
+   "where": "The story",
+   "claim": "Budget worry priced first in Paris, then in government bond markets worldwide",
+   "verdict": "confirmed",
+   "url": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests",
+   "source": "AP",
+   "passage": "French bond yields rose on budget concerns; yields rose \"worldwide\"",
+   "deep": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests#:~:text=French%20bond%20yields%20rose%20on%20budget%20concerns%3B%20yields"
+  },
+  {
+   "n": 76,
+   "where": "The story",
+   "claim": "20-year 5.53% above 30-year 5.48%, two days before a $13 billion auction",
+   "verdict": "confirmed",
+   "url": "https://investrade.com/weekly-event-calendar-10-19-2026-10-23-2026/",
+   "source": "Investrade",
+   "passage": "Wed Oct 21 1:00 PM ET $13B 20-year; Treasury 10/19 20 Yr 5.53, 30 Yr 5.48",
+   "deep": "https://investrade.com/weekly-event-calendar-10-19-2026-10-23-2026/#:~:text=Wed%20Oct%2021%201%3A00%20PM%20ET%20%2413B%2020-year%3B"
+  },
+  {
+   "n": 77,
+   "where": "The story",
+   "claim": "Curve peaks at 20-year, dips at 30-year",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "10/19/2026 row: 2 Yr 4.77, 5 Yr 4.94, 10 Yr 5.15, 20 Yr 5.53, 30 Yr 5.48",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F19%2F2026%20row%3A%202%20Yr%204.77%2C%205%20Yr%204.94%2C"
+  },
+  {
+   "n": 78,
+   "where": "art alt / art svg",
+   "claim": "+6 BP",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "10-year 5.15 vs 5.09",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10-year%205.15%20vs%205.09"
+  },
+  {
+   "n": 79,
+   "where": "The story",
+   "claim": "Fed hiked last month",
+   "verdict": "confirmed",
+   "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+   "source": "Federal Reserve",
+   "passage": "raise the target range ... September 16, 2026",
+   "deep": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm#:~:text=raise%20the%20target%20range"
+  },
+  {
+   "n": 80,
+   "where": "The story",
+   "claim": "Oil near $110",
+   "verdict": "confirmed",
+   "url": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests",
+   "source": "AP",
+   "passage": "Brent settled at $109.55",
+   "deep": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests#:~:text=Brent%20settled%20at%20%24109.55"
+  },
+  {
+   "n": 81,
+   "where": "The story",
+   "claim": "Housing starts consensus 1,305,000",
+   "verdict": "confirmed",
+   "url": "https://economics.td.com/domains/economics.td.com/documents/reports/bottom-line/tables/2026-10-16/upcoming.htm",
+   "source": "TD Economics",
+   "passage": "Oct 20 8:30 Housing Starts Sep Thsd 1305.0 1275.0",
+   "deep": "https://economics.td.com/domains/economics.td.com/documents/reports/bottom-line/tables/2026-10-16/upcoming.htm#:~:text=Oct%2020%208%3A30%20Housing%20Starts%20Sep%20Thsd%201305.0"
+  },
+  {
+   "n": 82,
+   "where": "The story",
+   "claim": "Builders' 14-year-low confidence",
+   "verdict": "confirmed",
+   "url": "https://www.rismedia.com/2026/10/19/nahb-reports-lowest-builder-confidence-in-14-years/",
+   "source": "RISMedia",
+   "passage": "lowest since June 2012",
+   "deep": "https://www.rismedia.com/2026/10/19/nahb-reports-lowest-builder-confidence-in-14-years/#:~:text=lowest%20since%20June%202012"
+  },
+  {
+   "n": 83,
+   "where": "The tape before the open, item 1",
+   "claim": "2-year 4.77%, +3 bp, 3:30 p.m. ET Oct. 19",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "10/19 4.77; 10/16 4.74",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F19%204.77%3B%2010%2F16%204.74"
+  },
+  {
+   "n": 84,
+   "where": "The tape before the open, item 2",
+   "claim": "10-year 5.15%, +6 bp, 3:30 p.m. ET Oct. 19",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "10/19 5.15; 10/16 5.09",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F19%205.15%3B%2010%2F16%205.09"
+  },
+  {
+   "n": 85,
+   "where": "The tape before the open, item 3",
+   "claim": "30-year 5.48%, +5 bp, 3:30 p.m. ET Oct. 19",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "10/19 5.48; 10/16 5.43",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F19%205.48%3B%2010%2F16%205.43"
+  },
+  {
+   "n": 86,
+   "where": "The tape before the open, item 4",
+   "claim": "2s10s 38 bp, +3 bp",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "38 vs 35",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=38%20vs%2035"
+  },
+  {
+   "n": 87,
+   "where": "The tape before the open, item 5",
+   "claim": "Fed funds effective 3.88%, unchanged, Fri Oct. 16",
+   "verdict": "confirmed",
+   "url": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json?startDate=2026-10-15&endDate=2026-10-19",
+   "source": "New York Fed",
+   "passage": "2026-10-16 3.88; 2026-10-15 3.88",
+   "deep": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json?startDate=2026-10-15&endDate=2026-10-19#:~:text=2026-10-16%203.88%3B%202026-10-15%203.88"
+  },
+  {
+   "n": 88,
+   "where": "The tape before the open, item 6",
+   "claim": "EUR/USD ECB reference 1.1225, -0.0028, Oct. 19",
+   "verdict": "confirmed",
+   "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.en.html",
+   "source": "ECB",
+   "passage": "19 October 1.1225; 16 October 1.1253",
+   "deep": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.en.html#:~:text=19%20October%201.1225%3B%2016%20October%201.1253"
+  },
+  {
+   "n": 89,
+   "where": "The tape before the open, item 7",
+   "claim": "Brent $109.55, -0.3%, Monday settlement",
+   "verdict": "confirmed",
+   "url": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests",
+   "source": "AP",
+   "passage": "Brent crude settled at $109.55; fell 0.3%",
+   "deep": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests#:~:text=Brent%20crude%20settled%20at%20%24109.55%3B%20fell%200.3%25"
+  },
+  {
+   "n": 90,
+   "where": "The tape before the open, item 8",
+   "claim": "Gold December futures $4,190.50 at 7:06 a.m. ET Oct. 19",
+   "verdict": "confirmed",
+   "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-october-19-2026-little-change-in-gold-prices-as-oil-sailed-to-may-highs-112123151.html",
+   "source": "Yahoo Finance",
+   "passage": "moving slightly higher this morning to $4,190.50 per troy ounce as of 7:06 a.m. ET (December contract)",
+   "deep": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-october-19-2026-little-change-in-gold-prices-as-oil-sailed-to-may-highs-112123151.html#:~:text=moving%20slightly%20higher%20this%20morning%20to%20%244%2C190.50%20per"
+  },
+  {
+   "n": 91,
+   "where": "The tape before the open, item 9",
+   "claim": "Nikkei 225 64,075.42, -1.3%, Tuesday close 3:30 p.m. JST",
+   "verdict": "confirmed",
+   "url": "https://indexes.nikkei.co.jp/en/nkave/archives/data?list=daily",
+   "source": "Nikkei Indexes",
+   "passage": "Oct 20 close 64,075.42; Oct 19 close 64,916.70 (-1.30%)",
+   "deep": "https://indexes.nikkei.co.jp/en/nkave/archives/data?list=daily#:~:text=Oct%2020%20close%2064%2C075.42%3B%20Oct%2019%20close%2064%2C916.70"
+  },
+  {
+   "n": 92,
+   "where": "The tape before the open",
+   "claim": "WTI $97.19 early Monday (AP)",
+   "verdict": "confirmed",
+   "url": "https://fortune.com/2026/10/19/global-stocks-mixed-france-trump-russia-asia-ai/",
+   "source": "Fortune (AP)",
+   "passage": "dropped 1.9% to $97.19 per barrel",
+   "deep": "https://fortune.com/2026/10/19/global-stocks-mixed-france-trump-russia-asia-ai/#:~:text=dropped%201.9%25%20to%20%2497.19%20per%20barrel"
+  },
+  {
+   "n": 93,
+   "where": "The morning in four, item 1",
+   "claim": "Treasury table: 20-year 5.53%, 30-year 5.48%",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610",
+   "source": "U.S. Treasury",
+   "passage": "10/19/2026 row: 2 Yr 4.77, 5 Yr 4.94, 10 Yr 5.15, 20 Yr 5.53, 30 Yr 5.48",
+   "deep": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value_month=202610#:~:text=10%2F19%2F2026%20row%3A%202%20Yr%204.77%2C%205%20Yr%204.94%2C"
+  },
+  {
+   "n": 94,
+   "where": "The morning in four, item 1",
+   "claim": "$13 billion 20-year auction Wednesday under August refunding plan",
+   "verdict": "confirmed",
+   "url": "https://home.treasury.gov/news/press-releases/sb0590",
+   "source": "Treasury refunding statement",
+   "passage": "20-year October $13 billion; Investrade: Wed Oct 21 1:00 PM ET",
+   "deep": "https://home.treasury.gov/news/press-releases/sb0590#:~:text=20-year%20October%20%2413%20billion%3B%20Investrade%3A%20Wed%20Oct%2021"
+  },
+  {
+   "n": 95,
+   "where": "The morning in four, item 2",
+   "claim": "AP traced AI selloff to cost of borrowing; build-out debt-financed",
+   "verdict": "confirmed",
+   "url": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests",
+   "source": "AP",
+   "passage": "worries about how expensive it has become to borrow money",
+   "deep": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests#:~:text=worries%20about%20how%20expensive%20it%20has%20become%20to"
+  },
+  {
+   "n": 96,
+   "where": "The morning in four, item 2",
+   "claim": "CoreWeave lost 25.2% last week and slipped 0.4% Monday",
+   "verdict": "confirmed",
+   "url": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests",
+   "source": "AP",
+   "passage": "finishing with a dip of 0.4%",
+   "deep": "https://mynews13.com/fl/orlando/ap-top-news/2026/10/19/ai-stocks-lead-a-rebound-on-wall-street-as-european-markets-drop-following-protests#:~:text=finishing%20with%20a%20dip%20of%200.4%25"
+  },
+  {
+   "n": 97,
+   "where": "The morning in four, item 3",
+   "claim": "NAHB/Wells Fargo index fell 3 points to 29 in October",
+   "verdict": "confirmed",
+   "url": "https://www.rismedia.com/2026/10/19/nahb-reports-lowest-builder-confidence-in-14-years/",
+   "source": "RISMedia",
+   "passage": "fell three points to 29",
+   "deep": "https://www.rismedia.com/2026/10/19/nahb-reports-lowest-builder-confidence-in-14-years/#:~:text=fell%20three%20points%20to%2029"
+  },
+  {
+   "n": 98,
+   "where": "The morning in four, item 3",
+   "claim": "Lowest since June 2012",
+   "verdict": "confirmed",
+   "url": "https://www.rismedia.com/2026/10/19/nahb-reports-lowest-builder-confidence-in-14-years/",
+   "source": "RISMedia",
+   "passage": "lowest since June 2012",
+   "deep": "https://www.rismedia.com/2026/10/19/nahb-reports-lowest-builder-confidence-in-14-years/#:~:text=lowest%20since%20June%202012"
+  },
+  {
+   "n": 99,
+   "where": "The morning in four, item 3",
+   "claim": "43% of builders cut prices, up from 38% in September",
+   "verdict": "confirmed",
+   "url": "https://www.rismedia.com/2026/10/19/nahb-reports-lowest-builder-confidence-in-14-years/",
+   "source": "RISMedia",
+   "passage": "43% ... up from 38% in September",
+   "deep": ""
+  },
+  {
+   "n": 100,
+   "where": "The morning in four, item 4",
+   "claim": "China Q3 GDP +4.5% y/y",
+   "verdict": "confirmed",
+   "url": "https://www.stats.gov.cn/english/PressRelease/202610/t20261019_1965619.html",
+   "source": "National Bureau of Statistics of China",
+   "passage": "4.5% year on year at constant prices",
+   "deep": "https://www.stats.gov.cn/english/PressRelease/202610/t20261019_1965619.html#:~:text=4.5%25%20year%20on%20year%20at%20constant%20prices"
+  },
+  {
+   "n": 101,
+   "where": "The morning in four, item 4",
+   "claim": "China September exports +29.6%",
+   "verdict": "confirmed",
+   "url": "https://www.stats.gov.cn/english/PressRelease/202610/t20261019_1965619.html",
+   "source": "National Bureau of Statistics of China",
+   "passage": "up 29.6% year on year, to 3,034.4 billion yuan",
+   "deep": "https://www.stats.gov.cn/english/PressRelease/202610/t20261019_1965619.html#:~:text=up%2029.6%25%20year%20on%20year%2C%20to%203%2C034.4%20billion"
+  },
+  {
+   "n": 102,
+   "where": "The morning in four, item 4",
+   "claim": "Canada CPI +3.1% in September",
+   "verdict": "confirmed",
+   "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/261019/dq261019a-eng.htm",
+   "source": "Statistics Canada",
+   "passage": "rising 3.1% year over year in September",
+   "deep": "https://www150.statcan.gc.ca/n1/daily-quotidien/261019/dq261019a-eng.htm#:~:text=rising%203.1%25%20year%20over%20year%20in%20September"
+  },
+  {
+   "n": 103,
+   "where": "The morning in four, item 4",
+   "claim": "Canada gasoline +27.8%",
+   "verdict": "confirmed",
+   "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/261019/dq261019a-eng.htm",
+   "source": "Statistics Canada",
+   "passage": "prices for gasoline rose at a faster pace in September (+27.8%)",
+   "deep": "https://www150.statcan.gc.ca/n1/daily-quotidien/261019/dq261019a-eng.htm#:~:text=prices%20for%20gasoline%20rose%20at%20a%20faster%20pace"
+  },
+  {
+   "n": 104,
+   "where": "What to watch, item 1",
+   "claim": "Housing starts and permits 8:30 a.m. ET Tuesday, Census New Residential Construction",
+   "verdict": "confirmed",
+   "url": "https://www.census.gov/construction/soc/schedule.html",
+   "source": "Census Bureau",
+   "passage": "October 20, 2026, at 8:30 a.m",
+   "deep": "https://www.census.gov/construction/soc/schedule.html#:~:text=October%2020%2C%202026%2C%20at%208%3A30%20a.m"
+  },
+  {
+   "n": 105,
+   "where": "What to watch, item 1",
+   "claim": "Starts consensus 1,305,000 vs 1,275,000 in August",
+   "verdict": "confirmed",
+   "url": "https://economics.td.com/domains/economics.td.com/documents/reports/bottom-line/tables/2026-10-16/upcoming.htm",
+   "source": "TD Economics",
+   "passage": "Housing Starts Sep Thsd 1305.0 1275.0",
+   "deep": "https://economics.td.com/domains/economics.td.com/documents/reports/bottom-line/tables/2026-10-16/upcoming.htm#:~:text=Housing%20Starts%20Sep%20Thsd%201305.0%201275.0"
+  },
+  {
+   "n": 106,
+   "where": "What to watch, item 1",
+   "claim": "Permits consensus 1,385,000 vs 1,403,000",
+   "verdict": "confirmed",
+   "url": "https://economics.td.com/domains/economics.td.com/documents/reports/bottom-line/tables/2026-10-16/upcoming.htm",
+   "source": "TD Economics",
+   "passage": "Building Permits Sep Thsd 1385.0 1403.0",
+   "deep": "https://economics.td.com/domains/economics.td.com/documents/reports/bottom-line/tables/2026-10-16/upcoming.htm#:~:text=Building%20Permits%20Sep%20Thsd%201385.0%201403.0"
+  },
+  {
+   "n": 107,
+   "where": "What to watch, item 2",
+   "claim": "New York Fed publishes Monday's rate at about 9 a.m. ET",
+   "verdict": "confirmed",
+   "url": "https://www.newyorkfed.org/markets/reference-rates/effr",
+   "source": "New York Fed EFFR page",
+   "passage": "approximately 9:00 a.m",
+   "deep": "https://www.newyorkfed.org/markets/reference-rates/effr#:~:text=approximately%209%3A00%20a.m"
+  },
+  {
+   "n": 108,
+   "where": "What to watch, item 2",
+   "claim": "Friday's 3.88% inside the 3.75% to 4.00% target range",
+   "verdict": "confirmed",
+   "url": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json?startDate=2026-10-15&endDate=2026-10-19",
+   "source": "New York Fed",
+   "passage": "percentRate 3.88, targetRateFrom 3.75, targetRateTo 4.00",
+   "deep": "https://markets.newyorkfed.org/api/rates/unsecured/effr/search.json?startDate=2026-10-15&endDate=2026-10-19#:~:text=percentRate%203.88%2C%20targetRateFrom%203.75%2C%20targetRateTo%204.00"
+  },
+  {
+   "n": 109,
+   "where": "What to watch, item 3",
+   "claim": "Blackout started Sat Oct. 17, runs through Oct. 29, day after Oct. 27–28 meeting",
+   "verdict": "confirmed",
+   "url": "https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-period-calendar.pdf",
+   "source": "FOMC blackout rule",
+   "passage": "begin 12:00 a.m. ET the second Saturday before a meeting; end 11:59 p.m. ET the day after a meeting (dates derived with https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm)",
+   "deep": "https://www.federalreserve.gov/monetarypolicy/files/fomc-blackout-period-calendar.pdf#:~:text=begin%2012%3A00%20a.m.%20ET%20the%20second%20Saturday%20before"
+  },
+  {
+   "n": 110,
+   "where": "What to watch, item 4",
+   "claim": "Ally, KeyCorp, Synchrony before the open; Capital One after the close",
+   "verdict": "confirmed",
+   "url": "https://investrade.com/weekly-event-calendar-10-19-2026-10-23-2026/",
+   "source": "Investrade",
+   "passage": "Tuesday, October 20: ALLY, KEY, SYF before the open; COF after the close",
+   "deep": "https://investrade.com/weekly-event-calendar-10-19-2026-10-23-2026/#:~:text=Tuesday%2C%20October%2020%3A%20ALLY%2C%20KEY%2C%20SYF%20before%20the"
+  }
+ ],
+ "notes": [
+  "No fact found that could only be known after 4:30 AM ET on 2026-10-20: Treasury 10/19 row, AP close (4:51 PM ET Oct. 19), ECB Oct. 19 fixing, Nikkei Oct. 20 close (2:30 a.m. ET) all precede the cut-off; the issue correctly uses Friday's EFFR because Monday's was published ~9 a.m. Oct. 20.",
+  "No political opinion found. Executive order and Graham Act are reported as events with sources; Fortune's link of the diesel deal to the midterms was not carried into the issue.",
+  "No conduct issues: callout and the 20-year paragraph are labelled as the issue's reading and are impersonal conditional outlook; no reader instruction, positions, promises or regulatory claims.",
+  "Minor wording: TD's table lists starts/permits in thousands without stating 'annual rate' (SAAR is the Census convention; not shown on the cited page). Investrade calls the 20-year issue 'notes'; the issue says 'auction', fine. The refunding table gives 'anticipated' sizes; 'set' is a slight overstatement.",
+  "Blackout dates Oct. 17-29 are derived from the PDF's rule plus the FOMC calendar; the PDF text extracted did not mark them."
+ ]
+}

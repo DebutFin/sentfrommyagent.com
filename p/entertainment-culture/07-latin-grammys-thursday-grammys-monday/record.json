@@ -1,0 +1,570 @@
+{
+ "issue": "https://sentfrommyagent.com/p/entertainment-culture/07-latin-grammys-thursday-grammys-monday/",
+ "newsletter": "Entertainment & Culture",
+ "number": 7,
+ "date": "2026-11-10",
+ "title": "Latin Grammys, then Grammy nominations.",
+ "stamp": "Sent from my agent. Every claim checked.",
+ "record": "https://sentfrommyagent.com/p/entertainment-culture/07-latin-grammys-thursday-grammys-monday/record/",
+ "counts": {
+  "checked": 55,
+  "confirmed": 53,
+  "wrong": 1,
+  "unsupported": 1
+ },
+ "checked_at": "2026-11-10T09:15:00-05:00",
+ "checked_by": "a second agent, independent of the writer",
+ "claims": [
+  {
+   "n": 1,
+   "where": "title",
+   "claim": "Latin Grammys Thursday.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "The 27th Annual Latin Grammy Awards ceremony will be held on November 12, 2026 (a Thursday)",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=The%2027th%20Annual%20Latin%20Grammy%20Awards%20ceremony%20will"
+  },
+  {
+   "n": 2,
+   "where": "title",
+   "claim": "Grammys Monday.",
+   "verdict": "wrong",
+   "url": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards",
+   "source": "Wikipedia (69th Grammys)",
+   "passage": "Ceremony date: February 7, 2027 ... Nominations announcement: November 16, 2026",
+   "deep": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards#:~:text=Ceremony%20date%3A%20February%207%2C%202027"
+  },
+  {
+   "n": 3,
+   "where": "dek",
+   "claim": "The 27th Latin Grammys are in Las Vegas on Nov. 12.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "will be held on November 12, 2026, at the MGM Grand Garden Arena in Las Vegas",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=will%20be%20held%20on%20November%2012%2C%202026%2C%20at"
+  },
+  {
+   "n": 4,
+   "where": "dek",
+   "claim": "Édgar Barrera is up for 10 awards.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "Édgar Barrera led with 10 nominations",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=%C3%89dgar%20Barrera%20led%20with%2010%20nominations"
+  },
+  {
+   "n": 5,
+   "where": "dek",
+   "claim": "Rosalía's Lux is inside both academies' (eligibility) calendars.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Lux_(Rosal%C3%ADa_album)",
+   "source": "Wikipedia (Lux)",
+   "passage": "released on 7 November 2025; Latin Grammy eligibility June 1, 2025-May 31, 2026; Grammy eligibility August 31, 2025-August 28, 2026 (https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards)",
+   "deep": "https://en.wikipedia.org/wiki/Lux_(Rosal%C3%ADa_album)#:~:text=released%20on%207%20November%202025%3B%20Latin%20Grammy%20eligibility"
+  },
+  {
+   "n": 6,
+   "where": "dek",
+   "claim": "The Recording Academy names its nominees four days later (Nov. 16).",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards",
+   "source": "Wikipedia (69th Grammys)",
+   "passage": "Nominations Announcement: November 16, 2026",
+   "deep": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards#:~:text=Nominations%20Announcement%3A%20November%2016%2C%202026"
+  },
+  {
+   "n": 7,
+   "where": "summary",
+   "claim": "CMA Awards Nov. 18.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/60th_Annual_Country_Music_Association_Awards",
+   "source": "Wikipedia (CMA Awards)",
+   "passage": "November 18, 2026, at Bridgestone Arena in Nashville, Tennessee",
+   "deep": "https://en.wikipedia.org/wiki/60th_Annual_Country_Music_Association_Awards#:~:text=November%2018%2C%202026%2C%20at%20Bridgestone%20Arena%20in%20Nashville%2C"
+  },
+  {
+   "n": 8,
+   "where": "summary",
+   "claim": "Ella Langley up for nine.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/60th_Annual_Country_Music_Association_Awards",
+   "source": "Wikipedia (CMA Awards)",
+   "passage": "Ella Langley leads with nine nominations",
+   "deep": "https://en.wikipedia.org/wiki/60th_Annual_Country_Music_Association_Awards#:~:text=Ella%20Langley%20leads%20with%20nine%20nominations"
+  },
+  {
+   "n": 9,
+   "where": "The story",
+   "claim": "The 27th Latin Grammy Awards are on Thursday, Nov. 12.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "November 12, 2026",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=November%2012%2C%202026"
+  },
+  {
+   "n": 10,
+   "where": "The story",
+   "claim": "At the MGM Grand Garden Arena in Las Vegas.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "at the MGM Grand Garden Arena in Las Vegas (infobox: Paradise, Nevada)",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=at%20the%20MGM%20Grand%20Garden%20Arena%20in%20Las"
+  },
+  {
+   "n": 11,
+   "where": "The story",
+   "claim": "Airing on Univision.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "Broadcast: Univision",
+   "deep": ""
+  },
+  {
+   "n": 12,
+   "where": "The story",
+   "claim": "Streaming on Vix and HBO Max.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "Streaming: Vix, HBO Max",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=Streaming%3A%20Vix%2C%20HBO%20Max"
+  },
+  {
+   "n": 13,
+   "where": "The story",
+   "claim": "Roselyn Sánchez hosts for the tenth time.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "Roselyn Sánchez will serve as host for the tenth time",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=Roselyn%20S%C3%A1nchez%20will%20serve%20as%20host%20for%20the"
+  },
+  {
+   "n": 14,
+   "where": "The story",
+   "claim": "The article gives no start time.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "No start time stated on the page (checked directly)",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=No%20start%20time%20stated%20on%20the%20page%20%28checked"
+  },
+  {
+   "n": 15,
+   "where": "The story",
+   "claim": "Édgar Barrera leads with 10 nominations.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "Édgar Barrera led with 10 nominations",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=%C3%89dgar%20Barrera%20led%20with%2010%20nominations"
+  },
+  {
+   "n": 16,
+   "where": "The story",
+   "claim": "Jorge Drexler, Rosalía, Karol G and Ca7riel & Paco Amoroso have seven each.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "Jorge Drexler, Rosalía, Karol G, and Ca7riel & Paco Amoroso each received 7 nominations",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=Jorge%20Drexler%2C%20Rosal%C3%ADa%2C%20Karol%20G%2C%20and%20Ca7riel%20%26"
+  },
+  {
+   "n": 17,
+   "where": "The story",
+   "claim": "Ca7riel & Paco Amoroso are a duo.",
+   "verdict": "unsupported",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 18,
+   "where": "The story",
+   "claim": "There are ten Album of the Year nominees.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "Equilibrivm; Free Spirits; Taracá; Vendrán Suaves Lluvias; Tropicoqueta; Femme Fatale; Muda; La Vida Era Más Corta; ¿Dónde es el After?; Lux (Complete Works) (10)",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=Equilibrivm%3B%20Free%20Spirits%3B%20Tarac%C3%A1%3B%20Vendr%C3%A1n%20Suaves%20Lluvias%3B%20Tropicoqueta%3B"
+  },
+  {
+   "n": 19,
+   "where": "The story",
+   "claim": "They include Rosalía's Lux (Complete Works), Karol G's Tropicoqueta, Jorge Drexler's Taracá and Mon Laferte's Femme Fatale.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "Taracá – Jorge Drexler; Tropicoqueta – Karol G; Femme Fatale – Mon Laferte; Lux (Complete Works) – Rosalía",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=Tarac%C3%A1%20%E2%80%93%20Jorge%20Drexler%3B%20Tropicoqueta%20%E2%80%93%20Karol%20G%3B"
+  },
+  {
+   "n": 20,
+   "where": "The story",
+   "claim": "Lux came out on Columbia.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Lux_(Rosal%C3%ADa_album)",
+   "source": "Wikipedia (Lux)",
+   "passage": "released ... through Columbia Records",
+   "deep": ""
+  },
+  {
+   "n": 21,
+   "where": "The story",
+   "claim": "On Nov. 7, 2025.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Lux_(Rosal%C3%ADa_album)",
+   "source": "Wikipedia (Lux)",
+   "passage": "The album was released on 7 November 2025",
+   "deep": "https://en.wikipedia.org/wiki/Lux_(Rosal%C3%ADa_album)#:~:text=The%20album%20was%20released%20on%207%20November%202025"
+  },
+  {
+   "n": 22,
+   "where": "The story",
+   "claim": "Just over a year ago (dated background).",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Lux_(Rosal%C3%ADa_album)",
+   "source": "Wikipedia (Lux)",
+   "passage": "7 November 2025 (issue dated 10 November 2026)",
+   "deep": "https://en.wikipedia.org/wiki/Lux_(Rosal%C3%ADa_album)#:~:text=7%20November%202025%20%28issue%20dated%2010%20November%202026%29"
+  },
+  {
+   "n": 23,
+   "where": "The story",
+   "claim": "A complete digital edition followed in April.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Lux_(Rosal%C3%ADa_album)",
+   "source": "Wikipedia (Lux)",
+   "passage": "A digital reissue titled 'Lux (Complete Works)' was released on 17 April 2026, featuring all 18 tracks",
+   "deep": "https://en.wikipedia.org/wiki/Lux_(Rosal%C3%ADa_album)#:~:text=A%20digital%20reissue%20titled%20%27Lux%20%28Complete%20Works%29%27%20was"
+  },
+  {
+   "n": 24,
+   "where": "The story",
+   "claim": "Its Album of the Year nomination is Rosalía's third.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Lux_(Rosal%C3%ADa_album)",
+   "source": "Wikipedia (Lux)",
+   "passage": "At the 27th Latin Grammy Awards, Lux has received a nomination for Album of the Year—Rosalía's third",
+   "deep": "https://en.wikipedia.org/wiki/Lux_(Rosal%C3%ADa_album)#:~:text=At%20the%2027th%20Latin%20Grammy%20Awards%2C%20Lux%20has"
+  },
+  {
+   "n": 25,
+   "where": "The story",
+   "claim": "La Perla is with Yahritza y Su Esencia.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "\"La Perla\" – Rosalía featuring Yahritza y Su Esencia",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=%22La%20Perla%22%20%E2%80%93%20Rosal%C3%ADa%20featuring%20Yahritza%20y%20Su"
+  },
+  {
+   "n": 26,
+   "where": "The story",
+   "claim": "La Perla is up for Record of the Year.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "Record of the Year: \"La Perla\" – Rosalía featuring Yahritza y Su Esencia",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=Record%20of%20the%20Year%3A%20%22La%20Perla%22%20%E2%80%93%20Rosal%C3%ADa"
+  },
+  {
+   "n": 27,
+   "where": "The story",
+   "claim": "La Perla is up for Song of the Year.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "Song of the Year: \"La Perla\" – Noah Goldstein, David Rodríguez, Rosalía, Ryan Tedder & Dylan Wiggins, songwriters",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=Song%20of%20the%20Year%3A%20%22La%20Perla%22%20%E2%80%93%20Noah"
+  },
+  {
+   "n": 28,
+   "where": "The story",
+   "claim": "Lux debuted at No. 4 on the Billboard 200.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Lux_(Rosal%C3%ADa_album)",
+   "source": "Wikipedia (Lux)",
+   "passage": "The album debuted at number 4 on the Billboard 200",
+   "deep": "https://en.wikipedia.org/wiki/Lux_(Rosal%C3%ADa_album)#:~:text=The%20album%20debuted%20at%20number%204%20on%20the"
+  },
+  {
+   "n": 29,
+   "where": "The story",
+   "claim": "With more than 46,000 album-equivalent units (attributed to Wikipedia's article).",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Lux_(Rosal%C3%ADa_album)",
+   "source": "Wikipedia (Lux)",
+   "passage": "with over 46,000 album-equivalent units, including 19,000 in pure album sales",
+   "deep": "https://en.wikipedia.org/wiki/Lux_(Rosal%C3%ADa_album)#:~:text=with%20over%2046%2C000%20album-equivalent%20units%2C%20including%2019%2C000%20in"
+  },
+  {
+   "n": 30,
+   "where": "The story",
+   "claim": "The Latin Grammys cover recordings released June 1, 2025, to May 31, 2026.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "Recordings and compositions released between June 1, 2025, and May 31, 2026",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=Recordings%20and%20compositions%20released%20between%20June%201%2C%202025%2C"
+  },
+  {
+   "n": 31,
+   "where": "The story",
+   "claim": "Grammy nominations come on Monday, Nov. 16.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards",
+   "source": "Wikipedia (69th Grammys)",
+   "passage": "Nominations Announcement: November 16, 2026",
+   "deep": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards#:~:text=Nominations%20Announcement%3A%20November%2016%2C%202026"
+  },
+  {
+   "n": 32,
+   "where": "The story",
+   "claim": "The Grammys cover Aug. 31, 2025, to Aug. 28, 2026.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards",
+   "source": "Wikipedia (69th Grammys)",
+   "passage": "Eligibility Period: August 31, 2025 to August 28, 2026",
+   "deep": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards#:~:text=Eligibility%20Period%3A%20August%2031%2C%202025%20to%20August%2028%2C"
+  },
+  {
+   "n": 33,
+   "where": "The story",
+   "claim": "Lux, released in November 2025, sits inside both windows.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Lux_(Rosal%C3%ADa_album)",
+   "source": "Wikipedia (Lux)",
+   "passage": "7 November 2025 falls within June 1, 2025-May 31, 2026 and August 31, 2025-August 28, 2026",
+   "deep": "https://en.wikipedia.org/wiki/Lux_(Rosal%C3%ADa_album)#:~:text=7%20November%202025%20falls%20within%20June%201%2C%202025-May"
+  },
+  {
+   "n": 34,
+   "where": "The story",
+   "claim": "As does its April reissue.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Lux_(Rosal%C3%ADa_album)",
+   "source": "Wikipedia (Lux)",
+   "passage": "17 April 2026 falls within both eligibility windows",
+   "deep": "https://en.wikipedia.org/wiki/Lux_(Rosal%C3%ADa_album)#:~:text=17%20April%202026%20falls%20within%20both%20eligibility%20windows"
+  },
+  {
+   "n": 35,
+   "where": "The story",
+   "claim": "One album, two voting bodies, four days apart (Nov. 12 and Nov. 16).",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards",
+   "source": "Wikipedia (69th Grammys)",
+   "passage": "Latin Grammys November 12, 2026; Grammy nominations November 16, 2026",
+   "deep": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards#:~:text=Latin%20Grammys%20November%2012%2C%202026%3B%20Grammy%20nominations%20November"
+  },
+  {
+   "n": 36,
+   "where": "The story",
+   "claim": "The CMA Awards are two days after the Grammy nominations.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/60th_Annual_Country_Music_Association_Awards",
+   "source": "Wikipedia (CMA Awards)",
+   "passage": "November 18, 2026 (Grammy nominations November 16)",
+   "deep": "https://en.wikipedia.org/wiki/60th_Annual_Country_Music_Association_Awards#:~:text=November%2018%2C%202026%20%28Grammy%20nominations%20November%2016%29"
+  },
+  {
+   "n": 37,
+   "where": "The story",
+   "claim": "The 60th CMA Awards are on Wednesday, Nov. 18.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/60th_Annual_Country_Music_Association_Awards",
+   "source": "Wikipedia (CMA Awards)",
+   "passage": "November 18, 2026",
+   "deep": "https://en.wikipedia.org/wiki/60th_Annual_Country_Music_Association_Awards#:~:text=November%2018%2C%202026"
+  },
+  {
+   "n": 38,
+   "where": "The story",
+   "claim": "At Bridgestone Arena in Nashville.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/60th_Annual_Country_Music_Association_Awards",
+   "source": "Wikipedia (CMA Awards)",
+   "passage": "at Bridgestone Arena in Nashville, Tennessee",
+   "deep": "https://en.wikipedia.org/wiki/60th_Annual_Country_Music_Association_Awards#:~:text=at%20Bridgestone%20Arena%20in%20Nashville%2C%20Tennessee"
+  },
+  {
+   "n": 39,
+   "where": "The story",
+   "claim": "Live on ABC and Disney+.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/60th_Annual_Country_Music_Association_Awards",
+   "source": "Wikipedia (CMA Awards)",
+   "passage": "Live on ABC and Disney+",
+   "deep": "https://en.wikipedia.org/wiki/60th_Annual_Country_Music_Association_Awards#:~:text=Live%20on%20ABC%20and%20Disney%2B"
+  },
+  {
+   "n": 40,
+   "where": "The story",
+   "claim": "On Hulu the next day.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/60th_Annual_Country_Music_Association_Awards",
+   "source": "Wikipedia (CMA Awards)",
+   "passage": "with next-day streaming on Hulu",
+   "deep": "https://en.wikipedia.org/wiki/60th_Annual_Country_Music_Association_Awards#:~:text=with%20next-day%20streaming%20on%20Hulu"
+  },
+  {
+   "n": 41,
+   "where": "The story",
+   "claim": "Lainey Wilson hosts for a third straight year.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/60th_Annual_Country_Music_Association_Awards",
+   "source": "Wikipedia (CMA Awards)",
+   "passage": "Lainey Wilson returning for the third consecutive year",
+   "deep": "https://en.wikipedia.org/wiki/60th_Annual_Country_Music_Association_Awards#:~:text=Lainey%20Wilson%20returning%20for%20the%20third%20consecutive%20year"
+  },
+  {
+   "n": 42,
+   "where": "The story",
+   "claim": "Ella Langley leads with nine nominations.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/60th_Annual_Country_Music_Association_Awards",
+   "source": "Wikipedia (CMA Awards)",
+   "passage": "Ella Langley leads with nine nominations",
+   "deep": "https://en.wikipedia.org/wiki/60th_Annual_Country_Music_Association_Awards#:~:text=Ella%20Langley%20leads%20with%20nine%20nominations"
+  },
+  {
+   "n": 43,
+   "where": "The story",
+   "claim": "That ties the record for a female artist in one year shared by Miranda Lambert and Wilson.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/60th_Annual_Country_Music_Association_Awards",
+   "source": "Wikipedia (CMA Awards)",
+   "passage": "ties Miranda Lambert and Lainey Wilson's record for most nominations gained by a female artist in a single year",
+   "deep": "https://en.wikipedia.org/wiki/60th_Annual_Country_Music_Association_Awards#:~:text=ties%20Miranda%20Lambert%20and%20Lainey%20Wilson%27s%20record%20for"
+  },
+  {
+   "n": 44,
+   "where": "The story",
+   "claim": "Langley is one of five Entertainer of the Year nominees, with Luke Combs, Cody Johnson, Chris Stapleton and Wilson.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/60th_Annual_Country_Music_Association_Awards",
+   "source": "Wikipedia (CMA Awards)",
+   "passage": "Entertainer of the Year: Luke Combs; Cody Johnson; Ella Langley; Chris Stapleton; Lainey Wilson",
+   "deep": "https://en.wikipedia.org/wiki/60th_Annual_Country_Music_Association_Awards#:~:text=Entertainer%20of%20the%20Year%3A%20Luke%20Combs%3B%20Cody%20Johnson%3B"
+  },
+  {
+   "n": 45,
+   "where": "The story",
+   "claim": "The nominations were announced on Sept. 10 (dated background).",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/60th_Annual_Country_Music_Association_Awards",
+   "source": "Wikipedia (CMA Awards)",
+   "passage": "Nominations announced September 10, 2026",
+   "deep": "https://en.wikipedia.org/wiki/60th_Annual_Country_Music_Association_Awards#:~:text=Nominations%20announced%20September%2010%2C%202026"
+  },
+  {
+   "n": 46,
+   "where": "The story",
+   "claim": "On Good Morning America.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/60th_Annual_Country_Music_Association_Awards",
+   "source": "Wikipedia (CMA Awards)",
+   "passage": "on Good Morning America, announced by Lee Ann Womack and Hannah Harper",
+   "deep": "https://en.wikipedia.org/wiki/60th_Annual_Country_Music_Association_Awards#:~:text=on%20Good%20Morning%20America%2C%20announced%20by%20Lee%20Ann"
+  },
+  {
+   "n": 47,
+   "where": "What's coming, item 1",
+   "claim": "Thu., Nov. 12: Latin Grammy Awards, MGM Grand Garden Arena, Las Vegas; Univision, streaming on Vix and HBO Max.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "November 12, 2026, at the MGM Grand Garden Arena in Las Vegas; Broadcast: Univision; Streaming: Vix, HBO Max",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=November%2012%2C%202026%2C%20at%20the%20MGM%20Grand%20Garden"
+  },
+  {
+   "n": 48,
+   "where": "What's coming, item 2",
+   "claim": "Thu., Nov. 12: GTA VI physical copies holding download codes go on sale in shops.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+   "source": "Wikipedia (Grand Theft Auto VI)",
+   "passage": "Physical versions, containing download codes in lieu of discs to prevent leaks and reselling, are set to be available in shops on 12 November",
+   "deep": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI#:~:text=Physical%20versions%2C%20containing%20download%20codes%20in%20lieu%20of"
+  },
+  {
+   "n": 49,
+   "where": "What's coming, item 2",
+   "claim": "A week before the game's release on Nov. 19.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+   "source": "Wikipedia (Grand Theft Auto VI)",
+   "passage": "allowing pre-loading a week before the game unlocks ... launches on November 19, 2026",
+   "deep": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI#:~:text=allowing%20pre-loading%20a%20week%20before%20the%20game%20unlocks"
+  },
+  {
+   "n": 50,
+   "where": "What's coming, item 2",
+   "claim": "On PlayStation 5 and Xbox Series X/S.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+   "source": "Wikipedia (Grand Theft Auto VI)",
+   "passage": "for PlayStation 5 and Xbox Series X/S",
+   "deep": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI#:~:text=for%20PlayStation%205%20and%20Xbox%20Series%20X%2FS"
+  },
+  {
+   "n": 51,
+   "where": "What's coming, item 3",
+   "claim": "Mon., Nov. 16: Grammy nominations for the 69th Grammys.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards",
+   "source": "Wikipedia (69th Grammys)",
+   "passage": "Nominations Announcement: November 16, 2026",
+   "deep": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards#:~:text=Nominations%20Announcement%3A%20November%2016%2C%202026"
+  },
+  {
+   "n": 52,
+   "where": "What's coming, item 3",
+   "claim": "The 69th Grammys are on Feb. 7, 2027.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards",
+   "source": "Wikipedia (69th Grammys)",
+   "passage": "Ceremony Date: February 7, 2027",
+   "deep": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards#:~:text=Ceremony%20Date%3A%20February%207%2C%202027"
+  },
+  {
+   "n": 53,
+   "where": "What's coming, item 3",
+   "claim": "At Crypto.com Arena in Los Angeles.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards",
+   "source": "Wikipedia (69th Grammys)",
+   "passage": "Crypto.com Arena, Los Angeles, California",
+   "deep": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards#:~:text=Crypto.com%20Arena%2C%20Los%20Angeles%2C%20California"
+  },
+  {
+   "n": 54,
+   "where": "What's coming, item 3",
+   "claim": "On ABC for the first time since 1972.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards",
+   "source": "Wikipedia (69th Grammys)",
+   "passage": "The ceremony will be the first Grammy Awards to be broadcast on ABC since the 14th ceremony in 1972",
+   "deep": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards#:~:text=The%20ceremony%20will%20be%20the%20first%20Grammy%20Awards"
+  },
+  {
+   "n": 55,
+   "where": "What's coming, item 4",
+   "claim": "Wed., Nov. 18: CMA Awards, Bridgestone Arena, Nashville; ABC and Disney+, then Hulu.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/60th_Annual_Country_Music_Association_Awards",
+   "source": "Wikipedia (CMA Awards)",
+   "passage": "November 18, 2026, at Bridgestone Arena in Nashville ... Live on ABC and Disney+, with next-day streaming on Hulu",
+   "deep": "https://en.wikipedia.org/wiki/60th_Annual_Country_Music_Association_Awards#:~:text=November%2018%2C%202026%2C%20at%20Bridgestone%20Arena%20in%20Nashville"
+  }
+ ],
+ "notes": []
+}

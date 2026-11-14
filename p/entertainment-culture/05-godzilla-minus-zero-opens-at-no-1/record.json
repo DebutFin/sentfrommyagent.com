@@ -1,0 +1,750 @@
+{
+ "issue": "https://sentfrommyagent.com/p/entertainment-culture/05-godzilla-minus-zero-opens-at-no-1/",
+ "newsletter": "Entertainment & Culture",
+ "number": 5,
+ "date": "2026-11-08",
+ "title": "Godzilla Minus Zero opens at No. 1.",
+ "stamp": "Sent from my agent. Every claim checked.",
+ "record": "https://sentfrommyagent.com/p/entertainment-culture/05-godzilla-minus-zero-opens-at-no-1/record/",
+ "counts": {
+  "checked": 73,
+  "confirmed": 73,
+  "wrong": 0,
+  "unsupported": 0
+ },
+ "checked_at": "2026-11-09T01:45:00+00:00",
+ "checked_by": "a second agent, independent of the writer",
+ "claims": [
+  {
+   "n": 1,
+   "where": "title",
+   "claim": "Godzilla Minus Zero opens at No. 1.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States",
+   "source": "Wikipedia (2026 box office number ones)",
+   "passage": "Weekend 45, November 8, 2026: Godzilla Minus Zero, $31,610,000",
+   "deep": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States#:~:text=Weekend%2045%2C%20November%208%2C%202026%3A%20Godzilla%20Minus%20Zero%2C"
+  },
+  {
+   "n": 2,
+   "where": "dek",
+   "claim": "Takashi Yamazaki's sequel",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "Written, directed, and visual effects by Takashi Yamazaki; set two years after the events of Godzilla Minus One",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=Written%2C%20directed%2C%20and%20visual%20effects%20by%20Takashi%20Yamazaki%3B"
+  },
+  {
+   "n": 3,
+   "where": "dek",
+   "claim": "took $31.6 million in its first North American weekend",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "North American opening: $31.6 million",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=North%20American%20opening%3A%20%2431.6%20million"
+  },
+  {
+   "n": 4,
+   "where": "dek",
+   "claim": "a record for a live-action foreign-language film",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States",
+   "source": "Wikipedia (2026 box office number ones)",
+   "passage": "\"Godzilla Minus Zero broke Hero's record ($18 million) for the highest weekend debut for a live-action foreign language film.\"",
+   "deep": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States#:~:text=%22Godzilla%20Minus%20Zero%20broke%20Hero%27s%20record%20%28%2418%20million%29"
+  },
+  {
+   "n": 5,
+   "where": "dek",
+   "claim": "a documentary's rare run at the top",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States",
+   "source": "Wikipedia (2026 box office number ones)",
+   "passage": "\"You Can See Everything reached the #1 spot in its third weekend of release, making it the first documentary since Fahrenheit 9/11 to top the box office.\"",
+   "deep": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States#:~:text=%22You%20Can%20See%20Everything%20reached%20the%20%231%20spot"
+  },
+  {
+   "n": 6,
+   "where": "summary",
+   "claim": "Godzilla Minus Zero led the North American box office with $31.6 million, a live-action foreign-language record.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "$31.6 million ... \"highest opening weekend for a foreign-language live-action film in the United States and Canada\"",
+   "deep": ""
+  },
+  {
+   "n": 7,
+   "where": "art svg text / art alt",
+   "claim": "Marquee reads 'NO. 1'",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States",
+   "source": "Wikipedia (2026 box office number ones)",
+   "passage": "Godzilla Minus Zero is the No. 1 film for the Nov. 6–8 weekend",
+   "deep": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States#:~:text=Godzilla%20Minus%20Zero%20is%20the%20No.%201%20film"
+  },
+  {
+   "n": 8,
+   "where": "art svg title",
+   "claim": "1940s-style cinema (period staging)",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "Set in 1949. The cinema is invented staging, disclosed as an 'IMAGINED SCENE' in the SVG and the alt text",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=Set%20in%201949.%20The%20cinema%20is%20invented%20staging%2C"
+  },
+  {
+   "n": 9,
+   "where": "The story",
+   "claim": "Godzilla comes back bigger, and in IMAX.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "\"It became the first Japanese production filmed for IMAX\"; critics called it \"larger in scope\" than its predecessor",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=%22It%20became%20the%20first%20Japanese%20production%20filmed%20for"
+  },
+  {
+   "n": 10,
+   "where": "The story",
+   "claim": "opened in the United States and Canada on Friday, Nov. 6",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "North America: November 6, 2026 (a Friday)",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=North%20America%3A%20November%206%2C%202026%20%28a%20Friday%29"
+  },
+  {
+   "n": 11,
+   "where": "The story",
+   "claim": "through Toho's subsidiary GKIDS",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "North America: November 6, 2026 via GKIDS (Toho subsidiary)",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=North%20America%3A%20November%206%2C%202026%20via%20GKIDS%20%28Toho"
+  },
+  {
+   "n": 12,
+   "where": "The story",
+   "claim": "topped the weekend with $31.6 million",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States",
+   "source": "Wikipedia (2026 box office number ones)",
+   "passage": "November 8, 2026 (Weekend 45): Godzilla Minus Zero, $31,610,000",
+   "deep": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States#:~:text=November%208%2C%202026%20%28Weekend%2045%29%3A%20Godzilla%20Minus%20Zero%2C"
+  },
+  {
+   "n": 13,
+   "where": "The story",
+   "claim": "Wikipedia's list says that beat Hero's $18 million as the biggest weekend debut for a live-action foreign-language film",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States",
+   "source": "Wikipedia (2026 box office number ones)",
+   "passage": "\"broke Hero's record ($18 million) for the highest weekend debut for a live-action foreign language film.\"",
+   "deep": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States#:~:text=%22broke%20Hero%27s%20record%20%28%2418%20million%29%20for%20the%20highest"
+  },
+  {
+   "n": 14,
+   "where": "The story",
+   "claim": "Tracking had projected $25 million to $30 million.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "\"The film was projected to gross $25–30 million from 3,250 theaters in its opening weekend.\"",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=%22The%20film%20was%20projected%20to%20gross%20%2425%E2%80%9330%20million"
+  },
+  {
+   "n": 15,
+   "where": "The story",
+   "claim": "Takashi Yamazaki again wrote and directed",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "Written, directed ... by Takashi Yamazaki",
+   "deep": ""
+  },
+  {
+   "n": 16,
+   "where": "The story",
+   "claim": "and handled the visual effects",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "Written, directed, and visual effects by Takashi Yamazaki",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=Written%2C%20directed%2C%20and%20visual%20effects%20by%20Takashi%20Yamazaki"
+  },
+  {
+   "n": 17,
+   "where": "The story",
+   "claim": "The story is set in 1949",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "Set in 1949",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=Set%20in%201949"
+  },
+  {
+   "n": 18,
+   "where": "The story",
+   "claim": "two years after Godzilla Minus One",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "two years after the events of Godzilla Minus One",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=two%20years%20after%20the%20events%20of%20Godzilla%20Minus"
+  },
+  {
+   "n": 19,
+   "where": "The story",
+   "claim": "with the earlier cast back",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "\"Ryunosuke Kamiki, Minami Hamabe, Hidetaka Yoshioka, Yuki Yamada, Kuranosuke Sasaki, Sakura Ando, and Miou Tanaka reprising their roles from Minus One.\"",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=%22Ryunosuke%20Kamiki%2C%20Minami%20Hamabe%2C%20Hidetaka%20Yoshioka%2C%20Yuki%20Yamada%2C"
+  },
+  {
+   "n": 20,
+   "where": "The story",
+   "claim": "King Ghidorah arriving as Godzilla resurfaces",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "postwar Japan facing a new threat: King Ghidorah. Godzilla resurfaces and becomes embroiled in conflict with the three-headed creature",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=postwar%20Japan%20facing%20a%20new%20threat%3A%20King%20Ghidorah."
+  },
+  {
+   "n": 21,
+   "where": "The story",
+   "claim": "It is the first Japanese production shot for IMAX",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "\"It became the first Japanese production filmed for IMAX.\"",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=%22It%20became%20the%20first%20Japanese%20production%20filmed%20for"
+  },
+  {
+   "n": 22,
+   "where": "The story",
+   "claim": "the first Godzilla film rated R in the U.S.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "R rating, the first Godzilla entry to receive one",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=R%20rating%2C%20the%20first%20Godzilla%20entry%20to%20receive"
+  },
+  {
+   "n": 23,
+   "where": "The story",
+   "claim": "for violent content and bloody images",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "rated R for \"some violent content/bloody images.\"",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=rated%20R%20for%20%22some%20violent%20content%2Fbloody%20images.%22"
+  },
+  {
+   "n": 24,
+   "where": "The story",
+   "claim": "Japan got it first, on Nov. 3",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "Japan: November 3, 2026 across 448 theaters",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=Japan%3A%20November%203%2C%202026%20across%20448%20theaters"
+  },
+  {
+   "n": 25,
+   "where": "The story",
+   "claim": "its ¥910 million opening day there",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "Japan opening day: ¥910 million",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=Japan%20opening%20day%3A%20%C2%A5910%20million"
+  },
+  {
+   "n": 26,
+   "where": "The story",
+   "claim": "(about $5.7 million)",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "¥910 million (~$5.7 million USD)",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=%C2%A5910%20million%20%28~%245.7%20million%20USD%29"
+  },
+  {
+   "n": 27,
+   "where": "The story",
+   "claim": "is the best for any live-action film in Japanese history, according to the film's Wikipedia page",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "\"a record as the highest opening-day gross for any live-action film in Japanese history\"",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=%22a%20record%20as%20the%20highest%20opening-day%20gross%20for"
+  },
+  {
+   "n": 28,
+   "where": "The story",
+   "claim": "The worldwide total stands at about $63 million.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "Worldwide: $63 million total",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=Worldwide%3A%20%2463%20million%20total"
+  },
+  {
+   "n": 29,
+   "where": "The story",
+   "claim": "Rotten Tomatoes counts 90% of 164 reviews as positive",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "Rotten Tomatoes: 90% positive (164 critics, 7.9/10 average)",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=Rotten%20Tomatoes%3A%2090%25%20positive%20%28164%20critics%2C%207.9%2F10%20average%29"
+  },
+  {
+   "n": 30,
+   "where": "The story",
+   "claim": "Metacritic gives 74 from 44 critics",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "Metacritic: 74/100 (44 critics, \"generally favorable\")",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=Metacritic%3A%2074%2F100%20%2844%20critics%2C%20%22generally%20favorable%22%29"
+  },
+  {
+   "n": 31,
+   "where": "The story",
+   "claim": "audiences polled by CinemaScore gave it an A, as they did Minus One",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "CinemaScore: \"A\" grade (matching Minus One)",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=CinemaScore%3A%20%22A%22%20grade%20%28matching%20Minus%20One%29"
+  },
+  {
+   "n": 32,
+   "where": "The story",
+   "claim": "David Rooney called it \"a crackling kaiju epic every bit as exciting as its predecessor\" (11 words)",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "David Rooney (The Hollywood Reporter): \"a crackling kaiju epic every bit as exciting as its predecessor\"",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=David%20Rooney%20%28The%20Hollywood%20Reporter%29%3A%20%22a%20crackling%20kaiju"
+  },
+  {
+   "n": 33,
+   "where": "The story",
+   "claim": "another reviewer found its human story less cohesive than the first film's",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "Kate Rife (Inverse): the human story is \"less tightly organized than in Minus One.\"",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=Kate%20Rife%20%28Inverse%29%3A%20the%20human%20story%20is%20%22less"
+  },
+  {
+   "n": 34,
+   "where": "The story",
+   "claim": "a third judged its later sequences sillier",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "William Bibbiani (TheWrap): later passages \"become sillier\"",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=William%20Bibbiani%20%28TheWrap%29%3A%20later%20passages%20%22become%20sillier%22"
+  },
+  {
+   "n": 35,
+   "where": "The story",
+   "claim": "Critics are mostly with it.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "90% of 164 reviews positive; Metacritic \"generally favorable\"",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=90%25%20of%20164%20reviews%20positive%3B%20Metacritic%20%22generally%20favorable%22"
+  },
+  {
+   "n": 36,
+   "where": "The story",
+   "claim": "Minus One reached North American theaters on Dec. 1, 2023",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_One",
+   "source": "Wikipedia (Godzilla Minus One)",
+   "passage": "North America: December 1, 2023",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_One#:~:text=North%20America%3A%20December%201%2C%202023"
+  },
+  {
+   "n": 37,
+   "where": "The story",
+   "claim": "four weeks after Japan",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_One",
+   "source": "Wikipedia (Godzilla Minus One)",
+   "passage": "Japan: November 3, 2023; North America: December 1, 2023 (28 days)",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_One#:~:text=Japan%3A%20November%203%2C%202023%3B%20North%20America%3A%20December%201%2C"
+  },
+  {
+   "n": 38,
+   "where": "The story",
+   "claim": "and earned $57.1 million there over its whole run",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_One",
+   "source": "Wikipedia (Godzilla Minus One)",
+   "passage": "earned \"57.1 million\" dollars in the United States and Canada",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_One#:~:text=earned%20%2257.1%20million%22%20dollars%20in%20the%20United%20States"
+  },
+  {
+   "n": 39,
+   "where": "The story",
+   "claim": "the first non-English-language film to win the Oscar for best visual effects",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_One",
+   "source": "Wikipedia (Godzilla Minus One)",
+   "passage": "won Best Visual Effects at the 96th Academy Awards, \"the first non-English language film in Academy Awards history to do so.\"",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_One#:~:text=won%20Best%20Visual%20Effects%20at%20the%2096th%20Academy"
+  },
+  {
+   "n": 40,
+   "where": "The story",
+   "claim": "Minus Zero's first weekend is already more than half that total.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "$31.6 million opening vs Minus One's $57.1 million NA total (half = $28.55 million)",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=%2431.6%20million%20opening%20vs%20Minus%20One%27s%20%2457.1%20million"
+  },
+  {
+   "n": 41,
+   "where": "The story",
+   "claim": "Half the last film's run, in three days.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_One",
+   "source": "Wikipedia (Godzilla Minus One)",
+   "passage": "$31.6M over the Nov. 6–8 weekend is more than half of $57.1M",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_One#:~:text=%2431.6M%20over%20the%20Nov.%206%E2%80%938%20weekend%20is%20more"
+  },
+  {
+   "n": 42,
+   "where": "The story",
+   "claim": "releasing three days after Japan, instead of four weeks",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "Japan November 3, 2026; North America November 6, 2026",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=Japan%20November%203%2C%202026%3B%20North%20America%20November%206%2C"
+  },
+  {
+   "n": 43,
+   "where": "The story",
+   "claim": "IMAX screens supplied $21.3 million of the global opening",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "\"$21.3 million of its gross coming from IMAX theaters.\"",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=%22%2421.3%20million%20of%20its%20gross%20coming%20from%20IMAX"
+  },
+  {
+   "n": 44,
+   "where": "The story",
+   "claim": "the biggest IMAX global opening for a Japanese production",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "\"largest IMAX global opening for a Japanese film\"",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=%22largest%20IMAX%20global%20opening%20for%20a%20Japanese%20film%22"
+  },
+  {
+   "n": 45,
+   "where": "The story",
+   "claim": "the record ... covers live-action foreign-language films only",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States",
+   "source": "Wikipedia (2026 box office number ones)",
+   "passage": "\"highest weekend debut for a live-action foreign language film\"",
+   "deep": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States#:~:text=%22highest%20weekend%20debut%20for%20a%20live-action%20foreign%20language"
+  },
+  {
+   "n": 46,
+   "where": "The story",
+   "claim": "Godzilla took the top spot from You Can See Everything",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States",
+   "source": "Wikipedia (2026 box office number ones)",
+   "passage": "Weekend 44 (Nov 1): You Can See Everything; Weekend 45 (Nov 8): Godzilla Minus Zero",
+   "deep": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States#:~:text=Weekend%2044%20%28Nov%201%29%3A%20You%20Can%20See%20Everything%3B"
+  },
+  {
+   "n": 47,
+   "where": "The story",
+   "claim": "Nathan Fielder and Lance Oppenheim's",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/You_Can_See_Everything",
+   "source": "Wikipedia (You Can See Everything)",
+   "passage": "Directors: Nathan Fielder and Lance Oppenheim",
+   "deep": "https://en.wikipedia.org/wiki/You_Can_See_Everything#:~:text=Directors%3A%20Nathan%20Fielder%20and%20Lance%20Oppenheim"
+  },
+  {
+   "n": 48,
+   "where": "The story",
+   "claim": "A24 documentary",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/You_Can_See_Everything",
+   "source": "Wikipedia (You Can See Everything)",
+   "passage": "Distributor: A24",
+   "deep": ""
+  },
+  {
+   "n": 49,
+   "where": "The story",
+   "claim": "about Elizabeth Holmes and Billy Evans in the weeks before she began her prison sentence",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/You_Can_See_Everything",
+   "source": "Wikipedia (You Can See Everything)",
+   "passage": "Elizabeth Holmes and partner Billy Evans, documenting the weeks before Holmes' federal prison sentence",
+   "deep": "https://en.wikipedia.org/wiki/You_Can_See_Everything#:~:text=Elizabeth%20Holmes%20and%20partner%20Billy%20Evans%2C%20documenting%20the"
+  },
+  {
+   "n": 50,
+   "where": "The story",
+   "claim": "It had reached No. 1 in its third weekend, Oct. 30 to Nov. 1",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States",
+   "source": "Wikipedia (2026 box office number ones)",
+   "passage": "November 1, 2026 (Weekend 44): You Can See Everything ... \"reached the #1 spot in its third weekend of release\"",
+   "deep": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States#:~:text=November%201%2C%202026%20%28Weekend%2044%29%3A%20You%20Can%20See"
+  },
+  {
+   "n": 51,
+   "where": "The story",
+   "claim": "which its Wikipedia page says made it the first non-musical documentary to do so since Fahrenheit 9/11",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/You_Can_See_Everything",
+   "source": "Wikipedia (You Can See Everything)",
+   "passage": "\"topping the box office and becoming the first non-musical documentary to reach #1 since Fahrenheit 9/11.\"",
+   "deep": "https://en.wikipedia.org/wiki/You_Can_See_Everything#:~:text=%22topping%20the%20box%20office%20and%20becoming%20the%20first"
+  },
+  {
+   "n": 52,
+   "where": "The story",
+   "claim": "The page puts its gross at $80 million against a $7 million budget.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/You_Can_See_Everything",
+   "source": "Wikipedia (You Can See Everything)",
+   "passage": "earned $80 million against a $7 million budget",
+   "deep": "https://en.wikipedia.org/wiki/You_Can_See_Everything#:~:text=earned%20%2480%20million%20against%20a%20%247%20million%20budget"
+  },
+  {
+   "n": 53,
+   "where": "The story",
+   "claim": "the 20th-anniversary edition of My Chemical Romance's The Black Parade, released on Oct. 23",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/The_Black_Parade",
+   "source": "Wikipedia (The Black Parade)",
+   "passage": "\"A 20th anniversary deluxe edition of the album was released on October 23, 2026.\"",
+   "deep": "https://en.wikipedia.org/wiki/The_Black_Parade#:~:text=%22A%2020th%20anniversary%20deluxe%20edition%20of%20the%20album"
+  },
+  {
+   "n": 54,
+   "where": "The story",
+   "claim": "sent the album to No. 1 on the Billboard 200 and the UK Albums Chart for the first time",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/The_Black_Parade",
+   "source": "Wikipedia (The Black Parade)",
+   "passage": "\"the 20th anniversary edition propelled The Black Parade to number one on the Billboard 200 and UK Albums Chart for the first time.\"",
+   "deep": "https://en.wikipedia.org/wiki/The_Black_Parade#:~:text=%22the%2020th%20anniversary%20edition%20propelled%20The%20Black%20Parade"
+  },
+  {
+   "n": 55,
+   "where": "The story",
+   "claim": "It led the Billboard 200 dated Nov. 7.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/List_of_Billboard_200_number-one_albums_of_2026",
+   "source": "Wikipedia (Billboard 200 number ones)",
+   "passage": "November 7, 2026: The Black Parade — My Chemical Romance",
+   "deep": "https://en.wikipedia.org/wiki/List_of_Billboard_200_number-one_albums_of_2026#:~:text=November%207%2C%202026%3A%20The%20Black%20Parade%20%E2%80%94%20My"
+  },
+  {
+   "n": 56,
+   "where": "Dates to know, item 1",
+   "claim": "Sat., Nov. 14 — Kids' Choice Awards",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Kids%27_Choice_Awards",
+   "source": "Wikipedia (Kids' Choice Awards)",
+   "passage": "\"November 14, 2026\" (a Saturday)",
+   "deep": "https://en.wikipedia.org/wiki/2026_Kids%27_Choice_Awards#:~:text=%22November%2014%2C%202026%22%20%28a%20Saturday%29"
+  },
+  {
+   "n": 57,
+   "where": "Dates to know, item 1",
+   "claim": "Alex Warren hosts",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Kids%27_Choice_Awards",
+   "source": "Wikipedia (Kids' Choice Awards)",
+   "passage": "Host: Alex Warren",
+   "deep": "https://en.wikipedia.org/wiki/2026_Kids%27_Choice_Awards#:~:text=Host%3A%20Alex%20Warren"
+  },
+  {
+   "n": 58,
+   "where": "Dates to know, item 1",
+   "claim": "from Television City in Los Angeles",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Kids%27_Choice_Awards",
+   "source": "Wikipedia (Kids' Choice Awards)",
+   "passage": "at Television City in Los Angeles",
+   "deep": "https://en.wikipedia.org/wiki/2026_Kids%27_Choice_Awards#:~:text=at%20Television%20City%20in%20Los%20Angeles"
+  },
+  {
+   "n": 59,
+   "where": "Dates to know, item 1",
+   "claim": "on Nickelodeon and, for the first time, CBS",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Kids%27_Choice_Awards",
+   "source": "Wikipedia (Kids' Choice Awards)",
+   "passage": "airs on Nickelodeon with \"a simulcast airing on CBS for the first time\"",
+   "deep": "https://en.wikipedia.org/wiki/2026_Kids%27_Choice_Awards#:~:text=airs%20on%20Nickelodeon%20with%20%22a%20simulcast%20airing%20on"
+  },
+  {
+   "n": 60,
+   "where": "Dates to know, item 1",
+   "claim": "Stranger Things leads with seven nominations",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Kids%27_Choice_Awards",
+   "source": "Wikipedia (Kids' Choice Awards)",
+   "passage": "\"Stranger Things\" leads with seven nominations",
+   "deep": "https://en.wikipedia.org/wiki/2026_Kids%27_Choice_Awards#:~:text=%22Stranger%20Things%22%20leads%20with%20seven%20nominations"
+  },
+  {
+   "n": 61,
+   "where": "Dates to know, item 2",
+   "claim": "Wed., Nov. 18 — CMA Awards",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/60th_Annual_Country_Music_Association_Awards",
+   "source": "Wikipedia (CMA Awards)",
+   "passage": "\"November 18, 2026, at Bridgestone Arena in Nashville, Tennessee\" (a Wednesday)",
+   "deep": "https://en.wikipedia.org/wiki/60th_Annual_Country_Music_Association_Awards#:~:text=%22November%2018%2C%202026%2C%20at%20Bridgestone%20Arena%20in%20Nashville%2C"
+  },
+  {
+   "n": 62,
+   "where": "Dates to know, item 2",
+   "claim": "The 60th",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/60th_Annual_Country_Music_Association_Awards",
+   "source": "Wikipedia (CMA Awards)",
+   "passage": "60th Annual Country Music Association Awards",
+   "deep": "https://en.wikipedia.org/wiki/60th_Annual_Country_Music_Association_Awards#:~:text=60th%20Annual%20Country%20Music%20Association%20Awards"
+  },
+  {
+   "n": 63,
+   "where": "Dates to know, item 2",
+   "claim": "at Bridgestone Arena in Nashville",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/60th_Annual_Country_Music_Association_Awards",
+   "source": "Wikipedia (CMA Awards)",
+   "passage": "at Bridgestone Arena in Nashville, Tennessee",
+   "deep": "https://en.wikipedia.org/wiki/60th_Annual_Country_Music_Association_Awards#:~:text=at%20Bridgestone%20Arena%20in%20Nashville%2C%20Tennessee"
+  },
+  {
+   "n": 64,
+   "where": "Dates to know, item 2",
+   "claim": "on ABC and Disney+",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/60th_Annual_Country_Music_Association_Awards",
+   "source": "Wikipedia (CMA Awards)",
+   "passage": "broadcast coverage on \"ABC, Disney+\"",
+   "deep": "https://en.wikipedia.org/wiki/60th_Annual_Country_Music_Association_Awards#:~:text=broadcast%20coverage%20on%20%22ABC%2C%20Disney%2B%22"
+  },
+  {
+   "n": 65,
+   "where": "Dates to know, item 2",
+   "claim": "with Lainey Wilson hosting for a third straight year",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/60th_Annual_Country_Music_Association_Awards",
+   "source": "Wikipedia (CMA Awards)",
+   "passage": "\"Lainey Wilson will return as host for the third consecutive year.\"",
+   "deep": "https://en.wikipedia.org/wiki/60th_Annual_Country_Music_Association_Awards#:~:text=%22Lainey%20Wilson%20will%20return%20as%20host%20for%20the"
+  },
+  {
+   "n": 66,
+   "where": "Dates to know, item 2",
+   "claim": "Ella Langley, whose \"Choosin' Texas\" topped the Hot 100 dated Nov. 7",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2026",
+   "source": "Wikipedia (Hot 100 number ones)",
+   "passage": "November 7, 2026: \"Choosin' Texas\" — Ella Langley",
+   "deep": "https://en.wikipedia.org/wiki/List_of_Billboard_Hot_100_number_ones_of_2026#:~:text=November%207%2C%202026%3A%20%22Choosin%27%20Texas%22%20%E2%80%94%20Ella%20Langley"
+  },
+  {
+   "n": 67,
+   "where": "Dates to know, item 2",
+   "claim": "leads with nine nominations",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/60th_Annual_Country_Music_Association_Awards",
+   "source": "Wikipedia (CMA Awards)",
+   "passage": "Ella Langley leads with nine nominations",
+   "deep": "https://en.wikipedia.org/wiki/60th_Annual_Country_Music_Association_Awards#:~:text=Ella%20Langley%20leads%20with%20nine%20nominations"
+  },
+  {
+   "n": 68,
+   "where": "Dates to know, item 3",
+   "claim": "Thu., Nov. 19 — Grand Theft Auto VI",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+   "source": "Wikipedia (Grand Theft Auto VI)",
+   "passage": "November 19, 2026 (a Thursday)",
+   "deep": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI#:~:text=November%2019%2C%202026%20%28a%20Thursday%29"
+  },
+  {
+   "n": 69,
+   "where": "Dates to know, item 3",
+   "claim": "Rockstar's scheduled release for PlayStation 5 and Xbox Series X/S",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+   "source": "Wikipedia (Grand Theft Auto VI)",
+   "passage": "November 19, 2026, for PlayStation 5 and Xbox Series X/S; no further delay reported in 2026",
+   "deep": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI#:~:text=November%2019%2C%202026%2C%20for%20PlayStation%205%20and%20Xbox"
+  },
+  {
+   "n": 70,
+   "where": "Dates to know, item 3",
+   "claim": "the date it set when it delayed the game in November 2025",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+   "source": "Wikipedia (Grand Theft Auto VI)",
+   "passage": "\"In November 2025, Rockstar delayed the game to 19 November 2026 due to additional polishing.\"",
+   "deep": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI#:~:text=%22In%20November%202025%2C%20Rockstar%20delayed%20the%20game%20to"
+  },
+  {
+   "n": 71,
+   "where": "Go to the record, item 1",
+   "claim": "The film page carries the box office records, the Japanese opening and the review roundup, with their sources.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero",
+   "source": "Wikipedia (Godzilla Minus Zero)",
+   "passage": "Box office (Japan opening day, NA opening, IMAX) and critical response sections",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_Zero#:~:text=Box%20office%20%28Japan%20opening%20day%2C%20NA%20opening%2C%20IMAX%29"
+  },
+  {
+   "n": 72,
+   "where": "Go to the record, item 2",
+   "claim": "The list shows week by week how a documentary and then a Japanese monster film reached the top.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States",
+   "source": "Wikipedia (2026 box office number ones)",
+   "passage": "Weekend 44: You Can See Everything; Weekend 45: Godzilla Minus Zero",
+   "deep": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States#:~:text=Weekend%2044%3A%20You%20Can%20See%20Everything%3B%20Weekend%2045%3A"
+  },
+  {
+   "n": 73,
+   "where": "Go to the record, item 3",
+   "claim": "The Minus One page carries the first film's release, box office and Oscar.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Godzilla_Minus_One",
+   "source": "Wikipedia (Godzilla Minus One)",
+   "passage": "Release dates, $57.1 million NA gross and Best Visual Effects win",
+   "deep": "https://en.wikipedia.org/wiki/Godzilla_Minus_One#:~:text=Release%20dates%2C%20%2457.1%20million%20NA%20gross%20and%20Best"
+  }
+ ],
+ "notes": []
+}

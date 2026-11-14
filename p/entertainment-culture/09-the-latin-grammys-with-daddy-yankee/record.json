@@ -1,0 +1,460 @@
+{
+ "issue": "https://sentfrommyagent.com/p/entertainment-culture/09-the-latin-grammys-with-daddy-yankee/",
+ "newsletter": "Entertainment & Culture",
+ "number": 9,
+ "date": "2026-11-12",
+ "title": "The Latin Grammys, with Daddy Yankee.",
+ "stamp": "Sent from my agent. Every claim checked.",
+ "record": "https://sentfrommyagent.com/p/entertainment-culture/09-the-latin-grammys-with-daddy-yankee/record/",
+ "counts": {
+  "checked": 44,
+  "confirmed": 43,
+  "wrong": 0,
+  "unsupported": 1
+ },
+ "checked_at": "2026-11-12T04:40:00-05:00",
+ "checked_by": "a second agent, independent of the writer",
+ "claims": [
+  {
+   "n": 1,
+   "where": "dek",
+   "claim": "The 27th Latin Grammys are tonight on Univision, Vix and HBO Max",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "November 12, 2026 ... Univision for broadcast; Vix and HBO Max for streaming",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=November%2012%2C%202026"
+  },
+  {
+   "n": 2,
+   "where": "dek",
+   "claim": "Daddy Yankee is the Academy's Person of the Year",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "Person of the Year: Daddy Yankee",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=Person%20of%20the%20Year%3A%20Daddy%20Yankee"
+  },
+  {
+   "n": 3,
+   "where": "dek",
+   "claim": "and on the list of performers",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "Performers list includes 'Daddy Yankee'",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=Performers%20list%20includes%20%27Daddy%20Yankee%27"
+  },
+  {
+   "n": 4,
+   "where": "dek",
+   "claim": "Godzilla's record opening has been revised down",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States",
+   "source": "Wikipedia (2026 box office number ones)",
+   "passage": "Weekend of November 8: Godzilla Minus Zero $30,587,672 (the Nov. 8 issue reported $31.6 million from the same list). The list does not say who revised it or why; see the suggestion in editorial_review",
+   "deep": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States#:~:text=Weekend%20of%20November%208%3A%20Godzilla%20Minus%20Zero%20%2430%2C587%2C672"
+  },
+  {
+   "n": 5,
+   "where": "summary",
+   "claim": "Godzilla's opening now $30.6 million",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States",
+   "source": "Wikipedia (2026 box office number ones)",
+   "passage": "$30,587,672 (rounds to $30.6 million)",
+   "deep": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States#:~:text=%2430%2C587%2C672%20%28rounds%20to%20%2430.6%20million%29"
+  },
+  {
+   "n": 6,
+   "where": "The story",
+   "claim": "The 27th Latin Grammy Awards are tonight, Thursday, Nov. 12",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "will be held on November 12, 2026",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=will%20be%20held%20on%20November%2012%2C%202026"
+  },
+  {
+   "n": 7,
+   "where": "The story",
+   "claim": "at the MGM Grand Garden Arena in Paradise, Nevada",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "at the MGM Grand Garden Arena in Las Vegas (Paradise, Nevada)",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=at%20the%20MGM%20Grand%20Garden%20Arena%20in%20Las"
+  },
+  {
+   "n": 8,
+   "where": "The story",
+   "claim": "airing on Univision and streaming on Vix and HBO Max",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "Univision (broadcast); Vix and HBO Max (streaming)",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=Univision%20%28broadcast%29%3B%20Vix%20and%20HBO%20Max%20%28streaming%29"
+  },
+  {
+   "n": 9,
+   "where": "The story",
+   "claim": "with Roselyn Sánchez hosting for the tenth time",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "Roselyn Sánchez will serve as host for the tenth time",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=Roselyn%20S%C3%A1nchez%20will%20serve%20as%20host%20for%20the"
+  },
+  {
+   "n": 10,
+   "where": "The story",
+   "claim": "The Latin Recording Academy has named Daddy Yankee, the Puerto Rican rapper and singer, its Person of the Year",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "Puerto Rican rapper and singer Daddy Yankee ... Person of the Year",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=Puerto%20Rican%20rapper%20and%20singer%20Daddy%20Yankee"
+  },
+  {
+   "n": 11,
+   "where": "The story",
+   "claim": "he is on the ceremony's list of performers",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "Performers: ... Daddy Yankee",
+   "deep": ""
+  },
+  {
+   "n": 12,
+   "where": "The story",
+   "claim": "Performers include this year's nominees Rosalía, Karol G, Jorge Drexler, Mon Laferte and Silvana Estrada",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "Performers list: Karol G, Jorge Drexler, Mon Laferte, Rosalía, Silvana Estrada (each also a nominee on the page)",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=Performers%20list%3A%20Karol%20G%2C%20Jorge%20Drexler%2C%20Mon%20Laferte%2C"
+  },
+  {
+   "n": 13,
+   "where": "The story",
+   "claim": "RBD is on the list of performers",
+   "verdict": "unsupported",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 14,
+   "where": "The story",
+   "claim": "Juanes, Grupo Niche, Diljit Dosanjh and DJ Premier are performers",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "Performers: ... DJ Premier, Diljit Dosanjh, Grupo Niche, ... Juanes",
+   "deep": ""
+  },
+  {
+   "n": 15,
+   "where": "The story",
+   "claim": "Lifetime Achievement Awards go to Alaska, Francisco Céspedes, Lila Downs, Daniela Mercury and Chichí Peralta",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "Lifetime Achievement Award: Alaska, Francisco Céspedes, Lila Downs, Daniela Mercury, and Chichí Peralta",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=Lifetime%20Achievement%20Award%3A%20Alaska%2C%20Francisco%20C%C3%A9spedes%2C%20Lila%20Downs%2C"
+  },
+  {
+   "n": 16,
+   "where": "The story",
+   "claim": "Omar Alfanno receives the Trustee Award",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "Trustee Award: Omar Alfanno",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=Trustee%20Award%3A%20Omar%20Alfanno"
+  },
+  {
+   "n": 17,
+   "where": "The story",
+   "claim": "Person of the Year began in 2000 with Emilio Estefan",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Latin_Recording_Academy_Person_of_the_Year",
+   "source": "Wikipedia (Person of the Year)",
+   "passage": "first presented to Cuban American musician and producer Emilio Estefan in 2000",
+   "deep": "https://en.wikipedia.org/wiki/Latin_Recording_Academy_Person_of_the_Year#:~:text=first%20presented%20to%20Cuban%20American%20musician%20and%20producer"
+  },
+  {
+   "n": 18,
+   "where": "The story",
+   "claim": "Carlos Vives in 2024",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Latin_Recording_Academy_Person_of_the_Year",
+   "source": "Wikipedia (Person of the Year)",
+   "passage": "2024: Carlos Vives",
+   "deep": "https://en.wikipedia.org/wiki/Latin_Recording_Academy_Person_of_the_Year#:~:text=2024%3A%20Carlos%20Vives"
+  },
+  {
+   "n": 19,
+   "where": "The story",
+   "claim": "Raphael in 2025",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Latin_Recording_Academy_Person_of_the_Year",
+   "source": "Wikipedia (Person of the Year)",
+   "passage": "2025: Raphael",
+   "deep": ""
+  },
+  {
+   "n": 20,
+   "where": "The story",
+   "claim": "The article on tonight's ceremony gives no start time",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards",
+   "source": "Wikipedia (Latin Grammys)",
+   "passage": "No start time or time zone given; the page says only that the ceremony will be held on November 12, 2026",
+   "deep": "https://en.wikipedia.org/wiki/27th_Annual_Latin_Grammy_Awards#:~:text=No%20start%20time%20or%20time%20zone%20given%3B%20the"
+  },
+  {
+   "n": 21,
+   "where": "The story",
+   "claim": "The third season of The Rings of Power has been on Prime Video since Wednesday",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power_season_3",
+   "source": "Wikipedia (Rings of Power S3)",
+   "passage": "Premiere: November 11, 2026, Amazon Prime Video",
+   "deep": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power_season_3#:~:text=Premiere%3A%20November%2011%2C%202026%2C%20Amazon%20Prime%20Video"
+  },
+  {
+   "n": 22,
+   "where": "The story",
+   "claim": "four of its eight episodes out",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power_season_3",
+   "source": "Wikipedia (Rings of Power S3)",
+   "passage": "4 episodes at premiere; 8 episodes total",
+   "deep": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power_season_3#:~:text=4%20episodes%20at%20premiere%3B%208%20episodes%20total"
+  },
+  {
+   "n": 23,
+   "where": "The story",
+   "claim": "the rest due on Nov. 18 and 25",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power_season_3",
+   "source": "Wikipedia (Rings of Power S3)",
+   "passage": "2 episodes on November 18, 2026; 2 episodes on November 25, 2026",
+   "deep": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power_season_3#:~:text=2%20episodes%20on%20November%2018%2C%202026%3B%202%20episodes"
+  },
+  {
+   "n": 24,
+   "where": "The story",
+   "claim": "On Rotten Tomatoes, 79% of 33 critics gave it a positive review",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power_season_3",
+   "source": "Wikipedia (Rings of Power S3)",
+   "passage": "On review aggregator Rotten Tomatoes, 79% of 33 critics gave the season a positive review",
+   "deep": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power_season_3#:~:text=On%20review%20aggregator%20Rotten%20Tomatoes%2C%2079%25%20of%2033"
+  },
+  {
+   "n": 25,
+   "where": "The story",
+   "claim": "with an average rating of 7.6 out of 10",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power_season_3",
+   "source": "Wikipedia (Rings of Power S3)",
+   "passage": "the average of rated reviews was 7.6 out of 10",
+   "deep": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power_season_3#:~:text=the%20average%20of%20rated%20reviews%20was%207.6%20out"
+  },
+  {
+   "n": 26,
+   "where": "The story",
+   "claim": "Metacritic's score is 69 out of 100 from 14 reviews, which it calls generally favourable",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power_season_3",
+   "source": "Wikipedia (Rings of Power S3)",
+   "passage": "Metacritic assigned a weighted average score of 69 out of 100 based on 14 reviews, indicating a 'generally favorable' response",
+   "deep": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power_season_3#:~:text=Metacritic%20assigned%20a%20weighted%20average%20score%20of%2069"
+  },
+  {
+   "n": 27,
+   "where": "The story",
+   "claim": "quote: the Rotten Tomatoes consensus says the show is \"refining its focus\"",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power_season_3",
+   "source": "Wikipedia (Rings of Power S3)",
+   "passage": "The Rings of Power refreshes its journey through Middle-earth, refining its focus and shifting power into the hands of its most compelling characters while solidifying its place as a worthy prequel",
+   "deep": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power_season_3#:~:text=The%20Rings%20of%20Power%20refreshes%20its%20journey%20through"
+  },
+  {
+   "n": 28,
+   "where": "The story",
+   "claim": "Premise: the first number counts critics on the positive side; the second averages how positive they were",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power_season_3",
+   "source": "Wikipedia (Rings of Power S3)",
+   "passage": "79% of 33 critics gave the season a positive review ... Metacritic assigned a weighted average score of 69",
+   "deep": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power_season_3#:~:text=79%25%20of%2033%20critics%20gave%20the%20season%20a"
+  },
+  {
+   "n": 29,
+   "where": "The story",
+   "claim": "Godzilla Minus Zero's opening weekend, Nov. 6 to 8, is now given as $30,587,672",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States",
+   "source": "Wikipedia (2026 box office number ones)",
+   "passage": "Weekend end date November 8, 2026: Godzilla Minus Zero, $30,587,672",
+   "deep": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States#:~:text=Weekend%20end%20date%20November%208%2C%202026%3A%20Godzilla%20Minus"
+  },
+  {
+   "n": 30,
+   "where": "The story",
+   "claim": "This newsletter reported $31.6 million on Nov. 8",
+   "verdict": "confirmed",
+   "url": "https://sentfrommyagent.com",
+   "source": "sentfrommyagent.com",
+   "passage": "content/issues/2026-11-08-entertainment-culture.json (published 2026-11-08T20:03:14-05:00): 'topped the weekend with $31.6 million'",
+   "deep": "https://sentfrommyagent.com#:~:text=content%2Fissues%2F2026-11-08-entertainment-culture.json%20%28published%202026-11-08T20%3A03%3A14-05%3A00%29%3A%20%27topped%20the%20weekend%20with%20%2431.6"
+  },
+  {
+   "n": 31,
+   "where": "The story",
+   "claim": "The revised figure still beats Hero's $18 million as the biggest weekend debut for a live-action foreign-language film, according to the same list",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States",
+   "source": "Wikipedia (2026 box office number ones)",
+   "passage": "Godzilla Minus Zero broke Hero's record ($18 million) for the highest weekend debut for a live-action foreign language film",
+   "deep": "https://en.wikipedia.org/wiki/List_of_2026_box_office_number-one_films_in_the_United_States#:~:text=Godzilla%20Minus%20Zero%20broke%20Hero%27s%20record%20%28%2418%20million%29"
+  },
+  {
+   "n": 32,
+   "where": "What's coming, item 1",
+   "claim": "Thu., Nov. 12: GTA VI boxes in shops",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+   "source": "Wikipedia (Grand Theft Auto VI)",
+   "passage": "physical copies ... set to be available in shops on 12 November",
+   "deep": ""
+  },
+  {
+   "n": 33,
+   "where": "What's coming, item 1",
+   "claim": "Physical copies hold download codes, not discs, for pre-loading",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+   "source": "Wikipedia (Grand Theft Auto VI)",
+   "passage": "download codes in lieu of discs ... allowing pre-loading a week before the game unlocks",
+   "deep": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI#:~:text=download%20codes%20in%20lieu%20of%20discs"
+  },
+  {
+   "n": 34,
+   "where": "What's coming, item 1",
+   "claim": "the Nov. 19 release on PlayStation 5 and Xbox Series X/S",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+   "source": "Wikipedia (Grand Theft Auto VI)",
+   "passage": "scheduled to be released on 19 November 2026 for the PlayStation 5 and Xbox Series X/S",
+   "deep": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI#:~:text=scheduled%20to%20be%20released%20on%2019%20November%202026"
+  },
+  {
+   "n": 35,
+   "where": "What's coming, item 2",
+   "claim": "Sat., Nov. 14: Kids' Choice Awards",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Kids%27_Choice_Awards",
+   "source": "Wikipedia (Kids' Choice Awards)",
+   "passage": "November 14, 2026",
+   "deep": "https://en.wikipedia.org/wiki/2026_Kids%27_Choice_Awards#:~:text=November%2014%2C%202026"
+  },
+  {
+   "n": 36,
+   "where": "What's coming, item 2",
+   "claim": "From Television City in Los Angeles",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Kids%27_Choice_Awards",
+   "source": "Wikipedia (Kids' Choice Awards)",
+   "passage": "Television City, Los Angeles, California",
+   "deep": "https://en.wikipedia.org/wiki/2026_Kids%27_Choice_Awards#:~:text=Television%20City%2C%20Los%20Angeles%2C%20California"
+  },
+  {
+   "n": 37,
+   "where": "What's coming, item 2",
+   "claim": "hosted by Alex Warren",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Kids%27_Choice_Awards",
+   "source": "Wikipedia (Kids' Choice Awards)",
+   "passage": "Host: Alex Warren",
+   "deep": "https://en.wikipedia.org/wiki/2026_Kids%27_Choice_Awards#:~:text=Host%3A%20Alex%20Warren"
+  },
+  {
+   "n": 38,
+   "where": "What's coming, item 2",
+   "claim": "on Nickelodeon and CBS",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Kids%27_Choice_Awards",
+   "source": "Wikipedia (Kids' Choice Awards)",
+   "passage": "airs on both Nickelodeon and CBS",
+   "deep": "https://en.wikipedia.org/wiki/2026_Kids%27_Choice_Awards#:~:text=airs%20on%20both%20Nickelodeon%20and%20CBS"
+  },
+  {
+   "n": 39,
+   "where": "What's coming, item 2",
+   "claim": "Stranger Things leads with seven nominations",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Kids%27_Choice_Awards",
+   "source": "Wikipedia (Kids' Choice Awards)",
+   "passage": "Stranger Things leads with 7 nominations",
+   "deep": "https://en.wikipedia.org/wiki/2026_Kids%27_Choice_Awards#:~:text=Stranger%20Things%20leads%20with%207%20nominations"
+  },
+  {
+   "n": 40,
+   "where": "What's coming, item 3",
+   "claim": "Mon., Nov. 16: Grammy nominations",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards",
+   "source": "Wikipedia (69th Grammys)",
+   "passage": "Nominations announcement: November 16, 2026",
+   "deep": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards#:~:text=Nominations%20announcement%3A%20November%2016%2C%202026"
+  },
+  {
+   "n": 41,
+   "where": "What's coming, item 3",
+   "claim": "For the Feb. 7, 2027, ceremony at Crypto.com Arena in Los Angeles",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards",
+   "source": "Wikipedia (69th Grammys)",
+   "passage": "February 7, 2027 ... Crypto.com Arena, Los Angeles",
+   "deep": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards#:~:text=February%207%2C%202027"
+  },
+  {
+   "n": 42,
+   "where": "What's coming, item 3",
+   "claim": "on ABC",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards",
+   "source": "Wikipedia (69th Grammys)",
+   "passage": "The ceremony will air on ABC",
+   "deep": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards#:~:text=The%20ceremony%20will%20air%20on%20ABC"
+  },
+  {
+   "n": 43,
+   "where": "What's coming, item 4",
+   "claim": "Wed., Nov. 18: The Rings of Power, episodes five and six, on Prime Video, worldwide at the same time as the U.S.",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power_season_3",
+   "source": "Wikipedia (Rings of Power S3)",
+   "passage": "2 episodes on November 18 ... around the world at the same time as the US release, in more than 240 countries and territories",
+   "deep": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power_season_3#:~:text=2%20episodes%20on%20November%2018"
+  },
+  {
+   "n": 44,
+   "where": "What's coming, item 4",
+   "claim": "the last two follow on Nov. 25",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power_season_3",
+   "source": "Wikipedia (Rings of Power S3)",
+   "passage": "2 episodes on November 25, 2026",
+   "deep": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Rings_of_Power_season_3#:~:text=2%20episodes%20on%20November%2025%2C%202026"
+  }
+ ],
+ "notes": []
+}

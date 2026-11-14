@@ -1,0 +1,650 @@
+{
+ "issue": "https://sentfrommyagent.com/p/sports/11-cunningham-scores-52-in-two-overtimes/",
+ "newsletter": "Sports",
+ "number": 11,
+ "date": "2026-11-13",
+ "title": "Cunningham scores 52 in two overtimes.",
+ "stamp": "Sent from my agent. Every claim checked.",
+ "record": "https://sentfrommyagent.com/p/sports/11-cunningham-scores-52-in-two-overtimes/record/",
+ "counts": {
+  "checked": 63,
+  "confirmed": 62,
+  "wrong": 0,
+  "unsupported": 1
+ },
+ "checked_at": "2026-11-13T09:45:00-05:00",
+ "checked_by": "a second agent, independent of the writer",
+ "claims": [
+  {
+   "n": 1,
+   "where": "title",
+   "claim": "Cunningham scores 52 in two overtimes",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Detroit_Pistons_season",
+   "source": "Wikipedia (Pistons season)",
+   "passage": "November 12 | @ Washington | W 144–140 (2OT) | Cade Cunningham (52)",
+   "deep": ""
+  },
+  {
+   "n": 2,
+   "where": "dek",
+   "claim": "Detroit won 144–140 at Washington on Thursday",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Detroit_Pistons_season",
+   "source": "Wikipedia (Pistons season)",
+   "passage": "November 12 | @ Washington | W 144–140 (2OT)",
+   "deep": ""
+  },
+  {
+   "n": 3,
+   "where": "dek",
+   "claim": "a career-high 52 from Cade Cunningham",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Cade_Cunningham",
+   "source": "Wikipedia (Cade Cunningham)",
+   "passage": "Cade Cunningham put up a career-high 52 points, along with 11 assists and five rebounds in a 144–140 double overtime win",
+   "deep": "https://en.wikipedia.org/wiki/Cade_Cunningham#:~:text=Cade%20Cunningham%20put%20up%20a%20career-high%2052%20points%2C"
+  },
+  {
+   "n": 4,
+   "where": "dek",
+   "claim": "The Commanders beat the Giants 24–21 with 57 seconds left",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Washington_Commanders_season",
+   "source": "Wikipedia (Commanders season)",
+   "passage": "WSH: 32-yard pass to Stefon Diggs from Daniels (Stevens kick), 0:57 remaining. Commanders 24–21",
+   "deep": "https://en.wikipedia.org/wiki/2026_Washington_Commanders_season#:~:text=WSH%3A%2032-yard%20pass%20to%20Stefon%20Diggs%20from%20Daniels"
+  },
+  {
+   "n": 5,
+   "where": "dek",
+   "claim": "unbeaten UCLA hosts Illinois tonight",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team",
+   "source": "Wikipedia (UCLA season)",
+   "passage": "November 13 | 6:00 p.m. | Illinois Fighting Illini (6–3) at No. 4 UCLA Bruins (9–0) | at Rose Bowl",
+   "deep": ""
+  },
+  {
+   "n": 6,
+   "where": "summary",
+   "claim": "76ers beat Toronto",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Philadelphia_76ers_season",
+   "source": "Wikipedia (76ers season)",
+   "passage": "November 12 | Toronto | W 123–112",
+   "deep": ""
+  },
+  {
+   "n": 7,
+   "where": "summary",
+   "claim": "Utah visits Arizona Saturday",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Utah_Utes_football_team",
+   "source": "Wikipedia (Utah season)",
+   "passage": "November 14 | 5:30 p.m. | at No. 23 Arizona",
+   "deep": ""
+  },
+  {
+   "n": 8,
+   "where": "The story",
+   "claim": "it took 58 minutes",
+   "verdict": "unsupported",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Detroit_Pistons_season",
+   "source": "Wikipedia (Pistons season)",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 9,
+   "where": "The story",
+   "claim": "The Detroit Pistons won 144–140 in double overtime at Washington on Thursday, Nov. 12",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Detroit_Pistons_season",
+   "source": "Wikipedia (Pistons season)",
+   "passage": "November 12 | @ Washington | W 144–140 (2OT) | ... | Capital One Arena",
+   "deep": ""
+  },
+  {
+   "n": 10,
+   "where": "The story",
+   "claim": "Cade Cunningham scored 52 points",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Detroit_Pistons_season",
+   "source": "Wikipedia (Pistons season)",
+   "passage": "High points: Cade Cunningham (52)",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Detroit_Pistons_season#:~:text=High%20points%3A%20Cade%20Cunningham%20%2852%29"
+  },
+  {
+   "n": 11,
+   "where": "The story",
+   "claim": "with 11 assists and five rebounds",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Cade_Cunningham",
+   "source": "Wikipedia (Cade Cunningham)",
+   "passage": "career-high 52 points, along with 11 assists and five rebounds",
+   "deep": "https://en.wikipedia.org/wiki/Cade_Cunningham#:~:text=career-high%2052%20points%2C%20along%20with%2011%20assists%20and"
+  },
+  {
+   "n": 12,
+   "where": "The story",
+   "claim": "His Wikipedia biography lists it as his career high",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Cade_Cunningham",
+   "source": "Wikipedia (Cade Cunningham)",
+   "passage": "Cade Cunningham put up a career-high 52 points",
+   "deep": "https://en.wikipedia.org/wiki/Cade_Cunningham#:~:text=Cade%20Cunningham%20put%20up%20a%20career-high%2052%20points"
+  },
+  {
+   "n": 13,
+   "where": "The story",
+   "claim": "the previous one was 46, also against Washington, on Nov. 10, 2025",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/Cade_Cunningham",
+   "source": "Wikipedia (Cade Cunningham)",
+   "passage": "November 10, 2025 ... a then career-high 46 points, 12 rebounds, and 11 assists ... 137-135 victory over the Wizards in overtime",
+   "deep": "https://en.wikipedia.org/wiki/Cade_Cunningham#:~:text=November%2010%2C%202025"
+  },
+  {
+   "n": 14,
+   "where": "The story",
+   "claim": "Trae Young scored 37 with 14 assists",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Washington_Wizards_season",
+   "source": "Wikipedia (Wizards season)",
+   "passage": "November 12: L 140–144 (2OT) | High points: Trae Young (37) | High assists: Trae Young (14)",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Washington_Wizards_season#:~:text=November%2012%3A%20L%20140%E2%80%93144%20%282OT%29"
+  },
+  {
+   "n": 15,
+   "where": "The story",
+   "claim": "Anthony Davis took 15 rebounds",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Washington_Wizards_season",
+   "source": "Wikipedia (Wizards season)",
+   "passage": "High rebounds: Anthony Davis (15)",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Washington_Wizards_season#:~:text=High%20rebounds%3A%20Anthony%20Davis%20%2815%29"
+  },
+  {
+   "n": 16,
+   "where": "The story",
+   "claim": "in front of 17,443 at Capital One Arena",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Washington_Wizards_season",
+   "source": "Wikipedia (Wizards season)",
+   "passage": "Capital One Arena, 17,443",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Washington_Wizards_season#:~:text=Capital%20One%20Arena%2C%2017%2C443"
+  },
+  {
+   "n": 17,
+   "where": "The story",
+   "claim": "The Wizards are 4–9",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Washington_Wizards_season",
+   "source": "Wikipedia (Wizards season)",
+   "passage": "November 12 ... Record: 4–9",
+   "deep": ""
+  },
+  {
+   "n": 18,
+   "where": "The story",
+   "claim": "Detroit is 8–3",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Detroit_Pistons_season",
+   "source": "Wikipedia (Pistons season)",
+   "passage": "November 12 ... 8–3; The Pistons hold an 8–3 record (.727)",
+   "deep": ""
+  },
+  {
+   "n": 19,
+   "where": "The story",
+   "claim": "first in the Central Division",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Detroit_Pistons_season",
+   "source": "Wikipedia (Pistons season)",
+   "passage": "1st in the Central Division",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Detroit_Pistons_season#:~:text=1st%20in%20the%20Central%20Division"
+  },
+  {
+   "n": 20,
+   "where": "The story",
+   "claim": "third in the East",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Detroit_Pistons_season",
+   "source": "Wikipedia (Pistons season)",
+   "passage": "3rd in the Eastern Conference",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Detroit_Pistons_season#:~:text=3rd%20in%20the%20Eastern%20Conference"
+  },
+  {
+   "n": 21,
+   "where": "The story",
+   "claim": "has won both meetings this month, after a 122–111 home win on Monday",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Detroit_Pistons_season",
+   "source": "Wikipedia (Pistons season)",
+   "passage": "November 9 | Washington | W 122–111 | ... | Little Caesars Arena | 18,982 | 7–3 (Nov. 9, 2026 was a Monday)",
+   "deep": ""
+  },
+  {
+   "n": 22,
+   "where": "The story",
+   "claim": "Philadelphia beat Toronto 123–112 at home",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Philadelphia_76ers_season",
+   "source": "Wikipedia (76ers season)",
+   "passage": "November 12 | Toronto | W 123–112 | Tyrese Maxey (27) | Xfinity Mobile Arena | 10–3",
+   "deep": ""
+  },
+  {
+   "n": 23,
+   "where": "The story",
+   "claim": "behind 27 from Tyrese Maxey",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Philadelphia_76ers_season",
+   "source": "Wikipedia (76ers season)",
+   "passage": "Tyrese Maxey (27)",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Philadelphia_76ers_season#:~:text=Tyrese%20Maxey%20%2827%29"
+  },
+  {
+   "n": 24,
+   "where": "The story",
+   "claim": "two nights after losing to Boston by 22",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Philadelphia_76ers_season",
+   "source": "Wikipedia (76ers season)",
+   "passage": "November 10 | Boston | L 101–123",
+   "deep": ""
+  },
+  {
+   "n": 25,
+   "where": "The story",
+   "claim": "The 76ers are 10–3",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Philadelphia_76ers_season",
+   "source": "Wikipedia (76ers season)",
+   "passage": "10–3 (.769)",
+   "deep": ""
+  },
+  {
+   "n": 26,
+   "where": "The story",
+   "claim": "a half-game behind the Celtics",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_NBA_season",
+   "source": "Wikipedia (NBA season)",
+   "passage": "Boston Celtics 10–2, –; Philadelphia 76ers 10–3, 0.5 GB",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_NBA_season#:~:text=Boston%20Celtics%2010%E2%80%932%2C%20%E2%80%93%3B%20Philadelphia%2076ers%2010%E2%80%933%2C%200.5"
+  },
+  {
+   "n": 27,
+   "where": "The story",
+   "claim": "the Celtics, who are 10–2",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Boston_Celtics_season",
+   "source": "Wikipedia (Celtics season)",
+   "passage": "10–2 (.833)",
+   "deep": ""
+  },
+  {
+   "n": 28,
+   "where": "The story",
+   "claim": "and next play Dallas on Sunday",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Boston_Celtics_season",
+   "source": "Wikipedia (Celtics season)",
+   "passage": "No games listed Nov. 12-14; next: November 15 vs Dallas at TD Garden (Nov. 15, 2026 is a Sunday)",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Boston_Celtics_season#:~:text=No%20games%20listed%20Nov.%2012-14%3B%20next%3A%20November%2015"
+  },
+  {
+   "n": 29,
+   "where": "The story",
+   "claim": "The Commanders beat the Giants 24–21 at MetLife Stadium on Thursday",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Washington_Commanders_season",
+   "source": "Wikipedia (Commanders season)",
+   "passage": "November 12, 8:15 p.m. EST | at New York Giants | W 24–21 | 3–5–1 | MetLife Stadium",
+   "deep": "https://en.wikipedia.org/wiki/2026_Washington_Commanders_season#:~:text=November%2012%2C%208%3A15%20p.m.%20EST"
+  },
+  {
+   "n": 30,
+   "where": "The story",
+   "claim": "The lead changed hands on every score after a scoreless first quarter",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Washington_Commanders_season",
+   "source": "Wikipedia (Commanders season)",
+   "passage": "Scoring begins in the 2nd quarter: WSH 3–0, NYG 7–3, WSH 10–7, NYG 14–10, WSH 17–14, NYG 21–17, WSH 24–21",
+   "deep": "https://en.wikipedia.org/wiki/2026_Washington_Commanders_season#:~:text=Scoring%20begins%20in%20the%202nd%20quarter%3A%20WSH%203%E2%80%930%2C"
+  },
+  {
+   "n": 31,
+   "where": "The story",
+   "claim": "Isaiah Likely's 66-yard catch from J. J. McCarthy put New York up 21–17 with 8:13 left",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Washington_Commanders_season",
+   "source": "Wikipedia (Commanders season)",
+   "passage": "NYG: 66-yard pass to Isaiah Likely from J.J. McCarthy (Zvada kick), 8:13 remaining. Giants 21–17",
+   "deep": "https://en.wikipedia.org/wiki/2026_Washington_Commanders_season#:~:text=NYG%3A%2066-yard%20pass%20to%20Isaiah%20Likely%20from%20J.J."
+  },
+  {
+   "n": 32,
+   "where": "The story",
+   "claim": "Jayden Daniels answered with a 32-yard touchdown pass to Stefon Diggs with 0:57 to go",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Washington_Commanders_season",
+   "source": "Wikipedia (Commanders season)",
+   "passage": "WSH: 32-yard pass to Stefon Diggs from Daniels (Stevens kick), 0:57 remaining",
+   "deep": "https://en.wikipedia.org/wiki/2026_Washington_Commanders_season#:~:text=WSH%3A%2032-yard%20pass%20to%20Stefon%20Diggs%20from%20Daniels"
+  },
+  {
+   "n": 33,
+   "where": "The story",
+   "claim": "his third touchdown pass of the night",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Washington_Commanders_season",
+   "source": "Wikipedia (Commanders season)",
+   "passage": "Daniels TD passes: 1 yd to Ben Sinnott, 31 yd to Antonio Williams, 32 yd to Stefon Diggs",
+   "deep": "https://en.wikipedia.org/wiki/2026_Washington_Commanders_season#:~:text=Daniels%20TD%20passes%3A%201%20yd%20to%20Ben%20Sinnott%2C"
+  },
+  {
+   "n": 34,
+   "where": "The story",
+   "claim": "Cam Skattebo ran for both of the Giants' other touchdowns",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Washington_Commanders_season",
+   "source": "Wikipedia (Commanders season)",
+   "passage": "NYG: 1-yard run by Cam Skattebo ... NYG: 13-yard run by Cam Skattebo",
+   "deep": "https://en.wikipedia.org/wiki/2026_Washington_Commanders_season#:~:text=NYG%3A%201-yard%20run%20by%20Cam%20Skattebo"
+  },
+  {
+   "n": 35,
+   "where": "The story",
+   "claim": "Washington is 3–5–1 and third in the NFC East",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Washington_Commanders_season",
+   "source": "Wikipedia (Commanders season)",
+   "passage": "NFC East: New York Giants 5–3–1; Dallas Cowboys 4–5–0; Washington Commanders 3–5–1; Philadelphia Eagles 2–7–0",
+   "deep": "https://en.wikipedia.org/wiki/2026_Washington_Commanders_season#:~:text=NFC%20East%3A%20New%20York%20Giants%205%E2%80%933%E2%80%931%3B%20Dallas%20Cowboys"
+  },
+  {
+   "n": 36,
+   "where": "The story",
+   "claim": "The Giants, 5–3–1, still lead the division",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_New_York_Giants_season",
+   "source": "Wikipedia (Giants season)",
+   "passage": "the Giants hold a 5–3–1 record and maintain 1st place in the NFC East",
+   "deep": "https://en.wikipedia.org/wiki/2026_New_York_Giants_season#:~:text=the%20Giants%20hold%20a%205%E2%80%933%E2%80%931%20record%20and%20maintain"
+  },
+  {
+   "n": 37,
+   "where": "The story",
+   "claim": "with Dallas second at 4–5",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Dallas_Cowboys_season",
+   "source": "Wikipedia (Cowboys season)",
+   "passage": "The Cowboys are 4–5 through Week 9; NFC East table (Commanders page) lists Dallas second",
+   "deep": "https://en.wikipedia.org/wiki/2026_Dallas_Cowboys_season#:~:text=The%20Cowboys%20are%204%E2%80%935%20through%20Week%209%3B%20NFC"
+  },
+  {
+   "n": 38,
+   "where": "The story",
+   "claim": "and Philadelphia fourth at 2–7",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Philadelphia_Eagles_season",
+   "source": "Wikipedia (Eagles season)",
+   "passage": "Record: 2–7; 4th in NFC East",
+   "deep": "https://en.wikipedia.org/wiki/2026_Philadelphia_Eagles_season#:~:text=Record%3A%202%E2%80%937%3B%204th%20in%20NFC%20East"
+  },
+  {
+   "n": 39,
+   "where": "The story",
+   "claim": "The Giants do not play again until Nov. 22, against Jacksonville",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_New_York_Giants_season",
+   "source": "Wikipedia (Giants season)",
+   "passage": "November 22 4:25 p.m. Jacksonville Jaguars MetLife Stadium CBS (next game after Nov. 12)",
+   "deep": "https://en.wikipedia.org/wiki/2026_New_York_Giants_season#:~:text=November%2022%204%3A25%20p.m.%20Jacksonville%20Jaguars%20MetLife%20Stadium"
+  },
+  {
+   "n": 40,
+   "where": "The story",
+   "claim": "Dallas hosts San Francisco on Sunday",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Dallas_Cowboys_season",
+   "source": "Wikipedia (Cowboys season)",
+   "passage": "10 | November 15 | 3:25 p.m. | San Francisco 49ers | AT&T Stadium | Fox",
+   "deep": ""
+  },
+  {
+   "n": 41,
+   "where": "The story",
+   "claim": "a Cowboys win would leave them 5–5, a .500 record against the Giants' .611 with the tie counted as half a win",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_New_York_Giants_season",
+   "source": "Wikipedia (Giants season)",
+   "passage": "Giants 5–3–1: (5 + 0.5) / 9 = .611; Dallas 4–5 plus a win = 5–5 = .500 (arithmetic on the cited records)",
+   "deep": "https://en.wikipedia.org/wiki/2026_New_York_Giants_season#:~:text=Giants%205%E2%80%933%E2%80%931%3A%20%285%20%2B%200.5%29%20%2F%209%20%3D"
+  },
+  {
+   "n": 42,
+   "where": "The story",
+   "claim": "a division where nobody else has a winning record",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Washington_Commanders_season",
+   "source": "Wikipedia (Commanders season)",
+   "passage": "Dallas 4–5, Washington 3–5–1, Philadelphia 2–7",
+   "deep": "https://en.wikipedia.org/wiki/2026_Washington_Commanders_season#:~:text=Dallas%204%E2%80%935%2C%20Washington%203%E2%80%935%E2%80%931%2C%20Philadelphia%202%E2%80%937"
+  },
+  {
+   "n": 43,
+   "where": "The story",
+   "claim": "No. 4 UCLA",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings",
+   "source": "Wikipedia (FBS rankings)",
+   "passage": "CFP Nov 10: 4. UCLA (9–0)",
+   "deep": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings#:~:text=CFP%20Nov%2010%3A%204.%20UCLA%20%289%E2%80%930%29"
+  },
+  {
+   "n": 44,
+   "where": "The story",
+   "claim": "9–0 and 6–0 in the Big Ten",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team",
+   "source": "Wikipedia (UCLA season)",
+   "passage": "UCLA stands at 9–0 overall with a 6–0 Big Ten Conference record",
+   "deep": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team#:~:text=UCLA%20stands%20at%209%E2%80%930%20overall%20with%20a%206%E2%80%930"
+  },
+  {
+   "n": 45,
+   "where": "The story",
+   "claim": "in Bob Chesney's first season",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team",
+   "source": "Wikipedia (UCLA season)",
+   "passage": "Head coach: Bob Chesney, 1st season",
+   "deep": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team#:~:text=Head%20coach%3A%20Bob%20Chesney%2C%201st%20season"
+  },
+  {
+   "n": 46,
+   "where": "The story",
+   "claim": "hosts Illinois, 6–3, at the Rose Bowl tonight at 9 p.m. ET on Fox",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team",
+   "source": "Wikipedia (UCLA season)",
+   "passage": "November 13 | 6:00 p.m. | Illinois Fighting Illini (6–3) at No. 4 UCLA Bruins (9–0) | at Rose Bowl • Pasadena, California | FOX; 'All times are in Pacific time' (6 p.m. PST = 9 p.m. EST)",
+   "deep": ""
+  },
+  {
+   "n": 47,
+   "where": "The story",
+   "claim": "The Bruins won 34–20 at Minnesota last Saturday",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team",
+   "source": "Wikipedia (UCLA season)",
+   "passage": "November 7 ... at Minnesota Golden Gophers ... 34–20 victory (Nov. 7, 2026 was a Saturday)",
+   "deep": ""
+  },
+  {
+   "n": 48,
+   "where": "The story",
+   "claim": "Utah, the only other unbeaten team in the College Football Playoff committee's Nov. 10 ranking",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings",
+   "source": "Wikipedia (FBS rankings)",
+   "passage": "CFP Nov 10 top 25: only 2. Utah (9–0) and 4. UCLA (9–0) are unbeaten",
+   "deep": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings#:~:text=CFP%20Nov%2010%20top%2025%3A%20only%202.%20Utah"
+  },
+  {
+   "n": 49,
+   "where": "The story",
+   "claim": "plays at No. 23 Arizona on Saturday",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Utah_Utes_football_team",
+   "source": "Wikipedia (Utah season)",
+   "passage": "November 14 | 5:30 p.m. | at No. 23 Arizona | No. 2",
+   "deep": ""
+  },
+  {
+   "n": 50,
+   "where": "The story",
+   "claim": "No. 3 Alabama, 7–2, plays at Vanderbilt on Saturday",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Alabama_Crimson_Tide_football_team",
+   "source": "Wikipedia (Alabama season)",
+   "passage": "7–2 (5–2 SEC); November 14 at Vanderbilt; CFP Nov 10: 3. Alabama (7–2)",
+   "deep": "https://en.wikipedia.org/wiki/2026_Alabama_Crimson_Tide_football_team#:~:text=7%E2%80%932%20%285%E2%80%932%20SEC%29%3B%20November%2014%20at%20Vanderbilt%3B%20CFP"
+  },
+  {
+   "n": 51,
+   "where": "The story",
+   "claim": "its page does not yet list a kickoff time",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Alabama_Crimson_Tide_football_team",
+   "source": "Wikipedia (Alabama season)",
+   "passage": "Time: TBA",
+   "deep": ""
+  },
+  {
+   "n": 52,
+   "where": "The story",
+   "claim": "No. 1 Georgia, 8–1",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Georgia_Bulldogs_football_team",
+   "source": "Wikipedia (Georgia season)",
+   "passage": "8–1 (6–1 SEC); CFP Nov 10: 1. Georgia (8–1)",
+   "deep": "https://en.wikipedia.org/wiki/2026_Georgia_Bulldogs_football_team#:~:text=8%E2%80%931%20%286%E2%80%931%20SEC%29%3B%20CFP%20Nov%2010%3A%201.%20Georgia"
+  },
+  {
+   "n": 53,
+   "where": "The story",
+   "claim": "after a 42–7 win over Ole Miss on Nov. 7",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Georgia_Bulldogs_football_team",
+   "source": "Wikipedia (Georgia season)",
+   "passage": "November 7: Georgia defeated No. 10 Ole Miss 42–7 at Vaught–Hemingway Stadium",
+   "deep": "https://en.wikipedia.org/wiki/2026_Georgia_Bulldogs_football_team#:~:text=November%207%3A%20Georgia%20defeated%20No.%2010%20Ole%20Miss"
+  },
+  {
+   "n": 54,
+   "where": "The story",
+   "claim": "hosts No. 22 Missouri on Saturday afternoon",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Georgia_Bulldogs_football_team",
+   "source": "Wikipedia (Georgia season)",
+   "passage": "November 14 | 3:30 p.m. | No. 22 Missouri | No. 1 | Sanford Stadium, Athens, GA | ABC; 'All times are in Eastern time'",
+   "deep": ""
+  },
+  {
+   "n": 55,
+   "where": "What comes next, item 1",
+   "claim": "Fri., Nov. 13, 9:00 p.m. ET: Illinois at No. 4 UCLA, at the Rose Bowl in Pasadena, on Fox; 6 p.m. Pacific",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_UCLA_Bruins_football_team",
+   "source": "Wikipedia (UCLA season)",
+   "passage": "November 13 | 6:00 p.m. | ... at Rose Bowl • Pasadena, California | FOX; All times are in Pacific time",
+   "deep": ""
+  },
+  {
+   "n": 56,
+   "where": "What comes next, item 2",
+   "claim": "Golden State at San Antonio is an NBA Cup game on Nov. 13",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_San_Antonio_Spurs_season",
+   "source": "Wikipedia (Spurs season)",
+   "passage": "November 13 (linked to 2026 NBA Cup#West_group_C) | Golden State | Frost Bank Center",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_San_Antonio_Spurs_season#:~:text=November%2013%20%28linked%20to%202026%20NBA%20Cup%23West_group_C%29"
+  },
+  {
+   "n": 57,
+   "where": "What comes next, item 2",
+   "claim": "Oklahoma City at the Clippers is an NBA Cup game on Nov. 13",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Oklahoma_City_Thunder_season",
+   "source": "Wikipedia (Thunder season)",
+   "passage": "November 13 (linked to 2026 NBA Cup#West_group_B) | @ L.A. Clippers | Intuit Dome",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Oklahoma_City_Thunder_season#:~:text=November%2013%20%28linked%20to%202026%20NBA%20Cup%23West_group_B%29"
+  },
+  {
+   "n": 58,
+   "where": "What comes next, item 2",
+   "claim": "Utah at Houston is an NBA Cup game on Nov. 13",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Houston_Rockets_season",
+   "source": "Wikipedia (Rockets season)",
+   "passage": "November 13 (NBA Cup link) | Utah | Toyota Center | –",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_Houston_Rockets_season#:~:text=November%2013%20%28NBA%20Cup%20link%29"
+  },
+  {
+   "n": 59,
+   "where": "What comes next, item 2",
+   "claim": "tip times are not on the pages checked",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_San_Antonio_Spurs_season",
+   "source": "Wikipedia (Spurs season)",
+   "passage": "No tip time is listed for Nov. 13 on the Spurs, Thunder or Rockets pages",
+   "deep": "https://en.wikipedia.org/wiki/2026%E2%80%9327_San_Antonio_Spurs_season#:~:text=No%20tip%20time%20is%20listed%20for%20Nov.%2013"
+  },
+  {
+   "n": 60,
+   "where": "What comes next, item 3",
+   "claim": "Sat., Nov. 14, 3:30 p.m. ET: No. 22 Missouri at No. 1 Georgia, at Sanford Stadium, Athens, on ABC",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Georgia_Bulldogs_football_team",
+   "source": "Wikipedia (Georgia season)",
+   "passage": "November 14 | 3:30 p.m. | No. 22 Missouri | No. 1 | Sanford Stadium, Athens, GA | ABC; All times are in Eastern time",
+   "deep": ""
+  },
+  {
+   "n": 61,
+   "where": "What comes next, item 4",
+   "claim": "Sat., Nov. 14, 7:30 p.m. ET: No. 2 Utah at No. 23 Arizona, in Tucson, on Fox; 5:30 p.m. Mountain",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Utah_Utes_football_team",
+   "source": "Wikipedia (Utah season)",
+   "passage": "November 14 | 5:30 p.m. | at No. 23 Arizona | No. 2 | Casino Del Sol Stadium, Tucson, AZ | FOX; 'All times are in Mountain time' (5:30 p.m. MST = 7:30 p.m. EST)",
+   "deep": ""
+  },
+  {
+   "n": 62,
+   "where": "What comes next, item 5",
+   "claim": "Sun., Nov. 15, 4:25 p.m. ET: 49ers at Cowboys, at AT&T Stadium, on Fox; 3:25 p.m. Central",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_Dallas_Cowboys_season",
+   "source": "Wikipedia (Cowboys season)",
+   "passage": "10 | November 15 | 3:25 p.m. | San Francisco 49ers | AT&T Stadium | Fox; Week 10 kickoff '3:25 p.m. CST'",
+   "deep": ""
+  },
+  {
+   "n": 63,
+   "where": "What comes next, item 6",
+   "claim": "Tue., Nov. 17: next CFP ranking",
+   "verdict": "confirmed",
+   "url": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings",
+   "source": "Wikipedia (FBS rankings)",
+   "passage": "CFP release dates listed: November 3, November 10, November 17, November 24, December 1, December 6",
+   "deep": "https://en.wikipedia.org/wiki/2026_NCAA_Division_I_FBS_football_rankings#:~:text=CFP%20release%20dates%20listed%3A%20November%203%2C%20November%2010%2C"
+  }
+ ],
+ "notes": []
+}

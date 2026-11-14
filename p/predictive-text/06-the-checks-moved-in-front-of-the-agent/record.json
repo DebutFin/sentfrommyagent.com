@@ -1,0 +1,700 @@
+{
+ "issue": "https://sentfrommyagent.com/p/predictive-text/06-the-checks-moved-in-front-of-the-agent/",
+ "newsletter": "Predictive Text",
+ "number": 6,
+ "date": "2026-11-09",
+ "title": "The checks moved in front of the agent.",
+ "stamp": "Sent from my agent. Every claim checked.",
+ "record": "https://sentfrommyagent.com/p/predictive-text/06-the-checks-moved-in-front-of-the-agent/record/",
+ "counts": {
+  "checked": 68,
+  "confirmed": 62,
+  "wrong": 1,
+  "unsupported": 5
+ },
+ "checked_at": "2026-11-09T10:00:00-05:00",
+ "checked_by": "a second agent, independent of the writer",
+ "claims": [
+  {
+   "n": 1,
+   "where": "dek",
+   "claim": "Anthropic made hooks that inspect Claude's tool calls before they run generally available",
+   "verdict": "confirmed",
+   "url": "https://claude.com/resources/articles/claude-enterprise-security-updates",
+   "source": "Claude (Enterprise security)",
+   "passage": "There are two kinds of hooks, both now generally available ... Pre-tool-call hooks check tool calls in supported Claude products before they run",
+   "deep": "https://claude.com/resources/articles/claude-enterprise-security-updates#:~:text=There%20are%20two%20kinds%20of%20hooks%2C%20both%20now"
+  },
+  {
+   "n": 2,
+   "where": "dek",
+   "claim": "GitHub set a date to block a risky Actions trigger by default",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+   "source": "GitHub changelog (pull_request_target)",
+   "passage": "Starting December 2, 2026, GitHub Actions will block pull_request_target events by default in public repositories",
+   "deep": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2#:~:text=Starting%20December%202%2C%202026%2C%20GitHub%20Actions%20will%20block"
+  },
+  {
+   "n": 3,
+   "where": "dek",
+   "claim": "The first GitHub test is today",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+   "source": "GitHub changelog (pull_request_target)",
+   "passage": "Brownout Schedule (UTC): November 9, 2026: 16:00–18:00; November 16, 2026: 16:00–18:00",
+   "deep": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2#:~:text=Brownout%20Schedule%20%28UTC%29%3A%20November%209%2C%202026%3A%2016%3A00%E2%80%9318%3A00%3B%20November"
+  },
+  {
+   "n": 4,
+   "where": "summary",
+   "claim": "Claude Enterprise added pre-tool-call hooks",
+   "verdict": "confirmed",
+   "url": "https://claude.com/resources/articles/claude-enterprise-security-updates",
+   "source": "Claude (Enterprise security)",
+   "passage": "Pre-tool-call hooks check tool calls in supported Claude products before they run",
+   "deep": "https://claude.com/resources/articles/claude-enterprise-security-updates#:~:text=Pre-tool-call%20hooks%20check%20tool%20calls%20in%20supported%20Claude"
+  },
+  {
+   "n": 5,
+   "where": "summary",
+   "claim": "GitHub will block pull_request_target by default on Dec. 2",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+   "source": "GitHub changelog (pull_request_target)",
+   "passage": "Before permanent enforcement begins on December 2, 2026",
+   "deep": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2#:~:text=Before%20permanent%20enforcement%20begins%20on%20December%202%2C%202026"
+  },
+  {
+   "n": 6,
+   "where": "summary",
+   "claim": "Plus 15-second Gemini video and Conductor's shutdown",
+   "verdict": "confirmed",
+   "url": "https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta",
+   "source": "Conductor (changelog)",
+   "passage": "Conductor Cloud goes read-only on November 13 and shuts down on November 20; (Google) native 15-second video creation",
+   "deep": "https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta#:~:text=Conductor%20Cloud%20goes%20read-only%20on%20November%2013%20and"
+  },
+  {
+   "n": 7,
+   "where": "The week in four, item 1",
+   "claim": "On Nov. 5 Anthropic made prompt hooks and pre-tool-call hooks generally available in Claude Enterprise",
+   "verdict": "confirmed",
+   "url": "https://claude.com/resources/articles/claude-enterprise-security-updates",
+   "source": "Claude (Enterprise security)",
+   "passage": "Publication Date: November 5, 2026 ... There are two kinds of hooks, both now generally available",
+   "deep": "https://claude.com/resources/articles/claude-enterprise-security-updates#:~:text=Publication%20Date%3A%20November%205%2C%202026"
+  },
+  {
+   "n": 8,
+   "where": "The week in four, item 1",
+   "claim": "sending prompts and tool calls to a company's own security tools",
+   "verdict": "confirmed",
+   "url": "https://claude.com/resources/articles/claude-enterprise-security-updates",
+   "source": "Claude (Enterprise security)",
+   "passage": "Inference hooks connect Claude to the data security tools your organization already uses, so your data loss prevention (DLP) and security policies can apply to prompts and tool calls as people work",
+   "deep": "https://claude.com/resources/articles/claude-enterprise-security-updates#:~:text=Inference%20hooks%20connect%20Claude%20to%20the%20data%20security"
+  },
+  {
+   "n": 9,
+   "where": "The week in four, item 2",
+   "claim": "GitHub said on Nov. 2",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+   "source": "GitHub changelog (pull_request_target)",
+   "passage": "Date: November 2, 2026",
+   "deep": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2#:~:text=Date%3A%20November%202%2C%202026"
+  },
+  {
+   "n": 10,
+   "where": "The week in four, item 2",
+   "claim": "from Dec. 2 Actions will block pull_request_target events by default in public repositories",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+   "source": "GitHub changelog (pull_request_target)",
+   "passage": "Starting December 2, 2026, GitHub Actions will block pull_request_target events by default in public repositories",
+   "deep": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2#:~:text=Starting%20December%202%2C%202026%2C%20GitHub%20Actions%20will%20block"
+  },
+  {
+   "n": 11,
+   "where": "The week in four, item 2",
+   "claim": "because the trigger can expose secrets to untrusted code",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+   "source": "GitHub changelog (pull_request_target)",
+   "passage": "pull_request_target runs in the context of the base repository and can access its secrets. If a workflow executes untrusted code from a fork, that code could compromise your pipeline or steal secrets",
+   "deep": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2#:~:text=pull_request_target%20runs%20in%20the%20context%20of%20the%20base"
+  },
+  {
+   "n": 12,
+   "where": "The week in four, item 3",
+   "claim": "Google released Gemini Omni 1.2 Flash on Nov. 5: clips of up to 15 seconds",
+   "verdict": "confirmed",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+   "source": "Google (Omni 1.2 Flash)",
+   "passage": "Published November 5, 2026 ... in one-second increments from 3 to 15 seconds",
+   "deep": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/#:~:text=Published%20November%205%2C%202026"
+  },
+  {
+   "n": 13,
+   "where": "The week in four, item 3",
+   "claim": "$0.07 per second for 720p through the API",
+   "verdict": "confirmed",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+   "source": "Google (Omni 1.2 Flash)",
+   "passage": "available at $0.07 per second for 720p video (Gemini API pricing page: 'approximately $0.07 per second')",
+   "deep": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/#:~:text=available%20at%20%240.07%20per%20second%20for%20720p%20video"
+  },
+  {
+   "n": 14,
+   "where": "The week in four, item 3",
+   "claim": "three free clips a month in Google Vids",
+   "verdict": "confirmed",
+   "url": "https://blog.google/products-and-platforms/products/workspace/omni-1-2-flash-google-vids/",
+   "source": "Google (Vids)",
+   "passage": "can generate up to three 15-second videos per month in Vids at no cost",
+   "deep": "https://blog.google/products-and-platforms/products/workspace/omni-1-2-flash-google-vids/#:~:text=can%20generate%20up%20to%20three%2015-second%20videos%20per"
+  },
+  {
+   "n": 15,
+   "where": "The week in four, item 4",
+   "claim": "Conductor, an app for running coding agents side by side",
+   "verdict": "unsupported",
+   "url": "https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta",
+   "source": "Conductor (changelog)",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 16,
+   "where": "The week in four, item 4",
+   "claim": "said on Nov. 4 it is joining Meta",
+   "verdict": "confirmed",
+   "url": "https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta",
+   "source": "Conductor (changelog)",
+   "passage": "November 4, 2026 ... Conductor is joining Meta",
+   "deep": "https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta#:~:text=November%204%2C%202026"
+  },
+  {
+   "n": 17,
+   "where": "The week in four, item 4",
+   "claim": "Its cloud service goes read-only on Nov. 13 and shuts down on Nov. 20",
+   "verdict": "confirmed",
+   "url": "https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta",
+   "source": "Conductor (changelog)",
+   "passage": "Conductor Cloud goes read-only on November 13 and shuts down on November 20",
+   "deep": "https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta#:~:text=Conductor%20Cloud%20goes%20read-only%20on%20November%2013%20and"
+  },
+  {
+   "n": 18,
+   "where": "The story",
+   "claim": "Anthropic's Nov. 5 update to Claude Enterprise is aimed at security teams",
+   "verdict": "confirmed",
+   "url": "https://claude.com/resources/articles/claude-enterprise-security-updates",
+   "source": "Claude (Enterprise security)",
+   "passage": "Title: More visibility and control over Claude Enterprise for security teams (November 5, 2026)",
+   "deep": "https://claude.com/resources/articles/claude-enterprise-security-updates#:~:text=Title%3A%20More%20visibility%20and%20control%20over%20Claude%20Enterprise"
+  },
+  {
+   "n": 19,
+   "where": "The story",
+   "claim": "inference hooks, now generally available, which connect Claude to the data-loss-prevention and security tools a company already runs",
+   "verdict": "confirmed",
+   "url": "https://claude.com/resources/articles/claude-enterprise-security-updates",
+   "source": "Claude (Enterprise security)",
+   "passage": "Inference hooks connect Claude to the data security tools your organization already uses, so your data loss prevention (DLP) and security policies can apply",
+   "deep": "https://claude.com/resources/articles/claude-enterprise-security-updates#:~:text=Inference%20hooks%20connect%20Claude%20to%20the%20data%20security"
+  },
+  {
+   "n": 20,
+   "where": "The story",
+   "claim": "Prompt hooks send prompts from supported Claude products to that tool for a check",
+   "verdict": "confirmed",
+   "url": "https://claude.com/resources/articles/claude-enterprise-security-updates",
+   "source": "Claude (Enterprise security)",
+   "passage": "Prompt hooks send prompts from supported Claude products to your security tool for a check",
+   "deep": "https://claude.com/resources/articles/claude-enterprise-security-updates#:~:text=Prompt%20hooks%20send%20prompts%20from%20supported%20Claude%20products"
+  },
+  {
+   "n": 21,
+   "where": "The story",
+   "claim": "Pre-tool-call hooks check tool calls before they run",
+   "verdict": "confirmed",
+   "url": "https://claude.com/resources/articles/claude-enterprise-security-updates",
+   "source": "Claude (Enterprise security)",
+   "passage": "Pre-tool-call hooks check tool calls in supported Claude products before they run",
+   "deep": "https://claude.com/resources/articles/claude-enterprise-security-updates#:~:text=Pre-tool-call%20hooks%20check%20tool%20calls%20in%20supported%20Claude"
+  },
+  {
+   "n": 22,
+   "where": "The story",
+   "claim": "The rest of the update is in beta",
+   "verdict": "confirmed",
+   "url": "https://claude.com/resources/articles/claude-enterprise-security-updates",
+   "source": "Claude (Enterprise security)",
+   "passage": "Security Center — Status: Beta; Personal/Outside Account Blocking — Status: Beta; EDR Integration in Cowork — Status: Beta (macOS and Windows)",
+   "deep": "https://claude.com/resources/articles/claude-enterprise-security-updates#:~:text=Security%20Center%20%E2%80%94%20Status%3A%20Beta%3B%20Personal%2FOutside%20Account%20Blocking"
+  },
+  {
+   "n": 23,
+   "where": "The story",
+   "claim": "A security center in Organization settings compares a company's settings with Anthropic's recommended configuration",
+   "verdict": "confirmed",
+   "url": "https://claude.com/resources/articles/claude-enterprise-security-updates",
+   "source": "Claude (Enterprise security)",
+   "passage": "Located in Organization settings, it compares settings with Anthropic's recommended configuration",
+   "deep": "https://claude.com/resources/articles/claude-enterprise-security-updates#:~:text=Located%20in%20Organization%20settings%2C%20it%20compares%20settings%20with"
+  },
+  {
+   "n": 24,
+   "where": "The story",
+   "claim": "Admins can block personal and other outside Claude accounts in Claude Desktop on managed computers",
+   "verdict": "confirmed",
+   "url": "https://claude.com/resources/articles/claude-enterprise-security-updates",
+   "source": "Claude (Enterprise security)",
+   "passage": "block personal and other outside Claude accounts in Claude Desktop on managed computers",
+   "deep": "https://claude.com/resources/articles/claude-enterprise-security-updates#:~:text=block%20personal%20and%20other%20outside%20Claude%20accounts%20in"
+  },
+  {
+   "n": 25,
+   "where": "The story",
+   "claim": "companies can run their own endpoint detection sensor inside Cowork's isolated environment",
+   "verdict": "confirmed",
+   "url": "https://claude.com/resources/articles/claude-enterprise-security-updates",
+   "source": "Claude (Enterprise security)",
+   "passage": "The integration runs within Cowork's isolated virtual machine on the user's device",
+   "deep": "https://claude.com/resources/articles/claude-enterprise-security-updates#:~:text=The%20integration%20runs%20within%20Cowork%27s%20isolated%20virtual%20machine"
+  },
+  {
+   "n": 26,
+   "where": "The story",
+   "claim": "in detection mode: the sensors report activity to the security team and don't block it",
+   "verdict": "confirmed",
+   "url": "https://claude.com/resources/articles/claude-enterprise-security-updates",
+   "source": "Claude (Enterprise security)",
+   "passage": "detection mode: they report activity to your security team and don't block it",
+   "deep": "https://claude.com/resources/articles/claude-enterprise-security-updates#:~:text=detection%20mode%3A%20they%20report%20activity%20to%20your%20security"
+  },
+  {
+   "n": 27,
+   "where": "The story",
+   "claim": "On Dec. 2 GitHub Actions will start blocking the pull_request_target trigger by default in public repositories",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+   "source": "GitHub changelog (pull_request_target)",
+   "passage": "Starting December 2, 2026, GitHub Actions will block pull_request_target events by default in public repositories",
+   "deep": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2#:~:text=Starting%20December%202%2C%202026%2C%20GitHub%20Actions%20will%20block"
+  },
+  {
+   "n": 28,
+   "where": "The story",
+   "claim": "unless an Actions event policy explicitly allows it",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+   "source": "GitHub changelog (pull_request_target)",
+   "passage": "explicitly allow pull_request_target in an applicable Actions event policy if your workflows depend on it",
+   "deep": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2#:~:text=explicitly%20allow%20pull_request_target%20in%20an%20applicable%20Actions%20event"
+  },
+  {
+   "n": 29,
+   "where": "The story",
+   "claim": "the trigger runs with the base repository's secrets, so a workflow that executes untrusted code from a fork could compromise the pipeline or steal those secrets",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+   "source": "GitHub changelog (pull_request_target)",
+   "passage": "pull_request_target runs in the context of the base repository and can access its secrets. If a workflow executes untrusted code from a fork, that code could compromise your pipeline or steal secrets",
+   "deep": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2#:~:text=pull_request_target%20runs%20in%20the%20context%20of%20the%20base"
+  },
+  {
+   "n": 30,
+   "where": "The story",
+   "claim": "Private and internal repositories aren't affected",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+   "source": "GitHub changelog (pull_request_target)",
+   "passage": "Private and internal repositories are unaffected",
+   "deep": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2#:~:text=Private%20and%20internal%20repositories%20are%20unaffected"
+  },
+  {
+   "n": 31,
+   "where": "The story",
+   "claim": "two brownouts, today and Nov. 16",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+   "source": "GitHub changelog (pull_request_target)",
+   "passage": "we'll temporarily enforce the default protection during two scheduled brownouts ... November 9, 2026 ... November 16, 2026",
+   "deep": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2#:~:text=we%27ll%20temporarily%20enforce%20the%20default%20protection%20during%20two"
+  },
+  {
+   "n": 32,
+   "where": "The story",
+   "claim": "each from 11 a.m. to 1 p.m. ET",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+   "source": "GitHub changelog (pull_request_target)",
+   "passage": "16:00–18:00 UTC (= 11:00 a.m.–1:00 p.m. EST, UTC-5, after U.S. daylight time ended Nov. 1; same calendar day)",
+   "deep": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2#:~:text=16%3A00%E2%80%9318%3A00%20UTC%20%28%3D%2011%3A00%20a.m.%E2%80%931%3A00%20p.m.%20EST%2C%20UTC-5%2C"
+  },
+  {
+   "n": 33,
+   "where": "The story",
+   "claim": "a pre-tool-call hook can stop a call before it runs",
+   "verdict": "unsupported",
+   "url": "https://claude.com/resources/articles/claude-enterprise-security-updates",
+   "source": "Claude (Enterprise security)",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 34,
+   "where": "The story",
+   "claim": "it uses policies the security team has already written",
+   "verdict": "confirmed",
+   "url": "https://claude.com/resources/articles/claude-enterprise-security-updates",
+   "source": "Claude (Enterprise security)",
+   "passage": "Your team keeps the policies it has already written and applies them to Claude",
+   "deep": "https://claude.com/resources/articles/claude-enterprise-security-updates#:~:text=Your%20team%20keeps%20the%20policies%20it%20has%20already"
+  },
+  {
+   "n": 35,
+   "where": "The story",
+   "claim": "Anthropic's hooks apply to supported Claude products",
+   "verdict": "confirmed",
+   "url": "https://claude.com/resources/articles/claude-enterprise-security-updates",
+   "source": "Claude (Enterprise security)",
+   "passage": "send prompts from supported Claude products ... check tool calls in supported Claude products",
+   "deep": "https://claude.com/resources/articles/claude-enterprise-security-updates#:~:text=send%20prompts%20from%20supported%20Claude%20products"
+  },
+  {
+   "n": 36,
+   "where": "The story",
+   "claim": "its Cowork sensors only report",
+   "verdict": "confirmed",
+   "url": "https://claude.com/resources/articles/claude-enterprise-security-updates",
+   "source": "Claude (Enterprise security)",
+   "passage": "they report activity to your security team and don't block it",
+   "deep": "https://claude.com/resources/articles/claude-enterprise-security-updates#:~:text=they%20report%20activity%20to%20your%20security%20team%20and"
+  },
+  {
+   "n": 37,
+   "where": "The story",
+   "claim": "nothing published last week shows how often the hooks catch a bad call",
+   "verdict": "unsupported",
+   "url": "https://claude.com/resources/articles/claude-enterprise-security-updates",
+   "source": "Claude (Enterprise security)",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 38,
+   "where": "The story",
+   "claim": "GitHub's change covers public repositories and can be switched back on per workflow",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+   "source": "GitHub changelog (pull_request_target)",
+   "passage": "in public repositories ... supports workflow file targeting to allow specific workflows",
+   "deep": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2#:~:text=in%20public%20repositories"
+  },
+  {
+   "n": 39,
+   "where": "The story",
+   "claim": "Conductor runs parallel Claude Code, Codex and Cursor agents in separate workspaces on a Mac",
+   "verdict": "unsupported",
+   "url": "https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta",
+   "source": "Conductor (changelog)",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 40,
+   "where": "The story",
+   "claim": "Its Nov. 4 notice says new users can no longer sign up",
+   "verdict": "confirmed",
+   "url": "https://www.conductor.build/announcement",
+   "source": "Conductor (announcement)",
+   "passage": "New users can no longer sign up for Conductor or download the app",
+   "deep": "https://www.conductor.build/announcement#:~:text=New%20users%20can%20no%20longer%20sign%20up%20for"
+  },
+  {
+   "n": 41,
+   "where": "The story",
+   "claim": "Cloud workspaces go read-only on Nov. 13",
+   "verdict": "confirmed",
+   "url": "https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta",
+   "source": "Conductor (changelog)",
+   "passage": "Conductor Cloud goes read-only on November 13",
+   "deep": "https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta#:~:text=Conductor%20Cloud%20goes%20read-only%20on%20November%2013"
+  },
+  {
+   "n": 42,
+   "where": "The story",
+   "claim": "on Nov. 20 Conductor begins deleting Cloud user data",
+   "verdict": "confirmed",
+   "url": "https://www.conductor.build/announcement",
+   "source": "Conductor (announcement)",
+   "passage": "Nov 20 ... We begin deleting Conductor Cloud user data",
+   "deep": ""
+  },
+  {
+   "n": 43,
+   "where": "The story",
+   "claim": "A workspace moves to a Mac with Transfer to local",
+   "verdict": "confirmed",
+   "url": "https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta",
+   "source": "Conductor (changelog)",
+   "passage": "To move a cloud workspace and its chats to your Mac, right-click it and choose Transfer to local",
+   "deep": "https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta#:~:text=To%20move%20a%20cloud%20workspace%20and%20its%20chats"
+  },
+  {
+   "n": 44,
+   "where": "The story",
+   "claim": "Settings → Account → Export data downloads everything",
+   "verdict": "confirmed",
+   "url": "https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta",
+   "source": "Conductor (changelog)",
+   "passage": "To download all your data, go to Settings → Account → Export data",
+   "deep": "https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta#:~:text=To%20download%20all%20your%20data%2C%20go%20to%20Settings"
+  },
+  {
+   "n": 45,
+   "where": "The story",
+   "claim": "The local app gets new models and critical fixes until early 2027",
+   "verdict": "confirmed",
+   "url": "https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta",
+   "source": "Conductor (changelog)",
+   "passage": "Local Conductor keeps getting new models and critical bug fixes until early 2027",
+   "deep": "https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta#:~:text=Local%20Conductor%20keeps%20getting%20new%20models%20and%20critical"
+  },
+  {
+   "n": 46,
+   "where": "The story",
+   "claim": "Gemini Omni 1.2 Flash makes clips of 3 to 15 seconds",
+   "verdict": "confirmed",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+   "source": "Google (Omni 1.2 Flash)",
+   "passage": "in one-second increments from 3 to 15 seconds",
+   "deep": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/#:~:text=in%20one-second%20increments%20from%203%20to%2015%20seconds"
+  },
+  {
+   "n": 47,
+   "where": "The story",
+   "claim": "up from 10 seconds with Omni 1.1",
+   "verdict": "confirmed",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+   "source": "Google (Omni 1.2 Flash)",
+   "passage": "compared to the previous Omni 1.1's 10-second maximum",
+   "deep": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/#:~:text=compared%20to%20the%20previous%20Omni%201.1%27s%2010-second%20maximum"
+  },
+  {
+   "n": 48,
+   "where": "The story",
+   "claim": "at $0.07 per second for 720p",
+   "verdict": "confirmed",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+   "source": "Google (Omni 1.2 Flash)",
+   "passage": "$0.07 per second for 720p video",
+   "deep": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/#:~:text=%240.07%20per%20second%20for%20720p%20video"
+  },
+  {
+   "n": 49,
+   "where": "The story",
+   "claim": "a 30% cut",
+   "verdict": "confirmed",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+   "source": "Google (Omni 1.2 Flash)",
+   "passage": "We have dropped the price 30% from Gemini Omni 1.1",
+   "deep": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/#:~:text=We%20have%20dropped%20the%20price%2030%25%20from%20Gemini"
+  },
+  {
+   "n": 50,
+   "where": "The story",
+   "claim": "Anyone with a Google account or Workspace subscription can make three 15-second clips a month in Google Vids at no cost",
+   "verdict": "confirmed",
+   "url": "https://blog.google/products-and-platforms/products/workspace/omni-1-2-flash-google-vids/",
+   "source": "Google (Vids)",
+   "passage": "Anyone with a Google account or Google Workspace subscription can generate up to three 15-second videos per month in Vids at no cost",
+   "deep": "https://blog.google/products-and-platforms/products/workspace/omni-1-2-flash-google-vids/#:~:text=Anyone%20with%20a%20Google%20account%20or%20Google%20Workspace"
+  },
+  {
+   "n": 51,
+   "where": "The story",
+   "claim": "Google says every output carries an imperceptible SynthID watermark",
+   "verdict": "confirmed",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+   "source": "Google (Omni 1.2 Flash)",
+   "passage": "Outputs carry an imperceptible SynthID watermark",
+   "deep": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/#:~:text=Outputs%20carry%20an%20imperceptible%20SynthID%20watermark"
+  },
+  {
+   "n": 52,
+   "where": "What to watch, item 1",
+   "claim": "Mon 11/9, 11 a.m. ET: two hours of the pull_request_target block in public repositories",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+   "source": "GitHub changelog (pull_request_target)",
+   "passage": "November 9, 2026: 16:00–18:00 (UTC) ... blocked workflows will fail with error annotations",
+   "deep": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2#:~:text=November%209%2C%202026%3A%2016%3A00%E2%80%9318%3A00%20%28UTC%29"
+  },
+  {
+   "n": 53,
+   "where": "What to watch, item 1",
+   "claim": "Workflows that fail in that window are the ones that need an explicit policy before Dec. 2",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+   "source": "GitHub changelog (pull_request_target)",
+   "passage": "During these windows, blocked workflows will fail with error annotations ... explicitly allow pull_request_target in an applicable Actions event policy if your workflows depend on it",
+   "deep": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2#:~:text=During%20these%20windows%2C%20blocked%20workflows%20will%20fail%20with"
+  },
+  {
+   "n": 54,
+   "where": "What to watch, item 2",
+   "claim": "Thu 11/12, 10:00 a.m. ET: Fed Governor Michael Barr speaks on artificial intelligence and inequality in a virtual conversation",
+   "verdict": "confirmed",
+   "url": "https://www.federalreserve.gov/newsevents/2026-november.htm",
+   "source": "Federal Reserve (calendar)",
+   "passage": "November 12, 10:00 a.m.: Speech - Governor Michael S. Barr, 'Artificial Intelligence and Inequality', A Conversation with Michael S. Barr (virtual)",
+   "deep": "https://www.federalreserve.gov/newsevents/2026-november.htm#:~:text=November%2012%2C%2010%3A00%20a.m.%3A%20Speech%20-%20Governor%20Michael"
+  },
+  {
+   "n": 55,
+   "where": "What to watch, item 2",
+   "claim": "The calendar lists only the title",
+   "verdict": "confirmed",
+   "url": "https://www.federalreserve.gov/newsevents/2026-november.htm",
+   "source": "Federal Reserve (calendar)",
+   "passage": "Entry gives type, speaker, title, host and format only; no abstract",
+   "deep": "https://www.federalreserve.gov/newsevents/2026-november.htm#:~:text=Entry%20gives%20type%2C%20speaker%2C%20title%2C%20host%20and%20format"
+  },
+  {
+   "n": 56,
+   "where": "What to watch, item 3",
+   "claim": "Fri 11/13: from this date cloud workspaces can't be changed",
+   "verdict": "confirmed",
+   "url": "https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta",
+   "source": "Conductor (changelog)",
+   "passage": "Conductor Cloud goes read-only on November 13",
+   "deep": "https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta#:~:text=Conductor%20Cloud%20goes%20read-only%20on%20November%2013"
+  },
+  {
+   "n": 57,
+   "where": "What to watch, item 3",
+   "claim": "before the Nov. 20 shutdown",
+   "verdict": "confirmed",
+   "url": "https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta",
+   "source": "Conductor (changelog)",
+   "passage": "shuts down on November 20",
+   "deep": "https://www.conductor.build/changelog/0.93.0-conductor-is-joining-meta#:~:text=shuts%20down%20on%20November%2020"
+  },
+  {
+   "n": 58,
+   "where": "What to watch, item 4",
+   "claim": "Mon 11/16, 11 a.m. ET: GitHub's second brownout, the last scheduled test before the block becomes permanent on Dec. 2",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+   "source": "GitHub changelog (pull_request_target)",
+   "passage": "November 16, 2026: 16:00–18:00 (UTC); two scheduled brownouts before permanent enforcement begins on December 2, 2026",
+   "deep": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2#:~:text=November%2016%2C%202026%3A%2016%3A00%E2%80%9318%3A00%20%28UTC%29%3B%20two%20scheduled%20brownouts"
+  },
+  {
+   "n": 59,
+   "where": "The checklist, item 1",
+   "claim": "In public repositories, workflows on that trigger will be blocked during today's brownout unless an Actions event policy allows them",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+   "source": "GitHub changelog (pull_request_target)",
+   "passage": "temporarily enforce the default protection during two scheduled brownouts ... explicitly allow pull_request_target in an applicable Actions event policy",
+   "deep": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2#:~:text=temporarily%20enforce%20the%20default%20protection%20during%20two%20scheduled"
+  },
+  {
+   "n": 60,
+   "where": "The checklist, item 1",
+   "claim": "allow only those by workflow file",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+   "source": "GitHub changelog (pull_request_target)",
+   "passage": "workflow file targeting to allow specific workflows",
+   "deep": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2#:~:text=workflow%20file%20targeting%20to%20allow%20specific%20workflows"
+  },
+  {
+   "n": 61,
+   "where": "The checklist, item 3",
+   "claim": "Cowork's EDR sensor runs in detection mode and reports without blocking",
+   "verdict": "confirmed",
+   "url": "https://claude.com/resources/articles/claude-enterprise-security-updates",
+   "source": "Claude (Enterprise security)",
+   "passage": "detection mode: they report activity to your security team and don't block it",
+   "deep": "https://claude.com/resources/articles/claude-enterprise-security-updates#:~:text=detection%20mode%3A%20they%20report%20activity%20to%20your%20security"
+  },
+  {
+   "n": 62,
+   "where": "The checklist, item 4",
+   "claim": "After Nov. 13 it is read-only, and deletion begins on Nov. 20",
+   "verdict": "confirmed",
+   "url": "https://www.conductor.build/announcement",
+   "source": "Conductor (announcement)",
+   "passage": "Nov 13: Cloud workspaces become read-only; Nov 20: ... We begin deleting Conductor Cloud user data",
+   "deep": "https://www.conductor.build/announcement#:~:text=Nov%2013%3A%20Cloud%20workspaces%20become%20read-only%3B%20Nov%2020%3A"
+  },
+  {
+   "n": 63,
+   "where": "The checklist, item 5",
+   "claim": "At $0.07 a second, a 15-second 720p clip is $1.05 per attempt through the API",
+   "verdict": "wrong",
+   "url": "https://aistudio.google.com/docs/pricing",
+   "source": "aistudio.google.com",
+   "passage": "approximately $0.07 per second (~$0.70 for a 10s clip, ~$1.04 for a 15s clip) ... 5,792 tokens per second of 720p video at the $12.00 per 1M tokens standard rate",
+   "deep": "https://aistudio.google.com/docs/pricing#:~:text=approximately%20%240.07%20per%20second%20%28~%240.70%20for%20a%2010s"
+  },
+  {
+   "n": 64,
+   "where": "linkedin post",
+   "claim": "one sends prompts to a company's existing data-loss tools, the other checks tool calls before they run",
+   "verdict": "confirmed",
+   "url": "https://claude.com/resources/articles/claude-enterprise-security-updates",
+   "source": "Claude (Enterprise security)",
+   "passage": "Prompt hooks send prompts from supported Claude products to your security tool for a check. Pre-tool-call hooks check tool calls ... before they run",
+   "deep": "https://claude.com/resources/articles/claude-enterprise-security-updates#:~:text=Prompt%20hooks%20send%20prompts%20from%20supported%20Claude%20products"
+  },
+  {
+   "n": 65,
+   "where": "linkedin post",
+   "claim": "Actions starts blocking pull_request_target in public repositories by default on Dec. 2, because it can hand a fork's untrusted code the repository's secrets",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+   "source": "GitHub changelog (pull_request_target)",
+   "passage": "can access its secrets. If a workflow executes untrusted code from a fork, that code could compromise your pipeline or steal secrets",
+   "deep": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2#:~:text=can%20access%20its%20secrets.%20If%20a%20workflow%20executes"
+  },
+  {
+   "n": 66,
+   "where": "linkedin post",
+   "claim": "Its first two-hour test of the block is today",
+   "verdict": "confirmed",
+   "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+   "source": "GitHub changelog (pull_request_target)",
+   "passage": "November 9, 2026: 16:00–18:00 (UTC)",
+   "deep": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2#:~:text=November%209%2C%202026%3A%2016%3A00%E2%80%9318%3A00%20%28UTC%29"
+  },
+  {
+   "n": 67,
+   "where": "linkedin post",
+   "claim": "no one has published how often the hooks catch a bad call",
+   "verdict": "unsupported",
+   "url": "https://claude.com/resources/articles/claude-enterprise-security-updates",
+   "source": "Claude (Enterprise security)",
+   "passage": "",
+   "deep": ""
+  },
+  {
+   "n": 68,
+   "where": "linkedin post",
+   "claim": "Anthropic's new endpoint sensors only report",
+   "verdict": "confirmed",
+   "url": "https://claude.com/resources/articles/claude-enterprise-security-updates",
+   "source": "Claude (Enterprise security)",
+   "passage": "they report activity to your security team and don't block it",
+   "deep": "https://claude.com/resources/articles/claude-enterprise-security-updates#:~:text=they%20report%20activity%20to%20your%20security%20team%20and"
+  }
+ ],
+ "notes": []
+}
